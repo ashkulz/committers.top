@@ -22,6 +22,32 @@
       </header>
       <section>
 
+        {% if page.type == 'location' %}
+          {% assign location = site.data.locations[page.location] %}
+          <h1>Most active GitHub users in {{location.title}}</h1>
+          <p>
+            This is a list of most active GitHub users in {{location.title}}. Other countries/cities can be found <a href=".">here</a>.
+          </p>
+          <p>
+          <table>
+            <tr>
+              <th>Rank</th>
+              <th>User</th>
+              <th>Name</th>
+            </tr>
+          {% for user in location.users %}
+            <tr>
+              <td>{{user.rank}}.</td>
+              <td><a href="https://github.com/{{user.login}}">{{user.login}}</a></td>
+              <td>{{user.name}}</td>
+            </tr>
+          {% endfor %}
+          </table>
+        </p>
+
+
+        {% endif %}
+
       {{ content }}
 
       </section>
