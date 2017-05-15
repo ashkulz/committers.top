@@ -3,10 +3,43 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
+
+    {% if page.type == 'location' %}
+      {% assign location = site.data.locations[page.location] %}
+      <title>Most active GitHub users in {{location.title}}</title>
+      <meta name="description" content="A list of most active GitHub users in {{location.title}}."/>
+      <meta property="og:description" content="A list of most active GitHub users in {{location.title}}."/>
+      <meta name="twitter:description" content="A list of most active GitHub users in {{location.title}}."/>
+
+      <meta property="og:site_name" content="GitHub Top - Most active GitHub users in {{location.title}}"/>
+      <meta property="og:title" content="GitHub Top - Most active GitHub users in {{location.title}}"/>
+      <meta name="twitter:title" content="GitHub Top - Most active GitHub users in {{location.title}}"/>
+      <meta property="og:url" content="https://lauripiispanen.github.io/github-top/{{location.page}}"/>
+
+    {% else %}
+      <title>Most active GitHub users</title>
+      <meta name="description" content="A list of most active GitHub users in different cities/countries."/>
+      <meta property="og:description" content="A list of most active GitHub users in different cities/countries."/>
+      <meta name="twitter:description" content="A list of most active GitHub users in different cities/countries."/>
+
+      <meta property="og:site_name" content="GitHub Top - Most active GitHub users"/>
+      <meta property="og:title" content="GitHub Top - Most active GitHub users"/>
+      <meta name="twitter:title" content="GitHub Top - Most active GitHub users"/>
+      <meta property="og:url" content="https://lauripiispanen.github.io/github-top/"/>
+
+    {% endif %}
+    <meta name="rating" content="Safe For Kids"/>
+    <meta name="author" content="Lauri Piispanen"/>
+    <meta name="robots" content="index,follow"/>
+    <meta name="robots" content="noodp"/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:creator" content="@lauripiispanen"/>
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
