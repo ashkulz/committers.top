@@ -62,6 +62,16 @@
             This is a list of most active GitHub users in {{location.title}}. Other countries/cities can be found <a href=".">here</a>.
           </p>
           <p>
+            This list is generated with <a href="https://github.com/lauripiispanen/most-active-github-users-counter">this</a> piece of code.
+            The logic is as follows (in pseudocode):
+          </p>
+          <p><pre><code>githubUsers.sort(_.followers)
+           .filter(_.location == '{{location.title}}')
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)</code></pre>
+          </p>
+          <p>
           <table>
             <tr>
               <th>Rank</th>
