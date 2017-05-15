@@ -46,6 +46,23 @@
           {% endfor %}
           </table>
         </p>
+        <h3>Organizations</h3>
+        <p>
+        <table>
+          <tr>
+            <th>Rank</th>
+            <th>Organization</th>
+            <th>Members</th>
+          </tr>
+        {% for org in location.organizations %}
+          <tr>
+            <td>{{org.rank}}.</td>
+            <td><a href="https://github.com/{{org.name}}">{{org.name}}</a></td>
+            <td>{{org.membercount}}</td>
+          </tr>
+        {% endfor %}
+        </table>
+      </p>
 
 
         {% endif %}
