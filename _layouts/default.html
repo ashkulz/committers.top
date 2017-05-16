@@ -76,8 +76,8 @@
             This list is generated with <a href="https://github.com/lauripiispanen/most-active-github-users-counter">this</a> piece of code.
             The logic is as follows (in pseudocode):
           </p>
-          <p><pre><code>githubUsers.sort(_.followers)
-           .filter(_.location == '{{location.title}}')
+          <p><pre><code>githubUsers.sort(_.followers){% if page.location != 'worldwide' %}
+           .filter(_.location == '{{location.title}}') {% endif %}
            .take(1000)
            .sort(_.contributions)
            .take(256)</code></pre>
