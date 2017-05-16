@@ -1,0 +1,4 @@
+---
+type: location
+location: california
+---
