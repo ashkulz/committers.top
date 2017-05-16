@@ -1,8 +1,2094 @@
 page: finland.html
 title: Finland
 users:
+
   - rank: 1
-    name: Lauri Piispanen
-    id: 12345
-    login: lauripiispanen
-    contributions: 1524
+    name: 'Juho Vepsäläinen'
+    login: 'bebraw'
+    id: 166921
+    contributions: 8382
+    company: '@SurviveJS'
+    organizations: 'webpack,antwarjs,survivejs,reactabular'
+
+  - rank: 2
+    name: 'Brylie Christopher Oxley'
+    login: 'brylie'
+    id: 17307
+    contributions: 4873
+    company: 'GNUmedia'
+    organizations: 'p2pu,GeoLibre,Crowducate,openjournals,apinf,meteorcrowd,quaker-tech,wekan,Digipalvelutehdas,meteoris,GeriLife,api-standards'
+
+  - rank: 3
+    name: 'Aarni Koskela'
+    login: 'akx'
+    id: 58669
+    contributions: 4439
+    company: '@valohai '
+    organizations: 'kcsry,6aika,python-babel,wurstfabrik,valohai'
+
+  - rank: 4
+    name: 'Oleg Grenrus'
+    login: 'phadej'
+    id: 51087
+    contributions: 4323
+    company: 'Futurice'
+    organizations: 'igbinary,futurice,baconjs,haskell-infra,jsverify,haskell-servant,haskhel,osakunta'
+
+  - rank: 5
+    name: 'Onni Hakala'
+    login: 'onnimonni'
+    id: 5691777
+    contributions: 3996
+    company: '@wunderkraut'
+    organizations: 'wunderkraut,KeksiLabs'
+
+  - rank: 6
+    name: 'Filip Ginter'
+    login: 'fginter'
+    id: 644401
+    contributions: 3969
+    company: 'University of Turku'
+    organizations: 'TurkuNLP,UniversalDependencies'
+
+  - rank: 7
+    name: 'Thibaud Colas'
+    login: 'thibaudcolas'
+    id: 877585
+    contributions: 3967
+    company: 'Springload'
+    organizations: 'springload,Froggies,Thibau,nodeschool,FlipFlopWeekly,LastMinuteMtp,FatBoyCrew,papers-please,ilokoodi,ouluwebdev,tuilab,wagtail'
+
+  - rank: 8
+    name: 'Ville Saarinen'
+    login: 'vsaarinen'
+    id: 888333
+    contributions: 3431
+    company: '@lucified '
+    organizations: 'Restaurantday-org,sharetribe,lucified'
+
+  - rank: 9
+    name: 'Per Lundberg'
+    login: 'perlun'
+    id: 630613
+    contributions: 3088
+    company: '@ecraft '
+    organizations: 'cefsharp'
+
+  - rank: 10
+    name: 'Ville Korhonen'
+    login: 'ypcs'
+    id: 97568
+    contributions: 2936
+    company: ''
+    organizations: 'avoindata,VihreatDeGrona'
+
+  - rank: 11
+    name: 'Damir Mustafin'
+    login: 'frenchbread'
+    id: 2122679
+    contributions: 2858
+    company: '@apinf '
+    organizations: 'Crowducate,apinf,Digipalvelutehdas,Dipor,codingbad'
+
+  - rank: 12
+    name: 'Tero Teelahti'
+    login: 'teelahti'
+    id: 581565
+    contributions: 2857
+    company: 'Armada Interactive'
+    organizations: ''
+
+  - rank: 13
+    name: 'Matti Savolainen'
+    login: 'Nomon'
+    id: 345450
+    contributions: 2854
+    company: 'Unity Technologies'
+    organizations: 'Applifier'
+
+  - rank: 14
+    name: 'Steven Zhu'
+    login: 'xizzhu'
+    id: 563223
+    contributions: 2843
+    company: ''
+    organizations: ''
+
+  - rank: 15
+    name: 'Leo Lahti'
+    login: 'antagomir'
+    id: 1228382
+    contributions: 2752
+    company: 'Academic'
+    organizations: 'louhos,avoindata,microbiome,okffi-science,rOpenGov,COMHIS'
+
+  - rank: 16
+    name: 'Tatu Tarvainen'
+    login: 'tatut'
+    id: 83725
+    contributions: 2747
+    company: ''
+    organizations: ''
+
+  - rank: 17
+    name: 'Jason Robinson'
+    login: 'jaywink'
+    id: 1174866
+    contributions: 2732
+    company: '@andersinno '
+    organizations: 'sharetodiaspora,andersinno,w3c-social'
+
+  - rank: 18
+    name: 'Hannes Junnila'
+    login: 'hannesj'
+    id: 698100
+    contributions: 2696
+    company: '@netlight '
+    organizations: 'netlight,HSLdevcom'
+
+  - rank: 19
+    name: 'Antti-Jussi Kovalainen'
+    login: 'Darep'
+    id: 218910
+    contributions: 2685
+    company: '@flockler '
+    organizations: 'flockler'
+
+  - rank: 20
+    name: 'Ville Lautanala'
+    login: 'lautis'
+    id: 19264
+    contributions: 2679
+    company: ''
+    organizations: 'nodeta,fog,baconjs'
+
+  - rank: 21
+    name: 'Max'
+    login: 'bodyflex'
+    id: 7894563
+    contributions: 2636
+    company: ''
+    organizations: 'Kanttiinit'
+
+  - rank: 22
+    name: 'Roope Merikukka'
+    login: 'roopemerikukka'
+    id: 1453463
+    contributions: 2616
+    company: 'Bond Creative Agency'
+    organizations: 'asteriskiry,bond-agency'
+
+  - rank: 23
+    name: 'Valtteri Virtanen'
+    login: 'waltsu'
+    id: 1257076
+    contributions: 2578
+    company: 'Flowdock'
+    organizations: ''
+
+  - rank: 24
+    name: 'Jarmo Isotalo'
+    login: 'jamo'
+    id: 1354151
+    contributions: 2558
+    company: ''
+    organizations: 'testmycode,UniversityHelsinkiTKTL,friends-of-rails,rage'
+
+  - rank: 25
+    name: 'Denis Demchenko'
+    login: 'lancedikson'
+    id: 1955931
+    contributions: 2546
+    company: '@videoly '
+    organizations: 'videoly'
+
+  - rank: 26
+    name: 'Lauri Svan'
+    login: 'laurisvan'
+    id: 1669965
+    contributions: 2374
+    company: 'Specsign Ltd'
+    organizations: 'Nextdays'
+
+  - rank: 27
+    name: 'Joni Kanerva'
+    login: 'jonikanerva'
+    id: 679717
+    contributions: 2334
+    company: ''
+    organizations: 'reaktor'
+
+  - rank: 28
+    name: 'Joni Korpi'
+    login: 'jonikorpi'
+    id: 621255
+    contributions: 2322
+    company: 'Vuoro'
+    organizations: 'kiskolabs'
+
+  - rank: 29
+    name: 'Juha Komulainen'
+    login: 'komu'
+    id: 3473
+    contributions: 2279
+    company: '@EvidentSolutions '
+    organizations: 'EvidentSolutions'
+
+  - rank: 30
+    name: 'Matti Jokitulppo'
+    login: 'melonmanchan'
+    id: 6872462
+    contributions: 2238
+    company: ''
+    organizations: ''
+
+  - rank: 31
+    name: 'Marc Galang'
+    login: 'mgalang'
+    id: 209939
+    contributions: 2205
+    company: 'Wunder.io'
+    organizations: 'wunderkraut'
+
+  - rank: 32
+    name: 'Jesse Kaukonen'
+    login: 'SirDifferential'
+    id: 494901
+    contributions: 2184
+    company: 'Delicode Ltd'
+    organizations: 'hacklab-turku'
+
+  - rank: 33
+    name: 'Ari Palo'
+    login: 'aripalo'
+    id: 679146
+    contributions: 2177
+    company: '@almamedia '
+    organizations: ''
+
+  - rank: 34
+    name: 'Teemu Matilainen'
+    login: 'tmatilai'
+    id: 79116
+    contributions: 2163
+    company: 'Reaktor'
+    organizations: 'reaktor,helloworldopen'
+
+  - rank: 35
+    name: 'Juha Paananen'
+    login: 'raimohanska'
+    id: 292964
+    contributions: 2147
+    company: 'Reaktor'
+    organizations: 'reaktor,helloworldopen'
+
+  - rank: 36
+    name: 'Sallar Kaboli'
+    login: 'sallar'
+    id: 768052
+    contributions: 2134
+    company: '@Tieto'
+    organizations: 'smilehouse,ganjoor,buttercup,kesko-dev,cafedev-org'
+
+  - rank: 37
+    name: 'Tulir Asokan'
+    login: 'tulir'
+    id: 4224639
+    contributions: 2100
+    company: 'Maunium'
+    organizations: 'apinf,pvlsil,onuon,maunium'
+
+  - rank: 38
+    name: 'Jari Aarniala'
+    login: 'codeflows'
+    id: 29481
+    contributions: 2046
+    company: '@reaktor '
+    organizations: 'reaktor,embreach'
+
+  - rank: 39
+    name: 'Jaakko Lukkari'
+    login: 'orktes'
+    id: 606347
+    contributions: 2032
+    company: 'Unity Technologies'
+    organizations: 'facebook,UnityTech,Applifier,Everyplay'
+
+  - rank: 40
+    name: 'André Staltz'
+    login: 'staltz'
+    id: 90512
+    contributions: 2017
+    company: ''
+    organizations: 'cyclejs,motorcyclejs,elm-native-ui'
+
+  - rank: 41
+    name: 'Timo Savola'
+    login: 'tsavola'
+    id: 55473
+    contributions: 1991
+    company: 'Ninchat'
+    organizations: 'somia,ninchat'
+
+  - rank: 42
+    name: 'Artur'
+    login: 'Artur-'
+    id: 260340
+    contributions: 1965
+    company: 'Vaadin'
+    organizations: 'vaadin'
+
+  - rank: 43
+    name: 'Eemeli Aro'
+    login: 'eemeli'
+    id: 617000
+    contributions: 1953
+    company: ''
+    organizations: 'Vincit,worldcon75,konopas,messageformat'
+
+  - rank: 44
+    name: 'Steve Kemp'
+    login: 'skx'
+    id: 735291
+    contributions: 1927
+    company: '@BytemarkHosting '
+    organizations: ''
+
+  - rank: 45
+    name: 'Niko Kettunen'
+    login: 'kettuniko'
+    id: 3198138
+    contributions: 1872
+    company: '@reaktor '
+    organizations: 'reaktor'
+
+  - rank: 46
+    name: 'Tarmo Leppänen'
+    login: 'tarlepp'
+    id: 595561
+    contributions: 1871
+    company: 'Protacon Solutions Oy'
+    organizations: 'UniBot,geekcollision,protacon'
+
+  - rank: 47
+    name: 'Marko Klemetti'
+    login: 'mrako'
+    id: 203192
+    contributions: 1850
+    company: 'Eficode Oy, Trail Systems Ltd'
+    organizations: ''
+
+  - rank: 48
+    name: 'Hugo'
+    login: 'hugovk'
+    id: 1324225
+    contributions: 1825
+    company: 'Nord Software'
+    organizations: 'python-pillow,unitedstates,nordsoftware,pylast,mobbler,NaNoGenMo'
+
+  - rank: 49
+    name: 'Lord Daniel Zautner'
+    login: 'dzautner'
+    id: 1667679
+    contributions: 1815
+    company: '@Applifier '
+    organizations: 'Fewbytes'
+
+  - rank: 50
+    name: 'Pete Nykänen'
+    login: 'petetnt'
+    id: 7641760
+    contributions: 1775
+    company: '@motleyagency '
+    organizations: 'adobe,motleyagency,brackets-userland'
+
+  - rank: 51
+    name: 'Jaakko Ojalehto'
+    login: 'Zeikko'
+    id: 444862
+    contributions: 1764
+    company: 'Yleisradio Oy'
+    organizations: 'Yleisradio,nordichackday'
+
+  - rank: 52
+    name: 'Perry Mitchell'
+    login: 'perry-mitchell'
+    id: 3869469
+    contributions: 1748
+    company: ''
+    organizations: 'Kiosked,buttercup,cafedev-org'
+
+  - rank: 53
+    name: 'Niko Kurtti'
+    login: 'n1koo'
+    id: 1556937
+    contributions: 1740
+    company: 'Shopify'
+    organizations: 'Shopify,koodiklinikka,modeemi'
+
+  - rank: 54
+    name: 'Oliver Lillie'
+    login: 'buggedcom'
+    id: 2810
+    contributions: 1727
+    company: '@onlineyouthmanager '
+    organizations: ''
+
+  - rank: 55
+    name: 'Miikka Virtanen'
+    login: 'Dragory'
+    id: 2606411
+    contributions: 1704
+    company: 'Oksidia Oy'
+    organizations: ''
+
+  - rank: 56
+    name: 'Ville Jyrkkä'
+    login: 'jykae'
+    id: 293452
+    contributions: 1697
+    company: ''
+    organizations: 'koodiklinikka,comicweb,meteor-rest,nodenvelope'
+
+  - rank: 57
+    name: 'Joonas Rouhiainen'
+    login: 'rjoonas'
+    id: 1095425
+    contributions: 1687
+    company: '@reaktor'
+    organizations: ''
+
+  - rank: 58
+    name: 'Tommi Laukkanen'
+    login: 'tlaukkanen'
+    id: 65841
+    contributions: 1685
+    company: ''
+    organizations: ''
+
+  - rank: 59
+    name: 'Hien Nguyen'
+    login: 'HienNguyen711'
+    id: 18014965
+    contributions: 1667
+    company: 'Haaga-Helia University of Applied Sciences'
+    organizations: ''
+
+  - rank: 60
+    name: 'Johan Guldmyr'
+    login: 'martbhell'
+    id: 7839019
+    contributions: 1635
+    company: ''
+    organizations: 'CSCfi'
+
+  - rank: 61
+    name: 'Juho Teperi'
+    login: 'Deraen'
+    id: 648087
+    contributions: 1631
+    company: 'Metosin'
+    organizations: 'metosin,reagent-project,boot-clj,cljsjs,clojure-vim'
+
+  - rank: 62
+    name: 'Omid Hezaveh'
+    login: 'omidfi'
+    id: 7697632
+    contributions: 1620
+    company: 'Futurice'
+    organizations: ''
+
+  - rank: 63
+    name: 'Pavel Prokopenko'
+    login: 'propan'
+    id: 1218821
+    contributions: 1609
+    company: ''
+    organizations: 'UnityTech,Applifier,pedestal,wordie'
+
+  - rank: 64
+    name: 'Tero Heino'
+    login: 'whz'
+    id: 701279
+    contributions: 1603
+    company: 'Unity3d'
+    organizations: 'Applifier'
+
+  - rank: 65
+    name: 'Aleksi Juvani'
+    login: 'aleksijuvani'
+    id: 3168386
+    contributions: 1563
+    company: ''
+    organizations: 'loiste-interactive'
+
+  - rank: 66
+    name: 'Mikhail Tatsky'
+    login: 'MikhailTatsky'
+    id: 1744857
+    contributions: 1528
+    company: 'FancyGrid'
+    organizations: ''
+
+  - rank: 67
+    name: 'Asko Soukka'
+    login: 'datakurre'
+    id: 160447
+    contributions: 1475
+    company: 'University of Jyväskylä'
+    organizations: 'plone'
+
+  - rank: 68
+    name: 'Kimmo Brunfeldt'
+    login: 'kimmobrunfeldt'
+    id: 1232405
+    contributions: 1467
+    company: '@futurice'
+    organizations: 'futurice,opensourcedesign,DesignOpen,apex'
+
+  - rank: 69
+    name: 'Veeti Paananen'
+    login: 'veeti'
+    id: 124223
+    contributions: 1462
+    company: ''
+    organizations: 'rojekti'
+
+  - rank: 70
+    name: 'Mikko Koski'
+    login: 'rap1ds'
+    id: 429876
+    contributions: 1459
+    company: '@sharetribe '
+    organizations: 'sharetribe'
+
+  - rank: 71
+    name: 'Rasmus Eskola'
+    login: 'FruitieX'
+    id: 3673134
+    contributions: 1443
+    company: '@futurice'
+    organizations: ''
+
+  - rank: 72
+    name: 'Sakari Lehtonen'
+    login: 'inDigiNeous'
+    id: 1212726
+    contributions: 1436
+    company: 'Geometrify'
+    organizations: ''
+
+  - rank: 73
+    name: 'Artem Yarulin'
+    login: 'artemyarulin'
+    id: 6191712
+    contributions: 1434
+    company: 'Kapteko'
+    organizations: ''
+
+  - rank: 74
+    name: 'Santeri Hiltunen'
+    login: 'Hilzu'
+    id: 969840
+    contributions: 1414
+    company: 'Reaktor'
+    organizations: 'reaktor,JProffa,kcsry,kavi-fi'
+
+  - rank: 75
+    name: 'Guo Yunhe'
+    login: 'guoyunhe'
+    id: 5836790
+    contributions: 1404
+    company: 'Aalto University'
+    organizations: 'santakani'
+
+  - rank: 76
+    name: 'Sami Siren'
+    login: 'siren'
+    id: 3735745
+    contributions: 1396
+    company: 'FooFactory Oy'
+    organizations: 'apache,HSLdevcom,Team2Oy,FooFactoryOy'
+
+  - rank: 77
+    name: 'Niklas Närhinen'
+    login: 'nnarhinen'
+    id: 265438
+    contributions: 1356
+    company: ''
+    organizations: 'flowplayer,turkuagileday'
+
+  - rank: 78
+    name: 'Johannes Sarpola'
+    login: 'johannessarpola'
+    id: 2362122
+    contributions: 1346
+    company: '@ambientiaoy'
+    organizations: ''
+
+  - rank: 79
+    name: 'Boyan Tabakov'
+    login: 'bladealslayer'
+    id: 790743
+    contributions: 1333
+    company: 'Sharetribe'
+    organizations: ''
+
+  - rank: 80
+    name: 'Tommi Reiman'
+    login: 'ikitommi'
+    id: 567532
+    contributions: 1330
+    company: 'Metosin'
+    organizations: 'metosin'
+
+  - rank: 81
+    name: 'Juha Lindstedt'
+    login: 'pakastin'
+    id: 1475902
+    contributions: 1323
+    company: 'Pakastin (=freezer in English)'
+    organizations: 'koodiklinikka,connectingtalents'
+
+  - rank: 82
+    name: 'Oskari Hiltunen'
+    login: 'FelixLoether'
+    id: 221898
+    contributions: 1311
+    company: 'Fast Monkeys'
+    organizations: 'fastmonkeys'
+
+  - rank: 83
+    name: 'Kimmo Puputti'
+    login: 'kpuputti'
+    id: 53923
+    contributions: 1310
+    company: 'Sharetribe'
+    organizations: ''
+
+  - rank: 84
+    name: 'Roman Dunets'
+    login: 'romandunets'
+    id: 6966132
+    contributions: 1301
+    company: 'Elisa'
+    organizations: ''
+
+  - rank: 85
+    name: 'Jari Kolehmainen'
+    login: 'jakolehm'
+    id: 1446224
+    contributions: 1297
+    company: 'Kontena Inc.'
+    organizations: 'kontena'
+
+  - rank: 86
+    name: 'Tuomas Tynkkynen'
+    login: 'dezgeg'
+    id: 579369
+    contributions: 1296
+    company: ''
+    organizations: 'titokone'
+
+  - rank: 87
+    name: 'Juuso Mikkonen'
+    login: 'juusaw'
+    id: 13107558
+    contributions: 1275
+    company: '@almamedia '
+    organizations: ''
+
+  - rank: 88
+    name: 'Lucas Käldström'
+    login: 'luxas'
+    id: 5442475
+    contributions: 1260
+    company: ''
+    organizations: 'kubernetes,rook'
+
+  - rank: 89
+    name: 'John W. Fail'
+    login: 'cenotaph'
+    id: 785941
+    contributions: 1258
+    company: ''
+    organizations: ''
+
+  - rank: 90
+    name: 'Ilmo Euro'
+    login: 'ilmoeuro'
+    id: 1074146
+    contributions: 1176
+    company: 'Otava Folk High School'
+    organizations: 'otavanopisto'
+
+  - rank: 91
+    name: 'Stefan Rimaila'
+    login: 'stuf'
+    id: 363320
+    contributions: 1153
+    company: ''
+    organizations: ''
+
+  - rank: 92
+    name: 'Bela Patkai'
+    login: 'patkai'
+    id: 114941
+    contributions: 1153
+    company: 'Finnovatec Ltd'
+    organizations: 'finnovatec'
+
+  - rank: 93
+    name: 'Esa-Matti Suuronen'
+    login: 'epeli'
+    id: 225712
+    contributions: 1139
+    company: 'Valu Digital Oy'
+    organizations: 'plone,nko2,Instanssi,koodilehto,tftp-go-team'
+
+  - rank: 94
+    name: 'Ville Skyttä'
+    login: 'scop'
+    id: 109152
+    contributions: 1111
+    company: ''
+    organizations: 'libwww-perl'
+
+  - rank: 95
+    name: 'Ilkka Myller'
+    login: 'imyller'
+    id: 1898870
+    contributions: 1109
+    company: ''
+    organizations: 'Ambertec,nodejs,Nodefield'
+
+  - rank: 96
+    name: 'Lauri Mäkinen'
+    login: 'LauriM'
+    id: 79436
+    contributions: 1109
+    company: ''
+    organizations: 'reaktor,EpicGames'
+
+  - rank: 97
+    name: 'Adeel Mujahid'
+    login: 'am11'
+    id: 3840695
+    contributions: 1100
+    company: 'Next Games'
+    organizations: 'sass'
+
+  - rank: 98
+    name: 'Jean-Baptiste Poupon'
+    login: 'faltad'
+    id: 266823
+    contributions: 1082
+    company: '@YousicianGit '
+    organizations: 'sbrk-org'
+
+  - rank: 99
+    name: 'Lauri Raivio'
+    login: 'lraivio'
+    id: 946697
+    contributions: 1073
+    company: 'Fast Monkeys'
+    organizations: 'fastmonkeys'
+
+  - rank: 100
+    name: 'Jaakko Luttinen'
+    login: 'jluttine'
+    id: 2195834
+    contributions: 1068
+    company: '@pandiaoy '
+    organizations: 'bayespy'
+
+  - rank: 101
+    name: 'Pekka Pöyry'
+    login: 'quantus'
+    id: 671419
+    contributions: 1063
+    company: 'Fast Monkeys'
+    organizations: 'fastmonkeys'
+
+  - rank: 102
+    name: 'Lari Hotari'
+    login: 'lhotari'
+    id: 66864
+    contributions: 1063
+    company: '@Zalando Tech'
+    organizations: 'grails,grails-plugins'
+
+  - rank: 103
+    name: 'Jaakko Rinta-Filppula'
+    login: 'tophattom'
+    id: 654307
+    contributions: 1047
+    company: 'Flockler Oy'
+    organizations: ''
+
+  - rank: 104
+    name: 'Christoffer Niska'
+    login: 'crisu83'
+    id: 1044868
+    contributions: 1042
+    company: 'Nord Software'
+    organizations: 'nordsoftware'
+
+  - rank: 105
+    name: 'Jani Anttonen'
+    login: 'JaniAnttonen'
+    id: 502428
+    contributions: 1025
+    company: 'Nordic Venture Family'
+    organizations: 'CodeDistillery'
+
+  - rank: 106
+    name: 'Sampsa Kuronen'
+    login: 'sampsakuronen'
+    id: 1944139
+    contributions: 1024
+    company: '@reaktor '
+    organizations: ''
+
+  - rank: 107
+    name: 'Mikko Porkola'
+    login: 'mporkola'
+    id: 432030
+    contributions: 1018
+    company: 'Wolt'
+    organizations: ''
+
+  - rank: 108
+    name: 'Joni Kähärä'
+    login: 'kahara'
+    id: 28945
+    contributions: 1015
+    company: ''
+    organizations: ''
+
+  - rank: 109
+    name: 'Bruno de Oliveira Abinader'
+    login: 'brunoabinader'
+    id: 76133
+    contributions: 1010
+    company: 'Mapbox'
+    organizations: ''
+
+  - rank: 110
+    name: 'Tuomo Jokimies'
+    login: 'tjokimie'
+    id: 2591167
+    contributions: 1001
+    company: ''
+    organizations: ''
+
+  - rank: 111
+    name: 'Ossi Herrala'
+    login: 'oherrala'
+    id: 89251
+    contributions: 1001
+    company: '@HowNetWorks '
+    organizations: 'ouspg,HowNetWorks'
+
+  - rank: 112
+    name: 'Jyri Kytömäki'
+    login: 'jkytomak'
+    id: 987902
+    contributions: 997
+    company: 'Reaktor'
+    organizations: 'reaktor'
+
+  - rank: 113
+    name: 'Matias Griese'
+    login: 'mahagr'
+    id: 854915
+    contributions: 985
+    company: ''
+    organizations: 'Kunena,getgrav'
+
+  - rank: 114
+    name: 'Vitor Freitas'
+    login: 'vitorfs'
+    id: 1429529
+    contributions: 983
+    company: 'University of Oulu'
+    organizations: 'M3SOulu,pgcc,sibtc'
+
+  - rank: 115
+    name: 'Santtu Pajukanta'
+    login: 'japsu'
+    id: 109397
+    contributions: 983
+    company: 'Leonidas Oy'
+    organizations: 'leonidas,kcsry,tracon,conikuvat,wurstfabrik,tallessa'
+
+  - rank: 116
+    name: 'Ismo Vuorinen'
+    login: 'ivuorinen'
+    id: 11024
+    contributions: 981
+    company: 'SuperHelio Oy @superhelio '
+    organizations: 'superhelio'
+
+  - rank: 117
+    name: 'Ismo Vuorinen'
+    login: 'ivuorinen'
+    id: 11024
+    contributions: 981
+    company: 'SuperHelio Oy @superhelio '
+    organizations: 'superhelio'
+
+  - rank: 118
+    name: 'Juga Paazmaya'
+    login: 'paazmaya'
+    id: 369881
+    contributions: 971
+    company: ''
+    organizations: ''
+
+  - rank: 119
+    name: 'Riipah'
+    login: 'riipah'
+    id: 550886
+    contributions: 957
+    company: ''
+    organizations: 'VocaDB'
+
+  - rank: 120
+    name: 'Teo Hiltunen'
+    login: 'Harcton'
+    id: 4706004
+    contributions: 945
+    company: ''
+    organizations: ''
+
+  - rank: 121
+    name: 'Aapo Talvensaari'
+    login: 'bungle'
+    id: 983257
+    contributions: 933
+    company: '@mashape'
+    organizations: ''
+
+  - rank: 122
+    name: 'Ramon'
+    login: 'jush'
+    id: 691172
+    contributions: 931
+    company: ''
+    organizations: 'AndroidAalto,SportsTrackingTechnologies'
+
+  - rank: 123
+    name: 'Joachim Viide'
+    login: 'jviide'
+    id: 19776768
+    contributions: 926
+    company: '@HowNetWorks'
+    organizations: 'HowNetWorks,scanabc'
+
+  - rank: 124
+    name: 'Sauli Tähkäpää'
+    login: 'Saulis'
+    id: 1039468
+    contributions: 918
+    company: 'Vaadin'
+    organizations: 'vaadin,PolymerElements'
+
+  - rank: 125
+    name: 'Janne Koponen'
+    login: 'tharna'
+    id: 809233
+    contributions: 915
+    company: 'Wunderkraut'
+    organizations: 'wunderkraut'
+
+  - rank: 126
+    name: 'Jaakko Suutarla'
+    login: 'jaakkos'
+    id: 114187
+    contributions: 914
+    company: ''
+    organizations: ''
+
+  - rank: 127
+    name: 'Torsten Rüger'
+    login: 'dancinglightning'
+    id: 142157
+    contributions: 906
+    company: 'Web Dev Camp'
+    organizations: 'rubyclerks,ruby-x,webdev-camp'
+
+  - rank: 128
+    name: 'Petri Koivula'
+    login: 'PKJedi'
+    id: 465797
+    contributions: 905
+    company: 'Fraktio Oy'
+    organizations: 'xi-project,fraktio'
+
+  - rank: 129
+    name: 'Tuomas Räsänen'
+    login: 'tuomasjjrasanen'
+    id: 5660
+    contributions: 891
+    company: 'Opinsys Oy'
+    organizations: 'okffi,koodilehto'
+
+  - rank: 130
+    name: 'Iiro Krankka'
+    login: 'roughike'
+    id: 13744304
+    contributions: 889
+    company: 'Codemate Ltd'
+    organizations: 'CodemateLtd'
+
+  - rank: 131
+    name: 'Georgi Yanev'
+    login: 'jumpalottahigh'
+    id: 4155121
+    contributions: 885
+    company: 'F-Secure'
+    organizations: ''
+
+  - rank: 132
+    name: 'Henri Sivonen'
+    login: 'hsivonen'
+    id: 478856
+    contributions: 878
+    company: '@mozilla'
+    organizations: 'validator,whatwg'
+
+  - rank: 133
+    name: 'Jesse Rosenberger'
+    login: 'abernix'
+    id: 841294
+    contributions: 876
+    company: '@meteor '
+    organizations: 'meteor'
+
+  - rank: 134
+    name: 'Oskar Ehnström'
+    login: 'Ozzee'
+    id: 917061
+    contributions: 873
+    company: 'Futurice Oy'
+    organizations: 'futurice,Teknologforeningen'
+
+  - rank: 135
+    name: 'Aku Kotkavuo'
+    login: 'eagleflo'
+    id: 9784
+    contributions: 863
+    company: '@reaktor '
+    organizations: 'reaktor'
+
+  - rank: 136
+    name: 'Riikka Kalliomäki'
+    login: 'Riimu'
+    id: 434422
+    contributions: 863
+    company: '@smartlyio '
+    organizations: ''
+
+  - rank: 137
+    name: 'Risto Saarelma'
+    login: 'rsaarelm'
+    id: 41840
+    contributions: 861
+    company: ''
+    organizations: ''
+
+  - rank: 138
+    name: 'Eero Anttila'
+    login: 'eeroan'
+    id: 114198
+    contributions: 842
+    company: 'Reaktor Innovations'
+    organizations: 'reaktor'
+
+  - rank: 139
+    name: 'Mathias Fredriksson'
+    login: 'mafredri'
+    id: 147409
+    contributions: 841
+    company: ''
+    organizations: ''
+
+  - rank: 140
+    name: 'Sakari Kapanen'
+    login: 'flannelhead'
+    id: 5001906
+    contributions: 833
+    company: ''
+    organizations: ''
+
+  - rank: 141
+    name: 'Ville Tainio'
+    login: 'Wisheri'
+    id: 3851825
+    contributions: 823
+    company: 'Futurice'
+    organizations: 'futurice'
+
+  - rank: 142
+    name: 'Joshua Strobl'
+    login: 'JoshStrobl'
+    id: 156574
+    contributions: 822
+    company: ''
+    organizations: 'StroblIndustries,solus-project,budgie-desktop'
+
+  - rank: 143
+    name: 'Jarno Elovirta'
+    login: 'jelovirt'
+    id: 52934
+    contributions: 822
+    company: ''
+    organizations: 'dita-ot'
+
+  - rank: 144
+    name: 'LeoTM'
+    login: 'leotm'
+    id: 1881059
+    contributions: 809
+    company: '@rndsquare '
+    organizations: 'rndsquare'
+
+  - rank: 145
+    name: 'Roni Laukkarinen'
+    login: 'ronilaukkarinen'
+    id: 1534150
+    contributions: 803
+    company: '@digitoimistodude '
+    organizations: 'koodiklinikka,digitoimistodude,wp-languages,pulinairc,adminlabs'
+
+  - rank: 146
+    name: 'Mikael Korpela'
+    login: 'simison'
+    id: 87168
+    contributions: 802
+    company: ''
+    organizations: 'Hitchwiki,angular-ui,BeWelcome,opensourcedesign,Nomadwiki,Trustroots,hackercouch'
+
+  - rank: 147
+    name: 'Denzil Ferreira'
+    login: 'denzilferreira'
+    id: 8342829
+    contributions: 800
+    company: 'University of Oulu'
+    organizations: ''
+
+  - rank: 148
+    name: 'Tero Parviainen'
+    login: 'teropa'
+    id: 47968
+    contributions: 800
+    company: '@creativeai '
+    organizations: 'nko,reitti,coderwall-charity,coderwall-mongoose3,clojurecup'
+
+  - rank: 149
+    name: 'Kenneth Blomqvist'
+    login: 'kekeblom'
+    id: 1204635
+    contributions: 797
+    company: ''
+    organizations: ''
+
+  - rank: 150
+    name: 'Jari Voutilainen'
+    login: 'Zharktas'
+    id: 830663
+    contributions: 793
+    company: 'Gofore'
+    organizations: 'ckan,Pervasive,gofore,yhteentoimivuuspalvelut,koodiklinikka'
+
+  - rank: 151
+    name: 'Aleksi Pekkala'
+    login: 'epiphone'
+    id: 1923531
+    contributions: 792
+    company: 'University of Jyväskylä'
+    organizations: '5Kjyu'
+
+  - rank: 152
+    name: 'Vesa Uimonen'
+    login: 'vesauimonen'
+    id: 1443031
+    contributions: 791
+    company: '@fastmonkeys '
+    organizations: 'fastmonkeys'
+
+  - rank: 153
+    name: 'George'
+    login: 'northerneyes'
+    id: 1038904
+    contributions: 789
+    company: '@oppex'
+    organizations: 'toughbyte'
+
+  - rank: 154
+    name: 'Juha Nurmi'
+    login: 'juhanurmi'
+    id: 6936837
+    contributions: 787
+    company: ''
+    organizations: ''
+
+  - rank: 155
+    name: 'John Berry'
+    login: 'jarcane'
+    id: 8036258
+    contributions: 786
+    company: ''
+    organizations: ''
+
+  - rank: 156
+    name: 'Antti Mattila'
+    login: 'anttti'
+    id: 162899
+    contributions: 782
+    company: 'Alupark'
+    organizations: 'futurice'
+
+  - rank: 157
+    name: 'Jari Oksanen'
+    login: 'jarioksa'
+    id: 1432933
+    contributions: 777
+    company: ''
+    organizations: ''
+
+  - rank: 158
+    name: 'Nassor Paulino da Silva'
+    login: 'nassor'
+    id: 244219
+    contributions: 769
+    company: 'Unity'
+    organizations: ''
+
+  - rank: 159
+    name: 'Mikko Hirvonen'
+    login: 'hype-'
+    id: 506220
+    contributions: 765
+    company: 'Fraktio'
+    organizations: 'xi-project,fraktio'
+
+  - rank: 160
+    name: 'Fırat Salgür'
+    login: 'neuro-sys'
+    id: 648622
+    contributions: 765
+    company: ''
+    organizations: ''
+
+  - rank: 161
+    name: 'Leo Nikkilä'
+    login: 'lnikkila'
+    id: 1291143
+    contributions: 764
+    company: '@Boulevard'
+    organizations: 'LeGroup,learning-layers,github-beta,Boulevard'
+
+  - rank: 162
+    name: 'Salvatore Iovene'
+    login: 'siovene'
+    id: 891580
+    contributions: 763
+    company: 'Intel Corporation'
+    organizations: 'otcshare,web-ui-fw'
+
+  - rank: 163
+    name: 'Teemu Heikkilä'
+    login: 'theikkila'
+    id: 608642
+    contributions: 757
+    company: '@emblica @UpCloudLtd '
+    organizations: 'slushhub,UpCloudLtd'
+
+  - rank: 164
+    name: 'Mathieu Tarral'
+    login: 'Wenzel'
+    id: 964610
+    contributions: 749
+    company: ''
+    organizations: ''
+
+  - rank: 165
+    name: 'Henrik Nygren'
+    login: 'nygrenh'
+    id: 1922896
+    contributions: 747
+    company: ''
+    organizations: 'testmycode,friends-of-rails,rage,TeamWhat,FinJam,ohjelmointikurssi,cybersecuritybase'
+
+  - rank: 166
+    name: 'Markus Kauppila'
+    login: 'mkauppila'
+    id: 130797
+    contributions: 745
+    company: 'Futurice'
+    organizations: 'futurice,objcio,Quick'
+
+  - rank: 167
+    name: 'HyeSoo'
+    login: 'flyjwayur'
+    id: 11784820
+    contributions: 741
+    company: 'Metropolia UAS'
+    organizations: 'Rookies-RGSOC2016'
+
+  - rank: 168
+    name: 'Juan Antonio Osorio'
+    login: 'JAORMX'
+    id: 145564
+    contributions: 739
+    company: 'Red Hat'
+    organizations: ''
+
+  - rank: 169
+    name: 'Aki Helin'
+    login: 'aoh'
+    id: 320972
+    contributions: 738
+    company: 'Solita'
+    organizations: 'ouspg'
+
+  - rank: 170
+    name: 'Christian Nikkanen'
+    login: 'k1sul1'
+    id: 2719615
+    contributions: 727
+    company: ''
+    organizations: 'koodiklinikka'
+
+  - rank: 171
+    name: 'Sami Kukkonen'
+    login: 'strax'
+    id: 587213
+    contributions: 722
+    company: '@smartlyio'
+    organizations: ''
+
+  - rank: 172
+    name: 'Pyry-Samuli Lahti'
+    login: 'Pyppe'
+    id: 503168
+    contributions: 720
+    company: 'TrademarkNow'
+    organizations: ''
+
+  - rank: 173
+    name: 'Atte Huhtakangas'
+    login: 'jazmon'
+    id: 3680110
+    contributions: 717
+    company: '@futurice '
+    organizations: 'futurice'
+
+  - rank: 174
+    name: 'Aaro Koskinen'
+    login: 'aakoskin'
+    id: 5613544
+    contributions: 706
+    company: ''
+    organizations: ''
+
+  - rank: 175
+    name: 'Thiago Marcos P. Santos'
+    login: 'tmpsantos'
+    id: 996307
+    contributions: 700
+    company: 'Mapbox'
+    organizations: 'mapbox'
+
+  - rank: 176
+    name: 'Henrik Huttunen'
+    login: 'egaga'
+    id: 138295
+    contributions: 691
+    company: 'Evident Solutions'
+    organizations: 'EvidentSolutions'
+
+  - rank: 177
+    name: 'Matti Tahvonen'
+    login: 'mstahv'
+    id: 1478052
+    contributions: 687
+    company: '@vaadin'
+    organizations: 'vaadin,spring-guides,viritin,VOL3'
+
+  - rank: 178
+    name: 'Kasper Hellström'
+    login: 'X455u'
+    id: 3896558
+    contributions: 680
+    company: ''
+    organizations: 'futurice'
+
+  - rank: 179
+    name: 'Tom Eklöf'
+    login: 'ORBAT'
+    id: 198324
+    contributions: 677
+    company: 'Unity Technologies'
+    organizations: 'UnityTech,Applifier'
+
+  - rank: 180
+    name: 'Jussi Nummelin'
+    login: 'jnummelin'
+    id: 3205505
+    contributions: 677
+    company: 'Kontena Inc.'
+    organizations: ''
+
+  - rank: 181
+    name: 'Julien Bisconti'
+    login: 'veggiemonk'
+    id: 5487021
+    contributions: 676
+    company: 'Unity Technologies Finland'
+    organizations: ''
+
+  - rank: 182
+    name: 'Teemu'
+    login: 'Frozenball'
+    id: 53298
+    contributions: 671
+    company: 'Fast Monkeys'
+    organizations: 'fastmonkeys'
+
+  - rank: 183
+    name: 'Patrik Storm'
+    login: 'stormpat'
+    id: 1650705
+    contributions: 660
+    company: 'Innovoice'
+    organizations: ''
+
+  - rank: 184
+    name: 'Chu Hoang Son'
+    login: 'chuson1996'
+    id: 11288240
+    contributions: 660
+    company: ''
+    organizations: ''
+
+  - rank: 185
+    name: 'Alex Grönholm'
+    login: 'agronholm'
+    id: 130003
+    contributions: 660
+    company: 'Tmi NextDay Solutions'
+    organizations: 'asphalt-framework'
+
+  - rank: 186
+    name: 'Tommi S.E. Laukkanen'
+    login: 'tlaukkan'
+    id: 232774
+    contributions: 659
+    company: ''
+    organizations: ''
+
+  - rank: 187
+    name: 'Niko Antero Salmela'
+    login: 'Babelz'
+    id: 2969137
+    contributions: 658
+    company: ''
+    organizations: ''
+
+  - rank: 188
+    name: 'Osmo Salomaa'
+    login: 'otsaloma'
+    id: 237265
+    contributions: 649
+    company: ''
+    organizations: ''
+
+  - rank: 189
+    name: 'Eetu Mäkelä'
+    login: 'jiemakel'
+    id: 1655186
+    contributions: 649
+    company: 'Aalto University'
+    organizations: ''
+
+  - rank: 190
+    name: 'Eevert Saukkokoski'
+    login: 'Ezku'
+    id: 412022
+    contributions: 641
+    company: ''
+    organizations: 'xi-project,venuu'
+
+  - rank: 191
+    name: 'Minh Son Nguyen'
+    login: 'nguymin4'
+    id: 6953273
+    contributions: 640
+    company: ''
+    organizations: ''
+
+  - rank: 192
+    name: 'Jonas Enlund'
+    login: 'jonase'
+    id: 101023
+    contributions: 636
+    company: '@akvo '
+    organizations: 'clojure,teamweek-org'
+
+  - rank: 193
+    name: 'Richard Lewis'
+    login: 'richrd'
+    id: 3417292
+    contributions: 636
+    company: 'W3 Group'
+    organizations: 'W3GroupFinland,Gosmo,Suplemon,op1hacks'
+
+  - rank: 194
+    name: 'Risto Yrjänä'
+    login: 'ripla'
+    id: 106030
+    contributions: 629
+    company: '@vaadin '
+    organizations: 'vaadin'
+
+  - rank: 195
+    name: 'Andy Shevchenko'
+    login: 'andy-shev'
+    id: 78496
+    contributions: 627
+    company: 'Intel Finland Oy'
+    organizations: ''
+
+  - rank: 196
+    name: 'Oona Räisänen'
+    login: 'windytan'
+    id: 818833
+    contributions: 613
+    company: ''
+    organizations: ''
+
+  - rank: 197
+    name: 'Aki Tuomi'
+    login: 'cmouse'
+    id: 1204643
+    contributions: 609
+    company: 'Dovecot Oy'
+    organizations: 'g-works'
+
+  - rank: 198
+    name: 'Timo Sand'
+    login: 'deiga'
+    id: 27202
+    contributions: 607
+    company: 'Wunderdog'
+    organizations: 'wunderdogsw'
+
+  - rank: 199
+    name: 'pyllyukko'
+    login: 'pyllyukko'
+    id: 1058704
+    contributions: 606
+    company: ''
+    organizations: ''
+
+  - rank: 200
+    name: 'Lasse Öörni'
+    login: 'cadaver'
+    id: 51361
+    contributions: 605
+    company: ''
+    organizations: 'realXtend,urho3d'
+
+  - rank: 201
+    name: 'Sampo Kivistö'
+    login: 'Havunen'
+    id: 2021355
+    contributions: 604
+    company: ''
+    organizations: ''
+
+  - rank: 202
+    name: 'Klaus Dahlén'
+    login: 'nanuuki'
+    id: 233163
+    contributions: 601
+    company: 'Nordic Venture Family'
+    organizations: 'CodeDistillery'
+
+  - rank: 203
+    name: 'Otto Kekäläinen'
+    login: 'ottok'
+    id: 668724
+    contributions: 600
+    company: '@Seravo and @MariaDB '
+    organizations: 'Seravo'
+
+  - rank: 204
+    name: 'Samuli Seppänen'
+    login: 'mattock'
+    id: 1554045
+    contributions: 590
+    company: ''
+    organizations: 'OpenVPN,Puppet-Finland,freight-team'
+
+  - rank: 205
+    name: 'Samuel'
+    login: 'samuelbalcha'
+    id: 567237
+    contributions: 589
+    company: ''
+    organizations: 'DesigningOpenInnovation'
+
+  - rank: 206
+    name: 'Juha Kovanen'
+    login: 'xludx'
+    id: 213489
+    contributions: 589
+    company: '@exportin '
+    organizations: 'shadowproject'
+
+  - rank: 207
+    name: 'Nikolai Kondrashov'
+    login: 'spbnick'
+    id: 549246
+    contributions: 585
+    company: ''
+    organizations: 'Scribery'
+
+  - rank: 208
+    name: 'Jouni Helske'
+    login: 'helske'
+    id: 1560448
+    contributions: 582
+    company: 'University of Jyväskylä'
+    organizations: ''
+
+  - rank: 209
+    name: 'Mikko Junnila'
+    login: 'mikkoj'
+    id: 400747
+    contributions: 558
+    company: 'Arado'
+    organizations: ''
+
+  - rank: 210
+    name: 'Mikko Kaistinen'
+    login: 'Laastine'
+    id: 2429604
+    contributions: 558
+    company: 'Reaktor'
+    organizations: ''
+
+  - rank: 211
+    name: 'Anton Berezin'
+    login: 'gurunars'
+    id: 133691
+    contributions: 558
+    company: 'Nephilim'
+    organizations: ''
+
+  - rank: 212
+    name: 'Jonne Nauha'
+    login: 'jonnenauha'
+    id: 157519
+    contributions: 557
+    company: 'Adminotech'
+    organizations: 'realXtend,Adminotech,mapgets'
+
+  - rank: 213
+    name: ''
+    login: '4shadoww'
+    id: 11137231
+    contributions: 552
+    company: ''
+    organizations: ''
+
+  - rank: 214
+    name: 'Aki Kaivola'
+    login: 'akaivola'
+    id: 1727238
+    contributions: 548
+    company: 'Reaktor Innovations Oy'
+    organizations: 'reaktor'
+
+  - rank: 215
+    name: 'Konstantin Zudov'
+    login: 'zudov'
+    id: 2613966
+    contributions: 544
+    company: ''
+    organizations: 'purescript-contrib,ruHaskell,helsinki-frp,haskhel'
+
+  - rank: 216
+    name: 'Jussi Vaihia'
+    login: 'mixman'
+    id: 157257
+    contributions: 533
+    company: 'Futurice'
+    organizations: 'futurice'
+
+  - rank: 217
+    name: 'Ha-Duong Nguyen'
+    login: 'cmpitg'
+    id: 85649
+    contributions: 533
+    company: ''
+    organizations: 'HaNoiCodingDojo,zalando,BoGoEngine,gokien,zalando-incubator'
+
+  - rank: 218
+    name: 'Matti Lankinen'
+    login: 'milankinen'
+    id: 1080706
+    contributions: 532
+    company: ''
+    organizations: ''
+
+  - rank: 219
+    name: 'Anton Platonov'
+    login: 'platosha'
+    id: 247998
+    contributions: 531
+    company: 'Vaadin'
+    organizations: ''
+
+  - rank: 220
+    name: 'Juha Järvi'
+    login: 'jjrv'
+    id: 778781
+    contributions: 523
+    company: '@charto'
+    organizations: 'HSLdevcom,charto'
+
+  - rank: 221
+    name: 'Tuomas Kareinen'
+    login: 'tkareine'
+    id: 38920
+    contributions: 522
+    company: ''
+    organizations: 'reaktor'
+
+  - rank: 222
+    name: 'Kimmo Lindholm'
+    login: 'kimmoli'
+    id: 4472660
+    contributions: 520
+    company: ''
+    organizations: 'sfdroid'
+
+  - rank: 223
+    name: 'Joakim Runeberg'
+    login: 'eoy'
+    id: 486347
+    contributions: 519
+    company: '@reaktor '
+    organizations: ''
+
+  - rank: 224
+    name: 'Krister Kari'
+    login: 'kristerkari'
+    id: 993108
+    contributions: 518
+    company: ''
+    organizations: ''
+
+  - rank: 225
+    name: 'John Ahlroos'
+    login: 'johndevs'
+    id: 1967917
+    contributions: 514
+    company: 'paf.com'
+    organizations: 'devsoap'
+
+  - rank: 226
+    name: 'Hugo Holmqvist'
+    login: 'MergHQ'
+    id: 5868954
+    contributions: 509
+    company: ''
+    organizations: ''
+
+  - rank: 227
+    name: 'Jonah'
+    login: 'ahvonenj'
+    id: 8504168
+    contributions: 508
+    company: ''
+    organizations: 'EpicGames,NVIDIAGameWorks,Elomatic'
+
+  - rank: 228
+    name: 'Juuso Haavisto'
+    login: 'toldjuuso'
+    id: 1684211
+    contributions: 503
+    company: ''
+    organizations: ''
+
+  - rank: 229
+    name: ''
+    login: 'fergusq'
+    id: 3512480
+    contributions: 503
+    company: ''
+    organizations: ''
+
+  - rank: 230
+    name: 'Miikka Koskinen'
+    login: 'miikka'
+    id: 34607
+    contributions: 499
+    company: '@metosin '
+    organizations: 'metosin,cljsjs,osakunta'
+
+  - rank: 231
+    name: 'Matt Bengston'
+    login: 'bengsfort'
+    id: 6495586
+    contributions: 497
+    company: 'Unity Technologies Finland'
+    organizations: ''
+
+  - rank: 232
+    name: 'Jaakko Manninen'
+    login: 'kschzt'
+    id: 293426
+    contributions: 495
+    company: 'vizor.io'
+    organizations: 'TPOLM'
+
+  - rank: 233
+    name: 'Ilmari Vacklin'
+    login: 'wolverian'
+    id: 42124
+    contributions: 493
+    company: '@reaktor '
+    organizations: 'reaktor'
+
+  - rank: 234
+    name: 'Janne Hietamäki'
+    login: 'jannehietamaki'
+    id: 62515
+    contributions: 493
+    company: ''
+    organizations: ''
+
+  - rank: 235
+    name: 'Guille'
+    login: 'alvarezguille'
+    id: 9820084
+    contributions: 492
+    company: ''
+    organizations: 'vaadin'
+
+  - rank: 236
+    name: 'Ossi Hanhinen'
+    login: 'ohanhi'
+    id: 8436403
+    contributions: 489
+    company: 'Futurice Oy'
+    organizations: 'futurice,elm-native-ui'
+
+  - rank: 237
+    name: 'Jarkko Saltiola'
+    login: 'jasalt'
+    id: 2306521
+    contributions: 486
+    company: 'Saltiola Code'
+    organizations: 'HacklabJKL'
+
+  - rank: 238
+    name: 'Paavo Huhtala'
+    login: 'paavohuhtala'
+    id: 803180
+    contributions: 484
+    company: ''
+    organizations: 'reaktor'
+
+  - rank: 239
+    name: 'Sami Keijonen'
+    login: 'samikeijonen'
+    id: 1820415
+    contributions: 479
+    company: 'Foxnet'
+    organizations: ''
+
+  - rank: 240
+    name: 'Rodion Efremov'
+    login: 'coderodde'
+    id: 1770505
+    contributions: 476
+    company: ''
+    organizations: ''
+
+  - rank: 241
+    name: 'Henri Tuhola'
+    login: 'cheery'
+    id: 1215420
+    contributions: 475
+    company: ''
+    organizations: ''
+
+  - rank: 242
+    name: 'Lauri Ojansivu'
+    login: 'xet7'
+    id: 15545
+    contributions: 472
+    company: ''
+    organizations: 'Secretchronicles,wekan,wefork'
+
+  - rank: 243
+    name: 'Johann Muszynski'
+    login: 'Nelarius'
+    id: 3276684
+    contributions: 466
+    company: '@UmbraSoftware'
+    organizations: ''
+
+  - rank: 244
+    name: 'Mikko Heikkinen'
+    login: 'mikkohei13'
+    id: 403243
+    contributions: 466
+    company: ''
+    organizations: ''
+
+  - rank: 245
+    name: 'Tuomo Venäläinen'
+    login: 'vendu'
+    id: 1221207
+    contributions: 465
+    company: ''
+    organizations: ''
+
+  - rank: 246
+    name: 'Johannes Neumeier'
+    login: 'kontur'
+    id: 1893577
+    contributions: 465
+    company: ''
+    organizations: ''
+
+  - rank: 247
+    name: 'Dmitry Rozhkov'
+    login: 'rojkov'
+    id: 33377
+    contributions: 462
+    company: ''
+    organizations: 'bmwcarit,nemomobile,ostroproject'
+
+  - rank: 248
+    name: 'Anssi Syrjäsalo'
+    login: 'asyrjasalo'
+    id: 555844
+    contributions: 459
+    company: ''
+    organizations: 'jenkinsci,robotframework'
+
+  - rank: 249
+    name: 'Ilkka Seppälä'
+    login: 'iluwatar'
+    id: 582346
+    contributions: 456
+    company: 'Gofore'
+    organizations: 'gofore'
+
+  - rank: 250
+    name: 'Sajjad Hosseini'
+    login: 'Sajjadhosn'
+    id: 6043781
+    contributions: 452
+    company: '@futurice '
+    organizations: 'futurice,lagom-io'
+
+  - rank: 251
+    name: 'Dan Jacob'
+    login: 'danjac'
+    id: 249779
+    contributions: 443
+    company: 'Dan Jacob IT Consulting OY'
+    organizations: ''
+
+  - rank: 252
+    name: 'Matti Pastell'
+    login: 'mpastell'
+    id: 430863
+    contributions: 443
+    company: ''
+    organizations: ''
+
+  - rank: 253
+    name: 'Lauri Piispanen'
+    login: 'lauripiispanen'
+    id: 1215206
+    contributions: 435
+    company: ''
+    organizations: 'reaktor,lolcopter,expressjs,tlntd'
+
+  - rank: 254
+    name: 'Lauri Nevala'
+    login: 'nevalla'
+    id: 455844
+    contributions: 433
+    company: ''
+    organizations: 'kontena'
+
+  - rank: 255
+    name: 'Petri Savolainen'
+    login: 'petri'
+    id: 64672
+    contributions: 430
+    company: ''
+    organizations: 'plone,collective,koodaamo,zopefoundation,beanstalkd'
+
+  - rank: 256
+    name: 'Ari Vuollet'
+    login: 'GoaLitiuM'
+    id: 4064397
+    contributions: 425
+    company: ''
+    organizations: ''
+
+organizations:
+
+  - rank: 1
+    name: 'reaktor'
+    membercount: 18
+
+  - rank: 2
+    name: 'futurice'
+    membercount: 12
+
+  - rank: 3
+    name: 'koodiklinikka'
+    membercount: 6
+
+  - rank: 4
+    name: 'Applifier'
+    membercount: 6
+
+  - rank: 5
+    name: 'fastmonkeys'
+    membercount: 5
+
+  - rank: 6
+    name: 'vaadin'
+    membercount: 5
+
+  - rank: 7
+    name: 'UnityTech'
+    membercount: 3
+
+  - rank: 8
+    name: 'kcsry'
+    membercount: 3
+
+  - rank: 9
+    name: 'wunderkraut'
+    membercount: 3
+
+  - rank: 10
+    name: 'HSLdevcom'
+    membercount: 3
+generated: 2017-05-16 15:11:35.059238591 +0300 EEST
