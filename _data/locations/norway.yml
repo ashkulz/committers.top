@@ -6,7 +6,7 @@ users:
     name: 'Eon'
     login: 'eonist'
     id: 11816788
-    contributions: 22775
+    contributions: 25127
     company: ''
     organizations: ''
 
@@ -14,95 +14,95 @@ users:
     name: 'Geir Gåsodden'
     login: 'zrrrzzt'
     id: 2197936
-    contributions: 9187
+    contributions: 8839
     company: 'Telemark fylkeskommune'
     organizations: 'telemark'
 
   - rank: 3
-    name: 'Christoffer Winterkvist'
-    login: 'zenangst'
-    id: 57446
-    contributions: 8331
-    company: 'Hyper'
-    organizations: 'hyperoslo'
-
-  - rank: 4
     name: 'Thorbjørn Hermansen'
     login: 'thhermansen'
     id: 92300
-    contributions: 7213
+    contributions: 7325
     company: 'Skalar AS'
     organizations: 'Skalar,inviso-org'
 
-  - rank: 5
+  - rank: 4
     name: 'Vadym Markov'
     login: 'vadymmarkov'
     id: 10529867
-    contributions: 6593
+    contributions: 6646
     company: 'Hyper'
-    organizations: ''
+    organizations: 'cocoa-ai'
 
-  - rank: 6
+  - rank: 5
     name: 'Khoa Pham'
     login: 'onmyway133'
     id: 2284279
-    contributions: 6165
+    contributions: 6463
     company: '@hyperoslo '
-    organizations: 'hyperoslo,Fantageek,hasbrain,fantastic-space,fantastic-h,fantastic-e,fantastic-l,fantastic-l2,fantastic-o,fantastic-w,fantastic-o2,fantastic-r,fantastic-rl,fantastic-rld'
+    organizations: 'hyperoslo,Fantageek,hasbrain'
+
+  - rank: 6
+    name: 'Ivar Nilsen'
+    login: 'ivarni'
+    id: 379849
+    contributions: 5676
+    company: 'Scelto'
+    organizations: ''
 
   - rank: 7
-    name: 'Patrick Skjennum'
-    login: 'Habitats'
-    id: 1082096
-    contributions: 6142
-    company: '@mitoai '
-    organizations: 'mitoai'
-
-  - rank: 8
     name: 'Alexander Alemayhu'
     login: 'scanf'
     id: 925044
-    contributions: 5386
+    contributions: 5642
     company: ''
     organizations: 'cilium'
 
-  - rank: 9
+  - rank: 8
     name: 'Peter Rekdal Sunde'
     login: 'peters'
     id: 869
-    contributions: 5096
+    contributions: 5145
     company: ''
     organizations: ''
 
-  - rank: 10
-    name: 'Elvis Nuñez'
-    login: '3lvis'
-    id: 1088217
-    contributions: 5041
-    company: '@finn-no'
-    organizations: 'facebook,schibsted,github-beta,SyncDB,UseSweet,wwdc-family'
-
-  - rank: 11
+  - rank: 9
     name: 'Radovan Bast'
     login: 'bast'
     id: 5120679
-    contributions: 4598
+    contributions: 5092
     company: '@uit-no @neicnordic'
     organizations: 'swcarpentry,pythonkurs,biogeochemistry,PCMSolver,uit-no,scisoft,neicnordic,Fortran-FOSS-Programmers,thug,dftlibs,MRChemSoft,coderefinery,tromsofp,qmcurrents,dev-cafe'
 
+  - rank: 10
+    name: 'Christoffer Winterkvist'
+    login: 'zenangst'
+    id: 57446
+    contributions: 4750
+    company: 'Hyper'
+    organizations: 'hyperoslo,cocoa-ai'
+
+  - rank: 11
+    name: 'Knut Melvær'
+    login: 'kmelve'
+    id: 1131579
+    contributions: 4615
+    company: '@netliferesearch '
+    organizations: 'aleutcss'
+
   - rank: 12
-    name: 'Michael McMillan'
-    login: 'michaelmcmillan'
-    id: 147197
-    contributions: 4508
-    company: '@BustByte'
-    organizations: ''
+    name: 'Elvis Nuñez'
+    login: '3lvis'
+    id: 1088217
+    contributions: 4377
+    company: '@finn-no'
+    organizations: 'finn-no,schibsted,github-beta,SyncDB,UseSweet,wwdc-family'
 
   - rank: 13
     name: 'Mikael Berg'
     login: 'mikberg'
     id: 3372191
-    contributions: 4473
+    contributions: 4333
     company: 'Zeppelin'
     organizations: ''
 
@@ -110,1371 +110,1539 @@ users:
     name: 'Min RK'
     login: 'minrk'
     id: 151929
-    contributions: 4225
-    company: 'Simula'
+    contributions: 4198
+    company: 'Simula Research Laboratory'
     organizations: 'zeromq,ipython,qsnake,jupyter,conda-forge,jupyterhub'
 
   - rank: 15
-    name: 'Edvin Hultberg'
-    login: 'hultberg'
-    id: 1257913
-    contributions: 4107
-    company: 'Spinner Labs AS'
-    organizations: 'lancms'
+    name: 'Patrick Skjennum'
+    login: 'Habitats'
+    id: 1082096
+    contributions: 4166
+    company: '@mitoai '
+    organizations: 'mitoai'
 
   - rank: 16
-    name: 'Knut Melvær'
-    login: 'kmelve'
-    id: 1131579
-    contributions: 4080
-    company: '@netliferesearch '
-    organizations: 'aleutcss'
+    name: 'Michael McMillan'
+    login: 'michaelmcmillan'
+    id: 147197
+    contributions: 3949
+    company: '@BustByte & @dbmedialab'
+    organizations: ''
 
   - rank: 17
-    name: 'Christian Budde Christensen'
-    login: 'budde377'
-    id: 3490507
-    contributions: 3780
-    company: '@mitoai '
-    organizations: 'cs-au-dk,karma-runner,laundree'
+    name: 'Scott Basgaard'
+    login: 'scottbasgaard'
+    id: 91581
+    contributions: 3865
+    company: '@DekodeInteraktiv '
+    organizations: 'wordsesh,DekodeInteraktiv,TheLookandFeel,wplistings'
 
   - rank: 18
-    name: 'ferris'
-    login: 'yupferris'
-    id: 3166056
-    contributions: 3652
-    company: 'Fuse'
-    organizations: 'RustAudio,fusetools,emu-rs,planetvb'
+    name: 'Espen Hovlandsdal'
+    login: 'rexxars'
+    id: 48200
+    contributions: 3770
+    company: 'Bengler / VaffelNinja'
+    organizations: 'bengler,webrebels,imbo,LXJS,vaffel,oneshot,nodeconf,sanity-io,VegaPublish,oslojs'
 
   - rank: 19
     name: ''
     login: 'eiriksm'
     id: 865153
-    contributions: 3552
+    contributions: 3653
     company: ''
-    organizations: 'request,WNRI,drupalnorge,crashndash,BartJS,nodejs,DCNordics'
+    organizations: 'request,WNRI,drupalnorge,crashndash,BartJS,nodejs,DCNordics,violinist-dev'
 
   - rank: 20
-    name: 'Espen Hovlandsdal'
-    login: 'rexxars'
-    id: 48200
-    contributions: 3443
-    company: 'Bengler / VaffelNinja'
-    organizations: 'bengler,facebook,webrebels,imbo,LXJS,vaffel,oneshot,nodeconf,sanity-io,VegaPublish,oslojs'
+    name: 'ferris'
+    login: 'yupferris'
+    id: 3166056
+    contributions: 3603
+    company: 'Fuse'
+    organizations: 'RustAudio,fusetools,emu-rs,planetvb'
 
   - rank: 21
     name: 'Stein Magnus Jodal'
     login: 'jodal'
     id: 43726
-    contributions: 3388
+    contributions: 3550
     company: 'Otovo Solar'
     organizations: 'rtfd,mopidy,itkinside,busterjs,pimusicbox,otovo'
 
   - rank: 22
-    name: 'Scott Basgaard'
-    login: 'scottbasgaard'
-    id: 91581
-    contributions: 3116
-    company: '@DekodeInteraktiv '
-    organizations: 'wordsesh,DekodeInteraktiv,TheLookandFeel,wplistings'
+    name: 'Ulf Lilleengen'
+    login: 'lulf'
+    id: 19670
+    contributions: 3403
+    company: 'Red Hat'
+    organizations: 'EnMasseProject'
 
   - rank: 23
-    name: 'Stian Didriksen'
-    login: 'stipsan'
-    id: 81981
-    contributions: 3095
-    company: 'Sincos Software AS'
-    organizations: 'facebook,SincosSoftware,AtomLinter'
+    name: 'Edvin Hultberg'
+    login: 'hultberg'
+    id: 1257913
+    contributions: 3336
+    company: 'Spinner Labs AS'
+    organizations: 'lancms,mittnett'
 
   - rank: 24
-    name: 'Daniel Høyer Iversen'
-    login: 'Danielhiversen'
-    id: 650502
-    contributions: 2851
-    company: '@SINTEFMedtek and NTNU'
-    organizations: 'SINTEFMedtek,home-assistant'
+    name: 'Gunnar Fornes'
+    login: 'gunnar2k'
+    id: 202813
+    contributions: 3271
+    company: ''
+    organizations: ''
 
   - rank: 25
-    name: 'Øystein Krog'
-    login: 'oysteinkrog'
-    id: 653040
-    contributions: 2824
-    company: ''
-    organizations: 'InitialForce'
-
-  - rank: 26
-    name: 'Sven Nilsen'
-    login: 'bvssvni'
-    id: 1743862
-    contributions: 2816
-    company: 'Cutout Pro'
-    organizations: 'PistonDevelopers'
-
-  - rank: 27
     name: 'Einar Ingebrigtsen'
     login: 'einari'
     id: 134365
-    contributions: 2786
+    contributions: 3127
     company: 'Microsoft'
     organizations: 'machine,dolittle,Azure,msdevno'
 
-  - rank: 28
-    name: 'Joachim F.'
-    login: 'joachifm'
-    id: 41977
-    contributions: 2731
-    company: ''
-    organizations: 'NixOS,vimus'
-
-  - rank: 29
+  - rank: 26
     name: 'Ole André Vadla Ravnås'
     login: 'oleavr'
     id: 735197
-    contributions: 2657
+    contributions: 2925
     company: ''
     organizations: 'tillitech,nowsecure'
 
-  - rank: 30
+  - rank: 27
+    name: 'Daniel Høyer Iversen'
+    login: 'Danielhiversen'
+    id: 650502
+    contributions: 2768
+    company: '@SINTEFMedtek and NTNU'
+    organizations: 'SINTEFMedtek,home-assistant'
+
+  - rank: 28
     name: 'Pål Jørgensen'
     login: 'fnoks'
     id: 2578572
-    contributions: 2620
+    contributions: 2649
     company: ''
     organizations: 'h5p'
+
+  - rank: 29
+    name: 'Øystein Krog'
+    login: 'oysteinkrog'
+    id: 653040
+    contributions: 2642
+    company: ''
+    organizations: 'InitialForce'
+
+  - rank: 30
+    name: 'Tom Erik Støwer'
+    login: 'testower'
+    id: 231492
+    contributions: 2605
+    company: 'Kahoot!'
+    organizations: 'bGraphic'
 
   - rank: 31
     name: 'André R.'
     login: 'andrerom'
     id: 289757
-    contributions: 2604
+    contributions: 2553
     company: 'eZ Systems'
     organizations: 'ezsystems'
 
   - rank: 32
+    name: 'Stian Didriksen'
+    login: 'stipsan'
+    id: 81981
+    contributions: 2540
+    company: 'Sincos Software AS'
+    organizations: 'SincosSoftware,AtomLinter'
+
+  - rank: 33
     name: 'Øystein Ellingbø'
     login: 'ellingbo'
     id: 20782
-    contributions: 2598
+    contributions: 2503
     company: ''
     organizations: 'ardoq'
 
-  - rank: 33
+  - rank: 34
+    name: 'Joachim F.'
+    login: 'joachifm'
+    id: 41977
+    contributions: 2501
+    company: ''
+    organizations: 'NixOS,vimus'
+
+  - rank: 35
+    name: 'Sven Nilsen'
+    login: 'bvssvni'
+    id: 1743862
+    contributions: 2367
+    company: 'Cutout Pro'
+    organizations: 'PistonDevelopers'
+
+  - rank: 36
     name: 'Tim Kurvers'
     login: 'timkurvers'
     id: 378235
-    contributions: 2473
+    contributions: 2319
     company: 'Hyper'
     organizations: 'hyperoslo,wowserhq'
 
-  - rank: 34
-    name: 'Ulf Lilleengen'
-    login: 'lulf'
-    id: 19670
-    contributions: 2426
-    company: 'Red Hat'
-    organizations: 'EnMasseProject'
-
-  - rank: 35
-    name: 'Sigve Kvalsvik'
-    login: 'svk31'
-    id: 6890015
-    contributions: 2422
-    company: 'Olavstoppen'
-    organizations: ''
-
-  - rank: 36
-    name: 'Leon'
-    login: 'LeonTG'
-    id: 8997490
-    contributions: 2410
-    company: ''
-    organizations: ''
-
   - rank: 37
-    name: 'Eirik Martiniussen Sylliaas'
-    login: 'eirsyl'
-    id: 1433491
-    contributions: 2296
-    company: '@webkom @fuuto @doppins '
-    organizations: 'webkom,abakusbackup,itdagene-ntnu,frigg,WhaleMonitoring,abakus-ntnu,Tacnet,doppins,fuuto,python-thumbnails'
-
-  - rank: 38
-    name: 'Bjørge Næss'
-    login: 'bjoerge'
-    id: 876086
-    contributions: 2139
-    company: ''
-    organizations: 'bengler,sanity-io,VegaPublish'
-
-  - rank: 39
     name: 'Sindre Moen'
     login: 'sindrenm'
     id: 386122
-    contributions: 2059
+    contributions: 2250
     company: '@hyperoslo'
     organizations: 'hyperoslo'
 
-  - rank: 40
-    name: 'Simen Bekkhus'
-    login: 'SimenB'
-    id: 1404810
-    contributions: 1967
-    company: '@finn-no '
-    organizations: ''
-
-  - rank: 41
-    name: 'Lars Jansøn Engvik'
-    login: 'engvik'
-    id: 851595
-    contributions: 1887
-    company: ''
-    organizations: 'duckduckgo,soldotno,edb-gjengen'
-
-  - rank: 42
-    name: 'John Sundell'
-    login: 'JohnSundell'
-    id: 2466701
-    contributions: 1830
-    company: ''
-    organizations: 'hyperoslo'
-
-  - rank: 43
-    name: 'Lars Helge Øverland'
-    login: 'larshelge'
-    id: 908206
-    contributions: 1820
-    company: 'UiO'
-    organizations: 'dhis2'
-
-  - rank: 44
-    name: 'Rolf Erik Lekang'
-    login: 'relekang'
-    id: 476364
-    contributions: 1795
-    company: 'Itera'
-    organizations: 'webkom,Itera,abakusbackup,itdagene-ntnu,mocco,hackerspace-ntnu,AtomLinter,frigg,abakus-ntnu,jazzband,python-thumbnails,styled-components'
-
-  - rank: 45
-    name: 'Øyvind A. Holm'
-    login: 'sunny256'
-    id: 113445
-    contributions: 1780
-    company: ''
-    organizations: 'Pirate-Parties-International,piratpartiet,EFN'
-
-  - rank: 46
-    name: 'Kristoffer Dalby'
-    login: 'kradalby'
-    id: 98431
-    contributions: 1770
-    company: ''
-    organizations: 'dotkom,knowit,dfektlan,CasualGaming,Webrewthebestbeer1,dfekt,nuxis,fapno'
-
-  - rank: 47
-    name: 'Ali Kaafarani'
-    login: 'kvikshaug'
-    id: 64745
-    contributions: 1758
-    company: ''
-    organizations: 'Turistforeningen,Turbasen'
-
-  - rank: 48
-    name: 'Ole Morten Didriksen'
-    login: 'oledid'
-    id: 1911049
-    contributions: 1733
-    company: '@CapitechAS'
-    organizations: 'CapitechAS,oledid-forks,oledid-dotnet,oledid-js'
-
-  - rank: 49
-    name: 'Bjørn Erik Pedersen'
-    login: 'bep'
-    id: 394382
-    contributions: 1720
+  - rank: 38
+    name: 'Leon'
+    login: 'LeonTG'
+    id: 8997490
+    contributions: 2202
     company: ''
     organizations: ''
 
-  - rank: 50
-    name: 'Anders Hafreager'
-    login: 'andeplane'
-    id: 16174
-    contributions: 1698
-    company: 'University of Oslo'
-    organizations: ''
-
-  - rank: 51
-    name: 'Rolf Håvard Blindheim'
-    login: 'rhblind'
-    id: 1574295
-    contributions: 1690
-    company: 'Inonit AS'
-    organizations: 'inonit'
-
-  - rank: 52
-    name: 'Enno Rehling'
-    login: 'ennorehling'
-    id: 629521
-    contributions: 1686
-    company: 'twigtechnology.com'
-    organizations: 'eressea'
-
-  - rank: 53
-    name: 'Edvin Syse'
-    login: 'edvin'
-    id: 977035
-    contributions: 1680
-    company: 'SYSE'
-    organizations: ''
-
-  - rank: 54
-    name: 'Svenn-Arne Dragly'
-    login: 'dragly'
-    id: 220658
-    contributions: 1673
-    company: 'University of Oslo, @CINPLA and @ovilab '
-    organizations: 'CINPLA'
-
-  - rank: 55
-    name: 'Åsmund Vikane'
-    login: 'koekeishiya'
-    id: 6175959
-    contributions: 1666
-    company: ''
-    organizations: ''
-
-  - rank: 56
-    name: 'martin'
-    login: 'sandsmark'
-    id: 25765
-    contributions: 1657
-    company: '@remarkableno '
-    organizations: 'itkinside,remarkableno'
-
-  - rank: 57
-    name: 'Just Thomas Hiorth Misund'
-    login: 'misund'
-    id: 265459
-    contributions: 1654
-    company: '@soldotno '
-    organizations: 'soldotno,edb-gjengen'
-
-  - rank: 58
-    name: 'Christian Alfoni'
-    login: 'christianalfoni'
-    id: 3956929
-    contributions: 1654
-    company: ''
-    organizations: 'cerebral'
-
-  - rank: 59
-    name: 'Frode Nerbråten'
-    login: 'froden'
-    id: 27466
-    contributions: 1654
-    company: 'BEKK'
-    organizations: 'digipost'
-
-  - rank: 60
-    name: 'Svein Halvor Halvorsen'
-    login: 'sveinhal'
-    id: 88693
-    contributions: 1631
-    company: '@finkoslo '
-    organizations: 'Samfundet,Spiff-AS,finkoslo'
-
-  - rank: 61
-    name: 'August Skare'
-    login: 'augustskare'
-    id: 1009759
-    contributions: 1626
-    company: '@bakkenbaeck '
-    organizations: 'bakkenbaeck'
-
-  - rank: 62
-    name: 'Henrik Steen'
-    login: 'henrist'
-    id: 703354
-    contributions: 1619
-    company: '@capraconsulting'
-    organizations: 'capraconsulting,hswno,cybrairai,kofradia,blindernuka,blindern'
-
-  - rank: 63
-    name: 'Thomas'
-    login: 'thomasmars'
-    id: 1640201
-    contributions: 1585
-    company: 'Joubel AS'
-    organizations: 'h5p'
-
-  - rank: 64
-    name: 'Lars Andersen'
-    login: 'expez'
-    id: 1006557
-    contributions: 1584
-    company: 'Ardoq '
-    organizations: 'ardoq,clojure-emacs'
-
-  - rank: 65
-    name: 'Carl-Erik Kopseng'
-    login: 'fatso83'
-    id: 618076
-    contributions: 1581
-    company: '@makingwaves '
-    organizations: ''
-
-  - rank: 66
-    name: 'Rafael Winterhalter'
-    login: 'raphw'
-    id: 4489328
-    contributions: 1571
-    company: 'Scienta'
-    organizations: 'javaBin,hibernate,Scienta,mockito,instana,sitepoint-editors,cglib'
-
-  - rank: 67
+  - rank: 39
     name: 'Marius Hauken'
     login: 'mhauken'
     id: 2954829
-    contributions: 1567
+    contributions: 2183
     company: 'Netlife Research'
     organizations: 'netliferesearch,aleutcss'
 
-  - rank: 68
-    name: 'Kenneth Lynne'
-    login: 'kennethlynne'
-    id: 390817
-    contributions: 1563
+  - rank: 40
+    name: 'Eirik Martiniussen Sylliaas'
+    login: 'eirsyl'
+    id: 1433491
+    contributions: 2181
+    company: '@webkom @fuuto @doppins '
+    organizations: 'webkom,abakusbackup,itdagene-ntnu,frigg,WhaleMonitoring,abakus-ntnu,Tacnet,doppins,fuuto,python-thumbnails'
+
+  - rank: 41
+    name: 'Bjørge Næss'
+    login: 'bjoerge'
+    id: 876086
+    contributions: 2119
     company: ''
-    organizations: 'EdtechFoundry'
+    organizations: 'bengler,sanity-io,VegaPublish'
 
-  - rank: 69
-    name: 'Christian Duvholt'
-    login: 'duvholt'
-    id: 1637715
-    contributions: 1562
+  - rank: 42
+    name: 'Lars Jansøn Engvik'
+    login: 'engvik'
+    id: 851595
+    contributions: 2097
     company: ''
-    organizations: 'dotkom,gathering,Studentmediene,appKom,django-wiki,okse-2'
+    organizations: 'duckduckgo,soldotno,edb-gjengen,dbmedialab'
 
-  - rank: 70
-    name: 'Frode Petterson'
-    login: 'icc'
-    id: 186580
-    contributions: 1559
-    company: 'Joubel AS'
-    organizations: 'h5p'
+  - rank: 43
+    name: 'Bjørn Erik Pedersen'
+    login: 'bep'
+    id: 394382
+    contributions: 2090
+    company: ''
+    organizations: 'fsnotify,gohugoio'
 
-  - rank: 71
-    name: 'Sindre Svendby'
-    login: 'SindreSvendby'
-    id: 1047421
-    contributions: 1547
-    company: '@soldotno @dbmedialab '
-    organizations: 'soldotno,nvbf'
+  - rank: 44
+    name: 'Espen Herseth Halvorsen'
+    login: 'Espenhh'
+    id: 505752
+    contributions: 2065
+    company: 'Bekk Consulting'
+    organizations: 'bekkopen,javaBin'
 
-  - rank: 72
-    name: 'Øistein Sørensen'
-    login: '5orenso'
-    id: 2414307
-    contributions: 1521
+  - rank: 45
+    name: 'Sindre Johansen'
+    login: 'sindreij'
+    id: 210635
+    contributions: 2058
+    company: '@iterate'
+    organizations: 'Gruppe42'
+
+  - rank: 46
+    name: 'Simen Bekkhus'
+    login: 'SimenB'
+    id: 1404810
+    contributions: 2057
+    company: '@finn-no '
+    organizations: ''
+
+  - rank: 47
+    name: 'Stian Jensen'
+    login: 'stianjensen'
+    id: 1413267
+    contributions: 2020
+    company: 'Telenor Digital'
+    organizations: 'ninjadev,featfm,Poetene,wikipendium,dmpro2014,bftj'
+
+  - rank: 48
+    name: 'Colin Dodd'
+    login: 'csdodd'
+    id: 4302925
+    contributions: 2006
+    company: '@bakkenbaeck'
+    organizations: ''
+
+  - rank: 49
+    name: 'Alexander Pope'
+    login: 'popeindustries'
+    id: 725234
+    contributions: 2002
+    company: ''
+    organizations: 'YR'
+
+  - rank: 50
+    name: 'Frode Nerbråten'
+    login: 'froden'
+    id: 27466
+    contributions: 1980
+    company: 'BEKK'
+    organizations: 'digipost'
+
+  - rank: 51
+    name: 'Fred Calsen'
+    login: 'sjelfull'
+    id: 10508
+    contributions: 1964
+    company: 'sjelfull'
+    organizations: 'sjelfull-forks'
+
+  - rank: 52
+    name: 'August Skare'
+    login: 'augustskare'
+    id: 1009759
+    contributions: 1916
+    company: '@bakkenbaeck '
+    organizations: 'bakkenbaeck'
+
+  - rank: 53
+    name: 'Øyvind Marthinsen'
+    login: 'oyvinmar'
+    id: 364853
+    contributions: 1900
+    company: 'Knowit'
+    organizations: 'knowit,NDLANO'
+
+  - rank: 54
+    name: 'Tibor Vukovic'
+    login: 'tiborv'
+    id: 1465333
+    contributions: 1888
+    company: '@dbmedialab '
+    organizations: 'dbmedialab'
+
+  - rank: 55
+    name: 'Eirik L. Vullum'
+    login: 'eiriklv'
+    id: 3486317
+    contributions: 1871
+    company: 'Independent'
+    organizations: 'inceptio-no,ReactWeek,dwyl'
+
+  - rank: 56
+    name: 'Jarle Hansen'
+    login: 'jarlehansen'
+    id: 235108
+    contributions: 1866
     company: ''
     organizations: ''
 
-  - rank: 73
-    name: 'Simen Brekken'
-    login: 'simenbrekken'
-    id: 12807
-    contributions: 1518
-    company: 'Unfold'
-    organizations: 'unfold'
+  - rank: 57
+    name: 'martin'
+    login: 'sandsmark'
+    id: 25765
+    contributions: 1845
+    company: '@remarkableno '
+    organizations: 'itkinside,remarkableno'
 
-  - rank: 74
-    name: 'Anders Evenrud'
-    login: 'andersevenrud'
-    id: 161548
-    contributions: 1506
-    company: 'Copyleft Solutions'
-    organizations: 'copyleft,Host1,Stinkstudios,Epla,os-js'
+  - rank: 58
+    name: 'John Sundell'
+    login: 'JohnSundell'
+    id: 2466701
+    contributions: 1843
+    company: ''
+    organizations: 'hyperoslo'
 
-  - rank: 75
+  - rank: 59
     name: 'Iver Jordal'
     login: 'iver56'
     id: 1470603
-    contributions: 1492
+    contributions: 1810
     company: 'MashTime.com'
     organizations: ''
 
-  - rank: 76
-    name: 'Torstein Thune'
-    login: 'Torthu'
-    id: 413034
-    contributions: 1488
-    company: '@sixtyno'
-    organizations: 'sixtyno,pilsprog'
+  - rank: 60
+    name: 'Ole Morten Didriksen'
+    login: 'oledid'
+    id: 1911049
+    contributions: 1742
+    company: '@CapitechAS'
+    organizations: 'CapitechAS,oledid-forks,oledid-dotnet,oledid-js'
 
-  - rank: 77
-    name: 'Erik Nordstrøm'
-    login: 'eriknstr'
-    id: 385688
-    contributions: 1471
-    company: '@ICT-Infer'
-    organizations: 'ICT-Infer,LoBSD,TigerBSD,TigerBSD-ports,pixel-metropolis'
-
-  - rank: 78
-    name: 'Trond A Ekseth'
-    login: 'haste'
-    id: 17922
-    contributions: 1465
-    company: 'Orther Mulelid-Tynes Technologies'
-    organizations: 'ningyou,Exherbo,resistancenorway,oUF-wow'
-
-  - rank: 79
-    name: 'Alban Andrieu'
-    login: 'AlbanAndrieu'
-    id: 7859836
-    contributions: 1462
-    company: 'Nabla'
+  - rank: 61
+    name: 'Edvin Syse'
+    login: 'edvin'
+    id: 977035
+    contributions: 1729
+    company: 'SYSE'
     organizations: ''
 
-  - rank: 80
-    name: 'Jan Henning Thorsen'
-    login: 'jhthorsen'
-    id: 45729
-    contributions: 1461
+  - rank: 62
+    name: 'Enno Rehling'
+    login: 'ennorehling'
+    id: 629521
+    contributions: 1728
+    company: 'twigtechnology.com'
+    organizations: 'eressea'
+
+  - rank: 63
+    name: 'Rolf Erik Lekang'
+    login: 'relekang'
+    id: 476364
+    contributions: 1720
+    company: 'Itera'
+    organizations: 'webkom,Itera,abakusbackup,itdagene-ntnu,mocco,hackerspace-ntnu,AtomLinter,frigg,abakus-ntnu,jazzband,python-thumbnails,styled-components,micro-analytics,reasonoslo'
+
+  - rank: 64
+    name: 'Christian Alfoni'
+    login: 'christianalfoni'
+    id: 3956929
+    contributions: 1717
+    company: ''
+    organizations: 'cerebral'
+
+  - rank: 65
+    name: 'Dan Michael O. Heggø'
+    login: 'danmichaelo'
+    id: 434495
+    contributions: 1711
+    company: 'University of Oslo : Science Library'
+    organizations: '18bergen,there4,sublima,inveniosoftware,scriptotek,mwclient,realfagstermer,uio-carpentry,WikimediaNorge'
+
+  - rank: 66
+    name: 'Anders Hafreager'
+    login: 'andeplane'
+    id: 16174
+    contributions: 1685
+    company: 'University of Oslo'
+    organizations: ''
+
+  - rank: 67
+    name: 'Carl-Erik Kopseng'
+    login: 'fatso83'
+    id: 618076
+    contributions: 1672
+    company: '@makingwaves '
+    organizations: ''
+
+  - rank: 68
+    name: 'Anders Olsen Sandvik'
+    login: 'Andersos'
+    id: 288977
+    contributions: 1669
+    company: 'Netlife Research'
+    organizations: 'finn-no,webrebels,nodeschool,netliferesearch,CloudLabsAS,nodejs,oslojs'
+
+  - rank: 69
+    name: 'Svein Halvor Halvorsen'
+    login: 'sveinhal'
+    id: 88693
+    contributions: 1666
+    company: '@finkoslo '
+    organizations: 'Samfundet,Spiff-AS,finkoslo'
+
+  - rank: 70
+    name: 'Sigve Kvalsvik'
+    login: 'svk31'
+    id: 6890015
+    contributions: 1664
     company: ''
     organizations: ''
 
-  - rank: 81
-    name: 'Raymond Julin'
-    login: 'nervetattoo'
-    id: 45449
-    contributions: 1452
-    company: 'Task Analytics'
-    organizations: 'UnionOfRAD,BergenJS,netliferesearch'
+  - rank: 71
+    name: 'Henrik Steen'
+    login: 'henrist'
+    id: 703354
+    contributions: 1662
+    company: '@capraconsulting'
+    organizations: 'capraconsulting,hswno,cybrairai,kofradia,blindernuka,blindern'
 
-  - rank: 82
-    name: 'Kim Røen'
-    login: 'kimroen'
-    id: 520420
-    contributions: 1445
-    company: '@Leieting '
-    organizations: 'pido,PAM-AS'
+  - rank: 72
+    name: 'Svenn-Arne Dragly'
+    login: 'dragly'
+    id: 220658
+    contributions: 1661
+    company: 'University of Oslo, @CINPLA and @ovilab '
+    organizations: 'CINPLA'
 
-  - rank: 83
+  - rank: 73
+    name: 'Pedro Pregueiro'
+    login: 'pedropregueiro'
+    id: 314617
+    contributions: 1639
+    company: ''
+    organizations: 'shareactorIO'
+
+  - rank: 74
+    name: 'Thomas'
+    login: 'thomasmars'
+    id: 1640201
+    contributions: 1636
+    company: 'Joubel AS'
+    organizations: 'h5p'
+
+  - rank: 75
+    name: 'Thor Henning Hetland'
+    login: 'totto'
+    id: 842543
+    contributions: 1635
+    company: 'Capra Consulting AS'
+    organizations: 'Cantara,AltranScandinavia,capraconsulting'
+
+  - rank: 76
+    name: 'Simen Brekken'
+    login: 'simenbrekken'
+    id: 12807
+    contributions: 1625
+    company: 'Unfold'
+    organizations: 'unfold'
+
+  - rank: 77
     name: 'Inge Jørgensen'
     login: 'elektronaut'
     id: 5549
-    contributions: 1432
-    company: 'Kord'
+    contributions: 1610
+    company: '@anyone-oslo '
     organizations: 'anyone-oslo'
 
+  - rank: 78
+    name: 'Just Thomas Hiorth Misund'
+    login: 'misund'
+    id: 265459
+    contributions: 1600
+    company: '@soldotno '
+    organizations: 'soldotno,edb-gjengen,dbmedialab'
+
+  - rank: 79
+    name: 'Lars Helge Øverland'
+    login: 'larshelge'
+    id: 908206
+    contributions: 1598
+    company: 'UiO'
+    organizations: 'dhis2'
+
+  - rank: 80
+    name: 'Katherine'
+    login: 'katef'
+    id: 1371085
+    contributions: 1583
+    company: ''
+    organizations: 'tendra'
+
+  - rank: 81
+    name: 'Bård N Hovde'
+    login: 'bnhovde'
+    id: 4840600
+    contributions: 1578
+    company: '@netliferesearch '
+    organizations: 'bring,netliferesearch,fedordead'
+
+  - rank: 82
+    name: 'Christian Duvholt'
+    login: 'duvholt'
+    id: 1637715
+    contributions: 1569
+    company: ''
+    organizations: 'dotkom,gathering,appKom,django-wiki,okse-2'
+
+  - rank: 83
+    name: 'Sindre Svendby'
+    login: 'SindreSvendby'
+    id: 1047421
+    contributions: 1557
+    company: '@soldotno @dbmedialab '
+    organizations: 'soldotno,dbmedialab,nvbf'
+
   - rank: 84
-    name: 'Jon Packer'
-    login: 'jonpacker'
-    id: 678101
-    contributions: 1423
-    company: 'BRIK Teknologier AS'
-    organizations: 'brikteknologier'
+    name: 'Øyvind A. Holm'
+    login: 'sunny256'
+    id: 113445
+    contributions: 1543
+    company: ''
+    organizations: 'Pirate-Parties-International,piratpartiet,EFN'
 
   - rank: 85
-    name: 'Wallace Sidhrée'
-    login: 'dreamyguy'
-    id: 1021849
-    contributions: 1378
-    company: 'Dreamyguy.com'
-    organizations: ''
+    name: 'Fredrik Valdmanis'
+    login: 'fredva'
+    id: 187115
+    contributions: 1528
+    company: '@bekk '
+    organizations: 'bekk,bekkopen,digipost'
 
   - rank: 86
-    name: 'Christian Peter'
-    login: 'chrpeter'
-    id: 1065009
-    contributions: 1373
-    company: '@knowit '
-    organizations: 'isfit,knowit,NDLANO,KnowArIoT'
+    name: 'Kristoffer Dalby'
+    login: 'kradalby'
+    id: 98431
+    contributions: 1509
+    company: ''
+    organizations: 'dotkom,knowit,dfektlan,CasualGaming,Webrewthebestbeer1,dfekt,nuxis,fapno'
 
   - rank: 87
-    name: 'Vegar Ringdal'
-    login: 'vegarringdal'
-    id: 2901416
-    contributions: 1371
+    name: 'Michal Zagrodzki'
+    login: 'michalzagrodzki'
+    id: 4341982
+    contributions: 1507
     company: ''
     organizations: ''
 
   - rank: 88
-    name: 'Thomas Dreibholz'
-    login: 'dreibh'
-    id: 1830768
-    contributions: 1331
-    company: 'Simula Research Laboratory'
-    organizations: ''
+    name: 'Marcus Ramberg'
+    login: 'marcusramberg'
+    id: 5526
+    contributions: 1490
+    company: 'Nordaaker'
+    organizations: 'Nordaaker,mojomojo,mojolicious'
 
   - rank: 89
-    name: 'Hans Kristian Flaatten'
-    login: 'Starefossen'
-    id: 968267
-    contributions: 1328
-    company: '@EVRY '
-    organizations: 'Turistforeningen,BLUG,evry-bergen,libjpmul,GeoGames,nodejs,Rugdeveien,Turbasen,BergenOpenData'
+    name: 'Åsmund Vikane'
+    login: 'koekeishiya'
+    id: 6175959
+    contributions: 1479
+    company: ''
+    organizations: ''
 
   - rank: 90
-    name: 'Frode Tobias Bjerke'
-    login: 'frodebjerke'
-    id: 831318
-    contributions: 1315
-    company: ''
-    organizations: ''
+    name: 'Lars Andersen'
+    login: 'expez'
+    id: 1006557
+    contributions: 1477
+    company: 'Ardoq '
+    organizations: 'ardoq,clojure-emacs'
 
   - rank: 91
-    name: 'Kristoffer K Larsen'
-    login: 'larseen'
-    id: 5478280
-    contributions: 1294
-    company: '@teamvio '
-    organizations: 'abakusbackup,abakus-ntnu,teamvio'
+    name: 'Frederic G. Østby'
+    login: 'freost'
+    id: 773958
+    contributions: 1474
+    company: '@arkivverket '
+    organizations: 'mako-framework,arkivverket'
 
   - rank: 92
-    name: 'Espen Angell Kristiansen'
-    login: 'espenak'
-    id: 84501
-    contributions: 1294
+    name: 'Ali Kaafarani'
+    login: 'kvikshaug'
+    id: 64745
+    contributions: 1450
     company: ''
-    organizations: 'devilry'
+    organizations: 'Turistforeningen,Turbasen'
 
   - rank: 93
-    name: 'Robin Burchell'
-    login: 'rburchell'
-    id: 125863
-    contributions: 1271
-    company: '@CrimsonAS '
-    organizations: 'saesu,nemomobile,inspircd,mer-tools,CrimsonAS'
+    name: 'Erik Nordstrøm'
+    login: 'eriknstr'
+    id: 385688
+    contributions: 1447
+    company: '@ICT-Infer'
+    organizations: 'ICT-Infer,LoBSD,TigerBSD,TigerBSD-ports,pixel-metropolis,Select-License'
 
   - rank: 94
-    name: 'Per-Kristian Nordnes'
-    login: 'skogsmaskin'
-    id: 373403
-    contributions: 1271
-    company: 'http://bengler.no'
-    organizations: 'bengler,sanity-io,VegaPublish'
+    name: 'Kenneth Lynne'
+    login: 'kennethlynne'
+    id: 390817
+    contributions: 1438
+    company: ''
+    organizations: 'EdtechFoundry'
 
   - rank: 95
-    name: 'Fredrik Valdmanis'
-    login: 'fredva'
-    id: 187115
-    contributions: 1257
-    company: '@bekk '
-    organizations: 'bekk,bekkopen,digipost'
-
-  - rank: 96
-    name: 'Matthew'
-    login: 'm-mcgowan'
-    id: 2465470
-    contributions: 1249
+    name: 'Øistein Sørensen'
+    login: '5orenso'
+    id: 2414307
+    contributions: 1426
     company: ''
     organizations: ''
+
+  - rank: 96
+    name: 'Jon Packer'
+    login: 'jonpacker'
+    id: 678101
+    contributions: 1426
+    company: 'BRIK Teknologier AS'
+    organizations: 'brikteknologier'
 
   - rank: 97
     name: 'Jonas Myrlund'
     login: 'myrlund'
     id: 388633
-    contributions: 1244
+    contributions: 1420
     company: '@kolonialno '
     organizations: 'webkom,Samfundet,kolonialno'
 
   - rank: 98
-    name: 'Robinson Presotto'
-    login: 'robipresotto'
-    id: 3818948
-    contributions: 1215
-    company: '@EpicGames @futureuniverse @OSDevelopment '
-    organizations: ''
+    name: 'Torstein Thune'
+    login: 'Torthu'
+    id: 413034
+    contributions: 1416
+    company: '@sixtyno'
+    organizations: 'sixtyno,pilsprog'
 
   - rank: 99
-    name: 'Bjørn Asle Taranger'
-    login: 'brotherBear'
-    id: 644545
-    contributions: 1207
-    company: 'Capgemini'
-    organizations: 'capgemini-stavanger,Statoil-SA'
-
-  - rank: 100
-    name: 'Marcus Ramberg'
-    login: 'marcusramberg'
-    id: 5526
-    contributions: 1207
-    company: 'Nordaaker'
-    organizations: 'Nordaaker,mojomojo,mojolicious'
-
-  - rank: 101
-    name: 'Ioannis Skoulis'
-    login: 'giskou'
-    id: 73481
-    contributions: 1185
-    company: 'Bouvet ASA'
-    organizations: 'DAINTINESS-Group'
-
-  - rank: 102
-    name: 'Vegard Andreas Larsen'
-    login: 'vegardlarsen'
-    id: 436508
-    contributions: 1179
-    company: 'Digital Creations AS'
-    organizations: 'digitalcreations'
-
-  - rank: 103
-    name: 'Adrian L Lange'
-    login: 'p3lim'
-    id: 26496
-    contributions: 1175
-    company: 'NTNU'
-    organizations: 'p3lim-wow,github-beta,wowace-mirror,ps2-alerts,oUF-wow'
-
-  - rank: 104
-    name: 'Erlend Klakegg Bergheim'
-    login: 'klakegg'
-    id: 126939
-    contributions: 1167
-    company: 'Direktoratet for forvaltning og IKT (Difi)'
-    organizations: 'difi'
-
-  - rank: 105
-    name: 'Robert Kolner'
-    login: 'RobertKolner'
-    id: 264386
-    contributions: 1152
-    company: '@lucida-no '
-    organizations: 'edb-gjengen'
-
-  - rank: 106
-    name: 'Sten Roger Sandvik'
-    login: 'srs'
-    id: 45278
-    contributions: 1150
-    company: '@enonic'
-    organizations: 'enonic,purplejs'
-
-  - rank: 107
-    name: 'Frederic G. Østby'
-    login: 'freost'
-    id: 773958
-    contributions: 1147
-    company: '@arkivverket '
-    organizations: 'mako-framework,arkivverket'
-
-  - rank: 108
-    name: 'Morten Olav Hansen'
-    login: 'mortenoh'
-    id: 84345
-    contributions: 1140
-    company: ''
-    organizations: 'devilry,dhis2'
-
-  - rank: 109
-    name: 'Stian Prestholdt'
-    login: 'stianpr'
-    id: 17224
-    contributions: 1111
-    company: 'Eliksir AS'
-    organizations: 'eliksir'
-
-  - rank: 110
-    name: 'Tobias Lundin'
-    login: 'tolu'
-    id: 658586
-    contributions: 1110
-    company: ''
-    organizations: 'nrkno'
-
-  - rank: 111
-    name: 'J-P Nurmi'
-    login: 'jpnurmi'
-    id: 140617
-    contributions: 1087
-    company: ''
-    organizations: 'qt,znc,communi,qtproject,qt-labs'
-
-  - rank: 112
-    name: 'Martin Stabenfeldt'
-    login: 'stabenfeldt'
-    id: 181272
-    contributions: 1087
-    company: ''
-    organizations: ''
-
-  - rank: 113
-    name: 'Mikael Brevik'
-    login: 'mikaelbr'
-    id: 606374
-    contributions: 1084
-    company: '@bekk '
-    organizations: 'bekk,superherojs,BartJS,omniscientjs,nodejs'
-
-  - rank: 114
-    name: 'Sigurd Fosseng'
-    login: 'laat'
-    id: 146559
-    contributions: 1084
-    company: 'SpareBank1'
-    organizations: 'dotkom'
-
-  - rank: 115
-    name: 'Eivind Fonn'
-    login: 'TheBB'
-    id: 619375
-    contributions: 1083
-    company: 'SINTEF'
-    organizations: 'emacs-evil'
-
-  - rank: 116
-    name: 'Jakob Lind'
-    login: 'jakoblind'
-    id: 399339
-    contributions: 1079
-    company: 'Hatfactory'
-    organizations: ''
-
-  - rank: 117
-    name: 'Ole Herman Schumacher Elgesem'
-    login: 'olehermanse'
-    id: 4048546
-    contributions: 1074
-    company: '@cfengine '
-    organizations: 'fui,cfengine,mendersoftware,ifimikro'
-
-  - rank: 118
-    name: 'Stian Eikeland'
-    login: 'stianeikeland'
-    id: 680040
-    contributions: 1071
-    company: ''
-    organizations: 'edbre,revolverhuset'
-
-  - rank: 119
-    name: 'Erik Smistad'
-    login: 'smistad'
-    id: 176325
-    contributions: 1069
-    company: 'Norwegian University of Science and Technology, SINTEF Medical Technology'
-    organizations: ''
-
-  - rank: 120
-    name: 'Aslak Knutsen'
-    login: 'aslakknutsen'
-    id: 132158
-    contributions: 1057
-    company: 'Red Hat, Inc.'
-    organizations: 'seam,arquillian,shrinkwrap,weld,forge,awestruct,javaee-samples,almighty'
-
-  - rank: 121
-    name: 'Mark Polak'
-    login: 'Markionium'
-    id: 2134901
-    contributions: 1051
-    company: 'University of Oslo'
-    organizations: 'dhis2,InvisibleInkProject'
-
-  - rank: 122
-    name: 'Jonas Solsvik'
-    login: 'Arxcis'
-    id: 3092618
-    contributions: 1044
-    company: 'Solsvik Datateknikk'
-    organizations: ''
-
-  - rank: 123
-    name: 'Bjørn Fjukstad'
-    login: 'fjukstad'
-    id: 1394111
-    contributions: 1042
-    company: 'University of Tromsø'
-    organizations: 'github-beta,uit-inf-3200,uit-no,uit-inf-3203,kodeklubben-tromso,skolelab'
-
-  - rank: 124
-    name: 'ernie'
-    login: 'iernie'
-    id: 196950
-    contributions: 1034
-    company: 'Bekk Consulting AS'
-    organizations: 'bekk,webkom,Samfundet'
-
-  - rank: 125
-    name: 'Jari Bakken'
-    login: 'jarib'
-    id: 572
-    contributions: 1029
-    company: '@vgno | @holderdeord '
-    organizations: 'finn-no,rubinius,vgno,SeleniumHQ,watir,holderdeord'
-
-  - rank: 126
-    name: 'Christer Edvartsen'
-    login: 'christeredvartsen'
-    id: 25402
-    contributions: 1029
-    company: 'Verdens Gang AS'
-    organizations: 'BeerNorway,imbo'
-
-  - rank: 127
-    name: 'Trym Skaar'
-    login: 'trym'
-    id: 1135
-    contributions: 1028
-    company: 'Skalar AS'
-    organizations: 'Skalar'
-
-  - rank: 128
-    name: 'Timothy Lim'
-    login: 'timothyylim'
-    id: 6047346
-    contributions: 1019
-    company: 'Joubel'
-    organizations: 'h5p'
-
-  - rank: 129
-    name: 'Liang Qi'
-    login: 'liangqi'
-    id: 97122
-    contributions: 983
-    company: ''
-    organizations: 'qtproject'
-
-  - rank: 130
-    name: 'Frode Grimstad Bang'
-    login: 'repoman'
-    id: 233010
-    contributions: 978
-    company: ''
-    organizations: ''
-
-  - rank: 131
-    name: 'Ole Christian Eidheim'
-    login: 'eidheim'
-    id: 5269318
-    contributions: 967
-    company: 'Norwegian University of Science and Technology'
-    organizations: 'cppit'
-
-  - rank: 132
-    name: 'Helge Milde'
-    login: 'helgefmi'
-    id: 95999
-    contributions: 958
-    company: '@Monsternett-AS '
-    organizations: ''
-
-  - rank: 133
-    name: 'Benjamin Rokseth'
-    login: 'bensinober'
-    id: 363338
-    contributions: 953
-    company: 'Oslo Public Library'
-    organizations: 'digibib'
-
-  - rank: 134
-    name: 'Hans-Wilhelm Warlo'
-    login: 'hanswilw'
-    id: 5417271
-    contributions: 939
-    company: 'Abakus, @webkom'
-    organizations: 'webkom,xcom-data,abakus-ntnu'
-
-  - rank: 135
-    name: 'Hans-Wilhelm Warlo'
-    login: 'hanswilw'
-    id: 5417271
-    contributions: 939
-    company: 'Abakus, @webkom'
-    organizations: 'webkom,xcom-data,abakus-ntnu'
-
-  - rank: 136
-    name: 'Alex Thomassen'
-    login: 'Decicus'
-    id: 1346090
-    contributions: 925
-    company: ''
-    organizations: 'The-Blacklist,MadrakIO'
-
-  - rank: 137
-    name: 'Johannes Gorset'
-    login: 'jgorset'
-    id: 195266
-    contributions: 921
-    company: '@schibsted'
-    organizations: ''
-
-  - rank: 138
-    name: 'Kjetil Valle'
-    login: 'kvalle'
-    id: 676827
-    contributions: 921
-    company: 'BEKK'
-    organizations: 'bekk'
-
-  - rank: 139
-    name: 'Dag'
-    login: 'monsendag'
-    id: 864626
-    contributions: 919
-    company: ''
-    organizations: 'poseidongroup'
-
-  - rank: 140
-    name: 'Martin Gammelsæter'
-    login: 'martingms'
-    id: 458783
-    contributions: 914
-    company: ''
-    organizations: 'UKA,itkinside'
-
-  - rank: 141
-    name: ''
-    login: 'LasseHaslev'
-    id: 3670799
-    contributions: 913
-    company: ''
-    organizations: ''
-
-  - rank: 142
-    name: 'Jørgen M. Skogås'
-    login: 'jorgenskogas'
-    id: 29272
-    contributions: 905
-    company: 'Supernode'
-    organizations: 'oppgavekortet,CapitechAS,supernode-as'
-
-  - rank: 143
-    name: 'Aleksander S.'
-    login: 'myth'
-    id: 2415878
-    contributions: 903
-    company: 'Overflow'
-    organizations: 'dotkom'
-
-  - rank: 144
-    name: 'Kim Tore Jensen'
-    login: 'ambientsound'
-    id: 791756
-    contributions: 892
-    company: 'Norwegian Meteorological Institute'
-    organizations: ''
-
-  - rank: 145
-    name: 'Nikolai Norman Andersen'
-    login: 'nikolaia'
-    id: 406950
-    contributions: 888
-    company: '@idehub / @bekk '
-    organizations: 'bekk,idehub,github-beta'
-
-  - rank: 146
-    name: 'Even Holthe'
-    login: 'evenh'
-    id: 2701536
-    contributions: 885
-    company: '@PayEx'
-    organizations: 'PayEx'
-
-  - rank: 147
-    name: 'Ivar Conradi Østhus'
-    login: 'ivarconr'
-    id: 158948
-    contributions: 877
-    company: 'FINN.no'
-    organizations: 'smidig,schibsted'
-
-  - rank: 148
-    name: 'Erlend Ellingsen'
-    login: 'ErlendEllingsen'
-    id: 977988
-    contributions: 869
-    company: ''
-    organizations: 'EllarDevelopment'
-
-  - rank: 149
-    name: 'Petter Samuelsen'
-    login: 'pettersamuelsen'
-    id: 1244867
-    contributions: 865
-    company: ''
-    organizations: ''
-
-  - rank: 150
-    name: 'Jarle Pedersen'
-    login: 'jarped'
-    id: 3570752
-    contributions: 865
-    company: 'Norconsult'
-    organizations: ''
-
-  - rank: 151
-    name: 'Christoffer Tønnessen'
-    login: 'cristeahub'
-    id: 1488921
-    contributions: 857
-    company: ''
-    organizations: 'Samfundet,ninjadev,featfm,Poetene,wikipendium,dmpro2014,bftj'
-
-  - rank: 152
-    name: 'Fredrik A. Madsen-Malmo'
-    login: 'FredrikAugust'
-    id: 7691547
-    contributions: 850
-    company: '@discover-org '
-    organizations: 'discover-org'
-
-  - rank: 153
-    name: 'Harald Floor Wilhelmsen'
-    login: 'haraldfw'
-    id: 3730660
-    contributions: 842
-    company: ''
-    organizations: 'tihlde'
-
-  - rank: 154
-    name: 'Johan Sørensen'
-    login: 'js'
-    id: 23626
-    contributions: 830
-    company: '@nrkno '
-    organizations: ''
-
-  - rank: 155
-    name: 'Tibor Cz'
-    login: 'neonwarp'
-    id: 4045950
-    contributions: 829
-    company: ''
-    organizations: 'SendRegning'
-
-  - rank: 156
-    name: 'David'
-    login: 'tipsy'
-    id: 1521451
-    contributions: 822
-    company: 'Telenor Digital'
-    organizations: ''
-
-  - rank: 157
-    name: 'Stein-Otto Svorstøl'
-    login: 'essoen'
-    id: 1620267
-    contributions: 807
-    company: 'Student, Computer science, NTNU'
-    organizations: 'capraconsulting,abakusbackup,Studentmediene,abakus-ntnu'
-
-  - rank: 158
     name: 'Trond Norbye'
     login: 'trondn'
     id: 8673
-    contributions: 802
+    contributions: 1402
     company: ''
     organizations: 'membase,memcached,jenkinsci,couchbase,couchbaselabs,OpenGrok'
 
-  - rank: 159
-    name: 'Marius Gundersen'
-    login: 'mariusGundersen'
-    id: 464152
-    contributions: 802
-    company: ''
-    organizations: 'Komplett'
+  - rank: 100
+    name: 'Philipp Hancke'
+    login: 'fippo'
+    id: 289731
+    contributions: 1400
+    company: 'appear.in / telenor digital'
+    organizations: 'comoyo,appearin,otalk,webrtcftw'
 
-  - rank: 160
-    name: 'Tom Gundersen'
-    login: 'teg'
-    id: 5409
-    contributions: 786
-    company: 'Red Hat'
+  - rank: 101
+    name: 'Rafael Winterhalter'
+    login: 'raphw'
+    id: 4489328
+    contributions: 1393
+    company: 'Scienta'
+    organizations: 'javaBin,hibernate,Scienta,mockito,instana,sitepoint-editors,cglib'
+
+  - rank: 102
+    name: 'Frode Tobias Bjerke'
+    login: 'frodebjerke'
+    id: 831318
+    contributions: 1385
+    company: ''
     organizations: ''
 
-  - rank: 161
-    name: 'Nicolay Ramm'
-    login: 'nicolayr'
-    id: 1150841
-    contributions: 785
+  - rank: 103
+    name: 'Jan Henning Thorsen'
+    login: 'jhthorsen'
+    id: 45729
+    contributions: 1385
+    company: ''
+    organizations: ''
+
+  - rank: 104
+    name: 'Raymond Julin'
+    login: 'nervetattoo'
+    id: 45449
+    contributions: 1373
+    company: 'Task Analytics'
+    organizations: 'UnionOfRAD,BergenJS,netliferesearch'
+
+  - rank: 105
+    name: 'Morten Hjorth-Jensen'
+    login: 'mhjensen'
+    id: 2732953
+    contributions: 1366
+    company: 'Michigan State University and University of Oslo'
+    organizations: 'NuclearStructure,CompPhysics,NuclearTalent,NuclearPhysicsWorkshops'
+
+  - rank: 106
+    name: 'Jari Bakken'
+    login: 'jarib'
+    id: 572
+    contributions: 1354
+    company: '@vgno | @holderdeord '
+    organizations: 'finn-no,rubinius,vgno,SeleniumHQ,watir,holderdeord'
+
+  - rank: 107
+    name: 'Kim Røen'
+    login: 'kimroen'
+    id: 520420
+    contributions: 1352
+    company: '@Leieting '
+    organizations: 'pido,PAM-AS'
+
+  - rank: 108
+    name: 'Anders Evenrud'
+    login: 'andersevenrud'
+    id: 161548
+    contributions: 1350
+    company: 'Copyleft Solutions'
+    organizations: 'copyleft,Host1,Stinkstudios,Epla,os-js'
+
+  - rank: 109
+    name: 'Wallace Sidhrée'
+    login: 'dreamyguy'
+    id: 1021849
+    contributions: 1341
+    company: 'Dreamyguy.com'
+    organizations: ''
+
+  - rank: 110
+    name: 'Timothy Lim'
+    login: 'timothyylim'
+    id: 6047346
+    contributions: 1336
+    company: 'Joubel'
+    organizations: 'h5p'
+
+  - rank: 111
+    name: 'Frode Petterson'
+    login: 'icc'
+    id: 186580
+    contributions: 1331
+    company: 'Joubel AS'
+    organizations: 'h5p'
+
+  - rank: 112
+    name: 'Trond A Ekseth'
+    login: 'haste'
+    id: 17922
+    contributions: 1327
+    company: 'OMT Tech'
+    organizations: 'ningyou,Exherbo,resistancenorway,oUF-wow'
+
+  - rank: 113
+    name: 'Espen Angell Kristiansen'
+    login: 'espenak'
+    id: 84501
+    contributions: 1314
+    company: ''
+    organizations: 'devilry'
+
+  - rank: 114
+    name: 'Adrian L Lange'
+    login: 'p3lim'
+    id: 26496
+    contributions: 1312
+    company: 'NTNU'
+    organizations: 'p3lim-wow,github-beta,wowace-mirror,ps2-alerts,oUF-wow'
+
+  - rank: 115
+    name: 'Martin Stabenfeldt'
+    login: 'stabenfeldt'
+    id: 181272
+    contributions: 1308
+    company: ''
+    organizations: ''
+
+  - rank: 116
+    name: 'Christian Peter'
+    login: 'chrpeter'
+    id: 1065009
+    contributions: 1294
+    company: '@knowit '
+    organizations: 'isfit,knowit,NDLANO,KnowArIoT'
+
+  - rank: 117
+    name: 'Vegar Ringdal'
+    login: 'vegarringdal'
+    id: 2901416
+    contributions: 1246
+    company: ''
+    organizations: ''
+
+  - rank: 118
+    name: 'Bjørn Asle Taranger'
+    login: 'brotherBear'
+    id: 644545
+    contributions: 1210
+    company: 'Capgemini'
+    organizations: 'capgemini-stavanger,Statoil-SA'
+
+  - rank: 119
+    name: 'Kristoffer K Larsen'
+    login: 'larseen'
+    id: 5478280
+    contributions: 1210
+    company: '@teamvio '
+    organizations: 'abakusbackup,abakus-ntnu,teamvio,blesense'
+
+  - rank: 120
+    name: 'Olle Fredriksson'
+    login: 'ollef'
+    id: 197549
+    contributions: 1208
+    company: '@fusetools '
+    organizations: ''
+
+  - rank: 121
+    name: 'Sigurd Fosseng'
+    login: 'laat'
+    id: 146559
+    contributions: 1205
+    company: 'SpareBank1'
+    organizations: 'dotkom'
+
+  - rank: 122
+    name: 'Frode Grimstad Bang'
+    login: 'repoman'
+    id: 233010
+    contributions: 1197
+    company: ''
+    organizations: ''
+
+  - rank: 123
+    name: 'Sten Roger Sandvik'
+    login: 'srs'
+    id: 45278
+    contributions: 1195
+    company: '@enonic'
+    organizations: 'enonic,purplejs'
+
+  - rank: 124
+    name: 'Erik Smistad'
+    login: 'smistad'
+    id: 176325
+    contributions: 1192
+    company: 'Norwegian University of Science and Technology, SINTEF Medical Technology'
+    organizations: ''
+
+  - rank: 125
+    name: 'Robin Burchell'
+    login: 'rburchell'
+    id: 125863
+    contributions: 1189
+    company: '@CrimsonAS '
+    organizations: 'saesu,nemomobile,inspircd,mer-tools,CrimsonAS'
+
+  - rank: 126
+    name: 'Robert Kolner'
+    login: 'RobertKolner'
+    id: 264386
+    contributions: 1161
+    company: '@lucida-no '
+    organizations: 'edb-gjengen'
+
+  - rank: 127
+    name: 'Remi Nyborg'
+    login: 'reminyborg'
+    id: 1716596
+    contributions: 1161
+    company: '@EcoOnline'
+    organizations: 'EcoOnline,VestfoldDevelopers'
+
+  - rank: 128
+    name: 'Bjørn Fjukstad'
+    login: 'fjukstad'
+    id: 1394111
+    contributions: 1140
+    company: 'University of Tromsø'
+    organizations: 'github-beta,uit-inf-3200,uit-no,uit-inf-3203,kodeklubben-tromso,skolelab'
+
+  - rank: 129
+    name: 'Sofien Rakke Lazreg'
+    login: 'lazreg87'
+    id: 6033889
+    contributions: 1116
+    company: ''
+    organizations: ''
+
+  - rank: 130
+    name: 'Miroslav Kuchta'
+    login: 'MiroK'
+    id: 327163
+    contributions: 1113
+    company: 'UiO'
+    organizations: ''
+
+  - rank: 131
+    name: 'David'
+    login: 'tipsy'
+    id: 1521451
+    contributions: 1107
+    company: 'Telenor Digital'
+    organizations: ''
+
+  - rank: 132
+    name: 'Tomas Fagerbekk'
+    login: 'tomfa'
+    id: 1502702
+    contributions: 1105
+    company: '@otovo '
+    organizations: 'Orakeltjenesten,juniorconsulting,otovo'
+
+  - rank: 133
+    name: 'Mikael Brevik'
+    login: 'mikaelbr'
+    id: 606374
+    contributions: 1088
+    company: '@bekk '
+    organizations: 'bekk,superherojs,BartJS,omniscientjs,nodejs'
+
+  - rank: 134
+    name: 'Christoffer Tønnessen'
+    login: 'cristeahub'
+    id: 1488921
+    contributions: 1081
+    company: ''
+    organizations: 'Samfundet,ninjadev,featfm,Poetene,wikipendium,dmpro2014,bftj'
+
+  - rank: 135
+    name: 'Jørgen M. Skogås'
+    login: 'jorgenskogas'
+    id: 29272
+    contributions: 1054
+    company: 'Supernode'
+    organizations: 'oppgavekortet,CapitechAS,supernode-as'
+
+  - rank: 136
+    name: 'Aslak Knutsen'
+    login: 'aslakknutsen'
+    id: 132158
+    contributions: 1051
+    company: 'Red Hat, Inc.'
+    organizations: 'seam,arquillian,shrinkwrap,weld,forge,awestruct,javaee-samples,almighty'
+
+  - rank: 137
+    name: 'Trym Skaar'
+    login: 'trym'
+    id: 1135
+    contributions: 1043
+    company: 'Skalar AS'
+    organizations: 'Skalar'
+
+  - rank: 138
+    name: 'Erlend Klakegg Bergheim'
+    login: 'klakegg'
+    id: 126939
+    contributions: 1025
+    company: 'Direktoratet for forvaltning og IKT (Difi)'
+    organizations: 'difi'
+
+  - rank: 139
+    name: 'Eivind Fonn'
+    login: 'TheBB'
+    id: 619375
+    contributions: 1022
+    company: 'SINTEF'
+    organizations: 'emacs-evil'
+
+  - rank: 140
+    name: 'Johan Sørensen'
+    login: 'js'
+    id: 23626
+    contributions: 1019
+    company: '@nrkno '
+    organizations: ''
+
+  - rank: 141
+    name: 'Ole Herman Schumacher Elgesem'
+    login: 'olehermanse'
+    id: 4048546
+    contributions: 1013
+    company: '@cfengine '
+    organizations: 'fui,cfengine,mendersoftware,ifimikro'
+
+  - rank: 142
+    name: 'Charles Martin'
+    login: 'cpmpercussion'
+    id: 261139
+    contributions: 1013
+    company: 'University of Oslo'
+    organizations: ''
+
+  - rank: 143
+    name: 'Ioannis Skoulis'
+    login: 'giskou'
+    id: 73481
+    contributions: 993
+    company: 'Bouvet ASA'
+    organizations: 'DAINTINESS-Group'
+
+  - rank: 144
+    name: 'Aleksander S.'
+    login: 'myth'
+    id: 2415878
+    contributions: 991
+    company: 'Overflow'
+    organizations: 'dotkom'
+
+  - rank: 145
+    name: 'Matthew'
+    login: 'm-mcgowan'
+    id: 2465470
+    contributions: 980
+    company: ''
+    organizations: ''
+
+  - rank: 146
+    name: 'Alex Thomassen'
+    login: 'Decicus'
+    id: 1346090
+    contributions: 977
+    company: ''
+    organizations: 'MadrakIO'
+
+  - rank: 147
+    name: 'Araz Abishov'
+    login: 'ArazAbishov'
+    id: 4133693
+    contributions: 975
     company: 'University of Oslo'
     organizations: 'dhis2'
 
+  - rank: 148
+    name: 'Even Holthe'
+    login: 'evenh'
+    id: 2701536
+    contributions: 969
+    company: '@PayEx'
+    organizations: 'PayEx'
+
+  - rank: 149
+    name: 'ernie'
+    login: 'iernie'
+    id: 196950
+    contributions: 967
+    company: 'Bekk Consulting AS'
+    organizations: 'bekk,webkom,Samfundet'
+
+  - rank: 150
+    name: 'Torstein S. Skulbru'
+    login: 'tskulbru'
+    id: 241669
+    contributions: 960
+    company: 'EVRY AS'
+    organizations: 'evry-bergen'
+
+  - rank: 151
+    name: 'Benjamin Rokseth'
+    login: 'bensinober'
+    id: 363338
+    contributions: 956
+    company: 'Oslo Public Library'
+    organizations: 'digibib'
+
+  - rank: 152
+    name: 'J-P Nurmi'
+    login: 'jpnurmi'
+    id: 140617
+    contributions: 946
+    company: ''
+    organizations: 'qt,znc,communi,qtproject,qt-labs'
+
+  - rank: 153
+    name: 'Ole Christian Eidheim'
+    login: 'eidheim'
+    id: 5269318
+    contributions: 942
+    company: 'Norwegian University of Science and Technology'
+    organizations: 'cppit'
+
+  - rank: 154
+    name: 'Hans Kristian Flaatten'
+    login: 'Starefossen'
+    id: 968267
+    contributions: 941
+    company: '@EVRY '
+    organizations: 'Turistforeningen,BLUG,evry-bergen,libjpmul,GeoGames,nodejs,Rugdeveien,Turbasen,BergenOpenData'
+
+  - rank: 155
+    name: 'Hans-Wilhelm Warlo'
+    login: 'hanswilw'
+    id: 5417271
+    contributions: 939
+    company: 'Abakus, @webkom'
+    organizations: 'webkom,xcom-data,abakus-ntnu'
+
+  - rank: 156
+    name: 'Kostiantyn Koval'
+    login: 'kostiakoval'
+    id: 1086260
+    contributions: 938
+    company: 'Agens AS'
+    organizations: 'agensdev,agens-no'
+
+  - rank: 157
+    name: 'Dag'
+    login: 'monsendag'
+    id: 864626
+    contributions: 932
+    company: ''
+    organizations: 'poseidongroup'
+
+  - rank: 158
+    name: 'Jamy'
+    login: 'JamyGolden'
+    id: 602472
+    contributions: 927
+    company: 'appear.in'
+    organizations: 'CSS-Tricks'
+
+  - rank: 159
+    name: 'Kim Tore Jensen'
+    login: 'ambientsound'
+    id: 791756
+    contributions: 924
+    company: '@metno'
+    organizations: ''
+
+  - rank: 160
+    name: 'Mark Polak'
+    login: 'Markionium'
+    id: 2134901
+    contributions: 922
+    company: 'University of Oslo'
+    organizations: 'dhis2,InvisibleInkProject'
+
+  - rank: 161
+    name: 'Jakob Lind'
+    login: 'jakoblind'
+    id: 399339
+    contributions: 908
+    company: 'Hatfactory'
+    organizations: ''
+
   - rank: 162
+    name: 'Ivar Conradi Østhus'
+    login: 'ivarconr'
+    id: 158948
+    contributions: 906
+    company: 'FINN.no'
+    organizations: 'smidig,schibsted'
+
+  - rank: 163
+    name: 'Petter Samuelsen'
+    login: 'pettersamuelsen'
+    id: 1244867
+    contributions: 904
+    company: ''
+    organizations: ''
+
+  - rank: 164
+    name: 'Jean Niklas L''orange'
+    login: 'hyPiRion'
+    id: 504876
+    contributions: 892
+    company: 'Rendra'
+    organizations: 'abakusbackup,rendra-tech,go-edn,leiningen'
+
+  - rank: 165
+    name: 'Stian Eikeland'
+    login: 'stianeikeland'
+    id: 680040
+    contributions: 889
+    company: ''
+    organizations: 'edbre,revolverhuset'
+
+  - rank: 166
+    name: 'Marius Bugge Monsen'
+    login: 'mariusbu'
+    id: 12712
+    contributions: 882
+    company: 'Cutehacks AS'
+    organizations: ''
+
+  - rank: 167
     name: 'Erlend Hamberg'
     login: 'ehamberg'
     id: 16063
-    contributions: 760
+    contributions: 882
     company: ''
     organizations: 'kosepeisen,soundrop'
 
-  - rank: 163
-    name: 'Kjetil Kjernsmo'
-    login: 'kjetilk'
-    id: 154068
-    contributions: 756
-    company: 'Multiarc'
-    organizations: 'Tamarou'
-
-  - rank: 164
-    name: 'Anthoni Giskegjerde'
-    login: 'antonigiske'
-    id: 271969
-    contributions: 756
-    company: 'Kodebyraaet AS'
-    organizations: 'Kodebyraaet'
-
-  - rank: 165
-    name: 'Andreas Åkre Solberg'
-    login: 'andreassolberg'
-    id: 101361
-    contributions: 751
-    company: 'UNINETT'
-    organizations: 'UNINETT'
-
-  - rank: 166
-    name: 'Tarjei Husøy'
-    login: 'thusoy'
-    id: 1466123
-    contributions: 750
-    company: '@megacool '
-    organizations: 'TelemarkAlpint,UKMNorge,streamr,eurecombde,megacool'
-
-  - rank: 167
-    name: 'Richard Walker'
-    login: 'digitalsadhu'
-    id: 1177098
-    contributions: 749
-    company: 'Media Suite'
-    organizations: 'mediasuitenz,openhackchch,oneshot,ash-framework'
-
   - rank: 168
-    name: 'Eugene Zaikonnikov'
-    login: 'varjagg'
-    id: 2544247
-    contributions: 748
-    company: 'Norphonic'
-    organizations: ''
-
-  - rank: 169
-    name: 'Fredrik (Zhiyu) Luo'
-    login: 'fredrikluo'
-    id: 8016400
-    contributions: 745
-    company: 'Opera software ASA'
-    organizations: ''
-
-  - rank: 170
-    name: 'Leif Olsen'
-    login: 'leifoolsen'
-    id: 10088486
-    contributions: 741
-    company: 'The Norwegian Tax Administration (Skatteetaten - SITS)'
-    organizations: ''
-
-  - rank: 171
-    name: 'Torstein Saltvedt'
-    login: 'saltvedt'
-    id: 1760730
-    contributions: 741
-    company: ''
-    organizations: 'vimond,bergenrb'
-
-  - rank: 172
-    name: 'Thomas Johansen'
-    login: 'thomasjo'
-    id: 3622
-    contributions: 738
-    company: ''
-    organizations: 'atom'
-
-  - rank: 173
-    name: 'Anton Babenko'
-    login: 'antonbabenko'
-    id: 393243
-    contributions: 733
-    company: 'Betajob AS'
-    organizations: 'betajob,terraform-community-modules'
-
-  - rank: 174
-    name: 'Sigurd Gartmann'
-    login: 'sigurdga'
-    id: 114134
-    contributions: 728
-    company: 'Strekmann AS'
-    organizations: ''
-
-  - rank: 175
-    name: 'Hugo Cruz'
-    login: 'hugocruz'
-    id: 1942281
-    contributions: 727
-    company: 'Varnish Software AS'
-    organizations: 'varnish'
-
-  - rank: 176
-    name: 'Martin M Syvertsen'
-    login: 'Rangor'
-    id: 287399
-    contributions: 712
-    company: ''
-    organizations: ''
-
-  - rank: 177
-    name: 'Panos Sakkos'
-    login: 'PanosSakkos'
-    id: 1270063
-    contributions: 709
-    company: '@Microsoft '
-    organizations: 'Microsoft,dono-app'
-
-  - rank: 178
     name: 'Jesper Haug Karsrud'
     login: 'jkarsrud'
     id: 185357
-    contributions: 708
+    contributions: 881
     company: '@Timely '
-    organizations: 'BergenJS'
+    organizations: 'emberwatch,BergenJS'
+
+  - rank: 169
+    name: 'Jarle Pedersen'
+    login: 'jarped'
+    id: 3570752
+    contributions: 875
+    company: 'Norconsult'
+    organizations: ''
+
+  - rank: 170
+    name: 'Tobias Lundin'
+    login: 'tolu'
+    id: 658586
+    contributions: 865
+    company: ''
+    organizations: 'nrkno'
+
+  - rank: 171
+    name: 'Liang Qi'
+    login: 'liangqi'
+    id: 97122
+    contributions: 865
+    company: ''
+    organizations: 'qtproject'
+
+  - rank: 172
+    name: 'Johannes Gorset'
+    login: 'jgorset'
+    id: 195266
+    contributions: 862
+    company: '@schibsted'
+    organizations: ''
+
+  - rank: 173
+    name: 'Erlend Ellingsen'
+    login: 'ErlendEllingsen'
+    id: 977988
+    contributions: 848
+    company: ''
+    organizations: 'EllarDevelopment'
+
+  - rank: 174
+    name: 'Marius Gundersen'
+    login: 'mariusGundersen'
+    id: 464152
+    contributions: 841
+    company: ''
+    organizations: 'Komplett'
+
+  - rank: 175
+    name: 'Erik Faye-Lund'
+    login: 'kusma'
+    id: 47073
+    contributions: 832
+    company: 'Fusetools AS'
+    organizations: 'msysgit,grate-driver,rocket,fusetools'
+
+  - rank: 176
+    name: 'Harald Floor Wilhelmsen'
+    login: 'haraldfw'
+    id: 3730660
+    contributions: 823
+    company: ''
+    organizations: 'tihlde'
+
+  - rank: 177
+    name: 'Tom Gundersen'
+    login: 'teg'
+    id: 5409
+    contributions: 823
+    company: 'Red Hat'
+    organizations: ''
+
+  - rank: 178
+    name: 'Kjetil Valle'
+    login: 'kvalle'
+    id: 676827
+    contributions: 817
+    company: 'BEKK'
+    organizations: 'bekk'
 
   - rank: 179
+    name: 'Torstein Saltvedt'
+    login: 'saltvedt'
+    id: 1760730
+    contributions: 809
+    company: ''
+    organizations: 'vimond,bergenrb'
+
+  - rank: 180
+    name: 'Fredrik A. Madsen-Malmo'
+    login: 'FredrikAugust'
+    id: 7691547
+    contributions: 806
+    company: ''
+    organizations: ''
+
+  - rank: 181
+    name: 'Alex Stavrinou'
+    login: 'irt-io'
+    id: 5434285
+    contributions: 805
+    company: 'Looking for work'
+    organizations: ''
+
+  - rank: 182
+    name: 'Martin Gammelsæter'
+    login: 'martingms'
+    id: 458783
+    contributions: 802
+    company: ''
+    organizations: 'UKA,itkinside'
+
+  - rank: 183
+    name: 'Fredrik (Zhiyu) Luo'
+    login: 'fredrikluo'
+    id: 8016400
+    contributions: 785
+    company: 'Opera software ASA'
+    organizations: ''
+
+  - rank: 184
     name: 'Alfred Bratterud'
     login: 'alfred-bratterud'
     id: 2071766
-    contributions: 705
+    contributions: 776
     company: 'Oslo and Akershus University College of Applied Science'
     organizations: 'hioa-cs'
 
-  - rank: 180
+  - rank: 185
+    name: 'Fergus McDowall'
+    login: 'fergiemcdowall'
+    id: 1122333
+    contributions: 775
+    company: 'norch.io'
+    organizations: ''
+
+  - rank: 186
     name: 'Daniel Cherubini'
     login: 'danmademe'
     id: 399473
-    contributions: 694
+    contributions: 773
     company: '@tidal-engineering'
     organizations: 'tidal-engineering'
 
-  - rank: 181
-    name: 'Kevin Brubeck Unhammer'
-    login: 'unhammer'
-    id: 56868
-    contributions: 691
+  - rank: 187
+    name: 'Mark L.'
+    login: 'faymontage'
+    id: 7949897
+    contributions: 772
     company: ''
-    organizations: 'matxin'
+    organizations: ''
 
-  - rank: 182
-    name: 'Alexander Svendsen'
-    login: 'alexander-svendsen'
-    id: 2320398
-    contributions: 689
-    company: 'Bekk Consulting'
-    organizations: 'bekk,BEKK-IoT'
+  - rank: 188
+    name: 'Eugene Zaikonnikov'
+    login: 'varjagg'
+    id: 2544247
+    contributions: 772
+    company: 'Norphonic'
+    organizations: ''
 
-  - rank: 183
-    name: 'Gaute Hope'
-    login: 'gauteh'
-    id: 56827
-    contributions: 687
+  - rank: 189
+    name: 'Nikolai Norman Andersen'
+    login: 'nikolaia'
+    id: 406950
+    contributions: 763
+    company: '@idehub / @bekk '
+    organizations: 'bekk,idehub,github-beta'
+
+  - rank: 190
+    name: 'Anthoni Giskegjerde'
+    login: 'antonigiske'
+    id: 271969
+    contributions: 759
+    company: 'Kodebyraaet AS'
+    organizations: 'Kodebyraaet'
+
+  - rank: 191
+    name: 'Asbjorn Enge'
+    login: 'asbjornenge'
+    id: 241601
+    contributions: 746
     company: ''
-    organizations: 'sup-heliotrope,Exherbo,nansencenter,astroidmail'
+    organizations: 'nodeschool,sjugio,nodejs,taghubnet,zombiec0rn,complex-components'
 
-  - rank: 184
+  - rank: 192
+    name: 'Sven Anders Robbestad'
+    login: 'svenanders'
+    id: 1560743
+    contributions: 746
+    company: 'Acando'
+    organizations: ''
+
+  - rank: 193
+    name: 'Tormod Erevik Lea'
+    login: 'tormoder'
+    id: 605575
+    contributions: 745
+    company: ''
+    organizations: ''
+
+  - rank: 194
+    name: 'Richard Walker'
+    login: 'digitalsadhu'
+    id: 1177098
+    contributions: 742
+    company: 'Media Suite'
+    organizations: 'mediasuitenz,openhackchch,oneshot,ash-framework'
+
+  - rank: 195
+    name: 'Oystein Bjorke'
+    login: 'objorke'
+    id: 439716
+    contributions: 739
+    company: ''
+    organizations: ''
+
+  - rank: 196
     name: 'David Bezemer'
     login: 'DBezemer'
     id: 1172670
-    contributions: 672
+    contributions: 726
     company: '@kaltura @Kaltura-PS '
     organizations: 'kaltura,Kaltura-PS'
 
-  - rank: 185
+  - rank: 197
+    name: 'Vincent Ambo'
+    login: 'tazjin'
+    id: 1552853
+    contributions: 725
+    company: 'Nordcloud'
+    organizations: 'Goonswarm'
+
+  - rank: 198
+    name: 'Asbjørn Ulsberg'
+    login: 'asbjornu'
+    id: 12283
+    contributions: 718
+    company: '@PayEx '
+    organizations: 'okb,HtmlUnit,piratpartiet,nunit,HydraCG,PayEx,GitTools,Pomona'
+
+  - rank: 199
+    name: 'Sigurd Gartmann'
+    login: 'sigurdga'
+    id: 114134
+    contributions: 714
+    company: 'Strekmann AS'
+    organizations: ''
+
+  - rank: 200
+    name: 'Martin M Syvertsen'
+    login: 'Rangor'
+    id: 287399
+    contributions: 711
+    company: ''
+    organizations: ''
+
+  - rank: 201
+    name: 'B.E. Henriksen'
+    login: 'jiku'
+    id: 4321
+    contributions: 706
+    company: ''
+    organizations: ''
+
+  - rank: 202
+    name: 'Christer Edvartsen'
+    login: 'christeredvartsen'
+    id: 25402
+    contributions: 697
+    company: 'Verdens Gang AS'
+    organizations: 'BeerNorway,imbo'
+
+  - rank: 203
+    name: 'Sveinung Røsaker'
+    login: 'sveisvei'
+    id: 121438
+    contributions: 691
+    company: '@finn-no '
+    organizations: 'finn-no'
+
+  - rank: 204
+    name: 'Liam Svanåsbakken Crouch'
+    login: 'petterroea'
+    id: 725557
+    contributions: 686
+    company: '@fusetools'
+    organizations: ''
+
+  - rank: 205
+    name: 'Anton Babenko'
+    login: 'antonbabenko'
+    id: 393243
+    contributions: 685
+    company: 'Betajob AS'
+    organizations: 'betajob,terraform-community-modules'
+
+  - rank: 206
     name: 'Dag-Erling Smørgrav'
     login: 'dag-erling'
     id: 4972155
@@ -1482,71 +1650,79 @@ users:
     company: 'University of Oslo'
     organizations: 'freebsd,unioslo,cryb-to'
 
-  - rank: 186
-    name: 'Jakub Piasecki'
-    login: 'zaporylie'
-    id: 1690685
-    contributions: 668
-    company: 'Ny Media AS'
-    organizations: 'nymedia,drupal-docker'
+  - rank: 207
+    name: 'Tarjei Husøy'
+    login: 'thusoy'
+    id: 1466123
+    contributions: 669
+    company: '@megacool '
+    organizations: 'TelemarkAlpint,UKMNorge,streamr,eurecombde,megacool'
 
-  - rank: 187
-    name: 'Araz Abishov'
-    login: 'ArazAbishov'
-    id: 4133693
-    contributions: 667
-    company: 'University of Oslo'
-    organizations: 'dhis2'
+  - rank: 208
+    name: 'Kevin Brubeck Unhammer'
+    login: 'unhammer'
+    id: 56868
+    contributions: 666
+    company: ''
+    organizations: 'matxin'
 
-  - rank: 188
-    name: 'Mostafa Torbjørn Berg'
-    login: 'mostafaberg'
-    id: 976234
-    contributions: 660
-    company: 'Nordic Semiconductor ASA'
+  - rank: 209
+    name: 'Anders Borud'
+    login: 'andebor'
+    id: 6567953
+    contributions: 663
+    company: 'Sesam'
+    organizations: 'Orakeltjenesten'
+
+  - rank: 210
+    name: 'Stein-Otto Svorstøl'
+    login: 'essoen'
+    id: 1620267
+    contributions: 663
+    company: 'Student, Computer science, NTNU'
+    organizations: 'capraconsulting,abakusbackup,abakus-ntnu'
+
+  - rank: 211
+    name: 'Håvard Fossli'
+    login: 'hfossli'
+    id: 3652587
+    contributions: 657
+    company: 'Agens AS'
+    organizations: 'Overconstrained,agensdev,agens-no'
+
+  - rank: 212
+    name: ''
+    login: 'trgr'
+    id: 6060188
+    contributions: 654
+    company: 'ZoopIt AS'
     organizations: ''
 
-  - rank: 189
-    name: 'Sveinung Røsaker'
-    login: 'sveisvei'
-    id: 121438
-    contributions: 659
-    company: '@finn-no '
-    organizations: 'finn-no'
+  - rank: 213
+    name: 'Rudy Boudewijn van Etten'
+    login: 'Pakz001'
+    id: 18249306
+    contributions: 650
+    company: ''
+    organizations: ''
 
-  - rank: 190
+  - rank: 214
     name: 'Alf Magne Kalleland'
     login: 'DHTMLGoodies'
     id: 3043375
-    contributions: 659
-    company: ''
-    organizations: ''
-
-  - rank: 191
-    name: 'Anders Hoff'
-    login: 'inconvergent'
-    id: 404858
-    contributions: 655
-    company: ''
-    organizations: ''
-
-  - rank: 192
-    name: 'Asbjorn Enge'
-    login: 'asbjornenge'
-    id: 241601
-    contributions: 654
-    company: ''
-    organizations: 'knowit,nodeschool,sjugio,nodejs,taghubnet,zombiec0rn,complex-components'
-
-  - rank: 193
-    name: 'Oystein Bjorke'
-    login: 'objorke'
-    id: 439716
     contributions: 649
     company: ''
     organizations: ''
 
-  - rank: 194
+  - rank: 215
+    name: 'Christopher Loessl'
+    login: 'hashier'
+    id: 92332
+    contributions: 648
+    company: ''
+    organizations: 'appearin'
+
+  - rank: 216
     name: 'Christian Maughan Tegnér'
     login: 'CMTegner'
     id: 820552
@@ -1554,79 +1730,71 @@ users:
     company: '@finn-no'
     organizations: ''
 
-  - rank: 195
-    name: 'Asbjørn Ulsberg'
-    login: 'asbjornu'
-    id: 12283
-    contributions: 644
-    company: '@PayEx '
-    organizations: 'okb,HtmlUnit,piratpartiet,nunit,PayEx,GitTools,Pomona'
+  - rank: 217
+    name: 'Bjørn Christian Seime'
+    login: 'bjorncs'
+    id: 798335
+    contributions: 637
+    company: '@yahoo'
+    organizations: 'yahoo'
 
-  - rank: 196
-    name: 'Thomas Hirsch'
-    login: 'relet'
-    id: 135696
-    contributions: 642
-    company: 'Celerway AS'
-    organizations: 'Celerway'
+  - rank: 218
+    name: 'Simen Svale Skogsrud'
+    login: 'simen'
+    id: 47890
+    contributions: 637
+    company: 'Bengler as'
+    organizations: 'bengler,origo,grbl'
 
-  - rank: 197
-    name: 'Eivind Josten'
-    login: 'eivindj'
-    id: 3071053
-    contributions: 641
-    company: 'Kahoot!'
-    organizations: ''
-
-  - rank: 198
-    name: 'Eivind Vegsundvåg'
-    login: 'eivindveg'
-    id: 2019419
-    contributions: 632
-    company: ''
-    organizations: 'MetaCodeStudio'
-
-  - rank: 199
-    name: 'Haakon Sporsheim'
-    login: 'ieei'
-    id: 352842
-    contributions: 631
-    company: ''
-    organizations: 'comoyo'
-
-  - rank: 200
-    name: 'Eskil Opdahl Nordland'
-    login: 'Eskalol'
-    id: 7785952
-    contributions: 628
-    company: '@appressoas'
-    organizations: 'devilry,Lavvu,NiehkuEsports'
-
-  - rank: 201
-    name: 'Benedicte Emilie Brækken'
-    login: 'benedicteb'
-    id: 3595094
-    contributions: 616
+  - rank: 219
+    name: 'Mikael Mortensen'
+    login: 'mikaem'
+    id: 1677892
+    contributions: 634
     company: 'University of Oslo'
-    organizations: ''
+    organizations: 'spectralDNS'
 
-  - rank: 202
-    name: 'Håvard Fossli'
-    login: 'hfossli'
-    id: 3652587
-    contributions: 615
-    company: 'Agens AS'
-    organizations: 'Overconstrained,agensdev,agens-no'
+  - rank: 220
+    name: 'Einar Löve'
+    login: 'einarlove'
+    id: 1495211
+    contributions: 630
+    company: '@unfold'
+    organizations: 'unfold'
 
-  - rank: 203
+  - rank: 221
     name: 'Martin Polden'
     login: 'mpolden'
     id: 174496
-    contributions: 615
+    contributions: 620
     company: '@yahoo '
     organizations: 'tihlde'
 
-  - rank: 204
+  - rank: 222
+    name: 'Thomas Kalve'
+    login: 'tkalve'
+    id: 123207
+    contributions: 619
+    company: '@peanuts-as '
+    organizations: 'peanuts-as'
+
+  - rank: 223
+    name: 'Leif Olsen'
+    login: 'leifoolsen'
+    id: 10088486
+    contributions: 617
+    company: 'The Norwegian Tax Administration (Skatteetaten - SITS)'
+    organizations: ''
+
+  - rank: 224
+    name: 'Christian Dancke Tuen'
+    login: 'christiandt'
+    id: 800596
+    contributions: 608
+    company: ''
+    organizations: 'Videokomiteen,TeliaSoneraNorge'
+
+  - rank: 225
     name: 'Thomas Malt'
     login: 'tfmalt'
     id: 389110
@@ -1634,461 +1802,293 @@ users:
     company: 'NRK'
     organizations: ''
 
-  - rank: 205
-    name: 'Karsten Nikolai Strand'
-    login: 'BeeWarloc'
-    id: 1131289
-    contributions: 605
-    company: '@fusetools'
-    organizations: 'HtmlUnit,Pomona'
-
-  - rank: 206
-    name: 'Einar Löve'
-    login: 'einarlove'
-    id: 1495211
-    contributions: 602
-    company: '@unfold'
-    organizations: 'unfold'
-
-  - rank: 207
-    name: 'Fredrick Biering'
-    login: 'FredrickB'
-    id: 8116958
-    contributions: 600
-    company: '@mesan '
-    organizations: ''
-
-  - rank: 208
-    name: 'Simen Svale Skogsrud'
-    login: 'simen'
-    id: 47890
-    contributions: 598
-    company: 'Bengler as'
-    organizations: 'bengler,origo,grbl'
-
-  - rank: 209
-    name: 'Henning M. Stephansen'
-    login: 'henningms'
-    id: 1044790
-    contributions: 592
-    company: ''
-    organizations: ''
-
-  - rank: 210
-    name: 'Trond Hindenes'
-    login: 'trondhindenes'
-    id: 1747120
-    contributions: 588
-    company: 'Nordcloud'
-    organizations: ''
-
-  - rank: 211
-    name: 'Stein Inge Morisbak'
-    login: 'steinim'
-    id: 418275
-    contributions: 587
-    company: 'BEKK'
-    organizations: 'bekk,bekkopen'
-
-  - rank: 212
-    name: 'Ole Fredrik Lie'
-    login: 'olefredrik'
-    id: 1080017
-    contributions: 583
-    company: '@Backelite'
-    organizations: ''
-
-  - rank: 213
-    name: 'Espen Riskedal'
-    login: 'snowpong'
-    id: 177436
-    contributions: 583
-    company: 'Cutehacks AS'
-    organizations: ''
-
-  - rank: 214
-    name: 'Christopher Loessl'
-    login: 'hashier'
-    id: 92332
-    contributions: 582
-    company: ''
-    organizations: 'appearin'
-
-  - rank: 215
-    name: 'Jonas Jensen'
-    login: 'j0nas'
-    id: 6001131
-    contributions: 573
-    company: '@mesan '
-    organizations: ''
-
-  - rank: 216
-    name: 'Jon Terje Tvergrov Kalvatn'
-    login: 'kalvatn'
-    id: 354238
-    contributions: 570
-    company: 'Sportradar AS'
-    organizations: ''
-
-  - rank: 217
-    name: 'Tri Nguyen'
-    login: 'tmn'
-    id: 193333
-    contributions: 567
-    company: 'Telenor Norge'
-    organizations: 'BartJS,hackerspace-ntnu,nodejs,digio'
-
-  - rank: 218
-    name: 'Hans Ekkehard Plesser'
-    login: 'heplesser'
-    id: 1059644
-    contributions: 564
-    company: 'Norwegian University of Life Sciences'
-    organizations: 'compneuronmbu'
-
-  - rank: 219
-    name: 'August Z. Flatby'
-    login: 'augustzf'
-    id: 18098
-    contributions: 561
-    company: 'Biogrid AS'
-    organizations: ''
-
-  - rank: 220
-    name: 'Jostein Kjønigsen'
-    login: 'josteink'
-    id: 411338
-    contributions: 556
-    company: 'SuperOffice'
-    organizations: 'NonameROM,dotnet,SuperOffice'
-
-  - rank: 221
-    name: 'Jonas Svarvaa'
-    login: 'xolan'
-    id: 670050
-    contributions: 546
-    company: ''
-    organizations: 'dotkom,hooplab'
-
-  - rank: 222
-    name: 'Trygve Lie'
-    login: 'trygve-lie'
-    id: 173003
-    contributions: 543
-    company: ''
-    organizations: 'webrebels'
-
-  - rank: 223
-    name: 'Mathias Ose'
-    login: 'mathiasose'
-    id: 2864935
-    contributions: 542
-    company: ''
-    organizations: 'Studentmediene,xcom-data,hackerspace-ntnu,DMPRO-2015-convolution'
-
-  - rank: 224
-    name: 'Frode Solheim'
-    login: 'FrodeSolheim'
-    id: 4447840
-    contributions: 540
-    company: ''
-    organizations: ''
-
-  - rank: 225
-    name: 'Olve S. Hansen'
-    login: 'olvesh'
-    id: 220643
-    contributions: 535
-    company: '@vimond '
-    organizations: 'vimond,DevOps-Bergen'
-
   - rank: 226
-    name: 'Torbjørn Marø'
-    login: 'tormaroe'
-    id: 191559
-    contributions: 534
-    company: '@LinkMobility '
-    organizations: 'PSWinCom,LinkMobility,mapcar'
+    name: 'Thomas Hirsch'
+    login: 'relet'
+    id: 135696
+    contributions: 604
+    company: 'Celerway AS'
+    organizations: 'Celerway'
 
   - rank: 227
+    name: 'Mathias Novas'
+    login: 'mathiasnovas'
+    id: 1321260
+    contributions: 603
+    company: '07 Interaktiv'
+    organizations: ''
+
+  - rank: 228
+    name: 'Espen Klem'
+    login: 'eklem'
+    id: 236656
+    contributions: 602
+    company: 'Inmeta.no'
+    organizations: ''
+
+  - rank: 229
+    name: 'Mostafa Torbjørn Berg'
+    login: 'mostafaberg'
+    id: 976234
+    contributions: 601
+    company: 'Nordic Semiconductor ASA'
+    organizations: ''
+
+  - rank: 230
     name: 'Even Stensberg'
     login: 'ev1stensberg'
     id: 16735925
+    contributions: 599
+    company: ''
+    organizations: ''
+
+  - rank: 231
+    name: 'Christian Hamburger Grøngaard'
+    login: 'christianhg'
+    id: 4602382
+    contributions: 593
+    company: 'boohoo canoe'
+    organizations: ''
+
+  - rank: 232
+    name: 'Runar Ovesen Hjerpbakk'
+    login: 'Sankra'
+    id: 634968
+    contributions: 591
+    company: '@DIPSASA '
+    organizations: 'DIPSASA'
+
+  - rank: 233
+    name: 'Thomas Johansen'
+    login: 'thomasjo'
+    id: 3622
+    contributions: 587
+    company: 'UiT The Arctic University of Norway'
+    organizations: 'atom'
+
+  - rank: 234
+    name: 'Benedicte Emilie Brækken'
+    login: 'benedicteb'
+    id: 3595094
+    contributions: 584
+    company: 'University of Oslo'
+    organizations: ''
+
+  - rank: 235
+    name: 'Gaute Hope'
+    login: 'gauteh'
+    id: 56827
+    contributions: 582
+    company: ''
+    organizations: 'sup-heliotrope,Exherbo,nansencenter,astroidmail'
+
+  - rank: 236
+    name: 'Espen Henriksen'
+    login: 'esphen'
+    id: 5845924
+    contributions: 582
+    company: 'Oslo Market Solutions'
+    organizations: 'firebug'
+
+  - rank: 237
+    name: 'Andreas Åkre Solberg'
+    login: 'andreassolberg'
+    id: 101361
+    contributions: 581
+    company: 'UNINETT'
+    organizations: 'UNINETT'
+
+  - rank: 238
+    name: 'Uwe Kubosch'
+    login: 'donv'
+    id: 57275
+    contributions: 573
+    company: 'Kubosch Consulting'
+    organizations: 'jruby,ruboto,DatekWireless,SQLDroid'
+
+  - rank: 239
+    name: 'Fugroup'
+    login: 'fugroup'
+    id: 30604
+    contributions: 572
+    company: 'Fugroup'
+    organizations: ''
+
+  - rank: 240
+    name: 'Torjus Iveland'
+    login: 'torjusti'
+    id: 876904
+    contributions: 568
+    company: ''
+    organizations: 'dotkom'
+
+  - rank: 241
+    name: 'Kjetil Kjernsmo'
+    login: 'kjetilk'
+    id: 154068
+    contributions: 563
+    company: 'Multiarc'
+    organizations: 'Tamarou'
+
+  - rank: 242
+    name: 'Panos Sakkos'
+    login: 'PanosSakkos'
+    id: 1270063
+    contributions: 561
+    company: '@Microsoft '
+    organizations: 'Microsoft,dono-app'
+
+  - rank: 243
+    name: 'Halvor Lyche Strandvoll'
+    login: 'halvors'
+    id: 620303
+    contributions: 557
+    company: ''
+    organizations: 'OpenRcon,InfectedLan'
+
+  - rank: 244
+    name: 'Torstein Krause Johansen'
+    login: 'skybert'
+    id: 341838
+    contributions: 557
+    company: 'Escenic'
+    organizations: ''
+
+  - rank: 245
+    name: 'Alexandra Leisse'
+    login: 'troubalex'
+    id: 1913615
+    contributions: 554
+    company: 'Ardoq AS'
+    organizations: 'webrebels,railsgirls,ardoq,rails-girls-summer-of-code'
+
+  - rank: 246
+    name: 'Gisle Vanem'
+    login: 'gvanem'
+    id: 945271
+    contributions: 553
+    company: ''
+    organizations: ''
+
+  - rank: 247
+    name: 'Ole Martin Bjørndalen'
+    login: 'olemb'
+    id: 996566
+    contributions: 544
+    company: '@uit-no '
+    organizations: ''
+
+  - rank: 248
+    name: 'Nicolas'
+    login: 'nixolas1'
+    id: 3536134
+    contributions: 539
+    company: '@makingwaves '
+    organizations: 'dotkom'
+
+  - rank: 249
+    name: 'Olve S. Hansen'
+    login: 'olvesh'
+    id: 220643
+    contributions: 538
+    company: '@vimond '
+    organizations: 'vimond,DevOps-Bergen'
+
+  - rank: 250
+    name: 'Aulon Mujaj'
+    login: 'aulonm'
+    id: 4094284
+    contributions: 531
+    company: '@knowit '
+    organizations: 'difi,knowit,UiO-INF3331,oslokommune,DesperateSolutions'
+
+  - rank: 251
+    name: 'Eivind Josten'
+    login: 'eivindj'
+    id: 3071053
+    contributions: 531
+    company: 'Kahoot!'
+    organizations: ''
+
+  - rank: 252
+    name: 'Henning M. Stephansen'
+    login: 'henningms'
+    id: 1044790
     contributions: 526
     company: ''
     organizations: ''
 
-  - rank: 228
-    name: 'Nicolas'
-    login: 'nixolas1'
-    id: 3536134
-    contributions: 523
-    company: '@makingwaves '
-    organizations: 'dotkom'
-
-  - rank: 229
-    name: 'Erik Faye-Lund'
-    login: 'kusma'
-    id: 47073
-    contributions: 519
-    company: 'Fusetools AS'
-    organizations: 'msysgit,grate-driver,rocket'
-
-  - rank: 230
-    name: 'Eirik Refsdal'
-    login: 'eirikref'
-    id: 2805100
-    contributions: 517
-    company: '@northernbeat '
-    organizations: ''
-
-  - rank: 231
-    name: 'Tormod Erevik Lea'
-    login: 'tormoder'
-    id: 605575
-    contributions: 516
-    company: ''
-    organizations: ''
-
-  - rank: 232
-    name: 'Bjorn Sandvik'
-    login: 'turban'
-    id: 548708
-    contributions: 516
-    company: 'MasterMaps'
-    organizations: ''
-
-  - rank: 233
-    name: 'Tor Røttum'
-    login: 'torrottum'
-    id: 627647
-    contributions: 512
-    company: '@apility '
-    organizations: 'apility'
-
-  - rank: 234
-    name: 'Thor Erik'
-    login: 'thorerik'
-    id: 219796
-    contributions: 511
-    company: ''
-    organizations: 'mapcrafter,laradock,TruckersMP'
-
-  - rank: 235
-    name: 'Christian Strand Young'
-    login: 'lizter'
-    id: 920028
-    contributions: 503
-    company: 'Bekk Consulting AS'
-    organizations: 'bekk,dotkom,gathering'
-
-  - rank: 236
-    name: 'Lars T Hansen'
-    login: 'lars-t-hansen'
-    id: 4823190
-    contributions: 498
-    company: 'Mozilla Corporation'
-    organizations: 'larcenists'
-
-  - rank: 237
-    name: 'Kare Morstol'
-    login: 'kareman'
-    id: 46072
-    contributions: 493
-    company: 'NotTooBad Software '
-    organizations: ''
-
-  - rank: 238
-    name: 'Alexander Skjolden'
-    login: 'plastboks'
-    id: 207401
-    contributions: 490
-    company: 'Skjolden Frilans'
-    organizations: ''
-
-  - rank: 239
-    name: 'Hans Petter Langtangen'
-    login: 'hplgit'
-    id: 759716
-    contributions: 489
-    company: 'Simula Research Laboratory and University of Oslo'
-    organizations: ''
-
-  - rank: 240
-    name: 'Mathias Novas'
-    login: 'mathiasnovas'
-    id: 1321260
-    contributions: 488
-    company: '07 Interaktiv'
-    organizations: ''
-
-  - rank: 241
+  - rank: 253
     name: 'AlexFlipnote'
     login: 'AlexFlipnote'
     id: 19587382
-    contributions: 485
-    company: '@FestiveCommunity '
-    organizations: ''
-
-  - rank: 242
-    name: 'Alexandra Leisse'
-    login: 'troubalex'
-    id: 1913615
-    contributions: 480
-    company: 'Ardoq AS'
-    organizations: 'webrebels,railsgirls,ardoq,rails-girls-summer-of-code'
-
-  - rank: 243
-    name: 'Odin Hørthe Omdal'
-    login: 'odinho'
-    id: 1451865
-    contributions: 478
-    company: '@operasoftware '
-    organizations: 'w3c,Frikanalen,bitraf'
-
-  - rank: 244
-    name: 'B.E. Henriksen'
-    login: 'jiku'
-    id: 4321
-    contributions: 476
-    company: ''
-    organizations: ''
-
-  - rank: 245
-    name: 'Ole Martin Bjørndalen'
-    login: 'olemb'
-    id: 996566
-    contributions: 475
-    company: '@uit-no '
-    organizations: ''
-
-  - rank: 246
-    name: 'Trond Einar Snekvik'
-    login: 'trond-snekvik'
-    id: 7857838
-    contributions: 474
-    company: 'Nordic Semiconductor'
-    organizations: ''
-
-  - rank: 247
-    name: 'Erik Vesteraas'
-    login: 'evestera'
-    id: 4187449
-    contributions: 469
-    company: ''
-    organizations: 'fui,ArduGlove'
-
-  - rank: 248
-    name: 'Khaliq'
-    login: 'khaliqgant'
-    id: 1724137
-    contributions: 468
-    company: 'Vector Media Group'
-    organizations: 'vector,willigant'
-
-  - rank: 249
-    name: 'Kristofer Selbekk'
-    login: 'selbekk'
-    id: 1307267
-    contributions: 467
-    company: 'BEKK Consulting'
-    organizations: ''
-
-  - rank: 250
-    name: 'Per Søderlind'
-    login: 'soderlind'
-    id: 1649452
-    contributions: 466
-    company: ''
-    organizations: ''
-
-  - rank: 251
-    name: 'Morten Linderud'
-    login: 'Foxboron'
-    id: 1042946
-    contributions: 465
-    company: '@apility '
-    organizations: 'pilsprog,HurricaneHackers,hylang,VerbalExpressions,apility'
-
-  - rank: 252
-    name: 'Bjørn Christian Seime'
-    login: 'bjorncs'
-    id: 798335
-    contributions: 463
-    company: '@yahoo'
-    organizations: 'yahoo'
-
-  - rank: 253
-    name: 'Bjørn Bråthen'
-    login: 'bompi88'
-    id: 3270628
-    contributions: 456
+    contributions: 521
     company: ''
     organizations: ''
 
   - rank: 254
-    name: 'Gisle Vanem'
-    login: 'gvanem'
-    id: 945271
-    contributions: 453
-    company: ''
-    organizations: ''
+    name: 'Alex Brasetvik'
+    login: 'alexbrasetvik'
+    id: 43624
+    contributions: 520
+    company: '@elastic '
+    organizations: 'foundit,elastic'
 
   - rank: 255
-    name: 'Uwe Kubosch'
-    login: 'donv'
-    id: 57275
-    contributions: 451
-    company: 'Kubosch Consulting'
-    organizations: 'jruby,ruboto,DatekWireless,SQLDroid'
+    name: 'Austin Bingham'
+    login: 'abingham'
+    id: 79224
+    contributions: 510
+    company: '@sixty-north '
+    organizations: ''
 
   - rank: 256
-    name: 'Bjarne Øverli'
-    login: 'bjarneo'
-    id: 1419214
-    contributions: 451
-    company: 'Schibsted Products & Technology'
-    organizations: 'vgno,rocjs'
+    name: ''
+    login: ''
+    id: 0
+    contributions: 0
+    company: ''
+    organizations: ''
 
 organizations:
 
   - rank: 1
-    name: 'bekk'
-    membercount: 8
+    name: 'dotkom'
+    membercount: 6
 
   - rank: 2
-    name: 'dotkom'
-    membercount: 7
-
-  - rank: 3
-    name: 'abakus-ntnu'
-    membercount: 6
-
-  - rank: 4
-    name: 'webkom'
-    membercount: 6
-
-  - rank: 5
-    name: 'dhis2'
+    name: 'netliferesearch'
     membercount: 5
 
-  - rank: 6
+  - rank: 3
+    name: 'webkom'
+    membercount: 5
+
+  - rank: 4
     name: 'nodejs'
     membercount: 5
 
-  - rank: 7
+  - rank: 5
+    name: 'abakus-ntnu'
+    membercount: 5
+
+  - rank: 6
     name: 'hyperoslo'
     membercount: 5
 
+  - rank: 7
+    name: 'bekk'
+    membercount: 5
+
   - rank: 8
-    name: 'h5p'
-    membercount: 4
+    name: 'abakusbackup'
+    membercount: 5
 
   - rank: 9
-    name: 'github-beta'
+    name: 'dbmedialab'
     membercount: 4
 
   - rank: 10
-    name: 'abakusbackup'
+    name: 'finn-no'
     membercount: 4
-generated: 2017-05-16 15:41:55.792467664 +0300 EEST
+generated: 2017-07-06 13:09:45.338487508 +0300 EEST
