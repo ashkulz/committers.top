@@ -13,6 +13,15 @@ git checkout -B "$now"
 ./generate.sh $1 sweden Sweden
 ./generate.sh $1 ukraine Ukraine
 
+sleep 3600
+
+./generate.sh $1 estonia Estonia
+./generate.sh $1 denmark Denmark
+./generate.sh $1 france France
+./generate.sh $1 spain Spain
+./generate.sh $1 italy Italy
+./generate.sh $1 uk UK
+
 git add _data
 git commit -m "updated data"
 git push origin "$now"
