@@ -6,7 +6,7 @@ users:
     name: 'Vlad Holubiev'
     login: 'vladgolubev'
     id: 3817380
-    contributions: 13599
+    contributions: 13957
     company: '@shelfio '
     organizations: 'university-projects-se-6050103,tneudevteam,shelfio'
 
@@ -14,7 +14,7 @@ users:
     name: 'Ivan Voskoboinyk'
     login: 'e1himself'
     id: 370680
-    contributions: 10454
+    contributions: 10436
     company: '@prezly '
     organizations: ''
 
@@ -22,7 +22,7 @@ users:
     name: 'Serghei Iakovlev'
     login: 'sergeyklay'
     id: 1256298
-    contributions: 7165
+    contributions: 7184
     company: 'Phalcon Framework Team'
     organizations: 'gleez,phalcon,Codeception,zephir-lang,tempai-dev,phanbook,solid-layer,pdffiller,phalcongelist'
 
@@ -30,7 +30,7 @@ users:
     name: 'Maxim Vorobjov'
     login: 'dunnock'
     id: 1453344
-    contributions: 5547
+    contributions: 5497
     company: 'Comae'
     organizations: ''
 
@@ -38,7 +38,7 @@ users:
     name: 'Igor Ranchynskyy'
     login: 'Awpteamoose'
     id: 3111840
-    contributions: 5335
+    contributions: 5334
     company: ''
     organizations: 'EpicGames,AutodeskGames'
 
@@ -46,19 +46,11 @@ users:
     name: 'Oleksandr Torosh'
     login: 'oleksandr-torosh'
     id: 624964
-    contributions: 4602
+    contributions: 4713
     company: 'YonaStudio'
     organizations: ''
 
   - rank: 7
-    name: 'Dmitry Ivanov'
-    login: 'dmitry-ivanov'
-    id: 1286821
-    contributions: 4081
-    company: ''
-    organizations: ''
-
-  - rank: 8
     name: 'Oleg K'
     login: 'olkeene'
     id: 13390
@@ -66,67 +58,75 @@ users:
     company: ''
     organizations: ''
 
+  - rank: 8
+    name: 'Dmitry Ivanov'
+    login: 'dmitry-ivanov'
+    id: 1286821
+    contributions: 4000
+    company: ''
+    organizations: ''
+
   - rank: 9
     name: 'Yaroslav Konoplov'
     login: 'yivo'
     id: 7421323
-    contributions: 4028
+    contributions: 3941
     company: ''
     organizations: ''
 
   - rank: 10
-    name: 'Dmytro Danylevskyi'
-    login: 'danylevskyi'
-    id: 1369783
-    contributions: 3861
-    company: '#root.ua'
+    name: 'Dmitriy Dumanskiy'
+    login: 'doom369'
+    id: 1536494
+    contributions: 3933
+    company: 'Blynk'
     organizations: ''
 
   - rank: 11
-    name: 'Namdak Tonpa'
-    login: '5HT'
-    id: 144776
-    contributions: 3838
-    company: 'Synrc Research Center'
-    organizations: 'synrc,voxoz,spawnproc,groupoid'
+    name: 'Mykyta Khmel'
+    login: 'hmelenok'
+    id: 2149114
+    contributions: 3848
+    company: '@shelfio '
+    organizations: ''
 
   - rank: 12
     name: 'Paul Polishchuk'
     login: 'longtimeago'
     id: 1388994
-    contributions: 3809
+    contributions: 3802
     company: ''
     organizations: ''
 
   - rank: 13
-    name: 'Dmitriy Dumanskiy'
-    login: 'doom369'
-    id: 1536494
-    contributions: 3805
-    company: 'Blynk'
-    organizations: ''
+    name: 'Namdak Tonpa'
+    login: '5HT'
+    id: 144776
+    contributions: 3758
+    company: 'Synrc Research Center'
+    organizations: 'synrc,voxoz,spawnproc,groupoid'
 
   - rank: 14
+    name: 'Dmytro Danylevskyi'
+    login: 'danylevskyi'
+    id: 1369783
+    contributions: 3741
+    company: '#root.ua'
+    organizations: ''
+
+  - rank: 15
     name: 'Ivan Stetsenko'
     login: 'firec0der'
     id: 11492412
-    contributions: 3686
+    contributions: 3715
     company: ''
     organizations: 'kottans,UkrainianGithub,itkpi,chernivtsijs,KoalaCoders'
-
-  - rank: 15
-    name: 'Mykyta Khmel'
-    login: 'hmelenok'
-    id: 2149114
-    contributions: 3647
-    company: '@shelfio '
-    organizations: ''
 
   - rank: 16
     name: 'Kyrylo Silin'
     login: 'kyrylo'
     id: 1079123
-    contributions: 3569
+    contributions: 3600
     company: '@airbrake '
     organizations: 'pry,airbrake,kyrylo-sergey'
 
@@ -134,71 +134,71 @@ users:
     name: 'Zoltan Kochan'
     login: 'zkochan'
     id: 1927579
-    contributions: 3462
+    contributions: 3523
     company: 'JustAnswer'
     organizations: 'mosjs,pnpm,package-community'
 
   - rank: 18
-    name: 'Igor Zubkov'
-    login: 'biow0lf'
-    id: 93578
-    contributions: 3351
-    company: 'MLSDev'
-    organizations: 'MLSDev'
-
-  - rank: 19
     name: 'Maksim Kotlyar'
     login: 'makasim'
     id: 143206
-    contributions: 3334
+    contributions: 3479
     company: '@formapro '
     organizations: 'FriendsOfSymfony,formapro,Payum,prooph,php-queue,php-enqueue,php-quartz,queue-interop'
 
-  - rank: 20
+  - rank: 19
     name: 'Artem Kuzko'
     login: 'akuzko'
     id: 249819
-    contributions: 3304
+    contributions: 3305
     company: ''
     organizations: ''
+
+  - rank: 20
+    name: 'Igor Zubkov'
+    login: 'biow0lf'
+    id: 93578
+    contributions: 3304
+    company: 'MLSDev'
+    organizations: 'MLSDev'
 
   - rank: 21
     name: 'Anna'
     login: 'akhsunna'
     id: 7620006
-    contributions: 3215
+    contributions: 3276
     company: ''
     organizations: ''
 
   - rank: 22
-    name: 'Alexey Raspopov'
-    login: 'alexeyraspopov'
-    id: 858295
-    contributions: 3099
-    company: 'DataRobot'
-    organizations: 'datarobot,PlatinumCoin'
-
-  - rank: 23
     name: 'Andrii Vasyliev'
     login: 'hiqsol'
     id: 11820365
-    contributions: 3061
+    contributions: 3089
     company: 'HiQDev'
     organizations: 'hiqdev,hipanel'
 
-  - rank: 24
+  - rank: 23
     name: 'Paul Colomiets'
     login: 'tailhook'
     id: 321799
-    contributions: 3033
+    contributions: 3025
     company: 'evo.company'
     organizations: 'estp,openleap,nanomsg,evo-company'
+
+  - rank: 24
+    name: 'Alexey Raspopov'
+    login: 'alexeyraspopov'
+    id: 858295
+    contributions: 3022
+    company: 'DataRobot'
+    organizations: 'datarobot,PlatinumCoin'
 
   - rank: 25
     name: 'Victor K.'
     login: 'hellysmile'
     id: 1834317
-    contributions: 2959
+    contributions: 2961
     company: ''
     organizations: 'aio-libs'
 
@@ -206,47 +206,47 @@ users:
     name: 'Iurii Ogiienko'
     login: 'jurka'
     id: 495566
-    contributions: 2933
+    contributions: 2915
     company: ''
     organizations: ''
 
   - rank: 27
-    name: 'Andrey Izman'
-    login: 'mervick'
-    id: 2429298
-    contributions: 2875
-    company: 'Socialveo '
-    organizations: 'socialveo'
-
-  - rank: 28
-    name: 'Eugene Pirogov'
-    login: 'gmile'
-    id: 207112
-    contributions: 2819
-    company: ''
-    organizations: ''
-
-  - rank: 29
-    name: 'Andrew Dryga'
-    login: 'AndrewDryga'
-    id: 1877644
-    contributions: 2812
-    company: 'Nebo #15'
-    organizations: ''
-
-  - rank: 30
     name: 'Viktor Shmigol'
     login: 'viktor-shmigol'
     id: 8638674
-    contributions: 2787
+    contributions: 2862
     company: 'Active Bridge'
     organizations: 'activebridge'
+
+  - rank: 28
+    name: 'Andrey Izman'
+    login: 'mervick'
+    id: 2429298
+    contributions: 2842
+    company: 'Socialveo '
+    organizations: 'socialveo'
+
+  - rank: 29
+    name: 'Eugene Pirogov'
+    login: 'gmile'
+    id: 207112
+    contributions: 2793
+    company: ''
+    organizations: ''
+
+  - rank: 30
+    name: 'Andrew Dryga'
+    login: 'AndrewDryga'
+    id: 1877644
+    contributions: 2790
+    company: 'Nebo #15'
+    organizations: ''
 
   - rank: 31
     name: 'Alexey Bondarenko'
     login: 'alexeybondarenko'
     id: 3592553
-    contributions: 2668
+    contributions: 2696
     company: 'Nebo 15'
     organizations: ''
 
@@ -254,7 +254,7 @@ users:
     name: 'Oleh Khomei'
     login: 'varyform'
     id: 20039
-    contributions: 2636
+    contributions: 2606
     company: ''
     organizations: ''
 
@@ -262,7 +262,7 @@ users:
     name: 'Mykhailo Stadnyk'
     login: 'Mikhus'
     id: 225560
-    contributions: 2575
+    contributions: 2606
     company: 'Lohika'
     organizations: ''
 
@@ -270,11 +270,19 @@ users:
     name: 'Vova Yatsyuk'
     login: 'vovayatsyuk'
     id: 306080
-    contributions: 2569
+    contributions: 2589
     company: '@swissup @argento @tmhub '
     organizations: 'axis'
 
   - rank: 35
+    name: 'Alexey Lukin'
+    login: 'Alexey-Lukin'
+    id: 619149
+    contributions: 2570
+    company: 'Active Bridge, LLC'
+    organizations: 'coderwall-charity,coderwall-mongoose,activebridge,moozen,opussystems'
+
+  - rank: 36
     name: 'Max Graey'
     login: 'MaxGraey'
     id: 1301959
@@ -282,7 +290,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 36
+  - rank: 37
     name: 'Alexander Gaevsky'
     login: 'sasha0'
     id: 673711
@@ -290,213 +298,205 @@ users:
     company: 'freelance'
     organizations: 'django-oscar,Brandbites'
 
-  - rank: 37
-    name: 'Alexey Lukin'
-    login: 'Alexey-Lukin'
-    id: 619149
-    contributions: 2476
-    company: 'Active Bridge, LLC'
-    organizations: 'coderwall-charity,coderwall-mongoose,activebridge,moozen,opussystems'
-
   - rank: 38
-    name: 'Eugene Chernyshov'
-    login: 'Evgenus'
-    id: 379412
-    contributions: 2425
-    company: '@WillowCode'
-    organizations: 'TrueLink'
-
-  - rank: 39
     name: 'Ivan Kravets'
     login: 'ivankravets'
     id: 1760209
-    contributions: 2388
+    contributions: 2409
     company: '@platformio'
     organizations: 'smartanthill,platformio'
 
-  - rank: 40
-    name: 'Vladimir Vinnikov'
-    login: 'vladvinnikov'
-    id: 499544
-    contributions: 2344
-    company: 'AlterEgo'
-    organizations: ''
-
-  - rank: 41
-    name: 'Kirill Shevchenko'
-    login: 'kirillshevch'
-    id: 5091851
-    contributions: 2343
-    company: 'RubyGarage'
-    organizations: 'betwixtus,postwill'
-
-  - rank: 42
+  - rank: 39
     name: 'Dmitriy Melnichenko'
     login: 'tairezzzz'
     id: 8895017
-    contributions: 2327
+    contributions: 2392
     company: ''
     organizations: ''
 
+  - rank: 40
+    name: 'Ievgen Shakhsuvarov'
+    login: 'ishakhsuvarov'
+    id: 5747062
+    contributions: 2392
+    company: '@magento '
+    organizations: ''
+
+  - rank: 41
+    name: 'Eugene Chernyshov'
+    login: 'Evgenus'
+    id: 379412
+    contributions: 2376
+    company: '@WillowCode'
+    organizations: 'TrueLink'
+
+  - rank: 42
+    name: 'Vladimir Vinnikov'
+    login: 'vladvinnikov'
+    id: 499544
+    contributions: 2375
+    company: 'AlterEgo'
+    organizations: ''
+
   - rank: 43
+    name: 'Kirill Shevchenko'
+    login: 'kirillshevch'
+    id: 5091851
+    contributions: 2321
+    company: 'RubyGarage'
+    organizations: 'betwixtus,postwill'
+
+  - rank: 44
     name: 'Viktor Batytskyi'
     login: 'batytskyy'
     id: 5807866
-    contributions: 2318
+    contributions: 2297
     company: 'NTUU "KPI"'
     organizations: 'kpi-wdc'
 
-  - rank: 44
+  - rank: 45
     name: 'Denys Dovhan'
     login: 'denysdovhan'
     id: 3459374
-    contributions: 2253
+    contributions: 2229
     company: 'Open Source'
     organizations: 'brunch,nodeschool,kottans,hellyeahllc,nodejs,UkrainianGithub,workshopper,cityjs,remarkjs,chernivtsijs,maintainers,LambdaBooks,chnu-ptcsi'
-
-  - rank: 45
-    name: 'Yevhen Shemet'
-    login: 'yevhene'
-    id: 241623
-    contributions: 2221
-    company: 'Pomaranchi'
-    organizations: 'Componentix'
 
   - rank: 46
     name: 'Alexey Vasiliev'
     login: 'le0pard'
     id: 98444
-    contributions: 2168
+    contributions: 2180
     company: '@railsware '
     organizations: 'railsware,jenkinsci,rwpod'
 
   - rank: 47
+    name: 'Yevhen Shemet'
+    login: 'yevhene'
+    id: 241623
+    contributions: 2178
+    company: 'Pomaranchi'
+    organizations: 'Componentix'
+
+  - rank: 48
     name: 'Vasyl Dizhak'
     login: 'rootart'
     id: 149145
-    contributions: 2153
+    contributions: 2165
     company: 'Moneypark'
     organizations: ''
 
-  - rank: 48
-    name: 'Vasyl Stanislavchuk'
-    login: 'vasyabigi'
-    id: 681519
-    contributions: 2118
-    company: 'Pollock Technologies'
-    organizations: 'gopollock'
-
   - rank: 49
-    name: 'Volodymyr Kushnir'
-    login: 'volodymyr-kushnir'
-    id: 10290626
-    contributions: 2073
-    company: 'Binary Studio'
-    organizations: ''
-
-  - rank: 50
     name: 'Sergii Bondarenko'
     login: 'BR0kEN-'
     id: 2760616
-    contributions: 2049
+    contributions: 2106
     company: '@ffwagency, @LUSHDigital, @pfizer, @propeopleua, @Firstvector'
     organizations: 'ffwagency,Firstvector,propeoplemd,favrskov-kommune,propeopleua'
 
+  - rank: 50
+    name: 'Volodymyr Kushnir'
+    login: 'volodymyr-kushnir'
+    id: 10290626
+    contributions: 2097
+    company: 'Binary Studio'
+    organizations: ''
+
   - rank: 51
+    name: 'Vasyl Stanislavchuk'
+    login: 'vasyabigi'
+    id: 681519
+    contributions: 2044
+    company: 'Pollock Technologies'
+    organizations: 'gopollock'
+
+  - rank: 52
     name: 'Oleg Neizhkasha'
     login: 'panshadow'
     id: 273144
-    contributions: 1987
+    contributions: 1984
     company: 'Attendify'
     organizations: ''
 
-  - rank: 52
+  - rank: 53
     name: 'Timur Shemsedinov'
     login: 'tshemsedinov'
     id: 4405297
-    contributions: 1960
+    contributions: 1942
     company: 'Kiev Polytechnic Institute'
     organizations: 'e-since,kpi-ua,rostgroup,HowProgrammingWorks,CKPI,metarhia,KPI-FICT'
 
-  - rank: 53
+  - rank: 54
     name: 'Stanislav Filin'
     login: 'stasfilin'
     id: 6159524
-    contributions: 1912
+    contributions: 1889
     company: '@tgadigital '
     organizations: 'EpicGames,tgadigital'
 
-  - rank: 54
-    name: 'Vse Mozhet Byt'
-    login: 'vsemozhetbyt'
-    id: 10393198
-    contributions: 1888
-    company: ''
-    organizations: 'nodejs'
-
   - rank: 55
-    name: 'Andrii Soldatenko'
-    login: 'andriisoldatenko'
-    id: 1374633
-    contributions: 1863
-    company: 'Toptal'
-    organizations: 'aio-libs,Persice,django-webtest,moonshotcapital,tippilab'
-
-  - rank: 56
-    name: 'Dmitry Krasnoukhov'
-    login: 'krasnoukhov'
-    id: 944286
-    contributions: 1854
-    company: '@simplepractice '
-    organizations: 'unteleported,simplepractice,theoldreader,fakecontrol,infeedl,puree-radio'
-
-  - rank: 57
     name: 'Daniel Vasylenko'
     login: 'Spring3'
     id: 4171202
-    contributions: 1853
+    contributions: 1858
     company: ''
     organizations: 'dial-once'
 
-  - rank: 58
+  - rank: 56
     name: 'Vladimir Metnew'
     login: 'Metnew'
     id: 10862289
-    contributions: 1845
+    contributions: 1847
     company: ''
     organizations: ''
+
+  - rank: 57
+    name: 'Dmitry Krasnoukhov'
+    login: 'krasnoukhov'
+    id: 944286
+    contributions: 1847
+    company: '@simplepractice '
+    organizations: 'unteleported,simplepractice,theoldreader,fakecontrol,infeedl,puree-radio'
+
+  - rank: 58
+    name: 'Andrii Soldatenko'
+    login: 'andriisoldatenko'
+    id: 1374633
+    contributions: 1845
+    company: 'Toptal'
+    organizations: 'aio-libs,Persice,django-webtest,moonshotcapital,tippilab'
 
   - rank: 59
-    name: 'Volodymyr Shatskyi'
-    login: 'vlad-shatskyi'
-    id: 188928
-    contributions: 1778
+    name: 'Vse Mozhet Byt'
+    login: 'vsemozhetbyt'
+    id: 10393198
+    contributions: 1826
     company: ''
-    organizations: ''
+    organizations: 'nodejs'
 
   - rank: 60
-    name: 'Ellias'
-    login: 'DummyCo'
-    id: 3989453
-    contributions: 1773
-    company: ''
+    name: 'Sergei Zelinsky'
+    login: 'sergei-zelinsky'
+    id: 19428086
+    contributions: 1808
+    company: '@lun '
     organizations: ''
 
   - rank: 61
     name: 'Vladyslav Hrytsenko'
     login: 'inlife'
     id: 2182108
-    contributions: 1768
+    contributions: 1792
     company: '@librg @zpl-c @reactorbits-montreal'
     organizations: 'Mafia2Online,librg,zpl-c'
 
   - rank: 62
-    name: 'Roman Mazur'
-    login: 'roman-mazur'
-    id: 307707
-    contributions: 1744
-    company: 'Stanfy'
-    organizations: 'stanfy'
+    name: 'Ellias'
+    login: 'DummyCo'
+    id: 3989453
+    contributions: 1767
+    company: ''
+    organizations: ''
 
   - rank: 63
     name: 'Alexander Shvets'
@@ -507,162 +507,162 @@ users:
     organizations: ''
 
   - rank: 64
-    name: 'Andrey'
-    login: 'LAKnoKAL'
-    id: 2634363
-    contributions: 1705
+    name: 'Taras Matsyk'
+    login: 'tarasmatsyk'
+    id: 4949627
+    contributions: 1692
     company: ''
     organizations: ''
 
   - rank: 65
-    name: 'Alexey Orlenko'
-    login: 'aqrln'
-    id: 4923335
-    contributions: 1679
+    name: 'Volodymyr Shatskyi'
+    login: 'vlad-shatskyi'
+    id: 188928
+    contributions: 1675
     company: ''
-    organizations: 'e-since,kpi-ua,nodejs,metarhia,napi-rs'
+    organizations: ''
 
   - rank: 66
-    name: 'Sergey Storchay'
-    login: 'r8'
-    id: 130532
-    contributions: 1654
+    name: 'Andrey'
+    login: 'LAKnoKAL'
+    id: 2634363
+    contributions: 1675
     company: ''
     organizations: ''
 
   - rank: 67
+    name: 'Alexey Orlenko'
+    login: 'aqrln'
+    id: 4923335
+    contributions: 1668
+    company: ''
+    organizations: 'e-since,kpi-ua,nodejs,metarhia,napi-rs'
+
+  - rank: 68
+    name: 'Eugene Obrezkov'
+    login: 'ghaiklor'
+    id: 3625244
+    contributions: 1656
+    company: '@elasticio '
+    organizations: 'elasticio,beerjs,nodeschool,kottans,dev-ua,nodejs,UkrainianGithub,kittikjs,cityjs,trailsjs,chernivtsijs,backlog-js,shitjs,maintainers'
+
+  - rank: 69
+    name: 'Sergey Storchay'
+    login: 'r8'
+    id: 130532
+    contributions: 1652
+    company: ''
+    organizations: ''
+
+  - rank: 70
     name: 'Oleg Voloshyn'
     login: 'oleg-voloshyn'
     id: 2426901
-    contributions: 1652
+    contributions: 1649
     company: 'Active Bridge, LLC'
     organizations: 'activebridge,moozen'
-
-  - rank: 68
-    name: 'Taras Matsyk'
-    login: 'tarasmatsyk'
-    id: 4949627
-    contributions: 1649
-    company: ''
-    organizations: ''
-
-  - rank: 69
-    name: 'Sviatoslav Sydorenko'
-    login: 'webknjaz'
-    id: 578543
-    contributions: 1638
-    company: '[future, since Nov-Dec 2017] -> @ansible core team @ Red Hat, Inc.'
-    organizations: 'lvov-douhack,GDG-Ukraine,cherrypy,aio-libs,douhack,letronium,kyiv-team-hacktbilisi,LibreKPI,CiscoCloud,LinguaHermeneus,itkpi,hackraft,gdg-minsk,jazzband,SweepySweepers,open-craft-guild,kpi-web-guild,agentyzmin'
-
-  - rank: 70
-    name: 'Andrew Babichev'
-    login: 'Tensho'
-    id: 892721
-    contributions: 1627
-    company: ''
-    organizations: ''
 
   - rank: 71
     name: 'Andriy Tyurnikov'
     login: 'andriytyurnikov'
     id: 3668
-    contributions: 1618
+    contributions: 1640
     company: ''
     organizations: ''
 
   - rank: 72
-    name: 'Yevhenii Huselietov'
-    login: 'cursedcoder'
-    id: 899452
-    contributions: 1614
-    company: ''
-    organizations: 'KNP-Internals,EpicGames'
-
-  - rank: 73
-    name: 'Eugene Obrezkov'
-    login: 'ghaiklor'
-    id: 3625244
-    contributions: 1611
-    company: '@elasticio '
-    organizations: 'elasticio,beerjs,nodeschool,kottans,dev-ua,nodejs,UkrainianGithub,kittikjs,cityjs,trailsjs,chernivtsijs,backlog-js,shitjs,maintainers'
-
-  - rank: 74
-    name: 'Alexander Vasileyko'
-    login: 'alexnodejs'
-    id: 2957562
-    contributions: 1604
-    company: ''
-    organizations: ''
-
-  - rank: 75
     name: 'Aleksey Kuflievskiy'
     login: 'kuflievskiy'
     id: 3731524
-    contributions: 1601
+    contributions: 1638
+    company: ''
+    organizations: ''
+
+  - rank: 73
+    name: 'Yevhenii Huselietov'
+    login: 'cursedcoder'
+    id: 899452
+    contributions: 1636
+    company: ''
+    organizations: 'KNP-Internals,EpicGames'
+
+  - rank: 74
+    name: 'Sviatoslav Sydorenko'
+    login: 'webknjaz'
+    id: 578543
+    contributions: 1634
+    company: '[future, since Nov-Dec 2017] -> @ansible core team @ Red Hat, Inc.'
+    organizations: 'lvov-douhack,GDG-Ukraine,cherrypy,aio-libs,douhack,letronium,kyiv-team-hacktbilisi,LibreKPI,CiscoCloud,LinguaHermeneus,itkpi,hackraft,gdg-minsk,jazzband,SweepySweepers,open-craft-guild,kpi-web-guild,agentyzmin'
+
+  - rank: 75
+    name: 'Andrew Babichev'
+    login: 'Tensho'
+    id: 892721
+    contributions: 1632
     company: ''
     organizations: ''
 
   - rank: 76
-    name: 'Bogdan Savluk'
-    login: 'zxbodya'
-    id: 446117
-    contributions: 1596
-    company: ''
+    name: 'Anton Rusinov'
+    login: 'RusinovAnton'
+    id: 13165540
+    contributions: 1620
+    company: '@yola '
     organizations: ''
 
   - rank: 77
-    name: 'Michael Lutsiuk'
-    login: 'mluts'
-    id: 15202437
-    contributions: 1585
+    name: 'Alexander Vasileyko'
+    login: 'alexnodejs'
+    id: 2957562
+    contributions: 1602
     company: ''
     organizations: ''
 
   - rank: 78
-    name: 'Anton Rusinov'
-    login: 'RusinovAnton'
-    id: 13165540
-    contributions: 1578
-    company: '@yola '
+    name: 'Bogdan Savluk'
+    login: 'zxbodya'
+    id: 446117
+    contributions: 1592
+    company: ''
     organizations: ''
 
   - rank: 79
-    name: 'Denis Lukov'
-    login: 'NeXTs'
-    id: 1753208
-    contributions: 1570
-    company: 'Entrepreneur'
-    organizations: ''
-
-  - rank: 80
-    name: 'Dmitry Naumenko'
-    login: 'SilverFire'
-    id: 4499203
-    contributions: 1566
-    company: 'HiQDev, Yii Framework'
-    organizations: 'yiisoft,hiqdev,SoftyFire'
-
-  - rank: 81
     name: 'Andrew Svetlov'
     login: 'asvetlov'
     id: 356399
-    contributions: 1548
+    contributions: 1579
     company: ''
     organizations: 'aio-libs'
 
-  - rank: 82
+  - rank: 80
     name: 'Ross Khanas'
     login: 'rtkhanas'
     id: 10609041
-    contributions: 1544
+    contributions: 1555
     company: '@opensource-cards '
+    organizations: ''
+
+  - rank: 81
+    name: 'Michael Lutsiuk'
+    login: 'mluts'
+    id: 15202437
+    contributions: 1553
+    company: ''
+    organizations: ''
+
+  - rank: 82
+    name: 'Denis Lukov'
+    login: 'NeXTs'
+    id: 1753208
+    contributions: 1550
+    company: 'Entrepreneur'
     organizations: ''
 
   - rank: 83
     name: 'rilian'
     login: 'rilian'
     id: 155563
-    contributions: 1536
+    contributions: 1547
     company: 'Rails Reactor'
     organizations: 'Railsreactor,hackndev,reqres-api,kottans'
 
@@ -670,139 +670,155 @@ users:
     name: 'Serhii Zhuravel'
     login: 'sergeyz'
     id: 1804871
-    contributions: 1532
+    contributions: 1525
     company: '@oroinc '
     organizations: 'laboro,oroinc'
 
   - rank: 85
+    name: 'Dmitry Naumenko'
+    login: 'SilverFire'
+    id: 4499203
+    contributions: 1518
+    company: 'HiQDev, Yii Framework'
+    organizations: 'yiisoft,hiqdev,SoftyFire'
+
+  - rank: 86
     name: 'Oleksiy Syvokon'
     login: 'asivokon'
     id: 2910707
-    contributions: 1497
+    contributions: 1507
     company: '@grammarly '
     organizations: ''
-
-  - rank: 86
-    name: 'Yevhen Bobrov'
-    login: 'yevhen'
-    id: 107726
-    contributions: 1463
-    company: 'YouScan.io'
-    organizations: 'OrleansContrib'
 
   - rank: 87
     name: 'Alex Galushka'
     login: 'galulex'
     id: 483482
-    contributions: 1462
+    contributions: 1489
     company: 'Active Bridge, LLC'
     organizations: 'coderwall-charity,coderwall-cub,coderwall-forked,coderwall-mongoose,coderwall-mongoose3,coderwall-polygamous,activebridge,github-beta,moozen,freestak'
 
   - rank: 88
+    name: 'Roman Mazur'
+    login: 'roman-mazur'
+    id: 307707
+    contributions: 1456
+    company: 'Stanfy'
+    organizations: 'stanfy'
+
+  - rank: 89
     name: 'Alexandr'
     login: 'AlexELEC'
     id: 20814952
-    contributions: 1461
+    contributions: 1430
     company: ''
     organizations: ''
 
-  - rank: 89
+  - rank: 90
+    name: 'Sasha Novyk'
+    login: 'navix'
+    id: 1087005
+    contributions: 1408
+    company: 'nvx.me'
+    organizations: 'ngx-kit'
+
+  - rank: 91
     name: 'Ilya Antipenko'
     login: 'aivus'
     id: 1021703
-    contributions: 1431
+    contributions: 1406
     company: 'Oro Inc.'
     organizations: 'laboro,oroinc,pm2s,approve-code,website-scraper'
 
-  - rank: 90
+  - rank: 92
     name: 'Bohdan Shtepan'
     login: 'virtyaluk'
     id: 795984
-    contributions: 1428
+    contributions: 1405
     company: '@Exabeam, Daxx BV'
     organizations: 'Exabeam,praxent,modern-dev,paper-ui,suggestu'
 
-  - rank: 91
-    name: 'Bogdan'
-    login: 'bogdanvlviv'
-    id: 6443532
-    contributions: 1403
-    company: ''
-    organizations: ''
-
-  - rank: 92
+  - rank: 93
     name: 'Ivan Korneliuk'
     login: 'vansha'
     id: 147127
-    contributions: 1402
+    contributions: 1403
     company: 'youscan.io'
     organizations: ''
 
-  - rank: 93
-    name: 'yarik ponomarenko'
-    login: 'yarikos'
-    id: 931046
-    contributions: 1398
-    company: 'elastic.io'
-    organizations: ''
-
   - rank: 94
-    name: 'Nikita Savchenko'
-    login: 'ZitRos'
-    id: 4989256
-    contributions: 1382
-    company: '@intersystems-ru '
-    organizations: ''
+    name: 'Yevhen Bobrov'
+    login: 'yevhen'
+    id: 107726
+    contributions: 1401
+    company: 'YouScan.io'
+    organizations: 'OrleansContrib'
 
   - rank: 95
-    name: 'Anton'
-    login: 'AntonShevchuk'
-    id: 142057
-    contributions: 1377
-    company: '@nixsolutions '
-    organizations: 'makesites,bluzphp,nixsolutions'
-
-  - rank: 96
-    name: 'Alexander Buzin'
-    login: 'sasha240100'
-    id: 7657429
-    contributions: 1371
-    company: '@WhitestormJS'
-    organizations: 'github-beta,NVIDIAGameWorks,WhitestormJS'
-
-  - rank: 97
-    name: 'Yuri Kuznetsov'
-    login: 'yurikuzn'
-    id: 1006792
-    contributions: 1366
-    company: 'EspoCRM'
-    organizations: ''
-
-  - rank: 98
     name: 'Volodymyr Gamula'
     login: 'vgamula'
     id: 5364815
-    contributions: 1357
+    contributions: 1395
     company: '@KitApps '
     organizations: 'four-eyes'
 
+  - rank: 96
+    name: 'Nikita Savchenko'
+    login: 'ZitRos'
+    id: 4989256
+    contributions: 1394
+    company: '@intersystems-ru '
+    organizations: ''
+
+  - rank: 97
+    name: 'Bogdan'
+    login: 'bogdanvlviv'
+    id: 6443532
+    contributions: 1391
+    company: ''
+    organizations: ''
+
+  - rank: 98
+    name: 'Yuri Kuznetsov'
+    login: 'yurikuzn'
+    id: 1006792
+    contributions: 1388
+    company: 'EspoCRM'
+    organizations: ''
+
   - rank: 99
-    name: 'Vadym Zakovinko'
-    login: 'Quard'
-    id: 307886
-    contributions: 1353
-    company: 'DjangoStars'
+    name: 'yarik ponomarenko'
+    login: 'yarikos'
+    id: 931046
+    contributions: 1357
+    company: 'elastic.io'
     organizations: ''
 
   - rank: 100
+    name: 'Alexander Buzin'
+    login: 'sasha240100'
+    id: 7657429
+    contributions: 1355
+    company: '@WhitestormJS'
+    organizations: 'github-beta,NVIDIAGameWorks,WhitestormJS'
+
+  - rank: 101
+    name: 'Vadym Zakovinko'
+    login: 'Quard'
+    id: 307886
+    contributions: 1354
+    company: 'DjangoStars'
+    organizations: ''
+
+  - rank: 102
     name: 'Bohdan Zhuravel'
     login: 'zhuravel'
     id: 1140581
-    contributions: 1341
+    contributions: 1351
     company: '@talkable '
     organizations: 'talkable'
 
-  - rank: 101
+  - rank: 103
     name: 'Egor Gumenyuk'
     login: 'boo1ean'
     id: 566869
@@ -810,247 +826,247 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 102
-    name: 'Sasha Novyk'
-    login: 'navix'
-    id: 1087005
-    contributions: 1334
-    company: 'nvx.me'
-    organizations: 'ngx-kit'
-
-  - rank: 103
+  - rank: 104
     name: 'Volodymyr Maksymiv'
     login: 'vmaksymiv'
     id: 1164532
-    contributions: 1334
+    contributions: 1335
     company: 'Quintagroup'
     organizations: 'plone,collective,quintagroup,shmresearch'
 
-  - rank: 104
+  - rank: 105
+    name: 'Anton'
+    login: 'AntonShevchuk'
+    id: 142057
+    contributions: 1333
+    company: '@nixsolutions '
+    organizations: 'makesites,bluzphp,nixsolutions'
+
+  - rank: 106
     name: 'Ivan Ivashchenko'
     login: 'defuz'
     id: 276041
-    contributions: 1333
-    company: ''
-    organizations: ''
-
-  - rank: 105
-    name: 'Alexander Yakushev'
-    login: 'alexander-yakushev'
-    id: 468477
-    contributions: 1332
-    company: 'Grammarly'
-    organizations: 'grammarly,clojure-android,clojure-emacs'
-
-  - rank: 106
-    name: 'Andrey Gubanov'
-    login: 'finom'
-    id: 1082083
-    contributions: 1329
+    contributions: 1312
     company: ''
     organizations: ''
 
   - rank: 107
-    name: 'Anton Boksha'
-    login: '4doge'
-    id: 9076513
-    contributions: 1319
-    company: '@DB2-Limited '
-    organizations: ''
+    name: 'Alexander Yakushev'
+    login: 'alexander-yakushev'
+    id: 468477
+    contributions: 1310
+    company: 'Grammarly'
+    organizations: 'grammarly,clojure-android,clojure-emacs'
 
   - rank: 108
-    name: 'Roman Hotsiy'
-    login: 'RomanGotsiy'
-    id: 3975738
-    contributions: 1315
-    company: 'APIs.guru'
-    organizations: 'RESTFest,APIs-guru,json-struct,maintainers'
+    name: 'Andrey Gubanov'
+    login: 'finom'
+    id: 1082083
+    contributions: 1309
+    company: ''
+    organizations: ''
 
   - rank: 109
-    name: 'Anton Ilin'
-    login: 'bronislav'
-    id: 125880
-    contributions: 1311
-    company: ''
-    organizations: 'fancycharts,roundforest'
-
-  - rank: 110
-    name: 'Andrey Klochok'
-    login: 'tafid'
-    id: 3338188
-    contributions: 1309
-    company: 'HiQDev'
-    organizations: 'hiqdev'
-
-  - rank: 111
-    name: 'Oleksii Leonov'
-    login: 'aleksejleonov'
-    id: 241582
-    contributions: 1304
-    company: 'Cropio'
-    organizations: 'cropio'
-
-  - rank: 112
-    name: 'Nikolay Baluk'
-    login: 'kolyaflash'
-    id: 738917
-    contributions: 1289
-    company: '@semilimes '
-    organizations: 'Dev4Better,gdg-minsk,semilimes'
-
-  - rank: 113
     name: 'Volodymyr Kolesnykov'
     login: 'sjinks'
     id: 7810770
-    contributions: 1283
+    contributions: 1304
     company: ''
     organizations: 'phalcon'
 
-  - rank: 114
-    name: 'Artur Parkhisenko'
-    login: 'arturparkhisenko'
-    id: 139212
-    contributions: 1274
-    company: '@Vimeo'
-    organizations: 'Livestream,FlickShine,Zengineers'
+  - rank: 110
+    name: 'Anton Ilin'
+    login: 'bronislav'
+    id: 125880
+    contributions: 1301
+    company: ''
+    organizations: 'fancycharts,roundforest'
 
-  - rank: 115
+  - rank: 111
     name: 'Mike Yusko'
     login: 'MichaelYusko'
     id: 13191999
-    contributions: 1271
+    contributions: 1291
     company: 'Ralabs'
     organizations: 'The-PyWaiters,The-Hitchhikers'
 
-  - rank: 116
-    name: 'Alexander Schedrov'
-    login: 'Sanchiz'
-    id: 1316234
-    contributions: 1257
-    company: ''
-    organizations: 'propeoplemd,sanchiz-net,cibox,drupal-ukraine,ymcatwincities'
+  - rank: 112
+    name: 'Oleksii Leonov'
+    login: 'aleksejleonov'
+    id: 241582
+    contributions: 1288
+    company: 'Cropio'
+    organizations: 'cropio'
 
-  - rank: 117
-    name: 'Ivan Boldyrev'
-    login: 'iboldurev'
-    id: 17103170
-    contributions: 1253
-    company: '@magpaylabs '
-    organizations: ''
-
-  - rank: 118
+  - rank: 113
     name: 'Vyacheslav'
     login: 'Voronenko'
     id: 701233
-    contributions: 1235
+    contributions: 1287
     company: '@softasap @ThePrudents '
     organizations: ''
 
-  - rank: 119
-    name: 'Fedor Bobylev'
-    login: 'Techblogogy'
-    id: 5318653
-    contributions: 1228
-    company: ''
+  - rank: 114
+    name: 'Andrey Klochok'
+    login: 'tafid'
+    id: 3338188
+    contributions: 1283
+    company: 'HiQDev'
+    organizations: 'hiqdev'
+
+  - rank: 115
+    name: 'Anton Boksha'
+    login: '4doge'
+    id: 9076513
+    contributions: 1282
+    company: '@DB2-Limited '
     organizations: ''
+
+  - rank: 116
+    name: 'Roman Hotsiy'
+    login: 'RomanGotsiy'
+    id: 3975738
+    contributions: 1281
+    company: 'APIs.guru'
+    organizations: 'RESTFest,APIs-guru,json-struct,maintainers'
+
+  - rank: 117
+    name: 'Alexander Schedrov'
+    login: 'Sanchiz'
+    id: 1316234
+    contributions: 1276
+    company: ''
+    organizations: 'propeoplemd,sanchiz-net,cibox,drupal-ukraine,ymcatwincities'
+
+  - rank: 118
+    name: 'Nikolay Baluk'
+    login: 'kolyaflash'
+    id: 738917
+    contributions: 1267
+    company: '@semilimes '
+    organizations: 'Dev4Better,gdg-minsk,semilimes'
+
+  - rank: 119
+    name: 'Michael Bodnarchuk'
+    login: 'DavertMik'
+    id: 220264
+    contributions: 1232
+    company: 'Codegyre'
+    organizations: 'Codeception,consolidation'
 
   - rank: 120
-    name: 'Anatoliy'
-    login: 'anatoliyv'
-    id: 1595032
-    contributions: 1222
-    company: 'TouchAppMedia'
-    organizations: ''
-
-  - rank: 121
     name: 'Constantine'
     login: 'KChernenko'
     id: 3322440
-    contributions: 1208
+    contributions: 1212
     company: ''
     organizations: ''
 
-  - rank: 122
+  - rank: 121
     name: 'Dmytro Zelenetskyi'
     login: 'zemd'
     id: 433708
-    contributions: 1183
+    contributions: 1212
     company: ''
     organizations: 'logtown'
 
-  - rank: 123
-    name: 'Kirill Rogovoy'
-    login: 'kirillrogovoy'
-    id: 4512269
-    contributions: 1182
-    company: 'Velvica'
-    organizations: ''
+  - rank: 122
+    name: 'Artur Parkhisenko'
+    login: 'arturparkhisenko'
+    id: 139212
+    contributions: 1207
+    company: '@Vimeo'
+    organizations: 'Livestream,FlickShine,Zengineers'
 
-  - rank: 124
+  - rank: 123
     name: 'Vadim Chernysh'
     login: 'chernysh'
     id: 45762
-    contributions: 1178
+    contributions: 1199
     company: ''
     organizations: 'GradConnection,perfektapps'
+
+  - rank: 124
+    name: 'Pavlo Cherniovyi'
+    login: 'PavloCherniovyi'
+    id: 14306649
+    contributions: 1199
+    company: 'http://ralabs.org/'
+    organizations: 'lits-ruby-and-rails-course'
 
   - rank: 125
     name: 'Alexey Golub'
     login: 'Tyrrrz'
     id: 1935960
-    contributions: 1172
+    contributions: 1193
     company: ''
     organizations: ''
 
   - rank: 126
-    name: 'Michael Bodnarchuk'
-    login: 'DavertMik'
-    id: 220264
-    contributions: 1152
-    company: 'Codegyre'
-    organizations: 'Codeception,consolidation'
+    name: 'Kirill Rogovoy'
+    login: 'kirillrogovoy'
+    id: 4512269
+    contributions: 1178
+    company: 'Velvica'
+    organizations: ''
 
   - rank: 127
-    name: 'Sokil'
-    login: 'sokil'
-    id: 1829948
-    contributions: 1138
-    company: '@PHPMongoKit '
-    organizations: 'PHPMongoKit'
+    name: 'Anatoliy'
+    login: 'anatoliyv'
+    id: 1595032
+    contributions: 1170
+    company: 'TouchAppMedia'
+    organizations: ''
 
   - rank: 128
-    name: 'Joshua Steele'
-    login: 'joshukraine'
-    id: 615841
-    contributions: 1115
-    company: 'Euro Team Outreach, Inc.'
-    organizations: 'euroteamoutreach'
+    name: 'Ivan Boldyrev'
+    login: 'iboldurev'
+    id: 17103170
+    contributions: 1167
+    company: '@magpaylabs '
+    organizations: ''
 
   - rank: 129
-    name: 'Kyrylo Polezhaiev'
-    login: 'kirushyk'
-    id: 3447431
-    contributions: 1112
-    company: ''
-    organizations: 'ESTOS'
-
-  - rank: 130
-    name: 'Voloshyn Ruslan'
-    login: 'bublik'
-    id: 38275
-    contributions: 1096
-    company: ''
-    organizations: 'lightcraft,mashine-hq'
-
-  - rank: 131
-    name: 'Grisha Kostyuk'
-    login: 'naspeh'
-    id: 161289
-    contributions: 1090
+    name: 'Fedor Bobylev'
+    login: 'Techblogogy'
+    id: 5318653
+    contributions: 1154
     company: ''
     organizations: ''
 
+  - rank: 130
+    name: 'Sokil'
+    login: 'sokil'
+    id: 1829948
+    contributions: 1133
+    company: '@PHPMongoKit '
+    organizations: 'PHPMongoKit'
+
+  - rank: 131
+    name: 'Yevgeniy Shunevych'
+    login: 'YevgeniyShunevych'
+    id: 10154945
+    contributions: 1120
+    company: '@atata-framework'
+    organizations: 'atata-framework'
+
   - rank: 132
+    name: 'Grisha Kostyuk'
+    login: 'naspeh'
+    id: 161289
+    contributions: 1107
+    company: ''
+    organizations: ''
+
+  - rank: 133
+    name: 'Evgenii Kanivets'
+    login: 'evgenii-kanivets'
+    id: 11427267
+    contributions: 1090
+    company: 'Freelance'
+    organizations: ''
+
+  - rank: 134
     name: 'Oleg Dreyman'
     login: 'dreymonde'
     id: 17236908
@@ -1058,27 +1074,11 @@ users:
     company: ''
     organizations: 'Zewo'
 
-  - rank: 133
-    name: 'Yevgeniy Shunevych'
-    login: 'YevgeniyShunevych'
-    id: 10154945
-    contributions: 1085
-    company: '@atata-framework'
-    organizations: 'atata-framework'
-
-  - rank: 134
-    name: 'Evgenii Kanivets'
-    login: 'evgenii-kanivets'
-    id: 11427267
-    contributions: 1081
-    company: 'Freelance'
-    organizations: ''
-
   - rank: 135
     name: 'Alex Kovalevych'
     login: 'AlexKovalevych'
     id: 577231
-    contributions: 1063
+    contributions: 1084
     company: ''
     organizations: 'gushphp'
 
@@ -1086,147 +1086,131 @@ users:
     name: 'Eugene Naydenov'
     login: 'f0t0n'
     id: 957767
-    contributions: 1059
+    contributions: 1083
     company: 'idevelop.city'
     organizations: 'chartus'
 
   - rank: 137
-    name: 'Ihor Orlovskyi'
-    login: 'ihororlovskyi'
-    id: 7969737
-    contributions: 1056
-    company: 'Lucky Labs'
-    organizations: 'sentimony,rooooster,coriolan-ui'
+    name: 'Voloshyn Ruslan'
+    login: 'bublik'
+    id: 38275
+    contributions: 1073
+    company: ''
+    organizations: 'lightcraft,mashine-hq'
 
   - rank: 138
-    name: 'Fedya Skitsko'
-    login: 'XBeg9'
-    id: 872907
-    contributions: 1050
-    company: 'Senior iOS Developer'
-    organizations: 'objcio,github-beta,Brightgrove,blueboardmedia,azzurro-io'
+    name: 'Kyrylo Polezhaiev'
+    login: 'kirushyk'
+    id: 3447431
+    contributions: 1066
+    company: ''
+    organizations: 'ESTOS'
 
   - rank: 139
     name: 'Volodymyr Stelmakh'
     login: 'stelmakh'
     id: 1478743
-    contributions: 1047
+    contributions: 1056
     company: ''
     organizations: ''
 
   - rank: 140
-    name: 'Alexandr Kovtunov'
-    login: 'AKovtunov'
-    id: 1730823
-    contributions: 1037
-    company: ''
-    organizations: 'DiatomEnterprises,StrategicIncentives'
+    name: 'Fedya Skitsko'
+    login: 'XBeg9'
+    id: 872907
+    contributions: 1055
+    company: 'Senior Software Engineer'
+    organizations: 'objcio,github-beta,Brightgrove,blueboardmedia,azzurro-io'
 
   - rank: 141
-    name: 'Slava'
-    login: 'slavaGanzin'
-    id: 1011721
-    contributions: 1027
-    company: ''
-    organizations: ''
+    name: 'Nazar Mokrynskyi'
+    login: 'nazar-pc'
+    id: 928965
+    contributions: 1054
+    company: '@CleverStyle, @Detox'
+    organizations: 'CleverStyle,Detox'
 
   - rank: 142
     name: 'Alexander Kozienko'
     login: 'ASKozienko'
     id: 100460
-    contributions: 1025
+    contributions: 1030
     company: ''
     organizations: 'formapro,Payum,php-enqueue,php-quartz,queue-interop'
 
   - rank: 143
-    name: 'Nazar Mokrynskyi'
-    login: 'nazar-pc'
-    id: 928965
-    contributions: 1019
-    company: '@CleverStyle, @Detox'
-    organizations: 'CleverStyle,Detox'
+    name: 'Ihor Orlovskyi'
+    login: 'ihororlovskyi'
+    id: 7969737
+    contributions: 1025
+    company: 'Lucky Labs'
+    organizations: 'sentimony,rooooster,coriolan-ui'
 
   - rank: 144
-    name: 'Alexey Kupriyanenko'
-    login: 'kupriyanenko'
-    id: 674983
-    contributions: 1017
-    company: 'Wix.com'
-    organizations: 'wix'
+    name: 'Alexandr Kovtunov'
+    login: 'AKovtunov'
+    id: 1730823
+    contributions: 1018
+    company: ''
+    organizations: 'DiatomEnterprises,StrategicIncentives'
 
   - rank: 145
-    name: 'Sergey Kharagorgiev'
-    login: 'coolvision'
-    id: 1460828
-    contributions: 985
+    name: 'Slava'
+    login: 'slavaGanzin'
+    id: 1011721
+    contributions: 1015
     company: ''
     organizations: ''
 
   - rank: 146
-    name: 'Stanislav Termosa'
-    login: 'termosa'
-    id: 494013
-    contributions: 969
-    company: ''
-    organizations: ''
+    name: 'Alexey Kupriyanenko'
+    login: 'kupriyanenko'
+    id: 674983
+    contributions: 1015
+    company: 'Wix.com'
+    organizations: 'wix'
 
   - rank: 147
-    name: 'Dmitriy Grechukha'
-    login: 'timlar'
-    id: 131641
-    contributions: 968
-    company: 'RubyGarage'
+    name: 'Alex'
+    login: 'yatsenkolesh'
+    id: 20239433
+    contributions: 995
+    company: '@pdffiller'
     organizations: ''
 
   - rank: 148
-    name: 'Dmitry Manchinskiy'
-    login: 'xtrafrancyz'
-    id: 3152972
-    contributions: 967
-    company: 'VimeWorld.ru'
-    organizations: 'VimeWorld'
+    name: 'Yuriy Glukhov'
+    login: 'yglukhov'
+    id: 6962409
+    contributions: 980
+    company: ''
+    organizations: 'nim-lang'
 
   - rank: 149
-    name: 'Sergey Korochansky'
-    login: 'SergeyKorochansky'
-    id: 4348222
-    contributions: 960
-    company: ''
-    organizations: ''
+    name: 'Artem'
+    login: 'suchov'
+    id: 1478985
+    contributions: 966
+    company: '@Kottans @rubyridersllc '
+    organizations: 'wahanegi,kottans,rubyridersllc,nodejs,15bits'
 
   - rank: 150
-    name: 'Alexey Osipenko'
-    login: 'aratak'
-    id: 30642
-    contributions: 959
-    company: 'Cimon.io'
-    organizations: 'it-vecherka'
+    name: 'Dmitriy Grechukha'
+    login: 'timlar'
+    id: 131641
+    contributions: 965
+    company: 'RubyGarage'
+    organizations: ''
 
   - rank: 151
     name: 'Eugene Tulika'
     login: 'vrann'
     id: 2277722
-    contributions: 954
+    contributions: 953
     company: 'Magento'
     organizations: ''
 
   - rank: 152
-    name: 'Yuriy Glukhov'
-    login: 'yglukhov'
-    id: 6962409
-    contributions: 952
-    company: ''
-    organizations: 'nim-lang'
-
-  - rank: 153
-    name: 'Artem'
-    login: 'suchov'
-    id: 1478985
-    contributions: 949
-    company: '@Kottans @rubyridersllc '
-    organizations: 'wahanegi,kottans,rubyridersllc,nodejs,15bits'
-
-  - rank: 154
     name: 'Yaroslav'
     login: 'Yarikx'
     id: 184247
@@ -1234,75 +1218,91 @@ users:
     company: 'Attendify'
     organizations: 'KitApps'
 
-  - rank: 155
-    name: 'Serhii Polishchuk'
-    login: 'spolischook'
-    id: 1978331
-    contributions: 938
-    company: 'Oro inc.'
+  - rank: 153
+    name: 'Dennis Yurichev'
+    login: 'DennisYurichev'
+    id: 2044088
+    contributions: 946
+    company: ''
     organizations: ''
+
+  - rank: 154
+    name: 'Alexey Osipenko'
+    login: 'aratak'
+    id: 30642
+    contributions: 945
+    company: 'Cimon.io'
+    organizations: 'it-vecherka'
+
+  - rank: 155
+    name: 'Eduardo K'
+    login: 'antongorodezkiy'
+    id: 580599
+    contributions: 940
+    company: 'Sole proprietorship'
+    organizations: 'TeamleadPower'
 
   - rank: 156
     name: 'Dmitry Poddubniy'
     login: 'mr47'
     id: 651943
-    contributions: 938
+    contributions: 940
     company: ''
     organizations: ''
 
   - rank: 157
-    name: 'Eduardo K'
-    login: 'antongorodezkiy'
-    id: 580599
-    contributions: 937
-    company: 'Sole proprietorship'
-    organizations: 'TeamleadPower'
-
-  - rank: 158
-    name: 'Dennis Yurichev'
-    login: 'DennisYurichev'
-    id: 2044088
-    contributions: 935
-    company: ''
-    organizations: ''
-
-  - rank: 159
-    name: 'Paul Druziak'
-    login: 'pauldruziak'
-    id: 14313
-    contributions: 928
-    company: '@starburstlabs '
-    organizations: ''
-
-  - rank: 160
     name: 'Andrei Alexeyev'
     login: 'Akaricchi'
     id: 609016
-    contributions: 925
+    contributions: 938
     company: '@taisei-project '
     organizations: ''
 
-  - rank: 161
-    name: 'Alex'
-    login: 'yatsenkolesh'
-    id: 20239433
-    contributions: 924
-    company: '@pdffiller'
+  - rank: 158
+    name: 'Serhii Polishchuk'
+    login: 'spolischook'
+    id: 1978331
+    contributions: 935
+    company: 'Oro inc.'
     organizations: ''
 
-  - rank: 162
+  - rank: 159
+    name: 'Sergey Korochansky'
+    login: 'SergeyKorochansky'
+    id: 4348222
+    contributions: 927
+    company: ''
+    organizations: ''
+
+  - rank: 160
     name: 'Alex Valuyskiy'
     login: 'alexvaluyskiy'
     id: 4232072
-    contributions: 921
+    contributions: 920
     company: ''
     organizations: 'akkadotnet'
+
+  - rank: 161
+    name: 'Paul Druziak'
+    login: 'pauldruziak'
+    id: 14313
+    contributions: 918
+    company: '@starburstlabs '
+    organizations: ''
+
+  - rank: 162
+    name: 'Dmitry Manchinskiy'
+    login: 'xtrafrancyz'
+    id: 3152972
+    contributions: 918
+    company: 'VimeWorld.ru'
+    organizations: 'VimeWorld'
 
   - rank: 163
     name: 'Alexey Shtanko'
     login: 'AdamLuisSean'
     id: 10870984
-    contributions: 904
+    contributions: 894
     company: 'Alexey Shtanko'
     organizations: ''
 
@@ -1310,7 +1310,7 @@ users:
     name: 'Мар''ян Крекотень (Marjan Krekoteń)'
     login: 'krekoten'
     id: 150485
-    contributions: 886
+    contributions: 888
     company: ''
     organizations: 'rubinius'
 
@@ -1318,27 +1318,19 @@ users:
     name: 'Taras'
     login: 'Tarik02'
     id: 12175048
-    contributions: 879
+    contributions: 882
     company: ''
     organizations: ''
 
   - rank: 166
-    name: 'Andrii Shumada'
-    login: 'eagleeye'
-    id: 933445
-    contributions: 865
-    company: 'Debitoor ECI/Ciklum'
-    organizations: 'HvzKievUA,debitoor'
-
-  - rank: 167
     name: 'Myroslav Zozulia'
     login: 'diwms'
     id: 968394
-    contributions: 862
+    contributions: 869
     company: 'Eleks Software'
     organizations: ''
 
-  - rank: 168
+  - rank: 167
     name: 'Roman Volosovskyi'
     login: 'rasom'
     id: 2364994
@@ -1346,107 +1338,115 @@ users:
     company: ''
     organizations: 'opennars,status-im'
 
-  - rank: 169
-    name: 'Alex Efros'
-    login: 'powerman'
-    id: 1354301
-    contributions: 858
-    company: ''
-    organizations: ''
-
-  - rank: 170
+  - rank: 168
     name: 'Dmitry Gladkov'
     login: 'dgladkov'
     id: 98132
-    contributions: 854
+    contributions: 847
     company: 'codebakery'
     organizations: 'zsh-users'
 
-  - rank: 171
-    name: 'Roman Cheplyaka'
-    login: 'feuerbach'
-    id: 24844
-    contributions: 828
-    company: ''
-    organizations: 'haskell-fswatch,haskell-suite'
+  - rank: 169
+    name: 'Andrii Shumada'
+    login: 'eagleeye'
+    id: 933445
+    contributions: 843
+    company: 'Debitoor ECI/Ciklum'
+    organizations: 'HvzKievUA,debitoor'
 
-  - rank: 172
+  - rank: 170
     name: 'Roman Liutikov'
     login: 'roman01la'
     id: 1355501
-    contributions: 821
+    contributions: 827
     company: '@KitApps '
     organizations: 'KitApps,kottans,devshelf,clojurescript-ru,chernivtsijs,backlog-js,LambdaBooks,functionalcave'
 
-  - rank: 173
-    name: 'Alexey Bobyrev'
-    login: 'sfate'
-    id: 469230
-    contributions: 797
-    company: 'Brightgrove, LTD.'
-    organizations: 'totsoftware,rgua'
-
-  - rank: 174
-    name: 'Victor Mus'
-    login: 'sdwvit'
-    id: 8777372
-    contributions: 794
-    company: '@busbud'
-    organizations: 'busbud,UkrainianGithub'
-
-  - rank: 175
-    name: 'Valerii Sorokobatko'
-    login: 'tuchk4'
-    id: 5140611
-    contributions: 781
-    company: ''
-    organizations: 'frankland'
-
-  - rank: 176
-    name: 'Denis Makogon'
-    login: 'denismakogon'
-    id: 3034091
-    contributions: 776
-    company: 'Oracle'
-    organizations: 'aiorchestra'
-
-  - rank: 177
-    name: 'Roman Kozlovskyi'
-    login: 'kroman0'
-    id: 904994
-    contributions: 768
-    company: 'Quintagroup'
-    organizations: 'plone,collective,quintagroup'
-
-  - rank: 178
+  - rank: 171
     name: 'Yaroslav'
     login: 'yarolegovich'
     id: 9644546
-    contributions: 766
+    contributions: 807
     company: ''
     organizations: ''
 
-  - rank: 179
+  - rank: 172
+    name: 'Alex Efros'
+    login: 'powerman'
+    id: 1354301
+    contributions: 807
+    company: ''
+    organizations: ''
+
+  - rank: 173
+    name: 'Victor Mus'
+    login: 'sdwvit'
+    id: 8777372
+    contributions: 792
+    company: '@busbud'
+    organizations: 'busbud,UkrainianGithub'
+
+  - rank: 174
+    name: 'Valerii Sorokobatko'
+    login: 'tuchk4'
+    id: 5140611
+    contributions: 790
+    company: ''
+    organizations: 'frankland'
+
+  - rank: 175
+    name: 'Roman Kozlovskyi'
+    login: 'kroman0'
+    id: 904994
+    contributions: 789
+    company: 'Quintagroup'
+    organizations: 'plone,collective,quintagroup'
+
+  - rank: 176
+    name: 'Alex'
+    login: 'alexth'
+    id: 2251522
+    contributions: 786
+    company: 'Available for hire'
+    organizations: ''
+
+  - rank: 177
     name: 'Ihor Kalnytskyi'
     login: 'ikalnytskyi'
     id: 166626
-    contributions: 757
+    contributions: 781
     company: '@datarobot '
     organizations: 'xsnippet,datarobot'
 
-  - rank: 180
+  - rank: 178
+    name: 'Alexey Bobyrev'
+    login: 'sfate'
+    id: 469230
+    contributions: 781
+    company: 'Brightgrove, LTD.'
+    organizations: 'totsoftware,rgua'
+
+  - rank: 179
     name: 'Oleksandr'
     login: 'glushchenko'
     id: 1089917
-    contributions: 757
+    contributions: 764
     company: '@bis-gmbh '
     organizations: 'bis-gmbh,apple-russian'
+
+  - rank: 180
+    name: 'Evgeniy Reizner'
+    login: 'RazrFalcon'
+    id: 725494
+    contributions: 761
+    company: ''
+    organizations: ''
 
   - rank: 181
     name: 'Serge Zaitsev'
     login: 'zserge'
     id: 1911760
-    contributions: 755
+    contributions: 761
     company: ''
     organizations: ''
 
@@ -1454,43 +1454,51 @@ users:
     name: 'Sergey Khalymon'
     login: 'Infernion'
     id: 1163493
-    contributions: 753
+    contributions: 757
     company: '@FundedByMe '
     organizations: ''
 
   - rank: 183
+    name: 'Denis Makogon'
+    login: 'denismakogon'
+    id: 3034091
+    contributions: 750
+    company: 'Oracle'
+    organizations: 'aiorchestra'
+
+  - rank: 184
     name: 'Artem Ohanjanyan'
     login: 'artemohanjanyan'
     id: 7469923
-    contributions: 751
-    company: ''
-    organizations: ''
-
-  - rank: 184
-    name: 'Us Dmitry'
-    login: 'k1T4eR'
-    id: 15076128
-    contributions: 748
+    contributions: 745
     company: ''
     organizations: ''
 
   - rank: 185
-    name: 'Alex Vidchinkin'
-    login: 'ulmen'
-    id: 63060
-    contributions: 738
-    company: 'Blackbellapp.com'
-    organizations: 'hxcoding'
+    name: 'Us Dmitry'
+    login: 'k1T4eR'
+    id: 15076128
+    contributions: 744
+    company: ''
+    organizations: ''
 
   - rank: 186
+    name: 'Victor Bocharsky'
+    login: 'bocharsky-bw'
+    id: 3317635
+    contributions: 735
+    company: '@KnpUniversity'
+    organizations: 'KnpLabs,knpuniversity,bionic-university,uc-intellekt,OsenWeb'
+
+  - rank: 187
     name: 'Bogdan Padalko'
     login: 'pinepain'
     id: 2185793
-    contributions: 736
+    contributions: 732
     company: ''
     organizations: 'queue-interop'
 
-  - rank: 187
+  - rank: 188
     name: 'Terry Sahaidak'
     login: 'terrysahaidak'
     id: 7809008
@@ -1498,79 +1506,87 @@ users:
     company: 'artAuro'
     organizations: ''
 
-  - rank: 188
-    name: 'Andrey'
-    login: 'askucher'
-    id: 4496793
-    contributions: 727
-    company: 'Blockstarter'
-    organizations: ''
-
   - rank: 189
-    name: 'Sergey Illarionov'
-    login: 'maplemap'
-    id: 5664270
-    contributions: 724
-    company: ''
-    organizations: ''
+    name: 'Vova'
+    login: '0bman'
+    id: 1016408
+    contributions: 730
+    company: 'Active Bridge, LLC ☕️'
+    organizations: 'activebridge,simple-oauth2'
 
   - rank: 190
-    name: 'Sergei Eremenko'
-    login: 'SmartFinn'
-    id: 819186
-    contributions: 723
-    company: ''
-    organizations: 'PapirusDevelopmentTeam'
+    name: 'Pavlo Voznenko'
+    login: 'pvoznenko'
+    id: 1098414
+    contributions: 730
+    company: 'AutoScout24 GmbH'
+    organizations: 'AutoScout24,cure53berlin'
 
   - rank: 191
     name: 'Alexander Bruy'
     login: 'alexbruy'
     id: 776954
-    contributions: 722
+    contributions: 729
     company: ''
     organizations: ''
 
   - rank: 192
-    name: 'Alex'
-    login: 'alexth'
-    id: 2251522
+    name: 'Sophia Antipenko'
+    login: 's0ph1e'
+    id: 2333969
     contributions: 722
-    company: 'Available for hire'
-    organizations: ''
+    company: ''
+    organizations: 'sumup,debitoor,pm2s,approve-code,website-scraper'
 
   - rank: 193
-    name: 'Volodymyr Shymanskyy'
-    login: 'vshymanskyy'
-    id: 1506708
-    contributions: 720
-    company: ''
+    name: 'Andrey'
+    login: 'askucher'
+    id: 4496793
+    contributions: 722
+    company: 'Blockstarter'
     organizations: ''
 
   - rank: 194
-    name: 'Victor Shepelev'
-    login: 'zverok'
-    id: 129656
-    contributions: 720
-    company: 'Toptal'
-    organizations: ''
+    name: 'Джон, просто Джон'
+    login: 'sudodoki'
+    id: 1506905
+    contributions: 721
+    company: ''
+    organizations: 'ember-admin,kottans,dev-ua,backlog-js'
 
   - rank: 195
+    name: 'Sergei Eremenko'
+    login: 'SmartFinn'
+    id: 819186
+    contributions: 719
+    company: ''
+    organizations: 'PapirusDevelopmentTeam'
+
+  - rank: 196
     name: 'Lisa Dziuba'
     login: 'LisaDziuba'
     id: 23191656
-    contributions: 715
+    contributions: 719
     company: 'Flawless App'
     organizations: ''
 
-  - rank: 196
-    name: 'Vova'
-    login: '0bman'
-    id: 1016408
-    contributions: 712
-    company: 'Active Bridge, LLC ☕️'
-    organizations: 'activebridge,simple-oauth2'
-
   - rank: 197
+    name: 'Alex Vidchinkin'
+    login: 'ulmen'
+    id: 63060
+    contributions: 712
+    company: 'Blackbellapp.com'
+    organizations: 'hxcoding'
+
+  - rank: 198
+    name: 'Victor Shepelev'
+    login: 'zverok'
+    id: 129656
+    contributions: 712
+    company: 'Toptal'
+    organizations: ''
+
+  - rank: 199
     name: 'Zeke Fast'
     login: 'zekefast'
     id: 237734
@@ -1578,139 +1594,123 @@ users:
     company: ''
     organizations: 'wimdu,rgua,com-rb'
 
-  - rank: 198
-    name: 'Joseph Chereshnovsky'
-    login: 'webdevbyjoss'
-    id: 402001
-    contributions: 709
-    company: 'Cogniance'
-    organizations: 'Cogniance'
-
-  - rank: 199
-    name: 'Sophia Antipenko'
-    login: 's0ph1e'
-    id: 2333969
-    contributions: 709
-    company: ''
-    organizations: 'sumup,debitoor,pm2s,approve-code,website-scraper'
-
   - rank: 200
-    name: 'Pavlo Voznenko'
-    login: 'pvoznenko'
-    id: 1098414
-    contributions: 703
-    company: 'AutoScout24 GmbH'
-    organizations: 'AutoScout24,cure53berlin'
-
-  - rank: 201
-    name: 'Dmytro Filipenko'
-    login: 'dmfilipenko'
-    id: 1822520
-    contributions: 700
+    name: 'Sergey Illarionov'
+    login: 'maplemap'
+    id: 5664270
+    contributions: 709
     company: ''
     organizations: ''
 
-  - rank: 202
+  - rank: 201
     name: 'Maksym Vlasov'
     login: 'MaxymVlasov'
     id: 11096782
-    contributions: 699
+    contributions: 703
     company: 'PDFfiller Inc.'
     organizations: 'itkpi,pdffiller,msproadshow'
 
-  - rank: 203
-    name: 'Dmitriy Nesteryuk'
-    login: 'dnesteryuk'
-    id: 128024
-    contributions: 698
-    company: '@gohiring '
+  - rank: 202
+    name: 'Andriy Bas'
+    login: 'AndriyBas'
+    id: 6297446
+    contributions: 702
+    company: '@uptechteam '
     organizations: ''
+
+  - rank: 203
+    name: 'Joseph Chereshnovsky'
+    login: 'webdevbyjoss'
+    id: 402001
+    contributions: 701
+    company: 'Cogniance'
+    organizations: 'Cogniance'
 
   - rank: 204
     name: 'Vladimir Arabadzhi'
     login: 'Vladar4'
     id: 1783492
-    contributions: 698
+    contributions: 699
     company: ''
     organizations: ''
 
   - rank: 205
-    name: 'Bohdan Turkynewych'
-    login: 'tb0hdan'
-    id: 201715
-    contributions: 697
-    company: 'SELF'
+    name: 'Dmitriy Nesteryuk'
+    login: 'dnesteryuk'
+    id: 128024
+    contributions: 696
+    company: '@gohiring '
     organizations: ''
 
   - rank: 206
-    name: 'Vladimir Agafonkin'
-    login: 'mourner'
-    id: 25395
-    contributions: 696
-    company: 'Mapbox'
-    organizations: 'CloudMade,mapbox,kothic,Leaflet,Maps4HTML'
+    name: 'Max Ratoshniuk'
+    login: 'mratoshniuk'
+    id: 11776895
+    contributions: 695
+    company: '@PlayQ '
+    organizations: ''
 
   - rank: 207
-    name: 'Sergei Mozhaisky'
-    login: 'technix'
-    id: 303465
+    name: 'Volodymyr Shymanskyy'
+    login: 'vshymanskyy'
+    id: 1506708
     contributions: 693
     company: ''
     organizations: ''
 
   - rank: 208
-    name: 'Max Ratoshniuk'
-    login: 'mratoshniuk'
-    id: 11776895
+    name: 'Dmytro Filipenko'
+    login: 'dmfilipenko'
+    id: 1822520
     contributions: 693
-    company: '@PlayQ '
+    company: ''
     organizations: ''
 
   - rank: 209
-    name: 'Джон, просто Джон'
-    login: 'sudodoki'
-    id: 1506905
-    contributions: 692
+    name: 'Dmytro Kyrychuk'
+    login: 'KyrychukD'
+    id: 699961
+    contributions: 691
     company: ''
-    organizations: 'ember-admin,kottans,dev-ua,backlog-js'
+    organizations: ''
 
   - rank: 210
-    name: 'Victor Bocharsky'
-    login: 'bocharsky-bw'
-    id: 3317635
-    contributions: 692
-    company: '@KnpUniversity'
-    organizations: 'KnpLabs,knpuniversity,bionic-university,uc-intellekt,OsenWeb'
+    name: 'Sergei Mozhaisky'
+    login: 'technix'
+    id: 303465
+    contributions: 689
+    company: ''
+    organizations: ''
 
   - rank: 211
     name: 'Vadim Kuznetsov'
     login: 'vadim-job-hg'
     id: 14963716
-    contributions: 688
+    contributions: 686
     company: ''
     organizations: ''
 
   - rank: 212
-    name: 'Andriy Bas'
-    login: 'AndriyBas'
-    id: 6297446
-    contributions: 687
-    company: '@uptechteam '
-    organizations: ''
+    name: 'Denys Telezhkin'
+    login: 'DenHeadless'
+    id: 853604
+    contributions: 681
+    company: 'MLSDev'
+    organizations: 'MLSDev'
 
   - rank: 213
+    name: 'Roman Cheplyaka'
+    login: 'feuerbach'
+    id: 24844
+    contributions: 681
+    company: ''
+    organizations: 'haskell-fswatch,haskell-suite'
+
+  - rank: 214
     name: 'Volodya Sveredyuk'
     login: 'sveredyuk'
     id: 5221643
-    contributions: 683
-    company: ''
-    organizations: ''
-
-  - rank: 214
-    name: 'Evgeniy Reizner'
-    login: 'RazrFalcon'
-    id: 725494
-    contributions: 680
+    contributions: 679
     company: ''
     organizations: ''
 
@@ -1718,291 +1718,299 @@ users:
     name: 'Alexei Sholik'
     login: 'alco'
     id: 207748
-    contributions: 677
+    contributions: 675
     company: ''
     organizations: 'elixir-lang,woumedia,hashids'
 
   - rank: 216
-    name: 'Dmytro Kyrychuk'
-    login: 'KyrychukD'
-    id: 699961
-    contributions: 677
-    company: ''
-    organizations: ''
+    name: 'Vladimir Agafonkin'
+    login: 'mourner'
+    id: 25395
+    contributions: 672
+    company: 'Mapbox'
+    organizations: 'CloudMade,mapbox,kothic,Leaflet,Maps4HTML'
 
   - rank: 217
-    name: 'Denys Telezhkin'
-    login: 'DenHeadless'
-    id: 853604
-    contributions: 675
-    company: 'MLSDev'
-    organizations: 'MLSDev'
+    name: 'Ilya Petrov'
+    login: 'muromec'
+    id: 52763
+    contributions: 669
+    company: ''
+    organizations: 'realdesktop,dstucrypt'
 
   - rank: 218
-    name: 'Alexey Seleznev'
-    login: 'selesnow'
-    id: 17854596
-    contributions: 665
-    company: 'Netpeak'
-    organizations: ''
+    name: 'Alex Lapchenko'
+    login: 'ozeron'
+    id: 3617121
+    contributions: 667
+    company: 'Cropio'
+    organizations: 'cropio'
 
   - rank: 219
-    name: 'Vlad Shmyhlo'
-    login: 'v-shmyhlo'
-    id: 8707925
-    contributions: 664
-    company: '@rubygarage '
+    name: 'Bohdan Turkynewych'
+    login: 'tb0hdan'
+    id: 201715
+    contributions: 661
+    company: 'SELF'
     organizations: ''
 
   - rank: 220
     name: 'Konstantin  Rudenko'
     login: 'kotya341'
     id: 2707599
-    contributions: 664
+    contributions: 654
     company: ''
     organizations: ''
 
   - rank: 221
-    name: 'Ilya Petrov'
-    login: 'muromec'
-    id: 52763
-    contributions: 663
-    company: ''
-    organizations: 'realdesktop,dstucrypt'
-
-  - rank: 222
     name: 'Aleksey Shvayka'
     login: 'shvaikalesh'
     id: 5098878
-    contributions: 660
+    contributions: 652
     company: '@hellyeahllc'
     organizations: 'brunch,chaijs,shower,kottans,hellyeahllc'
 
+  - rank: 222
+    name: 'Alexey Seleznev'
+    login: 'selesnow'
+    id: 17854596
+    contributions: 649
+    company: 'Netpeak'
+    organizations: ''
+
   - rank: 223
-    name: 'Roman Miroshnychenko'
-    login: 'romanvm'
-    id: 1595560
-    contributions: 659
-    company: ''
+    name: 'Vlad Shmyhlo'
+    login: 'v-shmyhlo'
+    id: 8707925
+    contributions: 649
+    company: '@rubygarage '
     organizations: ''
 
   - rank: 224
-    name: 'Dave'
-    login: 'aios'
-    id: 737550
-    contributions: 655
-    company: 'OSR'
-    organizations: 'LaravelRUS,orchidsoftware,SleepingOwlAdmin'
-
-  - rank: 225
-    name: 'Nikita Sadkov'
-    login: 'saniv'
-    id: 5756703
-    contributions: 652
+    name: 'Roman Miroshnychenko'
+    login: 'romanvm'
+    id: 1595560
+    contributions: 643
     company: ''
     organizations: ''
 
-  - rank: 226
+  - rank: 225
     name: 'Ivan Goncharov'
     login: 'IvanGoncharov'
     id: 8336157
-    contributions: 643
+    contributions: 642
     company: 'APIs.guru'
     organizations: 'APIs-guru,maintainers'
 
-  - rank: 227
-    name: 'Ruslan Hadyniak'
-    login: 'PublicHadyniak'
-    id: 14146276
-    contributions: 641
-    company: 'NTUU "KPI"'
-    organizations: ''
-
-  - rank: 228
-    name: 'Alex Bardanov'
-    login: 'dnbard'
-    id: 4028472
-    contributions: 640
-    company: 'Blynk'
-    organizations: 'bower-visual'
-
-  - rank: 229
+  - rank: 226
     name: 'Mykola Bilochub'
     login: 'belochub'
     id: 3501391
-    contributions: 631
+    contributions: 637
     company: '@metarhia '
     organizations: 'metarhia'
 
-  - rank: 230
-    name: 'Max Grechko'
-    login: 'gremax'
-    id: 140586
-    contributions: 625
-    company: ''
-    organizations: 'grmx,startwifi'
+  - rank: 227
+    name: 'Alex Bardanov'
+    login: 'dnbard'
+    id: 4028472
+    contributions: 635
+    company: 'Blynk'
+    organizations: 'bower-visual'
 
-  - rank: 231
-    name: 'Dmitry Chaplinsky'
-    login: 'dchaplinsky'
-    id: 131186
-    contributions: 622
-    company: 'Conversion Science'
+  - rank: 228
+    name: 'Ruslan Hadyniak'
+    login: 'PublicHadyniak'
+    id: 14146276
+    contributions: 634
+    company: 'NTUU "KPI"'
     organizations: ''
 
-  - rank: 232
+  - rank: 229
+    name: 'Dave'
+    login: 'aios'
+    id: 737550
+    contributions: 633
+    company: 'OSR'
+    organizations: 'LaravelRUS,orchidsoftware,SleepingOwlAdmin,theparticles'
+
+  - rank: 230
     name: 'Denys Butenko'
     login: 'denysbutenko'
     id: 351613
+    contributions: 621
+    company: ''
+    organizations: ''
+
+  - rank: 231
+    name: 'Max Grechko'
+    login: 'gremax'
+    id: 140586
     contributions: 620
     company: ''
+    organizations: 'grmx,startwifi'
+
+  - rank: 232
+    name: 'Dmitry Chaplinsky'
+    login: 'dchaplinsky'
+    id: 131186
+    contributions: 617
+    company: 'Conversion Science'
     organizations: ''
 
   - rank: 233
-    name: 'Alex Lapchenko'
-    login: 'ozeron'
-    id: 3617121
-    contributions: 620
-    company: 'Cropio'
-    organizations: 'cropio'
-
-  - rank: 234
-    name: 'Oleksii Shevchuk'
-    login: 'alxchk'
-    id: 329535
-    contributions: 615
+    name: 'Nikita Sadkov'
+    login: 'saniv'
+    id: 5756703
+    contributions: 613
     company: ''
     organizations: ''
+
+  - rank: 234
+    name: 'Oleksandr Skrypnyk'
+    login: 'sxua'
+    id: 375762
+    contributions: 612
+    company: '@simplepractice '
+    organizations: 'simplepractice'
 
   - rank: 235
     name: 'Maxim'
     login: 'maxchv'
     id: 2316055
-    contributions: 609
+    contributions: 612
     company: 'itstep'
     organizations: ''
 
   - rank: 236
-    name: 'ZhluktenkoDmytro'
-    login: 'd1mnewz'
-    id: 11834902
-    contributions: 607
-    company: 'Euristiq'
+    name: 'Oleksii Shevchuk'
+    login: 'alxchk'
+    id: 329535
+    contributions: 612
+    company: ''
     organizations: ''
 
   - rank: 237
-    name: 'Philip Shurpik'
-    login: 'philipshurpik'
-    id: 6635302
-    contributions: 606
+    name: 'Arthur Edamov'
+    login: 'edamov'
+    id: 2741880
+    contributions: 609
     company: ''
-    organizations: ''
+    organizations: 'e-government-ua'
 
   - rank: 238
     name: 'SilentImp'
     login: 'SilentImp'
     id: 217308
-    contributions: 604
+    contributions: 603
     company: 'Frontender Magazine'
     organizations: 'webchallengeme,FrontenderMagazine,Aretodev,Plasma-Platform'
 
   - rank: 239
-    name: 'Taras Mazurkevych'
-    login: 'madtaras'
-    id: 14792549
-    contributions: 589
-    company: ''
+    name: 'ZhluktenkoDmytro'
+    login: 'd1mnewz'
+    id: 11834902
+    contributions: 603
+    company: 'Euristiq'
     organizations: ''
 
   - rank: 240
-    name: 'Anton Naumenko'
-    login: 'naumenko'
-    id: 1107352
-    contributions: 589
-    company: 'Syndicode'
-    organizations: 'BoxAtWorkGmbH'
-
-  - rank: 241
-    name: 'Ivan Ursul'
-    login: 'ivanursul'
-    id: 3056498
-    contributions: 585
-    company: 'ivanursul'
-    organizations: ''
-
-  - rank: 242
-    name: 'Alexander Repeta'
-    login: 'axZerk'
-    id: 17479434
-    contributions: 583
+    name: 'Taras Mazurkevych'
+    login: 'madtaras'
+    id: 14792549
+    contributions: 600
     company: ''
     organizations: ''
 
+  - rank: 241
+    name: 'Alexander Repeta'
+    login: 'axZerk'
+    id: 17479434
+    contributions: 589
+    company: ''
+    organizations: ''
+
+  - rank: 242
+    name: 'Roman Podoliaka'
+    login: 'malor'
+    id: 845275
+    contributions: 587
+    company: '@datarobot '
+    organizations: 'xsnippet'
+
   - rank: 243
-    name: 'Yaroslav Mytkalyk'
-    login: 'Doctoror'
-    id: 6018890
-    contributions: 582
+    name: 'Karliuka Vitalii'
+    login: 'karliuka'
+    id: 1991955
+    contributions: 581
     company: ''
     organizations: ''
 
   - rank: 244
-    name: 'Oleksandr Skrypnyk'
-    login: 'sxua'
-    id: 375762
-    contributions: 579
-    company: '@simplepractice '
-    organizations: 'simplepractice'
-
-  - rank: 245
     name: 'Dmitry Sikorsky'
     login: 'DmitrySikorsky'
     id: 6570196
-    contributions: 578
+    contributions: 580
     company: 'Ubrainians'
     organizations: 'Platformus,ExtCore,Pxper'
 
-  - rank: 246
-    name: 'Alex'
-    login: 'Satanpit'
-    id: 2317640
+  - rank: 245
+    name: 'Alex Kovalenko'
+    login: 'xxllexx'
+    id: 163389
     contributions: 576
-    company: ''
+    company: 'Wix'
+    organizations: ''
+
+  - rank: 246
+    name: 'Ivan Ursul'
+    login: 'ivanursul'
+    id: 3056498
+    contributions: 574
+    company: 'ivanursul'
     organizations: ''
 
   - rank: 247
-    name: 'Karliuka Vitalii'
-    login: 'karliuka'
-    id: 1991955
-    contributions: 565
-    company: ''
-    organizations: ''
+    name: 'Anton Naumenko'
+    login: 'naumenko'
+    id: 1107352
+    contributions: 573
+    company: 'Syndicode'
+    organizations: 'BoxAtWorkGmbH'
 
   - rank: 248
-    name: 'Maxim Olender'
-    login: 'forGGe'
-    id: 5261821
+    name: 'Oleh Kuchuk'
+    login: 'hzlmn'
+    id: 8246283
+    contributions: 572
+    company: ''
+    organizations: 'Despair'
+
+  - rank: 249
+    name: 'Philip Shurpik'
+    login: 'philipshurpik'
+    id: 6635302
     contributions: 565
     company: ''
     organizations: ''
 
-  - rank: 249
-    name: 'Roman Podoliaka'
-    login: 'malor'
-    id: 845275
-    contributions: 562
-    company: '@datarobot '
-    organizations: 'xsnippet'
-
   - rank: 250
-    name: 'Alexey Popravka'
-    login: 'popravich'
-    id: 323442
-    contributions: 562
+    name: 'Alex'
+    login: 'Satanpit'
+    id: 2317640
+    contributions: 560
     company: ''
-    organizations: 'aio-libs'
+    organizations: ''
 
   - rank: 251
+    name: 'Paul Klimov'
+    login: 'klimov-paul'
+    id: 1482054
+    contributions: 558
+    company: 'QuartSoft'
+    organizations: 'yiisoft,yii2tech'
+
+  - rank: 252
     name: 'Andrew Gubskiy'
     login: 'ernado-x'
     id: 3822922
@@ -2010,31 +2018,15 @@ users:
     company: '@dncuug'
     organizations: 'kpi-ua,Interactive-Services,github-beta,torf-tv,HowProgrammingWorks,dncuug'
 
-  - rank: 252
-    name: 'Igor Fedoronchuk'
-    login: 'Fivell'
-    id: 120269
-    contributions: 556
-    company: 'DIDWW'
-    organizations: 'activeadmin,didww,unmantained-activeadmin-plugins,activeadmin-plugins,maintainers'
-
   - rank: 253
-    name: 'Paul Klimov'
-    login: 'klimov-paul'
-    id: 1482054
+    name: 'Alexey Popravka'
+    login: 'popravich'
+    id: 323442
     contributions: 556
-    company: 'QuartSoft'
-    organizations: 'yiisoft,yii2tech'
+    company: ''
+    organizations: 'aio-libs'
 
   - rank: 254
-    name: 'Dmitriy Budnik'
-    login: 'budnik'
-    id: 1160699
-    contributions: 555
-    company: 'VENTURE.co'
-    organizations: 'e-government-ua'
-
-  - rank: 255
     name: 'Denis Sedchenko'
     login: 'x1unix'
     id: 9203548
@@ -2042,12 +2034,20 @@ users:
     company: 'Limelight Networks'
     organizations: 'llnw'
 
-  - rank: 256
-    name: 'Alex Kovalenko'
-    login: 'xxllexx'
-    id: 163389
+  - rank: 255
+    name: 'Dmitriy Budnik'
+    login: 'budnik'
+    id: 1160699
     contributions: 552
-    company: 'Wix'
+    company: 'VENTURE.co'
+    organizations: 'e-government-ua'
+
+  - rank: 256
+    name: 'Oleksandr Khotemskyi'
+    login: 'Xotabu4'
+    id: 3033972
+    contributions: 552
+    company: ''
     organizations: ''
 
 organizations:
@@ -2057,38 +2057,38 @@ organizations:
     membercount: 8
 
   - rank: 2
-    name: 'maintainers'
-    membercount: 5
-
-  - rank: 3
-    name: 'activebridge'
-    membercount: 5
-
-  - rank: 4
     name: 'nodejs'
     membercount: 5
 
-  - rank: 5
+  - rank: 3
     name: 'aio-libs'
     membercount: 5
 
-  - rank: 6
-    name: 'UkrainianGithub'
-    membercount: 4
+  - rank: 4
+    name: 'activebridge'
+    membercount: 5
 
-  - rank: 7
-    name: 'chernivtsijs'
-    membercount: 4
-
-  - rank: 8
+  - rank: 5
     name: 'github-beta'
     membercount: 4
 
+  - rank: 6
+    name: 'chernivtsijs'
+    membercount: 4
+
+  - rank: 7
+    name: 'UkrainianGithub'
+    membercount: 4
+
+  - rank: 8
+    name: 'maintainers'
+    membercount: 4
+
   - rank: 9
-    name: 'hiqdev'
+    name: 'pdffiller'
     membercount: 3
 
   - rank: 10
-    name: 'EpicGames'
+    name: 'KitApps'
     membercount: 3
-generated: 2017-12-11 00:22:13.743507146 +0000 UTC
+generated: 2017-12-18 00:22:15.228865739 +0000 UTC

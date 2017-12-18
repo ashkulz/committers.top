@@ -6,7 +6,7 @@ users:
     name: 'Theo Armour'
     login: 'theo-armour'
     id: 547626
-    contributions: 25831
+    contributions: 25864
     company: 'http://theo-armour.github.io#readme.md'
     organizations: 'freeflightsim,fgx,jaanga,patterns-dev,absence,wikihouse,aeChack,mobi-data,va3c,soundviz,adsomnia,walkntalk,Abantech,tzigzagz,exploratoria,ladybug-tools,GreenBuildingXML,icoloridelbuio,flysim,webMath,leaderphotos,pushme-pullyou,dianachace,prediqtiv,parallel-constitution,ibpsa2017,tony-dingman'
 
@@ -14,7 +14,7 @@ users:
     name: 'Even Rouault'
     login: 'rouault'
     id: 1192433
-    contributions: 10080
+    contributions: 10029
     company: 'Spatialys'
     organizations: 'OSGeo'
 
@@ -22,7 +22,7 @@ users:
     name: 'Nicolas Grekas'
     login: 'nicolas-grekas'
     id: 243674
-    contributions: 9587
+    contributions: 9700
     company: ''
     organizations: 'symfony'
 
@@ -30,7 +30,7 @@ users:
     name: 'Thibault Duplessis'
     login: 'ornicar'
     id: 140370
-    contributions: 7207
+    contributions: 7152
     company: 'lichess.org'
     organizations: ''
 
@@ -38,31 +38,31 @@ users:
     name: 'Olivier Tassinari'
     login: 'oliviertassinari'
     id: 3165635
-    contributions: 6192
+    contributions: 6149
     company: ''
-    organizations: 'callemall,argos-ci,mui-org'
+    organizations: 'callemall,cssinjs,argos-ci,mui-org'
 
   - rank: 6
-    name: 'Vincent Demeester'
-    login: 'vdemeester'
-    id: 6508
-    contributions: 5818
-    company: '@docker '
-    organizations: 'docker,docker-training,containous,maintainers,moby'
-
-  - rank: 7
     name: 'Tom Baranes'
     login: 'tbaranes'
     id: 1402212
-    contributions: 5798
+    contributions: 5742
     company: 'Recisio'
     organizations: 'recisio,IBAnimatable'
+
+  - rank: 7
+    name: 'Vincent Demeester'
+    login: 'vdemeester'
+    id: 6508
+    contributions: 5618
+    company: '@docker '
+    organizations: 'docker,docker-training,containous,maintainers,moby'
 
   - rank: 8
     name: 'Jonas Ohlsson Aden'
     login: 'pocketjoso'
     id: 7192832
-    contributions: 5432
+    contributions: 5384
     company: 'Snips'
     organizations: ''
 
@@ -70,7 +70,7 @@ users:
     name: 'Maxime Fabre'
     login: 'Anahkiasen'
     id: 1321596
-    contributions: 5331
+    contributions: 5324
     company: 'Madewithlove'
     organizations: 'thephpleague,madewithlove,CustomsForge,rocketeers,formers,arrounded'
 
@@ -78,7 +78,7 @@ users:
     name: 'Kévin Gomez'
     login: 'K-Phoen'
     id: 66958
-    contributions: 5033
+    contributions: 5189
     company: 'TEA - The Ebook Alternative'
     organizations: 'Carpe-Hora,hoaproject,TEA-ebook,cup-of-giraf,geocoder-php,php-vcr,sitemap-php'
 
@@ -86,7 +86,7 @@ users:
     name: 'Hadrien Lanneau'
     login: 'hadrienl'
     id: 225382
-    contributions: 5027
+    contributions: 5032
     company: '@sportheroes '
     organizations: 'lafranceinsoumise'
 
@@ -94,7 +94,7 @@ users:
     name: 'Haroen Viaene'
     login: 'Haroenv'
     id: 6270048
-    contributions: 4929
+    contributions: 4875
     company: '@algolia'
     organizations: 'algolia,bullgit,jwronline,EcoFabLabBrugge,ikdoeict-notes,osoc16,punchtime,FCCghent,yarnpkg,gin-fizz'
 
@@ -107,58 +107,58 @@ users:
     organizations: 'hoaproject,DevOoops,ubirak'
 
   - rank: 14
-    name: 'Thomas Orozco'
-    login: 'krallin'
-    id: 1737686
-    contributions: 4566
-    company: '@aptible '
-    organizations: 'aptible'
-
-  - rank: 15
     name: 'Florent Messa'
     login: 'thoas'
     id: 19938
-    contributions: 4548
+    contributions: 4618
     company: 'Ulule'
     organizations: 'milkshape,apluggedinlife,botify-hq,ulule,botify-labs'
 
-  - rank: 16
+  - rank: 15
     name: 'Romain Neutron'
     login: 'romainneutron'
     id: 137574
-    contributions: 4495
+    contributions: 4563
     company: '@blackfireio @sensiolabs '
     organizations: 'symfony,reactphp,sensiolabs,PHP-FFMpeg,blackfireio'
 
-  - rank: 17
-    name: 'Christophe Coevoet'
-    login: 'stof'
-    id: 439401
-    contributions: 4420
-    company: '@Incenteev'
-    organizations: 'symfony,doctrine,phpspec,Yrch,FriendsOfSymfony,Behat,Incenteev,Cilex,minkphp,Stampie'
-
-  - rank: 18
+  - rank: 16
     name: 'Clement ''cmc'' Rey'
     login: 'teh-cmc'
     id: 2910679
-    contributions: 4401
+    contributions: 4444
     company: '@znly '
     organizations: 'znly,dollet'
 
-  - rank: 19
+  - rank: 17
+    name: 'Thomas Orozco'
+    login: 'krallin'
+    id: 1737686
+    contributions: 4423
+    company: '@aptible '
+    organizations: 'aptible'
+
+  - rank: 18
     name: 'Sven SAULEAU'
     login: 'xtuc'
     id: 1493671
-    contributions: 4335
+    contributions: 4415
     company: '@xtuc'
     organizations: 'duckduckgo,AlsaceDigitale,beerjs,nodeschool,babel,ForthHub,lerna,maintainers,contributor-ninja,ByteArena'
+
+  - rank: 19
+    name: 'Christophe Coevoet'
+    login: 'stof'
+    id: 439401
+    contributions: 4379
+    company: '@Incenteev'
+    organizations: 'symfony,doctrine,phpspec,Yrch,FriendsOfSymfony,Behat,Incenteev,Cilex,minkphp,Stampie'
 
   - rank: 20
     name: 'Sébastien Saunier'
     login: 'ssaunier'
     id: 414418
-    contributions: 4223
+    contributions: 4209
     company: 'CTO @lewagon '
     organizations: 'lewagon,RoadstR'
 
@@ -166,47 +166,47 @@ users:
     name: 'David Gageot'
     login: 'dgageot'
     id: 153495
-    contributions: 4109
+    contributions: 4107
     company: '@Google'
-    organizations: 'CodeStory'
+    organizations: 'google,CodeStory,GoogleCloudPlatform'
 
   - rank: 22
     name: 'Jérémy Benoist'
     login: 'j0k3r'
     id: 62333
-    contributions: 4027
+    contributions: 4024
     company: '@20Minutes'
     organizations: '20minutes,LExpress,wallabag,yabwe'
 
   - rank: 23
-    name: 'Matthieu Napoli'
-    login: 'mnapoli'
-    id: 720328
-    contributions: 3974
-    company: '@wizaplace'
-    organizations: 'php-fig,piwik,myclabs,container-interop,PHP-DI,CouscousPHP,http-interop,wizaplace'
-
-  - rank: 24
     name: 'Rémy HUBSCHER'
     login: 'Natim'
     id: 229453
-    contributions: 3937
+    contributions: 3917
     company: 'Mozilla'
     organizations: 'spiral-project,Kinto'
 
-  - rank: 25
+  - rank: 24
     name: 'Frank Denis'
     login: 'jedisct1'
     id: 124872
-    contributions: 3891
+    contributions: 3874
     company: '@Primulinus'
     organizations: ''
+
+  - rank: 25
+    name: 'Matthieu Napoli'
+    login: 'mnapoli'
+    id: 720328
+    contributions: 3870
+    company: '@wizaplace'
+    organizations: 'php-fig,piwik,myclabs,container-interop,PHP-DI,CouscousPHP,http-interop,wizaplace'
 
   - rank: 26
     name: 'Raymond Rutjes'
     login: 'rayrutjes'
     id: 5570853
-    contributions: 3773
+    contributions: 3669
     company: '@algolia '
     organizations: 'algolia'
 
@@ -214,7 +214,7 @@ users:
     name: 'Thomas Gazagnaire'
     login: 'samoht'
     id: 103693
-    contributions: 3756
+    contributions: 3596
     company: 'Docker, Inc.'
     organizations: 'mirage,ocaml,ocamllabs,moby'
 
@@ -222,7 +222,7 @@ users:
     name: 'Jean-Baptiste Onofré'
     login: 'jbonofre'
     id: 158903
-    contributions: 3573
+    contributions: 3576
     company: ''
     organizations: 'apache,jclouds,ops4j,Talend,camel-extra,apache-servicemix-extra'
 
@@ -230,7 +230,7 @@ users:
     name: 'François de Metz'
     login: 'francois2metz'
     id: 86659
-    contributions: 3505
+    contributions: 3491
     company: '@stormz '
     organizations: 'parisjs,stormz'
 
@@ -238,7 +238,7 @@ users:
     name: 'Samy Amar'
     login: 'Samy-Amar'
     id: 16536800
-    contributions: 3505
+    contributions: 3456
     company: 'Skello.io'
     organizations: ''
 
@@ -246,7 +246,7 @@ users:
     name: 'Greg Bergé'
     login: 'neoziro'
     id: 266302
-    contributions: 3449
+    contributions: 3421
     company: '@smooth-code '
     organizations: 'shipitjs,argos-ci,smooth-code'
 
@@ -254,7 +254,7 @@ users:
     name: 'Sunny Ripert'
     login: 'sunny'
     id: 132
-    contributions: 3372
+    contributions: 3383
     company: 'KissKissBankBank'
     organizations: 'escalopes,gollum,KissKissBankBank,cults'
 
@@ -262,35 +262,27 @@ users:
     name: 'Julien Viet'
     login: 'vietj'
     id: 225674
-    contributions: 3369
+    contributions: 3351
     company: 'Red Hat'
     organizations: 'marsjug,vert-x,crashub,asciidoctor'
 
   - rank: 34
-    name: 'Remi Collet'
-    login: 'remicollet'
-    id: 270445
-    contributions: 3153
-    company: 'Red Hat Inc, Fedora Project, Remi''s RPM Repository'
-    organizations: ''
-
-  - rank: 35
     name: 'Guillaume Gomez'
     login: 'GuillaumeGomez'
     id: 3050060
-    contributions: 3131
+    contributions: 3156
     company: ''
     organizations: 'rust-lang,gtk-rs,rust-fr,RustFestEU,kuchiki-rs,FTP-rs'
 
-  - rank: 36
-    name: 'Bruno Michel'
-    login: 'nono'
-    id: 2767
-    contributions: 3066
-    company: 'Cozy Cloud'
-    organizations: 'mustache,ruby,linuxfrorg,zsh-users,cozy,cozy-labs'
+  - rank: 35
+    name: 'Remi Collet'
+    login: 'remicollet'
+    id: 270445
+    contributions: 3074
+    company: 'Red Hat Inc, Fedora Project, Remi''s RPM Repository'
+    organizations: ''
 
-  - rank: 37
+  - rank: 36
     name: 'Pierre-Eric Marchandet'
     login: 'PEM--'
     id: 227831
@@ -298,11 +290,19 @@ users:
     company: 'Freelance'
     organizations: 'meteor-useraccounts,MeteorPackaging,spacedrop,ssrwpo'
 
+  - rank: 37
+    name: 'Bruno Michel'
+    login: 'nono'
+    id: 2767
+    contributions: 3023
+    company: 'Cozy Cloud'
+    organizations: 'mustache,ruby,linuxfrorg,zsh-users,cozy,cozy-labs'
+
   - rank: 38
     name: 'Jacques Bodin-Hullin'
     login: 'jacquesbh'
     id: 858611
-    contributions: 3015
+    contributions: 2991
     company: 'Monsieur Biz'
     organizations: 'firegento,afup,magento-hackathon,monsieurbiz,opengento,pagaio-lab'
 
@@ -310,7 +310,7 @@ users:
     name: 'Baptiste Daroussin'
     login: 'bapt'
     id: 103607
-    contributions: 2993
+    contributions: 2948
     company: 'Gandi'
     organizations: 'freebsd,pkgconf'
 
@@ -318,227 +318,243 @@ users:
     name: 'Sébastien Chopin'
     login: 'Atinux'
     id: 904724
-    contributions: 2986
+    contributions: 2946
     company: ''
-    organizations: 'nuxt,vuejs-fr,orion-sh,nuxt-community'
+    organizations: 'nuxt,vuejs-fr,orion-sh,nuxt-community,terrajs'
 
   - rank: 41
-    name: 'Pierre Durand'
-    login: 'pierrre'
-    id: 131535
-    contributions: 2858
-    company: ''
-    organizations: ''
-
-  - rank: 42
     name: 'Victor Stinner'
     login: 'vstinner'
     id: 194129
-    contributions: 2851
+    contributions: 2900
     company: 'Red Hat'
     organizations: 'python'
 
-  - rank: 43
-    name: 'Samy Pessé'
-    login: 'SamyPesse'
-    id: 845425
-    contributions: 2775
-    company: 'GitBook'
-    organizations: 'GitbookIO,Reportr,HappyRhino,CodeboxIDE'
-
-  - rank: 44
-    name: 'Guillaume Juvenet'
-    login: 'guillaumj'
-    id: 3688468
-    contributions: 2749
-    company: ''
-    organizations: ''
-
-  - rank: 45
-    name: 'Xavier Van de Woestyne'
-    login: 'xvw'
-    id: 5732466
-    contributions: 2745
-    company: '@fewlinesco '
-    organizations: 'ocaml-batteries-team,EpicGames,RMEx,lillefp,fewlinesco,colonie'
-
-  - rank: 46
-    name: 'Julien Dubois'
-    login: 'jdubois'
-    id: 316835
-    contributions: 2745
-    company: '@ippontech '
-    organizations: 'ippontech,jhipster,hipster-labs'
-
-  - rank: 47
-    name: 'Cédric Néhémie'
-    login: 'abe33'
-    id: 247140
-    contributions: 2720
-    company: ''
-    organizations: 'okiwi'
-
-  - rank: 48
-    name: 'Maxime Steinhausser'
-    login: 'ogizanagi'
-    id: 2211145
-    contributions: 2715
-    company: '@Elao '
-    organizations: 'symfony,Elao,manala'
-
-  - rank: 49
-    name: 'Bertrand Marron'
-    login: 'tusbar'
-    id: 166147
-    contributions: 2681
-    company: ''
-    organizations: 'edx,etalab,government,sgmap,madameaime,AquaBSD,getmillipede,inspireteam,armateam'
-
-  - rank: 50
-    name: 'Bruno Simon'
-    login: 'brunosimon'
-    id: 5439991
-    contributions: 2616
-    company: '@immersive-garden '
-    organizations: 'immersive-garden'
-
-  - rank: 51
-    name: ''
-    login: 'enjoy-digital'
-    id: 1450143
-    contributions: 2614
-    company: 'EnjoyDigital'
-    organizations: 'm-labs,timvideos'
-
-  - rank: 52
-    name: 'Michaël Gallego'
-    login: 'bakura10'
-    id: 1198915
-    contributions: 2577
-    company: '@maestrooo '
-    organizations: 'doctrine,ZF-Commons,zf-fr,maestrooo'
-
-  - rank: 53
+  - rank: 42
     name: 'Adrien Joly'
     login: 'adrienjoly'
     id: 531781
-    contributions: 2562
+    contributions: 2893
     company: '@algolia '
     organizations: 'EEMI75,openwhyd,MeetMangrove'
 
-  - rank: 54
-    name: 'Pascal MARTIN'
-    login: 'pmartin'
-    id: 193481
-    contributions: 2557
+  - rank: 43
+    name: 'Pierre Durand'
+    login: 'pierrre'
+    id: 131535
+    contributions: 2840
     company: ''
     organizations: ''
+
+  - rank: 44
+    name: 'Xavier Van de Woestyne'
+    login: 'xvw'
+    id: 5732466
+    contributions: 2762
+    company: '@fewlinesco '
+    organizations: 'ocaml-batteries-team,EpicGames,RMEx,lillefp,fewlinesco,colonie'
+
+  - rank: 45
+    name: 'Julien Dubois'
+    login: 'jdubois'
+    id: 316835
+    contributions: 2760
+    company: '@ippontech '
+    organizations: 'ippontech,jhipster,hipster-labs'
+
+  - rank: 46
+    name: 'Maxime Steinhausser'
+    login: 'ogizanagi'
+    id: 2211145
+    contributions: 2750
+    company: '@Elao '
+    organizations: 'symfony,Elao,manala'
+
+  - rank: 47
+    name: 'Bertrand Marron'
+    login: 'tusbar'
+    id: 166147
+    contributions: 2741
+    company: ''
+    organizations: 'edx,etalab,government,sgmap,madameaime,AquaBSD,getmillipede,inspireteam,armateam'
+
+  - rank: 48
+    name: 'Samy Pessé'
+    login: 'SamyPesse'
+    id: 845425
+    contributions: 2731
+    company: 'GitBook'
+    organizations: 'GitbookIO,Reportr,HappyRhino,CodeboxIDE'
+
+  - rank: 49
+    name: 'Cédric Néhémie'
+    login: 'abe33'
+    id: 247140
+    contributions: 2694
+    company: ''
+    organizations: 'okiwi'
+
+  - rank: 50
+    name: 'Guillaume Juvenet'
+    login: 'guillaumj'
+    id: 3688468
+    contributions: 2678
+    company: ''
+    organizations: ''
+
+  - rank: 51
+    name: 'Bruno Simon'
+    login: 'brunosimon'
+    id: 5439991
+    contributions: 2657
+    company: '@immersive-garden '
+    organizations: 'immersive-garden'
+
+  - rank: 52
+    name: 'Régis Gaidot'
+    login: 'rgaidot'
+    id: 5269
+    contributions: 2607
+    company: 'partlab'
+    organizations: 'partlab,sharyou,mistertemp'
+
+  - rank: 53
+    name: ''
+    login: 'enjoy-digital'
+    id: 1450143
+    contributions: 2597
+    company: 'EnjoyDigital'
+    organizations: 'm-labs,timvideos'
+
+  - rank: 54
+    name: 'Michaël Gallego'
+    login: 'bakura10'
+    id: 1198915
+    contributions: 2538
+    company: '@maestrooo '
+    organizations: 'doctrine,ZF-Commons,zf-fr,maestrooo'
 
   - rank: 55
     name: 'Guillaume Plique'
     login: 'Yomguithereal'
     id: 2571951
-    contributions: 2556
+    contributions: 2518
     company: 'médialab - Sciences Po'
     organizations: 'medialab,digitalmethodsinitiative,medea-project,EMAPS,simple-statistics,graphology'
 
   - rank: 56
-    name: 'Régis Gaidot'
-    login: 'rgaidot'
-    id: 5269
-    contributions: 2553
-    company: 'partlab'
-    organizations: 'partlab,sharyou,mistertemp'
-
-  - rank: 57
-    name: 'Jean-Baptiste Pionnier'
-    login: 'jbpionnier'
-    id: 1279225
-    contributions: 2486
-    company: 'Freelance'
-    organizations: 'ChtiJS,huitparfait'
-
-  - rank: 58
-    name: 'David Tschumperlé'
-    login: 'dtschump'
-    id: 10114565
-    contributions: 2477
-    company: 'CNRS'
+    name: 'Pascal MARTIN'
+    login: 'pmartin'
+    id: 193481
+    contributions: 2489
+    company: ''
     organizations: ''
 
-  - rank: 59
+  - rank: 57
+    name: 'Matthias Le Brun'
+    login: 'bloodyowl'
+    id: 1688645
+    contributions: 2488
+    company: '@BeOpinion'
+    organizations: 'putaindecode,putaindebot,cssrecipes,reactjsfrance,pugjs,TablesRondes'
+
+  - rank: 58
     name: 'Francois Zaninotto'
     login: 'fzaninotto'
     id: 99944
-    contributions: 2466
+    contributions: 2474
     company: '@marmelab '
     organizations: 'propelorm,marmelab'
+
+  - rank: 59
+    name: 'Grégoire Paris'
+    login: 'greg0ire'
+    id: 657779
+    contributions: 2452
+    company: 'Universciné'
+    organizations: ''
 
   - rank: 60
     name: 'Dimitri Dessus'
     login: 'istornz'
     id: 16645312
-    contributions: 2446
+    contributions: 2447
     company: ''
     organizations: ''
 
   - rank: 61
-    name: 'Simon Cruanes'
-    login: 'c-cube'
-    id: 1274291
-    contributions: 2434
-    company: 'Inria'
-    organizations: 'ocaml-batteries-team,nunchaku-inria'
-
-  - rank: 62
-    name: 'Matthias Le Brun'
-    login: 'bloodyowl'
-    id: 1688645
-    contributions: 2434
-    company: '@BeOpinion'
-    organizations: 'putaindecode,putaindebot,cssrecipes,reactjsfrance,pugjs,TablesRondes'
-
-  - rank: 63
-    name: 'Grégoire Paris'
-    login: 'greg0ire'
-    id: 657779
-    contributions: 2424
-    company: 'Universciné'
-    organizations: ''
-
-  - rank: 64
-    name: 'Manuel Raynaud'
-    login: 'lunika'
-    id: 767834
-    contributions: 2420
-    company: 'Pagaio'
-    organizations: 'clermontech,monsieurbiz,pagaio-lab'
-
-  - rank: 65
     name: 'David du Colombier'
     login: '0intro'
     id: 6043744
-    contributions: 2420
+    contributions: 2424
     company: '@videolabs'
     organizations: 'golang,videolabs,9fans,Harvey-OS'
 
+  - rank: 62
+    name: 'Manuel Raynaud'
+    login: 'lunika'
+    id: 767834
+    contributions: 2419
+    company: 'Pagaio'
+    organizations: 'clermontech,monsieurbiz,pagaio-lab'
+
+  - rank: 63
+    name: 'Jean-Baptiste Pionnier'
+    login: 'jbpionnier'
+    id: 1279225
+    contributions: 2406
+    company: 'Freelance'
+    organizations: 'ChtiJS,huitparfait'
+
+  - rank: 64
+    name: 'Yvonnick Esnault'
+    login: 'yesnault'
+    id: 395454
+    contributions: 2403
+    company: 'OVH'
+    organizations: 'ovh,soapower,ovhlabs,docktor'
+
+  - rank: 65
+    name: 'Simon Cruanes'
+    login: 'c-cube'
+    id: 1274291
+    contributions: 2389
+    company: 'Inria'
+    organizations: 'ocaml-batteries-team,nunchaku-inria'
+
   - rank: 66
+    name: 'emersion'
+    login: 'emersion'
+    id: 506932
+    contributions: 2386
+    company: 'École Polytechnique'
+    organizations: 'elementary,lighp,flying-mole,swaywm'
+
+  - rank: 67
+    name: 'David Tschumperlé'
+    login: 'dtschump'
+    id: 10114565
+    contributions: 2384
+    company: 'CNRS'
+    organizations: ''
+
+  - rank: 68
     name: 'Sébastien Han'
     login: 'leseb'
     id: 912735
-    contributions: 2377
+    contributions: 2378
     company: ''
     organizations: ''
 
-  - rank: 67
-    name: 'Jean-Baptiste Barth'
-    login: 'jbbarth'
-    id: 29363
-    contributions: 2366
-    company: 'Botify'
-    organizations: 'redmine,botify-hq,botify-labs'
+  - rank: 69
+    name: 'Robin Chalas'
+    login: 'chalasr'
+    id: 7502063
+    contributions: 2373
+    company: '@Elao '
+    organizations: 'symfony,Elao,ElaoInfra,manala'
 
-  - rank: 68
+  - rank: 70
     name: 'Nicolas Dupont'
     login: 'nidup'
     id: 2104359
@@ -546,211 +562,195 @@ users:
     company: 'Akeneo'
     organizations: 'akeneo,akeneo-labs'
 
-  - rank: 69
-    name: 'Yvonnick Esnault'
-    login: 'yesnault'
-    id: 395454
-    contributions: 2349
-    company: 'OVH'
-    organizations: 'ovh,soapower,ovhlabs,docktor'
-
-  - rank: 70
-    name: 'Jeroen Engels'
-    login: 'jfmengels'
-    id: 3869412
-    contributions: 2346
-    company: 'CoorpAcademy'
-    organizations: 'lodash,avajs'
-
   - rank: 71
-    name: 'Robin Chalas'
-    login: 'chalasr'
-    id: 7502063
-    contributions: 2309
-    company: '@Elao '
-    organizations: 'symfony,Elao,ElaoInfra,manala'
+    name: 'Jean-Baptiste Barth'
+    login: 'jbbarth'
+    id: 29363
+    contributions: 2350
+    company: 'Botify'
+    organizations: 'redmine,botify-hq,botify-labs'
 
   - rank: 72
-    name: 'Jonathan Verrecchia'
-    login: 'verekia'
-    id: 522007
-    contributions: 2289
-    company: 'Freelancer'
+    name: 'Laurent Gaches'
+    login: 'lgaches'
+    id: 64950
+    contributions: 2333
+    company: 'Binimo'
     organizations: ''
 
   - rank: 73
-    name: 'CrazyMax'
-    login: 'crazy-max'
-    id: 1951866
-    contributions: 2272
-    company: ''
-    organizations: ''
+    name: 'Jeroen Engels'
+    login: 'jfmengels'
+    id: 3869412
+    contributions: 2294
+    company: 'CoorpAcademy'
+    organizations: 'lodash,avajs'
 
   - rank: 74
-    name: 'emersion'
-    login: 'emersion'
-    id: 506932
-    contributions: 2257
-    company: 'École Polytechnique'
-    organizations: 'elementary,lighp,flying-mole,swaywm'
+    name: 'Jonathan Verrecchia'
+    login: 'verekia'
+    id: 522007
+    contributions: 2287
+    company: 'Freelancer'
+    organizations: ''
 
   - rank: 75
-    name: 'Clément Salaün'
-    login: 'altitude'
-    id: 1770991
-    contributions: 2252
-    company: ''
-    organizations: 'noolith,selency'
-
-  - rank: 76
     name: 'Axel Haustant'
     login: 'noirbizarre'
     id: 15725
-    contributions: 2230
+    contributions: 2285
     company: '@etalab @apihackers '
     organizations: 'ValtechTechno,open-nuage,etalab,government,opendatalu,opendatateam'
+
+  - rank: 76
+    name: 'CrazyMax'
+    login: 'crazy-max'
+    id: 1951866
+    contributions: 2257
+    company: ''
+    organizations: ''
 
   - rank: 77
     name: 'Alexandre Strzelewicz'
     login: 'Unitech'
     id: 757747
-    contributions: 2223
+    contributions: 2249
     company: '@keymetrics '
     organizations: 'Asteks,unitech-io,keymetrics,pm2-hive'
 
   - rank: 78
-    name: 'Corentin Kerisit'
-    login: 'cerisier'
-    id: 1126594
-    contributions: 2208
-    company: 'Zenly / Anjunabeats'
-    organizations: 'episeclab,42am,onouo,pathwar,anjunabeats'
-
-  - rank: 79
-    name: 'Julien Danjou'
-    login: 'jd'
-    id: 2644
-    contributions: 2187
-    company: ''
-    organizations: 'hylang,awesomeWM,gnocchixyz'
-
-  - rank: 80
     name: 'Pierre Guilleminot'
     login: 'jinroh'
     id: 687847
-    contributions: 2181
+    contributions: 2198
     company: '@cozy '
     organizations: 'kadoh'
 
+  - rank: 79
+    name: 'Corentin Kerisit'
+    login: 'cerisier'
+    id: 1126594
+    contributions: 2193
+    company: 'Zenly / Anjunabeats'
+    organizations: 'episeclab,42am,onouo,pathwar,anjunabeats'
+
+  - rank: 80
+    name: 'Julien Danjou'
+    login: 'jd'
+    id: 2644
+    contributions: 2191
+    company: ''
+    organizations: 'hylang,awesomeWM,gnocchixyz'
+
   - rank: 81
+    name: 'Clément Salaün'
+    login: 'altitude'
+    id: 1770991
+    contributions: 2188
+    company: ''
+    organizations: 'noolith,selency'
+
+  - rank: 82
     name: 'Grégoire Pineau'
     login: 'lyrixx'
     id: 408368
-    contributions: 2178
+    contributions: 2167
     company: '@jolicode'
     organizations: 'symfony,jolicode,sensiolabs,gitonomy,carew,FriendsOfPHP,redirectionio'
 
-  - rank: 82
-    name: 'Laurent Gaches'
-    login: 'lgaches'
-    id: 64950
-    contributions: 2172
-    company: 'Binimo'
-    organizations: ''
-
   - rank: 83
-    name: 'Kévin Dunglas'
-    login: 'dunglas'
-    id: 57224
-    contributions: 2148
-    company: '@coopTilleuls '
-    organizations: 'symfony,sonata-project,coopTilleuls,alicesgarden,api-platform'
+    name: 'Vincent Thibault'
+    login: 'vthibault'
+    id: 4102403
+    contributions: 2155
+    company: '4D'
+    organizations: ''
 
   - rank: 84
     name: 'Antoine Augusti'
     login: 'AntoineAugusti'
     id: 295709
-    contributions: 2142
+    contributions: 2152
     company: '@drivy '
     organizations: 'drivy,TeenQuotes,PICINSARouen'
 
   - rank: 85
-    name: 'Pierre Chapuis'
-    login: 'catwell'
-    id: 221332
-    contributions: 2132
-    company: '@MeetLima '
-    organizations: 'D-BookeR,MeetLima,oploadk'
+    name: 'Nuno Maduro'
+    login: 'nunomaduro'
+    id: 5457236
+    contributions: 2144
+    company: '@AlumnForce '
+    organizations: 'jqPlot,AlumnForce,laravel-zero'
 
   - rank: 86
-    name: 'Vincent Thibault'
-    login: 'vthibault'
-    id: 4102403
-    contributions: 2114
-    company: '4D'
-    organizations: ''
+    name: 'Kévin Dunglas'
+    login: 'dunglas'
+    id: 57224
+    contributions: 2130
+    company: '@coopTilleuls '
+    organizations: 'symfony,sonata-project,coopTilleuls,alicesgarden,api-platform'
 
   - rank: 87
     name: 'Raphaël Pinson'
     login: 'raphink'
     id: 650430
-    contributions: 2100
+    contributions: 2113
     company: '@camptocamp '
     organizations: 'camptocamp,puppetlabs,cc-translators,bibleref-french,hercules-team,geoadmin,voxpupuli'
 
   - rank: 88
-    name: 'Stéphane "Twidi" Angel'
-    login: 'twidi'
-    id: 193474
-    contributions: 2087
-    company: 'Twidi.com'
-    organizations: 'liberation'
-
-  - rank: 89
-    name: 'Titouan Galopin'
-    login: 'tgalopin'
-    id: 1651494
-    contributions: 2087
-    company: '@sensiolabs '
-    organizations: 'FriendsOfSymfony,sensiolabs,puli,ademisinfo,acmephp,EnMarche'
-
-  - rank: 90
     name: 'Frank Taillandier'
     login: 'DirtyF'
     id: 103008
-    contributions: 2082
+    contributions: 2105
     company: '@jamstatic '
     organizations: 'pompage,jekyll,aperoweb-toulouse,jamstatic'
 
-  - rank: 91
-    name: 'Nicolas Froidure'
-    login: 'nfroidure'
-    id: 229633
-    contributions: 2077
-    company: '@sencrop'
-    organizations: 'francejs,ChtiJS,sencrop'
+  - rank: 89
+    name: 'Pierre Chapuis'
+    login: 'catwell'
+    id: 221332
+    contributions: 2096
+    company: '@MeetLima '
+    organizations: 'D-BookeR,MeetLima,oploadk'
 
-  - rank: 92
+  - rank: 90
+    name: 'Titouan Galopin'
+    login: 'tgalopin'
+    id: 1651494
+    contributions: 2081
+    company: '@sensiolabs '
+    organizations: 'FriendsOfSymfony,sensiolabs,puli,ademisinfo,acmephp,EnMarche'
+
+  - rank: 91
     name: 'Mehdi ABAAKOUK'
     login: 'sileht'
     id: 200878
-    contributions: 2069
+    contributions: 2080
     company: 'Red Hat'
     organizations: 'redhat-cip,rhos-infra,gnocchixyz'
 
+  - rank: 92
+    name: 'Stéphane "Twidi" Angel'
+    login: 'twidi'
+    id: 193474
+    contributions: 2056
+    company: 'Twidi.com'
+    organizations: 'liberation'
+
   - rank: 93
-    name: 'Nuno Maduro'
-    login: 'nunomaduro'
-    id: 5457236
-    contributions: 2067
-    company: '@AlumnForce '
-    organizations: 'jqPlot,AlumnForce,laravel-zero'
+    name: 'Nicolas Froidure'
+    login: 'nfroidure'
+    id: 229633
+    contributions: 2044
+    company: '@sencrop'
+    organizations: 'francejs,ChtiJS,sencrop'
 
   - rank: 94
     name: 'Maxime Thirouin'
     login: 'MoOx'
     id: 157534
-    contributions: 2044
+    contributions: 2040
     company: 'MoOx.io'
     organizations: 'boxen,CanalTP,francejs,happyplan,putaindecode,reworkcss,github-beta,cssrecipes,postcss,stylelint,remarkjs,colorjs,phenomic'
 
@@ -758,63 +758,63 @@ users:
     name: 'Nicolas Beauvais'
     login: 'nicolasbeauvais'
     id: 2951704
-    contributions: 2036
+    contributions: 2028
     company: 'Freelance'
     organizations: ''
 
   - rank: 96
-    name: 'Jean-Sébastien Pédron'
-    login: 'dumbbell'
-    id: 159804
-    contributions: 2021
-    company: 'RabbitMQ'
-    organizations: 'rabbitmq,pika,freebsd,yakaz,darktable-org,pivotal-cf,EpicGames,HardenedBSD'
+    name: 'Olivier Lacan'
+    login: 'olivierlacan'
+    id: 65950
+    contributions: 2011
+    company: ''
+    organizations: 'codeschool,badges,orientation,rubyfacets,maintainers'
 
   - rank: 97
     name: 'Ovid'
     login: 'Ovid'
     id: 24634
-    contributions: 2019
+    contributions: 2002
     company: 'Freelance. Have Perl, Will Travel.'
     organizations: 'Perl-Toolchain-Gang'
 
   - rank: 98
-    name: 'Jérôme Desboeufs'
-    login: 'jdesboeufs'
-    id: 1231232
-    contributions: 1980
-    company: 'Living Data'
-    organizations: 'etalab,government,sgmap,addok,opendatateam,BaseAdresseNationale,inspireteam'
-
-  - rank: 99
     name: 'Clément Bœsch'
     login: 'ubitux'
     id: 34467
-    contributions: 1968
+    contributions: 1980
     company: ''
     organizations: ''
 
+  - rank: 99
+    name: 'Jean-Sébastien Pédron'
+    login: 'dumbbell'
+    id: 159804
+    contributions: 1973
+    company: 'RabbitMQ'
+    organizations: 'rabbitmq,pika,freebsd,yakaz,darktable-org,pivotal-cf,EpicGames,HardenedBSD'
+
   - rank: 100
+    name: 'Jérôme Desboeufs'
+    login: 'jdesboeufs'
+    id: 1231232
+    contributions: 1956
+    company: 'Living Data'
+    organizations: 'etalab,government,sgmap,addok,opendatateam,BaseAdresseNationale,inspireteam'
+
+  - rank: 101
     name: 'Julien Breux'
     login: 'JulienBreux'
     id: 964330
-    contributions: 1933
+    contributions: 1934
     company: ''
     organizations: 'nantesrb,speedflow'
-
-  - rank: 101
-    name: 'Olivier Lacan'
-    login: 'olivierlacan'
-    id: 65950
-    contributions: 1916
-    company: ''
-    organizations: 'codeschool,badges,orientation,rubyfacets,maintainers'
 
   - rank: 102
     name: 'Alexis Creuzot'
     login: 'kirualex'
     id: 431974
-    contributions: 1903
+    contributions: 1928
     company: 'Monoqle'
     organizations: ''
 
@@ -822,167 +822,167 @@ users:
     name: 'Pierre-Louis Gottfrois'
     login: 'gottfrois'
     id: 943784
-    contributions: 1897
+    contributions: 1908
     company: ''
     organizations: ''
 
   - rank: 104
-    name: 'Bertrand CHEVRIER'
-    login: 'krampstudio'
-    id: 468620
-    contributions: 1893
-    company: ''
-    organizations: 'oat-sa'
-
-  - rank: 105
-    name: 'Benoit Tigeot'
-    login: 'benoittgt'
-    id: 8417720
-    contributions: 1865
-    company: '@appaloosa-store'
-    organizations: ''
-
-  - rank: 106
-    name: 'Nicolas Chambrier'
-    login: 'naholyr'
-    id: 214067
-    contributions: 1863
-    company: ''
-    organizations: 'byteclubfr,francejs'
-
-  - rank: 107
     name: 'Aymeric Beaumet'
     login: 'aymericbeaumet'
     id: 569243
-    contributions: 1851
+    contributions: 1863
     company: '@Brigad '
     organizations: 'karma-runner,Brigad'
 
-  - rank: 108
+  - rank: 105
+    name: 'Bertrand CHEVRIER'
+    login: 'krampstudio'
+    id: 468620
+    contributions: 1845
+    company: ''
+    organizations: 'oat-sa'
+
+  - rank: 106
+    name: 'Benoit Tigeot'
+    login: 'benoittgt'
+    id: 8417720
+    contributions: 1845
+    company: '@appaloosa-store'
+    organizations: ''
+
+  - rank: 107
     name: 'Prashant Sinha'
     login: 'prashnts'
     id: 5663391
-    contributions: 1847
+    contributions: 1814
     company: 'Agora NHS, @clusterinnovationcentre  '
     organizations: 'LPECIC,Autonomi,agora-team'
+
+  - rank: 108
+    name: 'Benjamin Dos Santos'
+    login: 'bdossantos'
+    id: 245284
+    contributions: 1813
+    company: ''
+    organizations: 'boxen,lemonde,hubot-scripts'
 
   - rank: 109
     name: 'Meriadec Pillet'
     login: 'meriadec'
     id: 315259
-    contributions: 1843
+    contributions: 1812
     company: '@mailjet'
-    organizations: '42Zavattas,SIGSEV,KeyCode-120,mjmlio'
+    organizations: '42Zavattas,SIGSEV,KeyCode-125,mjmlio'
 
   - rank: 110
-    name: 'Guillaume Pellerin'
-    login: 'yomguy'
-    id: 135213
-    contributions: 1813
-    company: 'Parisson + IRCAM'
-    organizations: 'Parisson,aubio'
+    name: 'Nicolas Chambrier'
+    login: 'naholyr'
+    id: 214067
+    contributions: 1810
+    company: ''
+    organizations: 'byteclubfr,francejs'
 
   - rank: 111
-    name: 'Damien Mayance'
-    login: 'valryon'
-    id: 155884
-    contributions: 1806
-    company: '@pixelnest '
-    organizations: 'pixelnest'
-
-  - rank: 112
-    name: 'Matthieu Bacconnier'
-    login: 'Neamar'
-    id: 536844
-    contributions: 1791
-    company: '@RiotGames '
-    organizations: 'RiotGames,AnyFetch,riotgameseurope'
-
-  - rank: 113
-    name: 'Arnaud Allouis'
-    login: 'baloran'
-    id: 303623
-    contributions: 1781
-    company: '@getwino '
-    organizations: 'Arganeo,Parisien,awemakers'
-
-  - rank: 114
-    name: 'Denis Roussel'
-    login: 'KuiKui'
-    id: 748924
-    contributions: 1780
-    company: '@wizaplace '
-    organizations: 'crew-cr'
-
-  - rank: 115
-    name: 'Cecile Veneziani'
-    login: 'cveneziani'
-    id: 50518
-    contributions: 1776
-    company: 'Cecilitse'
-    organizations: 'la-coroutine,lewagon,cecilitse,ChtiJS,ruby-nord,brug-be,nantesrb,nomadrides,withsquad'
-
-  - rank: 116
-    name: 'Emanuele Palazzetti'
-    login: 'palazzem'
-    id: 1560405
-    contributions: 1768
-    company: '@Datadog '
-    organizations: 'DataDog,gdgitalia,DMIAlumni,TransparentHealth,wheelie'
-
-  - rank: 117
-    name: 'Benjamin Dos Santos'
-    login: 'bdossantos'
-    id: 245284
-    contributions: 1764
-    company: ''
-    organizations: 'boxen,lemonde,hubot-scripts'
-
-  - rank: 118
-    name: 'Cédric Dupont'
-    login: 'lunarok'
-    id: 1303626
-    contributions: 1761
-    company: ''
-    organizations: ''
-
-  - rank: 119
-    name: 'Tarek Ziade'
-    login: 'tarekziade'
-    id: 250019
-    contributions: 1756
-    company: 'Mozilla'
-    organizations: 'AFPy,faitmain,circus-tent'
-
-  - rank: 120
-    name: 'Aaron O''Mullan'
-    login: 'AaronO'
-    id: 949223
-    contributions: 1755
-    company: '@GitbookIO '
-    organizations: 'GitbookIO'
-
-  - rank: 121
-    name: 'Nicolas Gaborit'
-    login: 'Soreine'
-    id: 5644953
-    contributions: 1751
-    company: '@GitbookIO '
-    organizations: 'GitbookIO,MostlyAdequate'
-
-  - rank: 122
     name: 'Thibault Henry'
     login: 'Tilotiti'
     id: 932380
-    contributions: 1750
+    contributions: 1804
     company: 'Tiloweb'
     organizations: ''
+
+  - rank: 112
+    name: 'Yvan Sraka'
+    login: 'yvan-sraka'
+    id: 705213
+    contributions: 1801
+    company: ''
+    organizations: 'simplonco'
+
+  - rank: 113
+    name: 'Matthieu Bacconnier'
+    login: 'Neamar'
+    id: 536844
+    contributions: 1783
+    company: '@RiotGames '
+    organizations: 'RiotGames,AnyFetch,riotgameseurope'
+
+  - rank: 114
+    name: 'Charly C.'
+    login: 'Changaco'
+    id: 1581590
+    contributions: 1774
+    company: 'Freelance, @liberapay'
+    organizations: 'Legilibre,liberapay,AspenWeb'
+
+  - rank: 115
+    name: ''
+    login: 'Nax'
+    id: 4265415
+    contributions: 1773
+    company: ''
+    organizations: 'Lums-proj,LumsEngine,Voisinerie'
+
+  - rank: 116
+    name: 'Damien Mayance'
+    login: 'valryon'
+    id: 155884
+    contributions: 1769
+    company: '@pixelnest '
+    organizations: 'pixelnest'
+
+  - rank: 117
+    name: 'Tarek Ziade'
+    login: 'tarekziade'
+    id: 250019
+    contributions: 1765
+    company: 'Mozilla'
+    organizations: 'AFPy,faitmain,circus-tent'
+
+  - rank: 118
+    name: 'Net Gusto'
+    login: 'netgusto'
+    id: 4974818
+    contributions: 1765
+    company: 'Net Gusto'
+    organizations: 'ByteArena'
+
+  - rank: 119
+    name: 'Arnaud Allouis'
+    login: 'baloran'
+    id: 303623
+    contributions: 1764
+    company: '@getwino '
+    organizations: 'Arganeo,Parisien,awemakers'
+
+  - rank: 120
+    name: 'Cédric Dupont'
+    login: 'lunarok'
+    id: 1303626
+    contributions: 1764
+    company: ''
+    organizations: ''
+
+  - rank: 121
+    name: 'Cecile Veneziani'
+    login: 'cveneziani'
+    id: 50518
+    contributions: 1760
+    company: 'Cecilitse'
+    organizations: 'la-coroutine,lewagon,cecilitse,ChtiJS,ruby-nord,brug-be,nantesrb,nomadrides,withsquad'
+
+  - rank: 122
+    name: 'Denis Roussel'
+    login: 'KuiKui'
+    id: 748924
+    contributions: 1759
+    company: '@wizaplace '
+    organizations: 'crew-cr'
 
   - rank: 123
     name: 'Maxime VALETTE'
     login: 'maximevalette'
     id: 240136
-    contributions: 1744
+    contributions: 1758
     company: 'Beta&Cie'
     organizations: 'betacie'
 
@@ -990,79 +990,79 @@ users:
     name: 'Alexandre Mutel'
     login: 'xoofx'
     id: 715038
-    contributions: 1741
+    contributions: 1757
     company: '@Unity-Technologies '
     organizations: 'Unity-Technologies,sharpdx,dotnet,SharpCLABot,lunet-io,babelmark,stark-lang'
 
   - rank: 125
-    name: 'Vincent Voyer'
-    login: 'vvo'
-    id: 123822
-    contributions: 1735
-    company: '@algolia'
-    organizations: 'algolia,jsdelivr,webdriverio,instantsearch'
+    name: 'Emanuele Palazzetti'
+    login: 'palazzem'
+    id: 1560405
+    contributions: 1753
+    company: '@Datadog '
+    organizations: 'DataDog,opentracing'
 
   - rank: 126
-    name: 'Jean-Michel Gigault'
-    login: 'jgigault'
-    id: 8960628
-    contributions: 1730
-    company: '@perangusta @baasile-io '
-    organizations: 'perangusta,baasile-io,we-sh'
-
-  - rank: 127
-    name: 'Yvan Sraka'
-    login: 'yvan-sraka'
-    id: 705213
-    contributions: 1729
-    company: ''
-    organizations: 'simplonco'
-
-  - rank: 128
-    name: ''
-    login: 'Nax'
-    id: 4265415
-    contributions: 1722
-    company: ''
-    organizations: 'Lums-proj,LumsEngine,Voisinerie'
-
-  - rank: 129
-    name: 'Net Gusto'
-    login: 'netgusto'
-    id: 4974818
-    contributions: 1716
-    company: 'Net Gusto'
-    organizations: 'ByteArena'
-
-  - rank: 130
-    name: 'Pierre Romera'
-    login: 'pirhoo'
-    id: 471176
-    contributions: 1714
-    company: '@ICIJ'
-    organizations: 'jplusplus,Trainspot,Feowl,ICIJ,fledit,GoogleTrends,edj-projets-web,edj-initiation-code'
-
-  - rank: 131
     name: 'Amrouche Hamza'
     login: 'Simperfit'
     id: 3451634
-    contributions: 1698
+    contributions: 1736
     company: '@coopTilleuls '
     organizations: 'coopTilleuls,api-platform,thebantry,Quotatis'
 
-  - rank: 132
+  - rank: 127
+    name: 'Jean-Michel Gigault'
+    login: 'jgigault'
+    id: 8960628
+    contributions: 1736
+    company: '@perangusta @baasile-io '
+    organizations: 'perangusta,baasile-io,we-sh'
+
+  - rank: 128
     name: 'Jérémy Romey'
     login: 'jeremyFreeAgent'
     id: 176363
-    contributions: 1696
+    contributions: 1730
     company: '@chronotruck'
     organizations: 'chronotruck'
+
+  - rank: 129
+    name: 'Guillaume Pellerin'
+    login: 'yomguy'
+    id: 135213
+    contributions: 1728
+    company: 'Parisson + IRCAM'
+    organizations: 'Parisson,aubio'
+
+  - rank: 130
+    name: 'Anibal'
+    login: 'anaibol'
+    id: 3210177
+    contributions: 1727
+    company: ''
+    organizations: ''
+
+  - rank: 131
+    name: 'Pierre Romera'
+    login: 'pirhoo'
+    id: 471176
+    contributions: 1723
+    company: '@ICIJ'
+    organizations: 'jplusplus,Trainspot,Feowl,ICIJ,fledit,GoogleTrends,edj-projets-web,edj-initiation-code'
+
+  - rank: 132
+    name: 'Vincent Voyer'
+    login: 'vvo'
+    id: 123822
+    contributions: 1706
+    company: '@algolia'
+    organizations: 'algolia,jsdelivr,webdriverio,instantsearch'
 
   - rank: 133
     name: 'Tim Petricola'
     login: 'TimPetricola'
     id: 674084
-    contributions: 1696
+    contributions: 1699
     company: '@drivy'
     organizations: ''
 
@@ -1075,20 +1075,20 @@ users:
     organizations: ''
 
   - rank: 135
+    name: 'Nicolas Gaborit'
+    login: 'Soreine'
+    id: 5644953
+    contributions: 1677
+    company: '@GitbookIO '
+    organizations: 'GitbookIO,MostlyAdequate'
+
+  - rank: 136
     name: 'Anthony Ramine'
     login: 'nox'
     id: 123095
-    contributions: 1678
+    contributions: 1676
     company: '@Mozilla'
     organizations: 'whatwg,servo,html5lib,PistonDevelopers'
-
-  - rank: 136
-    name: 'François de Campredon'
-    login: 'fdecampredon'
-    id: 864201
-    contributions: 1675
-    company: 'Fadio IT'
-    organizations: 'FadioIT'
 
   - rank: 137
     name: 'Mathieu Pillard'
@@ -1099,358 +1099,366 @@ users:
     organizations: 'mozilla,liberation,mozilla-services,django-compressor,firefox-marketplace'
 
   - rank: 138
-    name: 'Geoffroy Couprie'
-    login: 'Geal'
-    id: 119296
-    contributions: 1665
-    company: ''
-    organizations: 'unhosted,LoginPeople,sozu-proxy'
-
-  - rank: 139
-    name: 'Anibal'
-    login: 'anaibol'
-    id: 3210177
-    contributions: 1663
-    company: ''
-    organizations: ''
-
-  - rank: 140
     name: 'Nicolas Perriault'
     login: 'n1k0'
     id: 41547
-    contributions: 1659
+    contributions: 1667
     company: 'Mozilla'
     organizations: 'mozilla,mozilla-services,casperjs,francejs,MontpellierJS'
 
-  - rank: 141
-    name: 'Philippe Charrière'
-    login: 'k33g'
-    id: 491848
-    contributions: 1657
-    company: 'Clever Cloud'
-    organizations: 'eclipse,golo-lang,TypeUnsafe,ZeiraCorp,bots-squad,wey-yu,the-plan'
-
-  - rank: 142
-    name: 'Antoine Bluchet'
-    login: 'soyuka'
-    id: 1321971
-    contributions: 1622
-    company: 'FGR'
-    organizations: 'ezseed,api-platform'
-
-  - rank: 143
-    name: 'Julien Duponchelle'
-    login: 'noplay'
-    id: 345437
-    contributions: 1609
-    company: ''
-    organizations: 'usvn,GNS3'
-
-  - rank: 144
+  - rank: 139
     name: 'Arnaud Ligny'
     login: 'Narno'
     id: 80580
-    contributions: 1604
+    contributions: 1652
     company: '@ApertureLab'
     organizations: 'magento-hackathon,AdFabConnect,PHPoole,ApertureLab,jamstatic'
 
-  - rank: 145
-    name: 'Antonin Stefanutti'
-    login: 'astefanutti'
-    id: 366207
-    contributions: 1601
-    company: 'Red Hat'
-    organizations: 'apache,hawtio,fabric8io,patternfly'
+  - rank: 140
+    name: 'Aaron O''Mullan'
+    login: 'AaronO'
+    id: 949223
+    contributions: 1650
+    company: '@GitbookIO '
+    organizations: 'GitbookIO'
 
-  - rank: 146
-    name: 'Cyril Kato'
-    login: 'cyril'
-    id: 20987
-    contributions: 1586
-    company: '@sashite'
-    organizations: 'sashite,fixrb'
+  - rank: 141
+    name: 'Geoffroy Couprie'
+    login: 'Geal'
+    id: 119296
+    contributions: 1648
+    company: ''
+    organizations: 'unhosted,LoginPeople,sozu-proxy'
 
-  - rank: 147
+  - rank: 142
+    name: 'François de Campredon'
+    login: 'fdecampredon'
+    id: 864201
+    contributions: 1648
+    company: 'Fadio IT'
+    organizations: 'FadioIT'
+
+  - rank: 143
+    name: 'Philippe Charrière'
+    login: 'k33g'
+    id: 491848
+    contributions: 1644
+    company: 'Clever Cloud'
+    organizations: 'eclipse,golo-lang,TypeUnsafe,ZeiraCorp,bots-squad,wey-yu,the-plan'
+
+  - rank: 144
     name: 'Eric Abouaf'
     login: 'neyric'
     id: 39354
-    contributions: 1576
+    contributions: 1637
     company: '@funbooker'
     organizations: 'nelson-ai'
+
+  - rank: 145
+    name: 'Antoine Bluchet'
+    login: 'soyuka'
+    id: 1321971
+    contributions: 1625
+    company: 'FGR'
+    organizations: 'ezseed,api-platform'
+
+  - rank: 146
+    name: 'Antonin Stefanutti'
+    login: 'astefanutti'
+    id: 366207
+    contributions: 1576
+    company: 'Red Hat'
+    organizations: 'apache,hawtio,fabric8io,patternfly'
+
+  - rank: 147
+    name: 'Colin Fay'
+    login: 'ColinFay'
+    id: 17936236
+    contributions: 1569
+    company: '@ThinkR-open   '
+    organizations: ''
 
   - rank: 148
     name: 'ansuz'
     login: 'ansuz'
     id: 1264398
-    contributions: 1572
+    contributions: 1554
     company: 'ansuz'
     organizations: 'xwiki-contrib,utterjs,xwiki-labs,hyperboria'
 
   - rank: 149
-    name: 'Colin Fay'
-    login: 'ColinFay'
-    id: 17936236
-    contributions: 1561
-    company: '@ThinkR-open   '
-    organizations: ''
-
-  - rank: 150
     name: 'Adrien S'
     login: 'Intrepidd'
     id: 803765
-    contributions: 1560
+    contributions: 1551
     company: '@drivy '
     organizations: 'EpiRoxxors,epiLabs,Asteks,unitech-io,zia-okapi,drivy'
 
-  - rank: 151
+  - rank: 150
     name: 'Eduardo San Martin Morote'
     login: 'posva'
     id: 664177
-    contributions: 1550
+    contributions: 1541
     company: '@ironhack '
     organizations: 'vuejs'
+
+  - rank: 151
+    name: 'Julien Duponchelle'
+    login: 'noplay'
+    id: 345437
+    contributions: 1541
+    company: ''
+    organizations: 'usvn,GNS3'
 
   - rank: 152
     name: 'Rémy Coutable'
     login: 'rymai'
     id: 1168
-    contributions: 1523
+    contributions: 1524
     company: '@gitlabhq'
     organizations: 'jilion,guard,gitlabhq'
 
   - rank: 153
-    name: 'Gaëtan Renaudeau'
-    login: 'gre'
-    id: 211411
-    contributions: 1522
-    company: '@ledgerhq'
-    organizations: 'stackgl,gl-transitions'
+    name: 'Cyril Kato'
+    login: 'cyril'
+    id: 20987
+    contributions: 1520
+    company: '@sashite'
+    organizations: 'sashite,fixrb,LiminalityNetwork'
 
   - rank: 154
-    name: 'Sylvain Hellegouarch'
-    login: 'Lawouach'
-    id: 769982
-    contributions: 1513
-    company: '@chaosiq'
+    name: 'Worms David'
+    login: 'wdavidw'
+    id: 46896
+    contributions: 1516
+    company: 'Adaltas'
     organizations: ''
 
   - rank: 155
-    name: 'Romain Dorgueil'
-    login: 'hartym'
-    id: 30586
-    contributions: 1493
-    company: '@python-bonobo '
-    organizations: 'okdocker,python-bonobo,python-medikit,python-whistle'
-
-  - rank: 156
-    name: 'Sylvain Utard'
-    login: 'redox'
-    id: 29529
-    contributions: 1492
-    company: 'Algolia'
-    organizations: 'cdnjs,llooker,algolia,hybris,HackerNews,instantsearch'
-
-  - rank: 157
-    name: 'Maxime Janton'
-    login: 'iam4x'
-    id: 893837
-    contributions: 1480
-    company: '@algolia'
-    organizations: 'algolia,AtomLinter,savemysmartphone'
-
-  - rank: 158
     name: 'Sylvain Zimmer'
     login: 'sylvinus'
     id: 410452
-    contributions: 1479
+    contributions: 1515
     company: 'dotConferences / Pricing Assistant'
     organizations: 'jamendo'
 
+  - rank: 156
+    name: 'Gaëtan Renaudeau'
+    login: 'gre'
+    id: 211411
+    contributions: 1511
+    company: '@ledgerhq'
+    organizations: 'stackgl,gl-transitions'
+
+  - rank: 157
+    name: 'Frank Rousseau'
+    login: 'frankrousseau'
+    id: 1336623
+    contributions: 1509
+    company: ''
+    organizations: 'mycozycloud'
+
+  - rank: 158
+    name: 'Guillaume Potier'
+    login: 'guillaumepotier'
+    id: 496234
+    contributions: 1509
+    company: 'CTO @Wisembly'
+    organizations: 'Wisembly'
+
   - rank: 159
-    name: 'Bruno Heridet'
-    login: 'Delapouite'
-    id: 39315
-    contributions: 1473
-    company: 'Powipu'
-    organizations: 'medialab,NantesJS,docpad,byteclubfr,nodejs,game-icons'
+    name: 'Romain Dorgueil'
+    login: 'hartym'
+    id: 30586
+    contributions: 1470
+    company: '@python-bonobo '
+    organizations: 'okdocker,python-bonobo,python-medikit,python-whistle'
 
   - rank: 160
     name: 'Marc-Antoine Perennou'
     login: 'Keruspe'
     id: 222942
-    contributions: 1464
+    contributions: 1465
     company: 'Clever Cloud'
     organizations: 'CleverCloud,imie-source,Exherbo,sozu-proxy,CleverCloudDemos'
 
   - rank: 161
-    name: 'Frank Rousseau'
-    login: 'frankrousseau'
-    id: 1336623
-    contributions: 1460
-    company: ''
-    organizations: 'mycozycloud'
-
-  - rank: 162
     name: 'Thomas Tortorini'
     login: 'Mr21'
     id: 850754
-    contributions: 1458
+    contributions: 1464
     company: ''
     organizations: 'FilePlayer,jquery-element,gridsound'
 
+  - rank: 162
+    name: 'Sylvain Utard'
+    login: 'redox'
+    id: 29529
+    contributions: 1463
+    company: 'Algolia'
+    organizations: 'cdnjs,llooker,algolia,hybris,HackerNews,instantsearch'
+
   - rank: 163
-    name: 'Yassine AZZOUT'
-    login: '92bondstreet'
-    id: 4671054
-    contributions: 1444
-    company: '92 Bond Street'
-    organizations: ''
+    name: 'Vincent Composieux'
+    login: 'eko'
+    id: 103900
+    contributions: 1461
+    company: '@eleven-labs'
+    organizations: 'eleven-labs'
 
   - rank: 164
-    name: 'Guillaume Potier'
-    login: 'guillaumepotier'
-    id: 496234
-    contributions: 1439
-    company: 'CTO @Wisembly'
-    organizations: 'Wisembly'
+    name: 'Bruno Heridet'
+    login: 'Delapouite'
+    id: 39315
+    contributions: 1446
+    company: 'Powipu'
+    organizations: 'medialab,NantesJS,docpad,byteclubfr,nodejs,game-icons'
 
   - rank: 165
     name: 'Cyril Lacôte'
     login: 'clacote'
     id: 750715
-    contributions: 1433
+    contributions: 1441
     company: 'Ninja Squad'
     organizations: 'Ninja-Squad'
 
   - rank: 166
-    name: 'Vincent Composieux'
-    login: 'eko'
-    id: 103900
-    contributions: 1430
-    company: '@eleven-labs'
-    organizations: 'eleven-labs'
-
-  - rank: 167
-    name: 'André Aubin'
-    login: 'lambda2'
-    id: 3030511
-    contributions: 1426
-    company: '@PandaScore '
-    organizations: 'lambdaweb,42School,WeAreMuffin,PandaScore,Matrice-France'
-
-  - rank: 168
-    name: 'Sébastien Deleuze'
-    login: 'sdeleuze'
-    id: 141109
-    contributions: 1422
-    company: 'Pivotal'
-    organizations: 'resthub'
-
-  - rank: 169
-    name: 'Guillaume Vincent'
-    login: 'guillaumevincent'
-    id: 943762
-    contributions: 1422
-    company: 'Red Hat'
-    organizations: 'okiwi,lesspass'
-
-  - rank: 170
     name: 'Pascal Grimaud'
     login: 'pascalgrimaud'
     id: 9156882
-    contributions: 1414
+    contributions: 1422
     company: '@ippontech '
     organizations: 'ippontech,jhipster,hipster-labs'
 
-  - rank: 171
-    name: 'dim'
-    login: 'db0sch'
-    id: 6984619
-    contributions: 1410
-    company: '@lewagon '
-    organizations: ''
+  - rank: 167
+    name: 'Guillaume Vincent'
+    login: 'guillaumevincent'
+    id: 943762
+    contributions: 1418
+    company: 'Red Hat'
+    organizations: 'okiwi,lesspass'
 
-  - rank: 172
-    name: 'Worms David'
-    login: 'wdavidw'
-    id: 46896
-    contributions: 1394
-    company: 'Adaltas'
-    organizations: ''
-
-  - rank: 173
-    name: 'Aymeric Augustin'
-    login: 'aaugustin'
-    id: 788910
-    contributions: 1384
-    company: '@canalplus'
-    organizations: 'django'
-
-  - rank: 174
-    name: 'Vache'
-    login: 'Vachounet'
-    id: 706452
-    contributions: 1383
-    company: ''
-    organizations: 'boulzordev,LineageOS'
-
-  - rank: 175
-    name: 'Xavier Carpentier'
-    login: 'xcarpentier'
-    id: 923036
-    contributions: 1379
-    company: 'Freelance React-Native & Parse-Server'
-    organizations: 'strasparky,Arkathon-Health-Mapping'
-
-  - rank: 176
+  - rank: 168
     name: 'PunKeel'
     login: 'PunKeel'
     id: 1859135
-    contributions: 1374
+    contributions: 1404
     company: ''
     organizations: 'ungdev,HypixelDev,popcorp,nginx-modules,ScreamShot,docbleach'
 
-  - rank: 177
-    name: 'Arnaud Cogoluègnes'
-    login: 'acogoluegnes'
-    id: 514737
-    contributions: 1372
-    company: 'Pivotal'
+  - rank: 169
+    name: 'Sylvain Hellegouarch'
+    login: 'Lawouach'
+    id: 769982
+    contributions: 1395
+    company: '@chaosiq'
     organizations: ''
 
-  - rank: 178
+  - rank: 170
+    name: 'Xavier Carpentier'
+    login: 'xcarpentier'
+    id: 923036
+    contributions: 1392
+    company: 'Freelance React-Native & Parse-Server'
+    organizations: 'strasparky,Arkathon-Health-Mapping'
+
+  - rank: 171
+    name: 'Yassine AZZOUT'
+    login: '92bondstreet'
+    id: 4671054
+    contributions: 1390
+    company: '92 Bond Street'
+    organizations: ''
+
+  - rank: 172
+    name: 'Vache'
+    login: 'Vachounet'
+    id: 706452
+    contributions: 1388
+    company: ''
+    organizations: 'boulzordev,LineageOS'
+
+  - rank: 173
+    name: 'dim'
+    login: 'db0sch'
+    id: 6984619
+    contributions: 1386
+    company: '@lewagon '
+    organizations: ''
+
+  - rank: 174
     name: 'Mickaël Andrieu'
     login: 'mickaelandrieu'
     id: 1247388
-    contributions: 1355
+    contributions: 1379
     company: 'SolvoLabs'
     organizations: 'casperjs,github-beta,certificationy,seotracker'
 
-  - rank: 179
+  - rank: 175
+    name: 'Arnaud Cogoluègnes'
+    login: 'acogoluegnes'
+    id: 514737
+    contributions: 1371
+    company: 'Pivotal'
+    organizations: ''
+
+  - rank: 176
+    name: 'Sébastien Deleuze'
+    login: 'sdeleuze'
+    id: 141109
+    contributions: 1369
+    company: 'Pivotal'
+    organizations: 'resthub'
+
+  - rank: 177
     name: 'Robert Audi'
     login: 'RobertAudi'
     id: 87562
-    contributions: 1352
+    contributions: 1365
     company: '@appaloosa-store '
     organizations: 'appaloosa-store'
 
+  - rank: 178
+    name: 'Stephane Bellity'
+    login: 'sbellity'
+    id: 4250
+    contributions: 1360
+    company: 'Hull'
+    organizations: 'sixdegrees,hull,aurajs'
+
+  - rank: 179
+    name: 'Maxime Janton'
+    login: 'iam4x'
+    id: 893837
+    contributions: 1350
+    company: '@algolia'
+    organizations: 'algolia,AtomLinter,savemysmartphone'
+
   - rank: 180
-    name: 'Evgeny Mandrikov'
-    login: 'Godin'
-    id: 138671
-    contributions: 1351
-    company: '@SonarSource'
-    organizations: 'apache,eclipse,jenkinsci,SonarSource,SonarQubeCommunity,jacoco,mojohaus'
+    name: 'Romain Manni-Bucau'
+    login: 'rmannibucau'
+    id: 1249546
+    contributions: 1347
+    company: 'Apache <3'
+    organizations: 'forge,cukespace'
 
   - rank: 181
-    name: 'Gwendal Roué'
-    login: 'groue'
-    id: 54219
-    contributions: 1351
-    company: 'Pierlis'
-    organizations: 'pierlis'
+    name: 'Mathieu Boespflug'
+    login: 'mboes'
+    id: 51356
+    contributions: 1346
+    company: '@tweag '
+    organizations: 'haskell-distributed,tweag'
 
   - rank: 182
+    name: 'Erwan Loisant'
+    login: 'erwan'
+    id: 16061
+    contributions: 1345
+    company: ''
+    organizations: ''
+
+  - rank: 183
     name: 'Vincent Jacques'
     login: 'jacquev6'
     id: 327146
@@ -1458,103 +1466,87 @@ users:
     company: ''
     organizations: 'hashids,PyGithub,RussianDollsAndSunflowers'
 
-  - rank: 183
-    name: 'Stephane Bellity'
-    login: 'sbellity'
-    id: 4250
-    contributions: 1340
-    company: 'Hull'
-    organizations: 'sixdegrees,hull,aurajs'
-
   - rank: 184
-    name: 'Nicolas Cannasse'
-    login: 'ncannasse'
-    id: 1022912
-    contributions: 1339
-    company: 'Shiro Games'
-    organizations: 'HaxeFoundation'
+    name: 'Julien Blanchard'
+    login: 'julienXX'
+    id: 53949
+    contributions: 1326
+    company: 'MakeMusic Inc.'
+    organizations: ''
 
   - rank: 185
-    name: 'David Bruant'
-    login: 'DavidBruant'
-    id: 165829
-    contributions: 1337
-    company: ''
-    organizations: 'BordeauxJS,DisruptiveBDX,milkshakers,dtc-innovation,ecvdbdx'
+    name: 'Gabriel Pillet'
+    login: 'tentacode'
+    id: 550548
+    contributions: 1322
+    company: '@gonetcats '
+    organizations: ''
 
   - rank: 186
-    name: 'Benoit Chesneau'
-    login: 'benoitc'
-    id: 14498
-    contributions: 1321
-    company: 'Enki Multimedia'
-    organizations: 'couchapp,agner,refuge,gunicorn,barrel-db'
-
-  - rank: 187
-    name: 'Mathieu Boespflug'
-    login: 'mboes'
-    id: 51356
-    contributions: 1311
-    company: '@tweag '
-    organizations: 'haskell-distributed,tweag'
-
-  - rank: 188
-    name: 'Massimiliano Pippi'
-    login: 'masci'
-    id: 7241
-    contributions: 1307
-    company: '@DataDog'
-    organizations: 'DataDog'
-
-  - rank: 189
     name: 'Cédric Champeau'
     login: 'melix'
     id: 316357
-    contributions: 1303
+    contributions: 1320
     company: '@gradle '
     organizations: 'groovy,gradle,asciidoctor'
 
+  - rank: 187
+    name: 'Gwendal Roué'
+    login: 'groue'
+    id: 54219
+    contributions: 1313
+    company: 'Pierlis'
+    organizations: 'pierlis'
+
+  - rank: 188
+    name: 'David Bruant'
+    login: 'DavidBruant'
+    id: 165829
+    contributions: 1309
+    company: ''
+    organizations: 'BordeauxJS,DisruptiveBDX,milkshakers,dtc-innovation,ecvdbdx'
+
+  - rank: 189
+    name: 'Evgeny Mandrikov'
+    login: 'Godin'
+    id: 138671
+    contributions: 1309
+    company: '@SonarSource'
+    organizations: 'apache,eclipse,jenkinsci,SonarSource,SonarQubeCommunity,jacoco,mojohaus'
+
   - rank: 190
-    name: 'Louis Gesbert'
-    login: 'AltGr'
-    id: 807966
-    contributions: 1299
-    company: 'OCamlPro'
-    organizations: 'OCamlPro,ocaml'
+    name: 'Aymeric Augustin'
+    login: 'aaugustin'
+    id: 788910
+    contributions: 1306
+    company: '@canalplus'
+    organizations: 'django'
 
   - rank: 191
-    name: 'Erwan Loisant'
-    login: 'erwan'
-    id: 16061
-    contributions: 1299
+    name: 'Maëlle Salmon'
+    login: 'maelle'
+    id: 8360597
+    contributions: 1303
     company: ''
     organizations: ''
 
   - rank: 192
-    name: 'Gabriel Pillet'
-    login: 'tentacode'
-    id: 550548
-    contributions: 1297
-    company: '@gonetcats '
-    organizations: ''
-
-  - rank: 193
     name: 'François Beaufort'
     login: 'beaufortfrancois'
     id: 634478
-    contributions: 1296
+    contributions: 1301
     company: '@Google'
     organizations: 'google,GoogleChrome,WebBluetoothCG,PolymerElements'
 
-  - rank: 194
-    name: 'Maëlle Salmon'
-    login: 'maelle'
-    id: 8360597
-    contributions: 1294
-    company: ''
-    organizations: ''
+  - rank: 193
+    name: 'Benoit Chesneau'
+    login: 'benoitc'
+    id: 14498
+    contributions: 1298
+    company: 'Enki Multimedia'
+    organizations: 'couchapp,agner,refuge,gunicorn,barrel-db'
 
-  - rank: 195
+  - rank: 194
     name: 'César Souza'
     login: 'cesarsouza'
     id: 528455
@@ -1562,21 +1554,29 @@ users:
     company: ''
     organizations: ''
 
+  - rank: 195
+    name: 'Nicolas Cannasse'
+    login: 'ncannasse'
+    id: 1022912
+    contributions: 1289
+    company: 'Shiro Games'
+    organizations: 'HaxeFoundation'
+
   - rank: 196
+    name: 'Louis Gesbert'
+    login: 'AltGr'
+    id: 807966
+    contributions: 1287
+    company: 'OCamlPro'
+    organizations: 'OCamlPro,ocaml'
+
+  - rank: 197
     name: 'Raphaël Huchet'
     login: 'rap2hpoutre'
     id: 1575946
-    contributions: 1288
+    contributions: 1284
     company: 'narvalos'
     organizations: 'ForthHub'
-
-  - rank: 197
-    name: 'Romain Manni-Bucau'
-    login: 'rmannibucau'
-    id: 1249546
-    contributions: 1286
-    company: 'Apache <3'
-    organizations: 'forge,cukespace'
 
   - rank: 198
     name: 'Adrien Becchis'
@@ -1590,463 +1590,463 @@ users:
     name: 'Thierry Volpiatto'
     login: 'thierryvolpiatto'
     id: 1533939
-    contributions: 1273
+    contributions: 1269
     company: '@emacs-helm '
     organizations: 'emacs-helm'
 
   - rank: 200
-    name: 'Guillaume Nodet'
-    login: 'gnodet'
-    id: 84022
-    contributions: 1264
-    company: 'Red Hat'
-    organizations: 'ops4j,fusesource,jline'
+    name: 'André Aubin'
+    login: 'lambda2'
+    id: 3030511
+    contributions: 1257
+    company: '@PandaScore '
+    organizations: 'lambdaweb,42School,WeAreMuffin,PandaScore,Matrice-France'
 
   - rank: 201
     name: 'Quentin Perez'
     login: 'QuentinPerez'
     id: 3081204
-    contributions: 1260
+    contributions: 1253
     company: '@znly '
     organizations: 'znly,online-net,pathwar,scaleway,42School,getmillipede,scaleway-community,tpyolang,multiarch,open-sqmg'
 
   - rank: 202
-    name: 'Jon Atack'
-    login: 'jonatack'
-    id: 2415484
-    contributions: 1258
-    company: '@we-studio'
-    organizations: 'activerecord-hackery'
-
-  - rank: 203
-    name: 'Emmanuel DEMEY'
-    login: 'Gillespie59'
-    id: 555768
-    contributions: 1252
-    company: 'Zenika'
-    organizations: ''
-
-  - rank: 204
     name: 'Guillaume Lemaitre'
     login: 'glemaitre'
     id: 7454015
-    contributions: 1237
+    contributions: 1248
     company: ''
     organizations: 'I2Cvb,scikit-learn-contrib,pydicom'
 
-  - rank: 205
+  - rank: 203
     name: 'Max Halford'
     login: 'MaxHalford'
     id: 8095957
-    contributions: 1236
+    contributions: 1244
     company: 'Université Paul Sabatier'
     organizations: 'OpenBikes,cmisid'
 
-  - rank: 206
-    name: 'Alex S'
-    login: 'bobylito'
-    id: 393765
-    contributions: 1232
-    company: '@algolia '
-    organizations: 'parisjs,DemoJS,algolia,taG-demo,StarTrack,instantsearch'
+  - rank: 204
+    name: 'Emmanuel DEMEY'
+    login: 'Gillespie59'
+    id: 555768
+    contributions: 1241
+    company: 'Zenika'
+    organizations: ''
 
-  - rank: 207
+  - rank: 205
+    name: 'Guillaume Chau'
+    login: 'Akryum'
+    id: 2798204
+    contributions: 1238
+    company: ''
+    organizations: 'vuejs,vuejs-fr'
+
+  - rank: 206
     name: 'Geoffrey L.'
     login: 'toxinu'
     id: 293337
-    contributions: 1225
+    contributions: 1233
     company: '@ulule '
     organizations: 'ulule'
 
-  - rank: 208
-    name: 'Julien Blanchard'
-    login: 'julienXX'
-    id: 53949
-    contributions: 1216
-    company: 'MakeMusic Inc.'
-    organizations: ''
+  - rank: 207
+    name: 'Jon Atack'
+    login: 'jonatack'
+    id: 2415484
+    contributions: 1232
+    company: '@we-studio'
+    organizations: 'activerecord-hackery'
 
-  - rank: 209
+  - rank: 208
     name: 'Jawher Moussa'
     login: 'jawher'
     id: 96384
-    contributions: 1199
+    contributions: 1224
     company: 'Vadoors'
     organizations: ''
 
+  - rank: 209
+    name: 'Alex S'
+    login: 'bobylito'
+    id: 393765
+    contributions: 1220
+    company: '@algolia '
+    organizations: 'parisjs,DemoJS,algolia,taG-demo,StarTrack,instantsearch'
+
   - rank: 210
-    name: 'Angelo'
-    login: 'angelozerr'
-    id: 1932211
-    contributions: 1193
-    company: ''
-    organizations: 'opensagres'
+    name: 'Guillaume Nodet'
+    login: 'gnodet'
+    id: 84022
+    contributions: 1210
+    company: 'Red Hat'
+    organizations: 'ops4j,fusesource,jline'
 
   - rank: 211
     name: 'Christophe Hamerling'
     login: 'chamerling'
     id: 264403
-    contributions: 1192
+    contributions: 1186
     company: 'Linagora'
     organizations: 'ow2,PetalsLinkLabs,Jug-Montpellier,play-project,petalslink,linagora,la-trace,statusdashboard'
 
   - rank: 212
-    name: 'Paul-Louis NECH'
-    login: 'PLNech'
-    id: 1821404
-    contributions: 1177
-    company: 'Algolia'
-    organizations: 'algolia'
+    name: 'Angelo'
+    login: 'angelozerr'
+    id: 1932211
+    contributions: 1184
+    company: ''
+    organizations: 'opensagres'
 
   - rank: 213
-    name: 'Guillaume Chau'
-    login: 'Akryum'
-    id: 2798204
-    contributions: 1175
-    company: ''
-    organizations: 'vuejs,vuejs-fr'
-
-  - rank: 214
-    name: 'Julien Tant'
-    login: 'JulienTant'
-    id: 785518
-    contributions: 1171
-    company: 'Freelance'
-    organizations: 'laravel-france,AsgardCms,WellCoded,Idavoll,nuxt-community'
-
-  - rank: 215
-    name: 'Horacio Gonzalez'
-    login: 'LostInBrittany'
-    id: 726476
-    contributions: 1149
-    company: 'Cityzen Data'
-    organizations: 'BreizhBeans'
-
-  - rank: 216
-    name: 'Jerome Flesch'
-    login: 'jflesch'
-    id: 135331
-    contributions: 1147
-    company: ''
-    organizations: ''
-
-  - rank: 217
-    name: 'AliSoftware'
-    login: 'AliSoftware'
-    id: 216089
-    contributions: 1146
-    company: ''
-    organizations: ''
-
-  - rank: 218
-    name: 'Damien Alexandre'
-    login: 'damienalexandre'
-    id: 225704
-    contributions: 1141
-    company: '@jolicode'
-    organizations: 'jolicode'
-
-  - rank: 219
-    name: 'Alexandre Archambault'
-    login: 'alexarchambault'
-    id: 7063723
-    contributions: 1140
-    company: ''
-    organizations: 'coursier'
-
-  - rank: 220
-    name: 'Yannick Loriot'
-    login: 'yannickl'
-    id: 798235
-    contributions: 1140
-    company: ''
-    organizations: 'workandplay'
-
-  - rank: 221
-    name: 'Florent Cailhol'
-    login: 'ooflorent'
-    id: 168498
-    contributions: 1127
-    company: '@overblog'
-    organizations: 'js13kGames,speedr,overblog,makrjs'
-
-  - rank: 222
-    name: 'Steeve Morin'
-    login: 'steeve'
-    id: 137467
-    contributions: 1126
-    company: '@znly '
-    organizations: 'celery'
-
-  - rank: 223
-    name: 'Florent Revest'
-    login: 'FlorentRevest'
-    id: 908424
-    contributions: 1124
-    company: ''
-    organizations: 'AsteroidOS'
-
-  - rank: 224
-    name: 'Alexandre Gauthier'
-    login: 'MrKepzie'
-    id: 4058448
-    contributions: 1124
-    company: 'INRIA'
-    organizations: ''
-
-  - rank: 225
-    name: 'Hervé BREDIN'
-    login: 'hbredin'
-    id: 1080837
-    contributions: 1117
-    company: ''
-    organizations: 'tvd-dataset,camomile-project,pyannote,MetaDaTV'
-
-  - rank: 226
-    name: 'Guilaume Besson'
-    login: 'geekuillaume'
-    id: 1301701
-    contributions: 1114
-    company: ''
-    organizations: 'ChickenRand,DataBear-EIP'
-
-  - rank: 227
-    name: 'Alboukadel KASSAMBARA'
-    login: 'kassambara'
-    id: 3313355
-    contributions: 1112
-    company: ''
-    organizations: ''
-
-  - rank: 228
-    name: 'Dimitri Sabadie'
-    login: 'phaazon'
-    id: 506592
-    contributions: 1111
-    company: ''
-    organizations: ''
-
-  - rank: 229
-    name: 'Louis Popi'
-    login: 'h2o64'
-    id: 7298803
-    contributions: 1108
-    company: ''
-    organizations: 'AOSParadox,MPSI-CG,LineageOS'
-
-  - rank: 230
-    name: 'Gianluca Bargelli'
-    login: 'proudlygeek'
-    id: 357937
-    contributions: 1099
-    company: 'Algolia'
-    organizations: 'algolia,milktronics'
-
-  - rank: 231
     name: 'omar'
     login: 'ocornut'
     id: 8225057
-    contributions: 1091
+    contributions: 1177
     company: 'Independent'
     organizations: ''
 
-  - rank: 232
-    name: 'Paul Tremberth'
-    login: 'redapple'
-    id: 886296
-    contributions: 1085
-    company: ''
-    organizations: 'newlynnlabs'
+  - rank: 214
+    name: 'Damien Alexandre'
+    login: 'damienalexandre'
+    id: 225704
+    contributions: 1172
+    company: '@jolicode'
+    organizations: 'jolicode'
 
-  - rank: 233
-    name: 'Baptiste Pesquet'
-    login: 'bpesquet'
-    id: 1837749
-    contributions: 1084
-    company: 'Education Nationale / ENSC'
+  - rank: 215
+    name: 'Paul-Louis NECH'
+    login: 'PLNech'
+    id: 1821404
+    contributions: 1172
+    company: 'Algolia'
+    organizations: 'algolia'
+
+  - rank: 216
+    name: 'Julien Tant'
+    login: 'JulienTant'
+    id: 785518
+    contributions: 1170
+    company: 'Freelance'
+    organizations: 'laravel-france,AsgardCms,WellCoded,Idavoll,nuxt-community'
+
+  - rank: 217
+    name: 'Horacio Gonzalez'
+    login: 'LostInBrittany'
+    id: 726476
+    contributions: 1160
+    company: 'Cityzen Data'
+    organizations: 'BreizhBeans'
+
+  - rank: 218
+    name: 'Jerome Flesch'
+    login: 'jflesch'
+    id: 135331
+    contributions: 1160
+    company: ''
     organizations: ''
 
-  - rank: 234
-    name: 'Romain François'
-    login: 'romainfrancois'
-    id: 2625526
-    contributions: 1083
-    company: '@ThinkR-open '
-    organizations: 'ThinkR-open'
+  - rank: 219
+    name: 'Florent Cailhol'
+    login: 'ooflorent'
+    id: 168498
+    contributions: 1149
+    company: '@overblog'
+    organizations: 'js13kGames,speedr,overblog,makrjs'
 
-  - rank: 235
+  - rank: 220
+    name: 'Florent Revest'
+    login: 'FlorentRevest'
+    id: 908424
+    contributions: 1140
+    company: ''
+    organizations: 'AsteroidOS'
+
+  - rank: 221
+    name: 'AliSoftware'
+    login: 'AliSoftware'
+    id: 216089
+    contributions: 1122
+    company: ''
+    organizations: ''
+
+  - rank: 222
+    name: 'Alexandre Archambault'
+    login: 'alexarchambault'
+    id: 7063723
+    contributions: 1117
+    company: ''
+    organizations: 'coursier'
+
+  - rank: 223
     name: 'Loic Dachary'
     login: 'dachary'
     id: 433594
-    contributions: 1081
+    contributions: 1104
     company: ''
     organizations: ''
 
-  - rank: 236
-    name: '0x1 Louis'
-    login: 'Ne02ptzero'
-    id: 6032832
-    contributions: 1076
-    company: '@Stormshield'
-    organizations: 'Morphux,meshnet'
-
-  - rank: 237
-    name: 'Cyrille Rossant'
-    login: 'rossant'
-    id: 1942359
-    contributions: 1067
+  - rank: 224
+    name: 'Yannick Loriot'
+    login: 'yannickl'
+    id: 798235
+    contributions: 1103
     company: ''
-    organizations: 'brian-team,klusta-team,vispy,kwikteam'
+    organizations: 'workandplay'
 
-  - rank: 238
-    name: 'Yann Esposito'
-    login: 'yogsototh'
-    id: 93899
-    contributions: 1065
-    company: '@threatgrid'
+  - rank: 225
+    name: 'Guilaume Besson'
+    login: 'geekuillaume'
+    id: 1301701
+    contributions: 1099
+    company: ''
+    organizations: 'ChickenRand,DataBear-EIP'
+
+  - rank: 226
+    name: 'Dimitri Sabadie'
+    login: 'phaazon'
+    id: 506592
+    contributions: 1098
+    company: ''
     organizations: ''
 
-  - rank: 239
-    name: 'Nicolas Silva'
-    login: 'nical'
-    id: 264854
-    contributions: 1059
-    company: 'Mozilla'
-    organizations: ''
+  - rank: 227
+    name: 'Steeve Morin'
+    login: 'steeve'
+    id: 137467
+    contributions: 1086
+    company: '@znly '
+    organizations: 'celery'
 
-  - rank: 240
-    name: 'Jean-Laurent de Morlhon'
-    login: 'jeanlaurent'
-    id: 197016
-    contributions: 1056
-    company: 'Docker'
-    organizations: 'CodeStory,docker,Serpodile'
+  - rank: 228
+    name: 'Romain François'
+    login: 'romainfrancois'
+    id: 2625526
+    contributions: 1085
+    company: '@ThinkR-open '
+    organizations: 'ThinkR-open'
 
-  - rank: 241
-    name: 'Bruce LANE'
-    login: 'brucelane'
-    id: 138158
-    contributions: 1050
-    company: 'Bruce LANE'
-    organizations: 'Onyx-VJ,opencasa,Opendigitallife,videodromm,selfberry'
-
-  - rank: 242
-    name: 'Vincent Velociter'
-    login: 'veloce'
-    id: 423393
-    contributions: 1049
-    company: 'Zengularity'
-    organizations: 'mayocat,TarifaTools'
-
-  - rank: 243
-    name: 'Stephane Landelle'
-    login: 'slandelle'
-    id: 849197
-    contributions: 1048
-    company: 'Gatling Corp, CEO'
-    organizations: 'jenkinsci,gatling'
-
-  - rank: 244
-    name: 'Julien Bourdeau'
-    login: 'julienbourdeau'
-    id: 1525636
-    contributions: 1048
-    company: '@algolia '
-    organizations: 'i18nguide'
-
-  - rank: 245
-    name: 'Baptiste Fontaine'
-    login: 'bfontaine'
-    id: 1334295
-    contributions: 1046
-    company: 'Oscaro.com'
-    organizations: 'Homebrew,IP7,oscaro,99XProblems'
-
-  - rank: 246
+  - rank: 229
     name: 'Wassim Chegham'
     login: 'manekinekko'
     id: 1699357
-    contributions: 1045
+    contributions: 1081
     company: ' SFΞIR'
     organizations: 'angular,Sfeir,webcomponents,webpack,thoughtram,AngularClass,videogular,code-kotis,compodoc,perfyjs,nguniversal,actions-on-google-wizard'
+
+  - rank: 230
+    name: 'Alexandre Gauthier'
+    login: 'MrKepzie'
+    id: 4058448
+    contributions: 1079
+    company: 'INRIA'
+    organizations: ''
+
+  - rank: 231
+    name: 'Gianluca Bargelli'
+    login: 'proudlygeek'
+    id: 357937
+    contributions: 1076
+    company: 'Algolia'
+    organizations: 'algolia,milktronics'
+
+  - rank: 232
+    name: 'Julien Maupetit'
+    login: 'jmaupetit'
+    id: 956157
+    contributions: 1070
+    company: 'http://tailordev.fr'
+    organizations: 'sciencetoweb,clermontech,TailorDev'
+
+  - rank: 233
+    name: 'Julien Bourdeau'
+    login: 'julienbourdeau'
+    id: 1525636
+    contributions: 1069
+    company: '@algolia '
+    organizations: 'i18nguide'
+
+  - rank: 234
+    name: 'Alboukadel KASSAMBARA'
+    login: 'kassambara'
+    id: 3313355
+    contributions: 1067
+    company: ''
+    organizations: ''
+
+  - rank: 235
+    name: 'Stephane Landelle'
+    login: 'slandelle'
+    id: 849197
+    contributions: 1067
+    company: 'Gatling Corp, CEO'
+    organizations: 'jenkinsci,gatling'
+
+  - rank: 236
+    name: 'Baptiste Pesquet'
+    login: 'bpesquet'
+    id: 1837749
+    contributions: 1064
+    company: 'Education Nationale / ENSC'
+    organizations: ''
+
+  - rank: 237
+    name: 'Yann Esposito'
+    login: 'yogsototh'
+    id: 93899
+    contributions: 1060
+    company: '@threatgrid'
+    organizations: ''
+
+  - rank: 238
+    name: 'Nicolas Silva'
+    login: 'nical'
+    id: 264854
+    contributions: 1060
+    company: 'Mozilla'
+    organizations: ''
+
+  - rank: 239
+    name: '0x1 Louis'
+    login: 'Ne02ptzero'
+    id: 6032832
+    contributions: 1051
+    company: '@Stormshield'
+    organizations: 'Morphux,meshnet'
+
+  - rank: 240
+    name: 'Charles du Jeu'
+    login: 'cdujeu'
+    id: 2465057
+    contributions: 1048
+    company: 'Pydio'
+    organizations: 'ajaxplorer,pydio'
+
+  - rank: 241
+    name: 'Cyrille Rossant'
+    login: 'rossant'
+    id: 1942359
+    contributions: 1046
+    company: ''
+    organizations: 'brian-team,klusta-team,vispy,kwikteam'
+
+  - rank: 242
+    name: 'Jean-Laurent de Morlhon'
+    login: 'jeanlaurent'
+    id: 197016
+    contributions: 1044
+    company: 'Docker'
+    organizations: 'CodeStory,docker,Serpodile'
+
+  - rank: 243
+    name: 'Anis B.'
+    login: 'cookkkie'
+    id: 17292639
+    contributions: 1043
+    company: ''
+    organizations: ''
+
+  - rank: 244
+    name: 'Alexis Aubry-Radanovic'
+    login: 'alexaubry'
+    id: 16192914
+    contributions: 1037
+    company: ''
+    organizations: ''
+
+  - rank: 245
+    name: 'Paul Tremberth'
+    login: 'redapple'
+    id: 886296
+    contributions: 1037
+    company: ''
+    organizations: 'newlynnlabs'
+
+  - rank: 246
+    name: 'Baptiste Fontaine'
+    login: 'bfontaine'
+    id: 1334295
+    contributions: 1037
+    company: 'Oscaro.com'
+    organizations: 'Homebrew,IP7,oscaro,99XProblems'
 
   - rank: 247
     name: 'Erwan DATIN'
     login: 'MacKentoch'
     id: 11223428
-    contributions: 1034
+    contributions: 1033
     company: ''
     organizations: ''
 
   - rank: 248
-    name: 'Julien Maupetit'
-    login: 'jmaupetit'
-    id: 956157
-    contributions: 1030
-    company: 'http://tailordev.fr'
-    organizations: 'sciencetoweb,clermontech,TailorDev'
+    name: 'Vincent Velociter'
+    login: 'veloce'
+    id: 423393
+    contributions: 1033
+    company: 'Zengularity'
+    organizations: 'mayocat,TarifaTools'
 
   - rank: 249
-    name: 'Simon Baslé'
-    login: 'simonbasle'
-    id: 6986166
-    contributions: 1029
-    company: 'Pivotal'
+    name: 'Balthazar Rouberol'
+    login: 'brouberol'
+    id: 480131
+    contributions: 1028
+    company: 'OVH'
     organizations: ''
 
   - rank: 250
-    name: 'Charles du Jeu'
-    login: 'cdujeu'
-    id: 2465057
-    contributions: 1025
-    company: 'Pydio'
-    organizations: 'ajaxplorer,pydio'
+    name: 'Simon Baslé'
+    login: 'simonbasle'
+    id: 6986166
+    contributions: 1027
+    company: 'Pivotal'
+    organizations: ''
 
   - rank: 251
-    name: 'Gabin Aureche'
-    login: 'Zhouzi'
-    id: 2291025
-    contributions: 1024
-    company: '@GitbookIO '
-    organizations: 'GitbookIO'
+    name: 'Hervé BREDIN'
+    login: 'hbredin'
+    id: 1080837
+    contributions: 1023
+    company: ''
+    organizations: 'tvd-dataset,camomile-project,pyannote,MetaDaTV'
 
   - rank: 252
-    name: 'Kevin Deldycke'
-    login: 'kdeldycke'
-    id: 159718
+    name: 'Aaron Weiss'
+    login: 'aatxe'
+    id: 744293
     contributions: 1019
-    company: '@Scaleway ☁︎'
-    organizations: 'scaleway,online-labs,scaleway-community'
+    company: '@nuprl '
+    organizations: 'plasma-umass,idris-hackers,nuprl,Pdgn,NGG-Group-CS320,WorcesterSociety,OPLSS,silcgroup'
 
   - rank: 253
-    name: 'Joey Bronner'
-    login: 'joeybronner'
-    id: 5888510
+    name: 'Fabien Penso'
+    login: 'penso'
+    id: 7703
     contributions: 1016
     company: ''
     organizations: ''
 
   - rank: 254
-    name: 'Thomas Petazzoni'
-    login: 'tpetazzoni'
-    id: 1089203
-    contributions: 1016
-    company: 'Free Electrons'
-    organizations: 'MISL-EBU-System-SW,maposmatic,buildroot'
+    name: 'Gabin Aureche'
+    login: 'Zhouzi'
+    id: 2291025
+    contributions: 1013
+    company: '@GitbookIO '
+    organizations: 'GitbookIO'
 
   - rank: 255
-    name: 'Bertrand Dunogier'
-    login: 'bdunogier'
-    id: 235928
-    contributions: 1009
-    company: 'eZ Systems'
-    organizations: 'ezsystems,ezunconference,ezcommunity'
+    name: 'Josh Dzielak'
+    login: 'dzello'
+    id: 174777
+    contributions: 1011
+    company: '@algolia '
+    organizations: 'algolia,pushpop-project'
 
   - rank: 256
-    name: 'Alexis Aubry-Radanovic'
-    login: 'alexaubry'
-    id: 16192914
-    contributions: 999
+    name: 'Joey Bronner'
+    login: 'joeybronner'
+    id: 5888510
+    contributions: 1011
     company: ''
     organizations: ''
 
@@ -2054,7 +2054,7 @@ organizations:
 
   - rank: 1
     name: 'algolia'
-    membercount: 10
+    membercount: 11
 
   - rank: 2
     name: 'symfony'
@@ -2069,26 +2069,26 @@ organizations:
     membercount: 4
 
   - rank: 5
-    name: 'sensiolabs'
+    name: 'instantsearch'
     membercount: 3
 
   - rank: 6
-    name: 'drivy'
+    name: 'apache'
     membercount: 3
 
   - rank: 7
-    name: 'government'
+    name: 'sensiolabs'
     membercount: 3
 
   - rank: 8
-    name: 'lewagon'
+    name: 'government'
     membercount: 3
 
   - rank: 9
-    name: 'api-platform'
+    name: 'etalab'
     membercount: 3
 
   - rank: 10
-    name: 'instantsearch'
+    name: 'znly'
     membercount: 3
-generated: 2017-12-11 01:30:09.70156279 +0000 UTC
+generated: 2017-12-18 01:30:09.857059121 +0000 UTC
