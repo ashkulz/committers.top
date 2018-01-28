@@ -21,6 +21,12 @@ sleep 3600
 ./generate.sh $1 spain Spain
 ./generate.sh $1 italy Italy
 ./generate.sh $1 uk UK
+./generate.sh $1 croatia Croatia
+./generate.sh $1 austria Austria
+
+sleep 3600
+
+./generate.sh $1 portugal Portugal
 
 git add _data
 git commit -m "updated data"
