@@ -6,7 +6,7 @@ users:
     name: 'Alessandro Desantis'
     login: 'aldesantis'
     id: 395073
-    contributions: 7229
+    contributions: 7186
     company: '@batteries911 '
     organizations: 'interconn-isp,gigster-eng'
 
@@ -14,7 +14,7 @@ users:
     name: 'Michele Simionato'
     login: 'micheles'
     id: 2463856
-    contributions: 6014
+    contributions: 5988
     company: 'GEM'
     organizations: ''
 
@@ -22,31 +22,31 @@ users:
     name: 'Marco Vito Moscaritolo'
     login: 'mavimo'
     id: 43941
-    contributions: 5813
+    contributions: 5962
     company: '@ProntoPro '
     organizations: 'agavee,associazionedrupalitalia'
 
   - rank: 4
-    name: 'Ugo Pattacini'
-    login: 'pattacini'
-    id: 3738070
-    contributions: 5628
-    company: 'Istituto Italiano di Tecnologia'
-    organizations: 'robotology,vvv-school,tacman-fp7,loc2,easy-peasy-robotics'
-
-  - rank: 5
     name: 'David Gatti'
     login: 'davidgatti'
     id: 411114
-    contributions: 5483
+    contributions: 5588
     company: '@0x4447'
     organizations: 'sequr,buslink,0x4447,divvylive,HelloWorldCloud'
+
+  - rank: 5
+    name: 'Ugo Pattacini'
+    login: 'pattacini'
+    id: 3738070
+    contributions: 5377
+    company: 'Istituto Italiano di Tecnologia'
+    organizations: 'robotology,vvv-school,tacman-fp7,loc2,easy-peasy-robotics'
 
   - rank: 6
     name: 'Gianluca Casati'
     login: 'fibo'
     id: 176730
-    contributions: 5317
+    contributions: 5233
     company: '@Beintoo'
     organizations: 'Beintoo'
 
@@ -62,7 +62,7 @@ users:
     name: 'Nicholas Valbusa'
     login: 'squallstar'
     id: 574210
-    contributions: 4618
+    contributions: 4563
     company: '@Fliplet  '
     organizations: 'Fliplet'
 
@@ -70,7 +70,7 @@ users:
     name: 'Tyler Yasaka'
     login: 'tyleryasaka'
     id: 6504519
-    contributions: 4453
+    contributions: 4431
     company: '@PartCycleTech '
     organizations: ''
 
@@ -78,7 +78,7 @@ users:
     name: 'Simone Carletti'
     login: 'weppos'
     id: 5387
-    contributions: 4297
+    contributions: 4394
     company: 'DNSimple'
     organizations: 'aetrion,RubyMoney,robowhois,fog,dnsimple,publicsuffix,hanami,whois'
 
@@ -86,7 +86,7 @@ users:
     name: 'Julio Monteiro'
     login: 'jmonteiro'
     id: 3586
-    contributions: 4282
+    contributions: 4326
     company: '@doximity '
     organizations: 'doximity,nko2'
 
@@ -94,7 +94,7 @@ users:
     name: 'Olli Vanhoja'
     login: 'OlliV'
     id: 1401625
-    contributions: 4223
+    contributions: 4237
     company: ''
     organizations: 'Zeke-OS'
 
@@ -102,7 +102,7 @@ users:
     name: 'Giovanni Toraldo'
     login: 'gionn'
     id: 71768
-    contributions: 4102
+    contributions: 4144
     company: '@ClouDesire '
     organizations: 'libersoft,PHP-Fusion-Italia,ClouDesire,CodersTUG,cloudparty-io'
 
@@ -110,47 +110,47 @@ users:
     name: 'Mauro Bianchi'
     login: 'bianchimro'
     id: 234869
-    contributions: 3956
+    contributions: 3971
     company: 'http://www.inmagik.com'
     organizations: 'humanitiesplusdesign,amat-mi,inmagik'
 
   - rank: 15
-    name: 'Antonio Trento'
-    login: 'antoniotrento'
-    id: 6674814
-    contributions: 3956
-    company: 'Myself'
-    organizations: ''
+    name: 'Andrea Cosentino'
+    login: 'oscerd'
+    id: 5106647
+    contributions: 3959
+    company: 'Red Hat'
+    organizations: 'fusesource,hawtio,jboss-fuse,fabric8io'
 
   - rank: 16
     name: 'Tomas Della Vedova'
     login: 'delvedor'
     id: 4865608
-    contributions: 3817
+    contributions: 3876
     company: '@letzdoit '
     organizations: 'nodejs,letzdoit,webisart,fastify,upringjs'
 
   - rank: 17
+    name: 'Antonio Trento'
+    login: 'antoniotrento'
+    id: 6674814
+    contributions: 3820
+    company: 'Myself'
+    organizations: ''
+
+  - rank: 18
     name: 'Jay Hayes'
     login: 'iamvery'
     id: 79619
-    contributions: 3787
+    contributions: 3730
     company: '@stitchfix'
     organizations: 'hsvruby,stitchfix,pakyow,tech256'
-
-  - rank: 18
-    name: 'Andrea Cosentino'
-    login: 'oscerd'
-    id: 5106647
-    contributions: 3738
-    company: 'Red Hat'
-    organizations: 'fusesource,hawtio,jboss-fuse,fabric8io'
 
   - rank: 19
     name: 'Michele Locati'
     login: 'mlocati'
     id: 928116
-    contributions: 3712
+    contributions: 3686
     company: ''
     organizations: 'punic'
 
@@ -158,7 +158,7 @@ users:
     name: 'Matteo Collina'
     login: 'mcollina'
     id: 52195
-    contributions: 3630
+    contributions: 3672
     company: '@nearform '
     organizations: 'nearform,Level,nodejs,mqttjs,pinojs,fastify,upringjs'
 
@@ -166,235 +166,219 @@ users:
     name: 'Francesco Carnielli'
     login: 'hex7c0'
     id: 4419146
-    contributions: 3365
+    contributions: 3341
     company: '@Supermercato24 '
     organizations: 'nodejs,Supermercato24'
 
   - rank: 22
-    name: 'Francesco Lodolo'
-    login: 'flodolo'
-    id: 3644868
-    contributions: 3087
-    company: ''
+    name: 'Daniel Russell'
+    login: 'danielrussellLA'
+    id: 10680312
+    contributions: 3098
+    company: 'OpenMail'
     organizations: ''
 
   - rank: 23
-    name: 'Andrea Usuelli'
-    login: 'andreausu'
-    id: 623986
-    contributions: 3015
+    name: 'Francesco Lodolo'
+    login: 'flodolo'
+    id: 3644868
+    contributions: 3046
     company: ''
     organizations: ''
 
   - rank: 24
-    name: 'Simone'
-    login: 'Kirkhammetz'
-    id: 5617452
-    contributions: 2935
-    company: 'Full-Stack Web Develop & DevOps'
+    name: 'Andrea Usuelli'
+    login: 'andreausu'
+    id: 623986
+    contributions: 3036
+    company: ''
     organizations: ''
 
   - rank: 25
-    name: 'Daniel Russell'
-    login: 'danielrussellLA'
-    id: 10680312
-    contributions: 2892
-    company: 'OpenMail'
+    name: 'Simone'
+    login: 'Kirkhammetz'
+    id: 5617452
+    contributions: 2795
+    company: 'Full-Stack Web Develop & DevOps'
     organizations: ''
 
   - rank: 26
     name: 'Francesco Agnoletto'
     login: 'Kornil'
     id: 11630180
-    contributions: 2816
+    contributions: 2782
     company: '@prezly '
     organizations: ''
 
   - rank: 27
-    name: 'David Canino'
-    login: 'davidcanino'
-    id: 13381869
-    contributions: 2792
-    company: ''
-    organizations: ''
-
-  - rank: 28
     name: 'Stefania'
     login: 'smellai'
     id: 1763268
-    contributions: 2785
+    contributions: 2769
     company: ''
     organizations: 'arduino'
 
-  - rank: 29
-    name: 'Antonio Scandurra'
-    login: 'as-cii'
-    id: 482957
-    contributions: 2754
-    company: 'GitHub'
-    organizations: 'github,atom,electron'
-
-  - rank: 30
+  - rank: 28
     name: 'Giulio'
     login: 'giulio92'
     id: 15996263
-    contributions: 2678
+    contributions: 2762
     company: ''
     organizations: 'YTech'
+
+  - rank: 29
+    name: 'David Canino'
+    login: 'davidcanino'
+    id: 13381869
+    contributions: 2739
+    company: ''
+    organizations: ''
+
+  - rank: 30
+    name: 'Antonio Scandurra'
+    login: 'as-cii'
+    id: 482957
+    contributions: 2706
+    company: 'GitHub'
+    organizations: 'github,atom,electron'
 
   - rank: 31
     name: 'theAverageDev (Luca Tumedei)'
     login: 'lucatume'
     id: 2749650
-    contributions: 2582
+    contributions: 2605
     company: 'theAverageDev'
     organizations: ''
 
   - rank: 32
-    name: 'Daniele Campogiani'
-    login: 'dcampogiani'
-    id: 1054526
-    contributions: 2522
-    company: ''
-    organizations: ''
-
-  - rank: 33
-    name: 'Jiayi Hu'
-    login: 'jiayihu'
-    id: 10067273
-    contributions: 2476
-    company: 'Freelance consultant'
-    organizations: 'GrUSP,FIUP,angular-developer-italiani'
-
-  - rank: 34
-    name: 'Simone Margaritelli'
-    login: 'evilsocket'
-    id: 86922
-    contributions: 2473
-    company: 'Zimperium'
-    organizations: 'Zimperium,bettercap'
-
-  - rank: 35
-    name: 'Emanuele Vicentini'
-    login: 'baldowl'
-    id: 16362
-    contributions: 2461
-    company: 'Shopify'
-    organizations: 'Shopify,GuITeX'
-
-  - rank: 36
-    name: 'Steven Kirk'
-    login: 'grokys'
-    id: 1775141
-    contributions: 2450
-    company: ''
-    organizations: 'AvaloniaUI'
-
-  - rank: 37
-    name: 'Gabriele Petronella'
-    login: 'gabro'
-    id: 691940
-    contributions: 2445
-    company: 'buildo'
-    organizations: 'buildo,scala-italy,js-girls,danger'
-
-  - rank: 38
-    name: 'Alberto Vena'
-    login: 'kennyadsl'
-    id: 167946
-    contributions: 2425
-    company: 'NebuLab'
-    organizations: 'spree,ruby,nebulab,romerb,solidusio'
-
-  - rank: 39
-    name: 'Pier Luigi Fiorini'
-    login: 'plfiorini'
-    id: 843710
-    contributions: 2378
-    company: ''
-    organizations: 'hawaii-desktop,sddm,calamares,plasma-mobile,lirios'
-
-  - rank: 40
-    name: 'Francesco Di Lorenzo'
-    login: 'frankdilo'
-    id: 715405
-    contributions: 2364
-    company: '@BendingSpoons '
-    organizations: ''
-
-  - rank: 41
-    name: 'Andrea Draghetti'
-    login: 'drego85'
-    id: 2007233
-    contributions: 2360
-    company: 'D3Lab'
-    organizations: ''
-
-  - rank: 42
     name: 'Matteo Crippa'
     login: 'matteocrippa'
     id: 475463
-    contributions: 2350
+    contributions: 2563
     company: '@boostcode'
     organizations: 'boostcode'
 
+  - rank: 33
+    name: 'Daniele Campogiani'
+    login: 'dcampogiani'
+    id: 1054526
+    contributions: 2526
+    company: ''
+    organizations: ''
+
+  - rank: 34
+    name: 'Steven Kirk'
+    login: 'grokys'
+    id: 1775141
+    contributions: 2504
+    company: ''
+    organizations: 'AvaloniaUI'
+
+  - rank: 35
+    name: 'Simone Margaritelli'
+    login: 'evilsocket'
+    id: 86922
+    contributions: 2488
+    company: 'Zimperium'
+    organizations: 'Zimperium,bettercap'
+
+  - rank: 36
+    name: 'Gabriele Petronella'
+    login: 'gabro'
+    id: 691940
+    contributions: 2466
+    company: 'buildo'
+    organizations: 'buildo,scala-italy,js-girls,danger'
+
+  - rank: 37
+    name: 'Jiayi Hu'
+    login: 'jiayihu'
+    id: 10067273
+    contributions: 2459
+    company: 'Freelance consultant'
+    organizations: 'GrUSP,FIUP,angular-developer-italiani'
+
+  - rank: 38
+    name: 'Emanuele Vicentini'
+    login: 'baldowl'
+    id: 16362
+    contributions: 2454
+    company: 'Shopify'
+    organizations: 'Shopify,GuITeX'
+
+  - rank: 39
+    name: 'Andrea Draghetti'
+    login: 'drego85'
+    id: 2007233
+    contributions: 2437
+    company: 'D3Lab'
+    organizations: ''
+
+  - rank: 40
+    name: 'Alberto Vena'
+    login: 'kennyadsl'
+    id: 167946
+    contributions: 2413
+    company: 'NebuLab'
+    organizations: 'spree,ruby,nebulab,romerb,solidusio'
+
+  - rank: 41
+    name: 'Francesco Di Lorenzo'
+    login: 'frankdilo'
+    id: 715405
+    contributions: 2409
+    company: '@BendingSpoons '
+    organizations: ''
+
+  - rank: 42
+    name: 'Pier Luigi Fiorini'
+    login: 'plfiorini'
+    id: 843710
+    contributions: 2334
+    company: ''
+    organizations: 'hawaii-desktop,sddm,calamares,plasma-mobile,lirios'
+
   - rank: 43
-    name: 'Stefano Fogarollo'
-    login: 'sirfoga'
-    id: 14162628
-    contributions: 2314
-    company: '@raceup '
-    organizations: ''
-
-  - rank: 44
-    name: 'Paolo G. Giarrusso'
-    login: 'Blaisorblade'
-    id: 289960
-    contributions: 2277
-    company: 'Eberhard Karls Universität Tübingen'
-    organizations: 'agda,ps-mr,inc-lc'
-
-  - rank: 45
-    name: 'Fabio Alessandro Locati'
-    login: 'Fale'
-    id: 77888
-    contributions: 2259
-    company: 'Otelia'
-    organizations: ''
-
-  - rank: 46
     name: 'Michele Gruppioni'
     login: 'Gruppio'
     id: 734075
-    contributions: 2250
+    contributions: 2305
     company: 'Yoox Net A Porter'
     organizations: ''
 
-  - rank: 47
-    name: 'Alessandro Molina'
-    login: 'amol-'
-    id: 601423
-    contributions: 2230
-    company: ''
-    organizations: 'TurboGears'
+  - rank: 44
+    name: 'Fabio Alessandro Locati'
+    login: 'Fale'
+    id: 77888
+    contributions: 2304
+    company: 'Otelia'
+    organizations: ''
 
-  - rank: 48
+  - rank: 45
+    name: 'Paolo G. Giarrusso'
+    login: 'Blaisorblade'
+    id: 289960
+    contributions: 2250
+    company: 'Eberhard Karls Universität Tübingen'
+    organizations: 'agda,ps-mr,inc-lc'
+
+  - rank: 46
     name: 'Lou Marvin Caraig'
     login: 'se7entyse7en'
     id: 5599208
-    contributions: 2228
+    contributions: 2226
     company: '@Viralize'
     organizations: 'Viralize'
 
-  - rank: 49
-    name: 'Mike McCready'
-    login: 'mikemccready'
-    id: 11762584
-    contributions: 2214
-    company: 'Wevr'
+  - rank: 47
+    name: 'Stefano Fogarollo'
+    login: 'sirfoga'
+    id: 14162628
+    contributions: 2217
+    company: '@raceup '
     organizations: ''
 
-  - rank: 50
+  - rank: 48
     name: 'Andrea Parodi'
     login: 'parro-it'
     id: 11197111
@@ -402,551 +386,575 @@ users:
     company: ''
     organizations: 'shes'
 
+  - rank: 49
+    name: 'Alessandro Molina'
+    login: 'amol-'
+    id: 601423
+    contributions: 2203
+    company: ''
+    organizations: 'TurboGears'
+
+  - rank: 50
+    name: 'Mike McCready'
+    login: 'mikemccready'
+    id: 11762584
+    contributions: 2180
+    company: 'Wevr'
+    organizations: ''
+
   - rank: 51
     name: 'Federico Tomassetti'
     login: 'ftomassetti'
     id: 439078
-    contributions: 2095
+    contributions: 2085
     company: 'Consultant Software Architect'
     organizations: 'Mindwerks,javaparser,Strumenta'
 
   - rank: 52
+    name: 'Davide Polonio'
+    login: 'Polpetta'
+    id: 5928183
+    contributions: 2053
+    company: ''
+    organizations: 'Augugrumi'
+
+  - rank: 53
     name: 'Manuel Dell''Elce'
     login: 'Maluen'
     id: 1434239
-    contributions: 2086
+    contributions: 2037
     company: ''
     organizations: 'webmiddle'
-
-  - rank: 53
-    name: 'Fundor333'
-    login: 'fundor333'
-    id: 3340406
-    contributions: 2073
-    company: 'Fundor333'
-    organizations: 'InformaticaSaraLei,VenezianiDoc,samarcandaproject'
 
   - rank: 54
     name: 'Luigi Pinca'
     login: 'lpinca'
     id: 1443911
-    contributions: 2041
+    contributions: 2035
     company: ''
     organizations: 'microapps,primus,unshiftio,nodejs,websockets'
 
   - rank: 55
-    name: 'Davide Polonio'
-    login: 'Polpetta'
-    id: 5928183
-    contributions: 2026
-    company: ''
-    organizations: 'Augugrumi'
+    name: 'Fundor333'
+    login: 'fundor333'
+    id: 3340406
+    contributions: 2016
+    company: 'Fundor333'
+    organizations: 'InformaticaSaraLei,VenezianiDoc,samarcandaproject'
 
   - rank: 56
     name: 'Damiano Ciarla'
     login: 'damianociarla'
     id: 2201712
-    contributions: 2023
+    contributions: 1985
     company: ''
     organizations: ''
 
   - rank: 57
-    name: 'Jay Dolan'
-    login: 'jdolan'
-    id: 643118
-    contributions: 1973
-    company: 'Cantina'
-    organizations: 'cantinac'
-
-  - rank: 58
     name: 'Rocco Musolino'
     login: 'roccomuso'
     id: 6730217
-    contributions: 1933
+    contributions: 1905
     company: '@cloudplugs'
     organizations: 'nodejs'
+
+  - rank: 58
+    name: 'Jay Dolan'
+    login: 'jdolan'
+    id: 643118
+    contributions: 1899
+    company: 'Cantina'
+    organizations: 'cantinac'
 
   - rank: 59
     name: 'Simone Primarosa'
     login: 'simonepri'
     id: 3505087
-    contributions: 1919
+    contributions: 1892
     company: 'Sapienza University of Rome'
     organizations: 'github-beta,busrapidohq,curiosone-bot,CyberChallengeIT17Team,MKFirmware,arduino-cli,TheRomanXpl0it'
 
   - rank: 60
-    name: 'Alessio Occhipinti'
-    login: 'LasaleFamine'
-    id: 13070349
-    contributions: 1900
-    company: 'Interface Developer @ YNAP'
-    organizations: 'dwyl,PolymerX'
-
-  - rank: 61
     name: 'Gabriele Romeo'
     login: 'GabrieleRomeo'
     id: 16434970
-    contributions: 1884
+    contributions: 1881
     company: ''
     organizations: ''
 
-  - rank: 62
-    name: 'Federico Capoano'
-    login: 'nemesisdesign'
-    id: 841044
-    contributions: 1882
-    company: '@xapo & @openwisp'
-    organizations: 'ninuxorg,battlemesh,openwisp,medialab-prado,netjson,djangonauts,PyRoma'
-
-  - rank: 63
-    name: 'Marco Fontani'
-    login: 'mfontani'
-    id: 22792
-    contributions: 1869
-    company: '@theregister '
-    organizations: 'theregister'
-
-  - rank: 64
+  - rank: 61
     name: 'Francesco Bianco'
     login: 'francescobianco'
     id: 472171
-    contributions: 1845
+    contributions: 1870
     company: 'Ing. Francesco BIanco'
     organizations: 'javanile,LibertyFramework,eggplantfarm,ProgettoG55,javanile-hub,aliengine,taskis'
 
-  - rank: 65
-    name: 'Alessio Sergi'
-    login: 'asergi'
-    id: 325166
-    contributions: 1845
-    company: ''
-    organizations: 'voidlinux'
+  - rank: 62
+    name: 'Alessio Occhipinti'
+    login: 'LasaleFamine'
+    id: 13070349
+    contributions: 1866
+    company: 'Interface Developer @ YNAP'
+    organizations: 'dwyl,PolymerX'
 
-  - rank: 66
-    name: 'Simon Vocella'
-    login: 'voxsim'
-    id: 1021456
-    contributions: 1793
-    company: ''
-    organizations: 'xpeppers'
+  - rank: 63
+    name: 'Manuel Mazzuola'
+    login: 'manuelmazzuola'
+    id: 1757492
+    contributions: 1859
+    company: 'cloudesire.com'
+    organizations: 'ClouDesire,cloudparty-io'
 
-  - rank: 67
+  - rank: 64
     name: 'Marco'
     login: 'marco-c'
     id: 1616846
-    contributions: 1789
+    contributions: 1843
     company: 'Mozilla'
     organizations: 'mozilla,WP-API,web-push-libs'
 
+  - rank: 65
+    name: 'Marco Fontani'
+    login: 'mfontani'
+    id: 22792
+    contributions: 1836
+    company: '@theregister '
+    organizations: 'theregister'
+
+  - rank: 66
+    name: 'Federico Capoano'
+    login: 'nemesisdesign'
+    id: 841044
+    contributions: 1832
+    company: '@xapo & @openwisp'
+    organizations: 'ninuxorg,battlemesh,openwisp,medialab-prado,netjson,djangonauts,PyRoma'
+
+  - rank: 67
+    name: 'Simon Vocella'
+    login: 'voxsim'
+    id: 1021456
+    contributions: 1796
+    company: ''
+    organizations: 'xpeppers'
+
   - rank: 68
-    name: 'Alessandro Calzavara'
-    login: 'dral3x'
-    id: 447976
-    contributions: 1732
-    company: '@spreaker'
-    organizations: ''
+    name: 'Alessio Sergi'
+    login: 'asergi'
+    id: 325166
+    contributions: 1762
+    company: ''
+    organizations: 'voidlinux'
 
   - rank: 69
-    name: 'Lorenzo Villani'
-    login: 'lvillani'
-    id: 241660
-    contributions: 1720
-    company: '@develersrl'
-    organizations: 'develersrl,just-install'
-
-  - rank: 70
-    name: 'Matteo Basso'
-    login: 'mbasso'
-    id: 5837614
-    contributions: 1710
-    company: '@itsolutions-dev'
-    organizations: 'itsolutions-dev'
-
-  - rank: 71
-    name: 'Luca Guidi'
-    login: 'jodosha'
-    id: 5089
-    contributions: 1707
-    company: 'DNSimple'
-    organizations: 'aetrion,dnsimple,hanami,redis-store,dry-rb,lotus'
-
-  - rank: 72
-    name: 'Marco'
-    login: 'mstn'
-    id: 159818
-    contributions: 1704
-    company: ''
-    organizations: 'meteor-italia,earthcape,Keplerjs'
-
-  - rank: 73
     name: 'Luca Burgazzoli'
     login: 'lburgazzoli'
     id: 1868933
-    contributions: 1697
+    contributions: 1742
     company: 'Red Hat'
     organizations: 'OpenHFT'
 
-  - rank: 74
-    name: 'Davide Violante'
-    login: 'DavideViolante'
-    id: 6844116
-    contributions: 1678
-    company: ''
-    organizations: ''
-
-  - rank: 75
-    name: 'Andrew Brown'
-    login: 'drusepth'
-    id: 538235
-    contributions: 1674
-    company: '@indentlabs '
-    organizations: 'indentlabs'
-
-  - rank: 76
+  - rank: 70
     name: 'Fabrizio Fallico'
     login: 'sniperwolf'
     id: 741938
-    contributions: 1659
+    contributions: 1740
     company: ''
     organizations: ''
 
-  - rank: 77
-    name: 'Giovanni Barillari'
-    login: 'gi0baro'
-    id: 5019985
-    contributions: 1656
-    company: '@Sellf '
-    organizations: 'web2py,amira-io'
-
-  - rank: 78
+  - rank: 71
     name: 'Ezio Lacandia Bijelkic'
     login: 'ezio84'
     id: 3147005
-    contributions: 1655
+    contributions: 1735
     company: ''
     organizations: ''
 
+  - rank: 72
+    name: 'Luca Guidi'
+    login: 'jodosha'
+    id: 5089
+    contributions: 1695
+    company: 'DNSimple'
+    organizations: 'aetrion,dnsimple,hanami,redis-store,dry-rb,lotus'
+
+  - rank: 73
+    name: 'Matteo Basso'
+    login: 'mbasso'
+    id: 5837614
+    contributions: 1692
+    company: '@itsolutions-dev'
+    organizations: 'itsolutions-dev'
+
+  - rank: 74
+    name: 'Andrew Brown'
+    login: 'drusepth'
+    id: 538235
+    contributions: 1690
+    company: '@indentlabs '
+    organizations: 'indentlabs'
+
+  - rank: 75
+    name: 'Marco'
+    login: 'mstn'
+    id: 159818
+    contributions: 1689
+    company: ''
+    organizations: 'meteor-italia,earthcape,Keplerjs'
+
+  - rank: 76
+    name: 'Alessandro Calzavara'
+    login: 'dral3x'
+    id: 447976
+    contributions: 1688
+    company: '@spreaker'
+    organizations: ''
+
+  - rank: 77
+    name: 'Davide Violante'
+    login: 'DavideViolante'
+    id: 6844116
+    contributions: 1676
+    company: ''
+    organizations: ''
+
+  - rank: 78
+    name: 'Lorenzo Villani'
+    login: 'lvillani'
+    id: 241660
+    contributions: 1646
+    company: '@develersrl'
+    organizations: 'develersrl,just-install'
+
   - rank: 79
+    name: 'Dom Corvasce'
+    login: 'domcorvasce'
+    id: 20912806
+    contributions: 1625
+    company: ''
+    organizations: ''
+
+  - rank: 80
     name: 'Alex Manzella'
     login: 'MP0w'
     id: 1812932
-    contributions: 1645
+    contributions: 1625
     company: '@JoinVerse '
     organizations: 'JoinVerse,Git-spy,devlucky,Frycle'
 
-  - rank: 80
-    name: 'Michele Gerarduzzi'
-    login: 'michelegera'
-    id: 3891
-    contributions: 1604
-    company: ''
-    organizations: 'zooppa'
-
   - rank: 81
-    name: 'Alessandro Lepore'
-    login: 'alepore'
-    id: 557414
-    contributions: 1595
-    company: '@StemboltHQ '
-    organizations: 'ruby,freego,StemboltHQ,spree-contrib,solidusio-contrib,fanolug'
+    name: 'Giovanni Barillari'
+    login: 'gi0baro'
+    id: 5019985
+    contributions: 1604
+    company: '@Sellf '
+    organizations: 'web2py,amira-io'
 
   - rank: 82
-    name: 'Simone Basso'
-    login: 'bassosimone'
-    id: 337298
-    contributions: 1585
-    company: '@OpenObservatory'
-    organizations: 'neubot,TellMeFirst,TheTorProject,m-lab,m-lab-tools,BIGDIVE,nexacenter,rivoluzdigitale,measurement-kit,librecompany,OpenObservatory,LibreHacking'
-
-  - rank: 83
-    name: 'Loreto Parisi'
-    login: 'loretoparisi'
-    id: 163333
-    contributions: 1575
-    company: '@Musixmatchdev '
-    organizations: 'Musixmatchdev'
-
-  - rank: 84
     name: 'Gian D'
     login: 'fusillicode'
     id: 2248534
-    contributions: 1565
+    contributions: 1602
     company: 'Mikamai'
     organizations: 'mikamai,WorldwideRubyShops'
 
-  - rank: 85
-    name: 'Stefano Armenes'
-    login: 'stearm'
-    id: 14802795
-    contributions: 1556
-    company: '@freedamedia '
-    organizations: 'freedamedia'
-
-  - rank: 86
-    name: 'Davide Garberi'
-    login: 'DD3Boh'
-    id: 25124278
-    contributions: 1537
+  - rank: 83
+    name: 'Michele Gerarduzzi'
+    login: 'michelegera'
+    id: 3891
+    contributions: 1597
     company: ''
-    organizations: 'LG-K10,zuk-italian-devs'
+    organizations: 'zooppa'
 
-  - rank: 87
-    name: 'Matteo Latini'
-    login: 'mtylty'
-    id: 167670
-    contributions: 1531
-    company: 'Nebulab'
-    organizations: 'ruby,nebulab,fullstack-lt'
-
-  - rank: 88
-    name: 'Antonio Murdaca'
-    login: 'runcom'
-    id: 849915
-    contributions: 1507
-    company: 'Red Hat, Inc.'
-    organizations: 'openshift,docker,containers,fedora-cloud,projectatomic,opencontainers,kubernetes,kubernetes-incubator,maintainers,moby,cri-o'
-
-  - rank: 89
-    name: 'Roberto De Ioris'
-    login: 'rdeioris'
-    id: 2234592
-    contributions: 1497
-    company: '@20tab @unbit @aiv01'
-    organizations: ''
-
-  - rank: 90
-    name: 'Nicholas'
-    login: 'nicholasruggeri'
-    id: 999162
-    contributions: 1493
-    company: 'AKQA'
-    organizations: 'h-art,trevisojs,weatherymood,hello-ciak,brick-brick'
-
-  - rank: 91
-    name: 'Matt Smith'
-    login: 'thedoctor'
-    id: 1939836
-    contributions: 1487
-    company: 'Gem'
-    organizations: ''
-
-  - rank: 92
-    name: 'Paolo Musolino'
-    login: 'Codeido'
-    id: 495617
-    contributions: 1468
-    company: ''
-    organizations: 'dottori-it,SwiftUserGroup,customerly'
-
-  - rank: 93
-    name: 'Volumio'
-    login: 'volumio'
-    id: 5835489
-    contributions: 1466
-    company: ''
-    organizations: ''
-
-  - rank: 94
-    name: 'Antonio Langiu'
-    login: 'AntonioLangiu'
-    id: 4649406
-    contributions: 1462
-    company: ''
-    organizations: 'TellMeFirst,hkn-polito,opencourses,pull-iot'
-
-  - rank: 95
-    name: 'Martino Mensio'
-    login: 'MartinoMensio'
-    id: 11597393
-    contributions: 1450
-    company: ''
-    organizations: 'EpicGames,github-beta,ProjectsAndLaboratory2017'
-
-  - rank: 96
-    name: 'Giulio Canti'
-    login: 'gcanti'
-    id: 878912
-    contributions: 1441
-    company: ''
-    organizations: ''
-
-  - rank: 97
-    name: 'Nicola Iarocci'
-    login: 'nicolaiarocci'
-    id: 512968
-    contributions: 1430
-    company: 'CIR 2000'
-    organizations: 'CIR2000,CoderDojoRavenna,maintainers,pyeve,DevRomagna,tomccitalia'
-
-  - rank: 98
-    name: 'Alfredo Serafini'
-    login: 'seralf'
-    id: 88188
-    contributions: 1429
-    company: 'serendipity expert'
-    organizations: 'spaghetti-open-data'
-
-  - rank: 99
-    name: 'Daniel Londero'
-    login: 'dlondero'
-    id: 209782
-    contributions: 1425
-    company: ''
-    organizations: 'GrUSP'
-
-  - rank: 100
+  - rank: 84
     name: 'Fabio Franchino'
     login: 'abusedmedia'
     id: 870788
-    contributions: 1395
+    contributions: 1574
     company: 'ToDo'
     organizations: 'todotoit,BIGDIVE,MAIND1415,MovingPostcards,Prototypon,fabiofranchino'
 
-  - rank: 101
-    name: 'Claudio Poli'
-    login: 'masterkain'
-    id: 12844
-    contributions: 1384
-    company: 'iCoreTech, Inc.'
-    organizations: 'icoretech'
+  - rank: 85
+    name: 'Alessandro Lepore'
+    login: 'alepore'
+    id: 557414
+    contributions: 1574
+    company: '@StemboltHQ '
+    organizations: 'ruby,freego,StemboltHQ,spree-contrib,solidusio-contrib,fanolug'
 
-  - rank: 102
+  - rank: 86
+    name: 'Alessandro Molari'
+    login: 'alem0lars'
+    id: 336957
+    contributions: 1566
+    company: ''
+    organizations: 'cesena'
+
+  - rank: 87
+    name: 'Loreto Parisi'
+    login: 'loretoparisi'
+    id: 163333
+    contributions: 1566
+    company: '@Musixmatchdev '
+    organizations: 'Musixmatchdev'
+
+  - rank: 88
+    name: 'Stefano Armenes'
+    login: 'stearm'
+    id: 14802795
+    contributions: 1546
+    company: '@freedamedia '
+    organizations: 'freedamedia'
+
+  - rank: 89
+    name: 'Davide Garberi'
+    login: 'DD3Boh'
+    id: 25124278
+    contributions: 1545
+    company: ''
+    organizations: 'LG-K10,zuk-italian-devs'
+
+  - rank: 90
+    name: 'Matteo Latini'
+    login: 'mtylty'
+    id: 167670
+    contributions: 1530
+    company: 'Nebulab'
+    organizations: 'ruby,nebulab,fullstack-lt'
+
+  - rank: 91
+    name: 'Nicholas'
+    login: 'nicholasruggeri'
+    id: 999162
+    contributions: 1525
+    company: 'AKQA'
+    organizations: 'h-art,trevisojs,weatherymood,hello-ciak,brick-brick'
+
+  - rank: 92
+    name: 'Simone Basso'
+    login: 'bassosimone'
+    id: 337298
+    contributions: 1523
+    company: '@OpenObservatory'
+    organizations: 'neubot,TellMeFirst,TheTorProject,m-lab,m-lab-tools,BIGDIVE,nexacenter,rivoluzdigitale,measurement-kit,librecompany,OpenObservatory,LibreHacking'
+
+  - rank: 93
+    name: 'Antonio Murdaca'
+    login: 'runcom'
+    id: 849915
+    contributions: 1494
+    company: 'Red Hat, Inc.'
+    organizations: 'openshift,docker,containers,fedora-cloud,projectatomic,opencontainers,kubernetes,kubernetes-incubator,maintainers,moby,cri-o'
+
+  - rank: 94
+    name: 'Matt Smith'
+    login: 'thedoctor'
+    id: 1939836
+    contributions: 1482
+    company: 'Gem'
+    organizations: ''
+
+  - rank: 95
+    name: 'Paolo Musolino'
+    login: 'Codeido'
+    id: 495617
+    contributions: 1472
+    company: ''
+    organizations: 'dottori-it,SwiftUserGroup,customerly'
+
+  - rank: 96
+    name: 'Roberto De Ioris'
+    login: 'rdeioris'
+    id: 2234592
+    contributions: 1471
+    company: '@20tab @unbit @aiv01'
+    organizations: ''
+
+  - rank: 97
+    name: 'Giulio Canti'
+    login: 'gcanti'
+    id: 878912
+    contributions: 1457
+    company: ''
+    organizations: ''
+
+  - rank: 98
+    name: 'Volumio'
+    login: 'volumio'
+    id: 5835489
+    contributions: 1448
+    company: ''
+    organizations: ''
+
+  - rank: 99
+    name: 'Alfredo Serafini'
+    login: 'seralf'
+    id: 88188
+    contributions: 1447
+    company: 'serendipity expert'
+    organizations: 'spaghetti-open-data'
+
+  - rank: 100
+    name: 'Antonio Langiu'
+    login: 'AntonioLangiu'
+    id: 4649406
+    contributions: 1418
+    company: ''
+    organizations: 'TellMeFirst,hkn-polito,opencourses,pull-iot'
+
+  - rank: 101
     name: 'Artur Arseniev'
     login: 'artf'
     id: 11614725
-    contributions: 1371
+    contributions: 1412
     company: ''
     organizations: 'direte'
 
+  - rank: 102
+    name: 'Nicola Iarocci'
+    login: 'nicolaiarocci'
+    id: 512968
+    contributions: 1405
+    company: 'CIR 2000'
+    organizations: 'CIR2000,CoderDojoRavenna,maintainers,pyeve,DevRomagna,tomccitalia'
+
   - rank: 103
-    name: 'Cesare de Cal'
-    login: 'CeceXX'
-    id: 10504710
-    contributions: 1349
-    company: 'Upwork'
-    organizations: 'storefrontapp'
+    name: 'Martino Mensio'
+    login: 'MartinoMensio'
+    id: 11597393
+    contributions: 1399
+    company: ''
+    organizations: 'EpicGames,github-beta,ProjectsAndLaboratory2017'
 
   - rank: 104
+    name: 'Daniel Londero'
+    login: 'dlondero'
+    id: 209782
+    contributions: 1385
+    company: ''
+    organizations: 'GrUSP'
+
+  - rank: 105
+    name: 'Claudio Poli'
+    login: 'masterkain'
+    id: 12844
+    contributions: 1364
+    company: 'iCoreTech, Inc.'
+    organizations: 'icoretech'
+
+  - rank: 106
     name: 'Manuel Uberti'
     login: 'manuel-uberti'
     id: 8199224
-    contributions: 1342
+    contributions: 1362
     company: '@7bridges-eu '
     organizations: ''
 
-  - rank: 105
+  - rank: 107
+    name: 'Cesare de Cal'
+    login: 'CeceXX'
+    id: 10504710
+    contributions: 1352
+    company: 'Upwork'
+    organizations: 'storefrontapp'
+
+  - rank: 108
     name: 'Fabio Spampinato'
     login: 'fabiospampinato'
     id: 1812093
-    contributions: 1339
+    contributions: 1333
     company: ''
     organizations: 'svelto'
 
-  - rank: 106
-    name: 'Scott Hoyt'
-    login: 'scottrhoyt'
-    id: 4259250
-    contributions: 1322
-    company: 'Diamond Labs'
-    organizations: ''
-
-  - rank: 107
-    name: 'Daniele Scasciafratte'
-    login: 'Mte90'
-    id: 403283
-    contributions: 1315
-    company: 'Codeat SRLS'
-    organizations: 'mdn,skillsAndMore,CodeAtCode,MozillaItalia,WP-Italia-Community,WPBP'
-
-  - rank: 108
-    name: 'Luca Capra'
-    login: 'muka'
-    id: 1021269
-    contributions: 1286
-    company: 'FBK CREATE-NET'
-    organizations: 'raptorbox'
-
   - rank: 109
-    name: 'Matteo Giachino'
-    login: 'matteosister'
-    id: 212723
-    contributions: 1282
-    company: ''
-    organizations: 'primait'
-
-  - rank: 110
-    name: 'Mauro Servienti'
-    login: 'mauroservienti'
-    id: 1325611
-    contributions: 1279
-    company: '@Particular'
-    organizations: 'Particular,RadicalFx,DuoMes,servienti,topics-it,PuppetR'
-
-  - rank: 111
-    name: 'Flavio Copes'
-    login: 'flaviocopes'
-    id: 11783388
-    contributions: 1279
-    company: ''
-    organizations: ''
-
-  - rank: 112
-    name: 'Ettore Delprino'
-    login: 'edelprino'
-    id: 1643514
-    contributions: 1279
-    company: '@ideatosrl '
-    organizations: ''
-
-  - rank: 113
-    name: 'Federico Feroldi'
-    login: 'cloudify'
-    id: 48206
-    contributions: 1262
-    company: '@teamdigitale @measurence'
-    organizations: 'measurence,italia,teamdigitale'
-
-  - rank: 114
     name: 'Paolo Patierno'
     login: 'ppatierno'
     id: 5842311
-    contributions: 1252
+    contributions: 1327
     company: 'Red Hat Inc.'
     organizations: 'eclipse,vert-x3,radanalyticsio,NETMF,rhiot,rh-messaging,EnMasseProject,redhat-iot,gnatmq'
 
-  - rank: 115
-    name: 'Fabrizio Brancati'
-    login: 'FabrizioBrancati'
-    id: 2663148
-    contributions: 1250
-    company: 'Sisal S.p.A.'
+  - rank: 110
+    name: 'Daniele Scasciafratte'
+    login: 'Mte90'
+    id: 403283
+    contributions: 1304
+    company: 'Codeat SRLS'
+    organizations: 'mdn,skillsAndMore,CodeAtCode,MozillaItalia,WP-Italia-Community,WPBP'
+
+  - rank: 111
+    name: 'Luca Capra'
+    login: 'muka'
+    id: 1021269
+    contributions: 1290
+    company: 'FBK CREATE-NET'
+    organizations: 'raptorbox'
+
+  - rank: 112
+    name: 'Giovanni Pellerano'
+    login: 'evilaliv3'
+    id: 217034
+    contributions: 1288
+    company: 'Hermes Center for Transparency and Digital Human Rights'
     organizations: ''
 
-  - rank: 116
+  - rank: 113
+    name: 'Matteo Giachino'
+    login: 'matteosister'
+    id: 212723
+    contributions: 1279
+    company: ''
+    organizations: 'primait'
+
+  - rank: 114
+    name: 'Federico Feroldi'
+    login: 'cloudify'
+    id: 48206
+    contributions: 1276
+    company: '@teamdigitale @measurence'
+    organizations: 'measurence,italia,teamdigitale'
+
+  - rank: 115
     name: 'Sara Di Bartolomeo'
     login: 'picorana'
     id: 8526284
-    contributions: 1244
+    contributions: 1257
     company: ''
     organizations: ''
 
+  - rank: 116
+    name: 'Ettore Delprino'
+    login: 'edelprino'
+    id: 1643514
+    contributions: 1255
+    company: '@ideatosrl '
+    organizations: ''
+
   - rank: 117
-    name: 'Alberto Pedron'
-    login: 'Alberto97'
-    id: 1951078
-    contributions: 1233
+    name: 'Flavio Copes'
+    login: 'flaviocopes'
+    id: 11783388
+    contributions: 1249
     company: ''
-    organizations: 'J-Team,F-AOSP,MotoG3,moto8916'
+    organizations: ''
 
   - rank: 118
-    name: 'Daniil Gentili'
-    login: 'danog'
-    id: 7339644
-    contributions: 1229
-    company: '@pwrtelegram '
-    organizations: 'danog-clients,apk-time,pwrtelegram,BAUMxyz'
+    name: 'Fabrizio Brancati'
+    login: 'FabrizioBrancati'
+    id: 2663148
+    contributions: 1242
+    company: 'Sisal S.p.A.'
+    organizations: ''
 
   - rank: 119
+    name: 'Marco Maggi'
+    login: 'marcomaggi'
+    id: 36946
+    contributions: 1232
+    company: ''
+    organizations: ''
+
+  - rank: 120
     name: 'Massimiliano Cannarozzo'
     login: 'maxcanna'
     id: 1881831
@@ -954,103 +962,127 @@ users:
     company: '@adespresso '
     organizations: 'adespresso'
 
-  - rank: 120
-    name: 'Matteo Battaglio'
-    login: 'madbat'
-    id: 325137
-    contributions: 1226
-    company: '@BendingSpoons '
-    organizations: ''
-
   - rank: 121
-    name: 'Luca Stefani'
-    login: 'luca020400'
-    id: 3950785
-    contributions: 1217
-    company: '@LineageOS '
-    organizations: 'motog2014devteam,multirom-titan,efidroid,zf2-laser-dev,LineageOS'
+    name: 'Alberto Pedron'
+    login: 'Alberto97'
+    id: 1951078
+    contributions: 1210
+    company: ''
+    organizations: 'J-Team,F-AOSP,MotoG3,moto8916'
 
   - rank: 122
+    name: 'Mauro Servienti'
+    login: 'mauroservienti'
+    id: 1325611
+    contributions: 1194
+    company: '@Particular'
+    organizations: 'Particular,RadicalFx,DuoMes,servienti,topics-it,PuppetR'
+
+  - rank: 123
     name: 'Andrea Fercia'
     login: 'afercia'
     id: 1682452
-    contributions: 1213
+    contributions: 1193
     company: ''
     organizations: ''
 
-  - rank: 123
+  - rank: 124
     name: 'Davide Bellettini'
     login: 'dbellettini'
     id: 325358
-    contributions: 1209
+    contributions: 1186
     company: '@onebip '
     organizations: 'phpYABS,UniversiBO,pugbo,onebip,FriendsOfSmartM3,AppuntiStudenti,FriendsOfOuro'
 
-  - rank: 124
-    name: 'Alessandro Molari'
-    login: 'alem0lars'
-    id: 336957
-    contributions: 1199
-    company: ''
-    organizations: 'cesena'
-
   - rank: 125
-    name: 'Marco Maggi'
-    login: 'marcomaggi'
-    id: 36946
-    contributions: 1199
+    name: 'Enrico'
+    login: 'Enrico204'
+    id: 8115660
+    contributions: 1172
     company: ''
     organizations: ''
 
   - rank: 126
-    name: 'Peter Giacomo Lombardo'
-    login: 'pglombardo'
-    id: 395132
-    contributions: 1193
-    company: 'Dumana, LLC'
-    organizations: 'instana'
-
-  - rank: 127
-    name: 'Enrico'
-    login: 'Enrico204'
-    id: 8115660
-    contributions: 1156
-    company: ''
+    name: 'Matteo Battaglio'
+    login: 'madbat'
+    id: 325137
+    contributions: 1168
+    company: '@BendingSpoons '
     organizations: ''
 
-  - rank: 128
+  - rank: 127
     name: 'Ettore Di Giacinto'
     login: 'mudler'
     id: 2420543
-    contributions: 1139
-    company: '@SUSE'
+    contributions: 1168
+    company: '@SUSE @gentoo @Sabayon '
     organizations: 'gentoo,gentoo-perl,SUSE,Sabayon,os-autoinst,Spike-Pentesting'
 
+  - rank: 128
+    name: 'Daniil Gentili'
+    login: 'danog'
+    id: 7339644
+    contributions: 1161
+    company: '@pwrtelegram '
+    organizations: 'danog-clients,apk-time,pwrtelegram,BAUMxyz'
+
   - rank: 129
-    name: 'Andrea Palazzi'
-    login: 'ndrplz'
-    id: 3187598
-    contributions: 1135
-    company: 'University of Modena and Reggio Emilia'
-    organizations: ''
+    name: 'Peter Giacomo Lombardo'
+    login: 'pglombardo'
+    id: 395132
+    contributions: 1151
+    company: 'Dumana, LLC'
+    organizations: 'instana'
 
   - rank: 130
+    name: 'Andrea Leopardi'
+    login: 'whatyouhide'
+    id: 3890250
+    contributions: 1142
+    company: 'Weedmaps'
+    organizations: 'elixir-lang,elixir-addicts,elixir-plug'
+
+  - rank: 131
     name: 'Andrea Aime'
     login: 'aaime'
     id: 325433
-    contributions: 1135
+    contributions: 1137
     company: 'GeoSolutions'
     organizations: 'geoserver,GeoWebCache,geosolutions-it,geotools'
 
-  - rank: 131
+  - rank: 132
+    name: 'Andrea Palazzi'
+    login: 'ndrplz'
+    id: 3187598
+    contributions: 1130
+    company: 'University of Modena and Reggio Emilia'
+    organizations: ''
+
+  - rank: 133
     name: 'Domenico Lupinetti'
     login: 'Ostico'
     id: 8008416
-    contributions: 1113
+    contributions: 1122
     company: 'Translated S.r.l.'
     organizations: ''
 
-  - rank: 132
+  - rank: 134
+    name: 'ercoppa'
+    login: 'ercoppa'
+    id: 6653252
+    contributions: 1116
+    company: 'Sapienza University of Rome, @season-lab '
+    organizations: 'CyberChallengeIT'
+
+  - rank: 135
+    name: 'Andrea Borruso'
+    login: 'aborruso'
+    id: 30607
+    contributions: 1100
+    company: ''
+    organizations: 'spaghetti-open-data'
+
+  - rank: 136
     name: 'Massimiliano Arione'
     login: 'garak'
     id: 179866
@@ -1058,147 +1090,115 @@ users:
     company: 'freelance'
     organizations: 'GrUSP,Capturator,PUGX,adespresso,Bee-Lab,pug-roma,bowerphp'
 
-  - rank: 133
-    name: 'Andrea Borruso'
-    login: 'aborruso'
-    id: 30607
-    contributions: 1085
-    company: ''
-    organizations: 'spaghetti-open-data'
+  - rank: 137
+    name: 'Luca Stefani'
+    login: 'luca020400'
+    id: 3950785
+    contributions: 1083
+    company: '@LineageOS '
+    organizations: 'motog2014devteam,multirom-titan,efidroid,zf2-laser-dev,LineageOS'
 
-  - rank: 134
+  - rank: 138
     name: 'Stefano Guglielmetti'
     login: 'amicojeko'
     id: 223344
-    contributions: 1062
+    contributions: 1067
     company: 'IFAD'
     organizations: 'ifad'
 
-  - rank: 135
-    name: 'ercoppa'
-    login: 'ercoppa'
-    id: 6653252
-    contributions: 1052
-    company: 'Sapienza University of Rome, @season-lab '
-    organizations: 'CyberChallengeIT'
-
-  - rank: 136
-    name: 'Marco Sampellegrini'
-    login: 'alpacaaa'
-    id: 210896
-    contributions: 1048
-    company: ''
-    organizations: 'builders,symphonycms-it'
-
-  - rank: 137
+  - rank: 139
     name: 'Silvio Moioli'
     login: 'moio'
     id: 250541
-    contributions: 1044
+    contributions: 1057
     company: '@SUSE'
     organizations: 'SUSE'
 
-  - rank: 138
-    name: 'David Viteri'
-    login: 'alviteri'
-    id: 5174751
-    contributions: 1034
-    company: ''
-    organizations: 'CyanogenMod,crdroidandroid,SonyAosp,SonyLOS'
-
-  - rank: 139
+  - rank: 140
     name: 'Enrico Sada'
     login: 'enricosada'
     id: 147243
-    contributions: 1032
+    contributions: 1056
     company: 'http://www.almaviva.it/'
     organizations: ''
 
-  - rank: 140
-    name: 'Marco Uberti'
-    login: 'marcouberti'
-    id: 3175499
-    contributions: 1030
-    company: 'Neato Robotics'
-    organizations: 'NeatoRobotics'
-
   - rank: 141
-    name: 'Stefano Borzì'
-    login: 'Helias'
-    id: 519778
-    contributions: 1025
-    company: 'OpenProgrammers'
-    organizations: 'AzerothShard,smart-tool,azerothcore,Drassil,UNICT-DMI,HeliasCMS'
-
-  - rank: 142
-    name: 'Francesco Malatesta'
-    login: 'francescomalatesta'
-    id: 1940952
-    contributions: 1011
-    company: '@adespresso '
-    organizations: ''
-
-  - rank: 143
-    name: 'Iago Mosqueira'
-    login: 'iagomosqueira'
-    id: 1029847
-    contributions: 1008
-    company: 'EC JRC'
-    organizations: 'iotcwpm,flr,tRFMO-MSE,a4a'
-
-  - rank: 144
-    name: 'Michele Zonca'
-    login: 'shatsar'
-    id: 392758
-    contributions: 1004
-    company: '@TOKtv '
-    organizations: 'TOKtv'
-
-  - rank: 145
-    name: 'Alessandro Pasotti'
-    login: 'elpaso'
-    id: 142164
-    contributions: 1002
-    company: 'ItOpen'
-    organizations: ''
-
-  - rank: 146
-    name: 'Alessandro Miliucci'
-    login: 'lifeisfoo'
-    id: 3725610
-    contributions: 989
-    company: ''
-    organizations: 'bemindinteractive,foo-itcss,vidra-io'
-
-  - rank: 147
     name: 'Johan Nordberg'
     login: 'jnordberg'
     id: 95886
-    contributions: 984
+    contributions: 1054
     company: ''
     organizations: 'yellowagents,yostudios'
 
+  - rank: 142
+    name: 'Marco Sampellegrini'
+    login: 'alpacaaa'
+    id: 210896
+    contributions: 1046
+    company: ''
+    organizations: 'builders,symphonycms-it'
+
+  - rank: 143
+    name: 'Francesco Malatesta'
+    login: 'francescomalatesta'
+    id: 1940952
+    contributions: 1033
+    company: '@adespresso '
+    organizations: ''
+
+  - rank: 144
+    name: 'David Viteri'
+    login: 'alviteri'
+    id: 5174751
+    contributions: 1024
+    company: ''
+    organizations: 'CyanogenMod,crdroidandroid,SonyAosp,SonyLOS'
+
+  - rank: 145
+    name: 'Stefano Borzì'
+    login: 'Helias'
+    id: 519778
+    contributions: 1015
+    company: 'OpenProgrammers'
+    organizations: 'AzerothShard,smart-tool,azerothcore,Drassil,UNICT-DMI,HeliasCMS'
+
+  - rank: 146
+    name: 'Alessandro Pasotti'
+    login: 'elpaso'
+    id: 142164
+    contributions: 1015
+    company: 'ItOpen'
+    organizations: ''
+
+  - rank: 147
+    name: 'Marco Uberti'
+    login: 'marcouberti'
+    id: 3175499
+    contributions: 1012
+    company: 'Neato Robotics'
+    organizations: 'NeatoRobotics'
+
   - rank: 148
-    name: 'Alessandro Lai'
-    login: 'Jean85'
-    id: 6729988
-    contributions: 981
-    company: '@facile-it '
-    organizations: 'php-fig,GrUSP,facile-it,pug-milano'
+    name: 'Iago Mosqueira'
+    login: 'iagomosqueira'
+    id: 1029847
+    contributions: 1005
+    company: 'EC JRC'
+    organizations: 'iotcwpm,flr,tRFMO-MSE,a4a'
 
   - rank: 149
-    name: 'Davide Bertola'
-    login: 'davibe'
-    id: 123929
-    contributions: 973
+    name: 'Alessandro Miliucci'
+    login: 'lifeisfoo'
+    id: 3725610
+    contributions: 1000
     company: ''
-    organizations: ''
+    organizations: 'bemindinteractive,foo-itcss,vidra-io'
 
   - rank: 150
     name: 'Federico Zivolo'
     login: 'FezVrasta'
     id: 5382443
-    contributions: 966
+    contributions: 997
     company: 'UI Specialist @Quid'
     organizations: ''
 
@@ -1206,219 +1206,243 @@ users:
     name: 'Gabriele Renzi'
     login: 'riffraff'
     id: 37493
-    contributions: 965
+    contributions: 974
     company: 'Toptal'
     organizations: 'scalatra,toptal'
 
   - rank: 152
-    name: 'Matteo Contrini'
-    login: 'matteocontrini'
-    id: 2164763
-    contributions: 962
-    company: '@botfactoryit'
-    organizations: 'nodejs,registrodedalo,botfactoryit'
-
-  - rank: 153
-    name: 'Andrea Ghizzoni'
-    login: 'AndreaGhizzoni'
-    id: 1128387
-    contributions: 957
-    company: ''
-    organizations: ''
-
-  - rank: 154
-    name: 'Roberto Frenna'
-    login: 'Robertof'
-    id: 59401
-    contributions: 956
-    company: ''
-    organizations: 'nerdzeu'
-
-  - rank: 155
-    name: 'Nicola Ferraro'
-    login: 'nicolaferraro'
-    id: 4151857
-    contributions: 948
-    company: 'Red Hat'
-    organizations: ''
-
-  - rank: 156
-    name: 'Gianpaolo Macario'
-    login: 'gmacario'
-    id: 75182
-    contributions: 940
-    company: '@MentorEmbedded '
-    organizations: 'MentorEmbedded,SOLARMA,GENIVI,TorinoTech,kuruho'
-
-  - rank: 157
     name: 'Matteo Mazzarolo'
     login: 'mmazzarolo'
     id: 9536354
-    contributions: 938
+    contributions: 974
     company: '@themostaza '
     organizations: ''
 
-  - rank: 158
-    name: 'Johannes Rainer'
-    login: 'jotsetung'
-    id: 5506112
-    contributions: 936
-    company: 'Institute for Biomedicine, Eurac Research'
-    organizations: 'EuracBiomedicalResearch'
+  - rank: 153
+    name: 'Michele Zonca'
+    login: 'shatsar'
+    id: 392758
+    contributions: 973
+    company: '@TOKtv '
+    organizations: 'TOKtv'
 
-  - rank: 159
-    name: 'Ali Servet Donmez'
-    login: 'exalted'
-    id: 314398
-    contributions: 935
-    company: '@balsamiq '
-    organizations: 'balsamiq'
+  - rank: 154
+    name: 'Nicola Ferraro'
+    login: 'nicolaferraro'
+    id: 4151857
+    contributions: 962
+    company: 'Red Hat'
+    organizations: ''
 
-  - rank: 160
-    name: 'Marco Solazzi'
-    login: 'dwightjack'
-    id: 104721
-    contributions: 933
-    company: '@aquestdev'
-    organizations: 'GrUSP,fevrcoding'
-
-  - rank: 161
-    name: 'Alberto Schiabel'
-    login: 'jkomyno'
-    id: 12381818
-    contributions: 930
-    company: ''
-    organizations: 'FIUP'
-
-  - rank: 162
+  - rank: 155
     name: 'Lorenzo Greco'
     login: 'loregr'
     id: 7204248
-    contributions: 927
+    contributions: 962
     company: ''
     organizations: ''
+
+  - rank: 156
+    name: 'Gianluca Varisco'
+    login: 'gvarisco'
+    id: 945486
+    contributions: 959
+    company: ''
+    organizations: 'italia,teamdigitale'
+
+  - rank: 157
+    name: 'Matteo Contrini'
+    login: 'matteocontrini'
+    id: 2164763
+    contributions: 948
+    company: '@botfactoryit'
+    organizations: 'nodejs,registrodedalo,botfactoryit'
+
+  - rank: 158
+    name: 'Andrea Ghizzoni'
+    login: 'AndreaGhizzoni'
+    id: 1128387
+    contributions: 947
+    company: ''
+    organizations: ''
+
+  - rank: 159
+    name: 'Alessandro Lai'
+    login: 'Jean85'
+    id: 6729988
+    contributions: 941
+    company: '@facile-it '
+    organizations: 'php-fig,GrUSP,facile-it,pug-milano'
+
+  - rank: 160
+    name: 'Alberto Schiabel'
+    login: 'jkomyno'
+    id: 12381818
+    contributions: 934
+    company: ''
+    organizations: 'FIUP'
+
+  - rank: 161
+    name: 'Gianpaolo Macario'
+    login: 'gmacario'
+    id: 75182
+    contributions: 932
+    company: '@MentorEmbedded '
+    organizations: 'MentorEmbedded,SOLARMA,GENIVI,TorinoTech,kuruho'
+
+  - rank: 162
+    name: 'Sebastian Rapetti'
+    login: 's3b4stian'
+    id: 11441761
+    contributions: 925
+    company: ''
+    organizations: 'linna'
 
   - rank: 163
     name: 'Riccardo Casatta'
     login: 'RCasatta'
     id: 6470319
-    contributions: 925
+    contributions: 920
     company: 'Eternity Wall'
     organizations: 'opentimestamps'
 
   - rank: 164
-    name: 'Matteo Magni'
-    login: 'ilbonzo'
-    id: 9201
-    contributions: 922
-    company: ''
-    organizations: 'spaghetti-open-data,pugbo,UnioneTdA'
-
-  - rank: 165
-    name: 'Patrick Fisher'
-    login: 'pwfisher'
-    id: 126581
-    contributions: 913
-    company: ''
-    organizations: ''
-
-  - rank: 166
-    name: 'Gianluca Varisco'
-    login: 'gvarisco'
-    id: 945486
-    contributions: 910
-    company: ''
-    organizations: 'italia,teamdigitale'
-
-  - rank: 167
-    name: 'Filippo Oretti'
-    login: '45kb'
-    id: 7761650
-    contributions: 902
-    company: '720kb'
-    organizations: '720kb,maintainers'
-
-  - rank: 168
-    name: 'Daniele Ricci'
-    login: 'daniele-athome'
-    id: 3763726
-    contributions: 901
-    company: '@kontalk '
-    organizations: 'freesmartphone,kontalk,mokosuite2,MignoloLab'
-
-  - rank: 169
-    name: 'Luca Deri'
-    login: 'lucaderi'
-    id: 4493366
-    contributions: 892
-    company: 'ntop'
-    organizations: 'ntop,RoaringBitmap'
-
-  - rank: 170
-    name: 'Geremia Taglialatela'
-    login: 'tagliala'
-    id: 556268
-    contributions: 890
-    company: ''
-    organizations: 'FortAwesome,diowa'
-
-  - rank: 171
-    name: 'Giulio Rossetti'
-    login: 'GiulioRossetti'
-    id: 13123607
-    contributions: 889
-    company: 'ISTI-CNR'
-    organizations: 'cimplex-project,KDDComplexNetworkAnalysis'
-
-  - rank: 172
-    name: 'Giovanni Blu Mitolo'
-    login: 'gioblu'
-    id: 764497
-    contributions: 873
-    company: ''
-    organizations: ''
-
-  - rank: 173
     name: 'Rinnegatamante'
     login: 'Rinnegatamante'
     id: 9152710
-    contributions: 871
+    contributions: 919
     company: ''
     organizations: 'EasyRPG'
+
+  - rank: 165
+    name: 'Johannes Rainer'
+    login: 'jotsetung'
+    id: 5506112
+    contributions: 917
+    company: 'Institute for Biomedicine, Eurac Research'
+    organizations: 'EuracBiomedicalResearch'
+
+  - rank: 166
+    name: 'Davide Bertola'
+    login: 'davibe'
+    id: 123929
+    contributions: 915
+    company: ''
+    organizations: ''
+
+  - rank: 167
+    name: 'Ali Servet Donmez'
+    login: 'exalted'
+    id: 314398
+    contributions: 915
+    company: '@balsamiq '
+    organizations: 'balsamiq'
+
+  - rank: 168
+    name: 'Giulio Rossetti'
+    login: 'GiulioRossetti'
+    id: 13123607
+    contributions: 913
+    company: 'ISTI-CNR'
+    organizations: 'cimplex-project,KDDComplexNetworkAnalysis'
+
+  - rank: 169
+    name: 'Roberto Frenna'
+    login: 'Robertof'
+    id: 59401
+    contributions: 910
+    company: ''
+    organizations: 'nerdzeu'
+
+  - rank: 170
+    name: 'Matteo Magni'
+    login: 'ilbonzo'
+    id: 9201
+    contributions: 909
+    company: ''
+    organizations: 'spaghetti-open-data,pugbo,UnioneTdA'
+
+  - rank: 171
+    name: 'Giovanni Blu Mitolo'
+    login: 'gioblu'
+    id: 764497
+    contributions: 897
+    company: ''
+    organizations: ''
+
+  - rank: 172
+    name: 'Luca Deri'
+    login: 'lucaderi'
+    id: 4493366
+    contributions: 895
+    company: 'ntop'
+    organizations: 'ntop,RoaringBitmap'
+
+  - rank: 173
+    name: 'Patrick Fisher'
+    login: 'pwfisher'
+    id: 126581
+    contributions: 894
+    company: ''
+    organizations: ''
 
   - rank: 174
     name: 'Niccolò Scatena'
     login: 'SpeedJack'
     id: 5151021
-    contributions: 858
+    contributions: 881
     company: 'Inforge'
     organizations: 'InforgeNet'
 
   - rank: 175
-    name: 'Stefano Zaghi'
-    login: 'szaghi'
-    id: 1661942
-    contributions: 856
-    company: 'National Research Council of Italy, INSEAN Marine Technology Research Institute'
-    organizations: 'Fortran-FOSS-Programmers'
+    name: 'Daniele Ricci'
+    login: 'daniele-athome'
+    id: 3763726
+    contributions: 875
+    company: '@kontalk '
+    organizations: 'freesmartphone,kontalk,mokosuite2,MignoloLab'
 
   - rank: 176
-    name: 'Francesco Chicchiriccò'
-    login: 'ilgrosso'
-    id: 1064664
-    contributions: 855
-    company: 'Tirasa'
-    organizations: 'apache,jenkinsci,Tirasa,instauth,OpenRock'
-
-  - rank: 177
     name: 'Michele Colledanchise'
     login: 'miccol'
     id: 8132627
-    contributions: 840
+    contributions: 855
     company: 'Istituto Italiano di Tecnologia, IIT, Italy'
     organizations: ''
 
+  - rank: 177
+    name: 'Enrico Bacis'
+    login: 'enricobacis'
+    id: 1180682
+    contributions: 836
+    company: '@unibg-seclab '
+    organizations: 'freesmee,Aula13,unibg-seclab,bglug-it,vimvaders'
+
   - rank: 178
+    name: 'Geremia Taglialatela'
+    login: 'tagliala'
+    id: 556268
+    contributions: 831
+    company: ''
+    organizations: 'FortAwesome,diowa'
+
+  - rank: 179
+    name: 'Filippo Oretti'
+    login: '45kb'
+    id: 7761650
+    contributions: 830
+    company: '720kb'
+    organizations: '720kb,maintainers'
+
+  - rank: 180
+    name: 'Stefano Zaghi'
+    login: 'szaghi'
+    id: 1661942
+    contributions: 828
+    company: 'National Research Council of Italy, INSEAN Marine Technology Research Institute'
+    organizations: 'Fortran-FOSS-Programmers'
+
+  - rank: 181
     name: 'Stefano Capitani'
     login: 'Ste74'
     id: 11218234
@@ -1426,15 +1450,31 @@ users:
     company: ''
     organizations: 'manjaro'
 
-  - rank: 179
+  - rank: 182
+    name: 'Francesco Chicchiriccò'
+    login: 'ilgrosso'
+    id: 1064664
+    contributions: 821
+    company: 'Tirasa'
+    organizations: 'apache,jenkinsci,Tirasa,instauth,OpenRock'
+
+  - rank: 183
+    name: 'Antonio Vivace'
+    login: 'avivace'
+    id: 14352721
+    contributions: 820
+    company: '@G4i '
+    organizations: 'SublimeText,CoderBotOrg,emergenzeHack,dmg01,dailyProgrammer,g4i,gb-archive'
+
+  - rank: 184
     name: 'Giuseppe Mazzapica'
     login: 'gmazzap'
     id: 2208282
-    contributions: 821
+    contributions: 820
     company: '@inpsyde '
     organizations: 'wecodemore'
 
-  - rank: 180
+  - rank: 185
     name: 'Alberto Guanti'
     login: 'Alberto96'
     id: 2998288
@@ -1442,307 +1482,267 @@ users:
     company: 'GearLabs'
     organizations: 'broadcomCM,GearCM,MSM7225,GearLabs,exynos5410'
 
-  - rank: 181
-    name: 'Antonio Vivace'
-    login: 'avivace'
-    id: 14352721
-    contributions: 812
-    company: '@G4i '
-    organizations: 'SublimeText,CoderBotOrg,emergenzeHack,dmg01,dailyProgrammer,g4i,gb-archive'
-
-  - rank: 182
-    name: 'Enrico Bacis'
-    login: 'enricobacis'
-    id: 1180682
-    contributions: 808
-    company: '@unibg-seclab '
-    organizations: 'freesmee,Aula13,unibg-seclab,bglug-it,vimvaders'
-
-  - rank: 183
-    name: 'Lorenzo Miniero'
-    login: 'lminiero'
-    id: 3684796
-    contributions: 806
-    company: 'Meetecho'
-    organizations: 'meetecho'
-
-  - rank: 184
-    name: 'Mario Fusco'
-    login: 'mariofusco'
-    id: 372781
-    contributions: 803
-    company: 'Red Hat'
-    organizations: 'kiegroup,mvel'
-
-  - rank: 185
-    name: 'Iacopo Spalletti'
-    login: 'yakky'
-    id: 714711
-    contributions: 797
-    company: 'Nephila'
-    organizations: 'nephila,openwisp,djangocon,pythonitalia,CroceRossaItaliana,DjangoBeer,jazzband,DjangoGirlsItalia,django-parler,FuzzyBrains,django-treebeard'
-
   - rank: 186
     name: 'Ludovico Russo'
     login: 'ludusrusso'
     id: 8146506
-    contributions: 796
+    contributions: 817
     company: '@HotBlackRobotics'
     organizations: 'parloma,HotBlackRobotics,robotrokers'
 
   - rank: 187
-    name: 'Roberto Guido'
-    login: 'madbob'
-    id: 166089
-    contributions: 786
-    company: ''
-    organizations: 'ItalianLinuxSociety'
+    name: 'Mario Fusco'
+    login: 'mariofusco'
+    id: 372781
+    contributions: 815
+    company: 'Red Hat'
+    organizations: 'kiegroup,mvel'
 
   - rank: 188
-    name: 'MircoT'
-    login: 'MircoT'
-    id: 2707823
-    contributions: 785
-    company: ''
+    name: 'Daniele Margutti'
+    login: 'malcommac'
+    id: 235645
+    contributions: 812
+    company: 'Senior Mobile Developer'
     organizations: ''
 
   - rank: 189
+    name: 'Lorenzo Miniero'
+    login: 'lminiero'
+    id: 3684796
+    contributions: 803
+    company: 'Meetecho'
+    organizations: 'meetecho'
+
+  - rank: 190
     name: 'Michele Costa'
     login: 'costajob'
     id: 38143
-    contributions: 776
+    contributions: 795
     company: '@SopraIt '
     organizations: ''
 
-  - rank: 190
-    name: 'Edoardo Morassutto'
-    login: 'edomora97'
-    id: 6685454
-    contributions: 773
-    company: 'The Entropics'
-    organizations: 'TheEntropics'
-
   - rank: 191
-    name: 'Andrea Fioraldi'
-    login: 'andreafioraldi'
-    id: 16168186
-    contributions: 771
-    company: '@TheRomanXpl0it '
-    organizations: 'CyberChallengeIT17Team,TheRomanXpl0it,Carbonara-Project'
+    name: 'Roberto Guido'
+    login: 'madbob'
+    id: 166089
+    contributions: 790
+    company: ''
+    organizations: 'ItalianLinuxSociety'
 
   - rank: 192
-    name: 'Andrea Mazzini'
-    login: 'andreamazz'
-    id: 570797
-    contributions: 771
-    company: 'Fancy Pixel S.r.l.'
-    organizations: 'FancyPixel,space-bunny'
+    name: 'Iacopo Spalletti'
+    login: 'yakky'
+    id: 714711
+    contributions: 788
+    company: 'Nephila'
+    organizations: 'nephila,openwisp,djangocon,pythonitalia,CroceRossaItaliana,DjangoBeer,jazzband,DjangoGirlsItalia,django-parler,FuzzyBrains,django-treebeard'
 
   - rank: 193
-    name: 'Gaetano Bonofiglio'
-    login: 'Kidel'
-    id: 3390842
-    contributions: 767
-    company: ''
-    organizations: 'AvaComeLava,Agave-SIW,Campus-Roma3,CrowdLector,GameLabRomaTre,BigData-MielPops,BonIovi-InfoVis'
-
-  - rank: 194
-    name: 'kuus'
-    login: 'kuus'
-    id: 3102245
-    contributions: 766
-    company: ''
-    organizations: 'knitkode,newcrossfoodcoop,contextaservices'
-
-  - rank: 195
-    name: 'Mosè Giordano'
-    login: 'giordano'
-    id: 765740
-    contributions: 761
-    company: ''
-    organizations: 'mppmu,GuITeX,JuliaDSP,JuliaAstro,JuliaPhysics'
-
-  - rank: 196
-    name: 'Matteo Ronchi'
-    login: 'cef62'
-    id: 129991
-    contributions: 758
-    company: 'Workwave'
-    organizations: ''
-
-  - rank: 197
-    name: 'Matías Dumrauf'
-    login: 'mdumrauf'
-    id: 1047525
-    contributions: 758
-    company: '@indec-it'
-    organizations: 'uqbar-project,dds-utn,indec-it'
-
-  - rank: 198
-    name: 'Alberto Nicoletti'
-    login: 'illbexyz'
-    id: 3688366
-    contributions: 757
-    company: '@loopingdoge '
-    organizations: 'loopingdoge,gdgbologna'
-
-  - rank: 199
     name: 'Giovanni Bajo'
     login: 'rasky'
     id: 1014109
-    contributions: 754
+    contributions: 786
     company: 'Develer S.r.l.'
     organizations: 'pyinstaller,develersrl,greenapes,pythonitalia,italia,teamdigitale'
 
-  - rank: 200
-    name: 'Giuseppe Lavagetto'
-    login: 'lavagetto'
-    id: 1475424
-    contributions: 749
-    company: 'Wikimedia Foundation'
-    organizations: 'wikimedia'
+  - rank: 194
+    name: 'Andrea Fioraldi'
+    login: 'andreafioraldi'
+    id: 16168186
+    contributions: 775
+    company: '@TheRomanXpl0it '
+    organizations: 'CyberChallengeIT17Team,TheRomanXpl0it,Carbonara-Project'
 
-  - rank: 201
-    name: 'Lorenzo "Palinuro" Faletra'
-    login: 'PalinuroSec'
-    id: 4960026
-    contributions: 740
-    company: 'Parrot Projet'
-    organizations: 'ParrotSec'
+  - rank: 195
+    name: 'Edoardo Morassutto'
+    login: 'edomora97'
+    id: 6685454
+    contributions: 774
+    company: 'The Entropics'
+    organizations: 'TheEntropics'
 
-  - rank: 202
-    name: 'Andrea Valenza'
-    login: 'AvalZ'
-    id: 5167818
-    contributions: 736
+  - rank: 196
+    name: 'MircoT'
+    login: 'MircoT'
+    id: 2707823
+    contributions: 773
     company: ''
     organizations: ''
 
-  - rank: 203
-    name: 'Morgan Bazalgette'
-    login: 'thehowl'
-    id: 4681308
-    contributions: 733
+  - rank: 197
+    name: 'Lorenzo "Palinuro" Faletra'
+    login: 'PalinuroSec'
+    id: 4960026
+    contributions: 767
+    company: 'Parrot Project'
+    organizations: 'ParrotSec'
+
+  - rank: 198
+    name: 'Andrea Mazzini'
+    login: 'andreamazz'
+    id: 570797
+    contributions: 763
+    company: 'Fancy Pixel S.r.l.'
+    organizations: 'FancyPixel,space-bunny'
+
+  - rank: 199
+    name: 'Matteo Ronchi'
+    login: 'cef62'
+    id: 129991
+    contributions: 763
+    company: 'Workwave'
+    organizations: ''
+
+  - rank: 200
+    name: 'Alberto Nicoletti'
+    login: 'illbexyz'
+    id: 3688366
+    contributions: 756
+    company: '@loopingdoge '
+    organizations: 'loopingdoge,gdgbologna'
+
+  - rank: 201
+    name: 'Mosè Giordano'
+    login: 'giordano'
+    id: 765740
+    contributions: 743
     company: ''
-    organizations: 'golangit,AniDevTwitter,go-gitea,zxqco,bnch,osuripple'
+    organizations: 'mppmu,GuITeX,JuliaDSP,JuliaAstro,JuliaPhysics'
+
+  - rank: 202
+    name: 'Giuseppe Lavagetto'
+    login: 'lavagetto'
+    id: 1475424
+    contributions: 737
+    company: 'Wikimedia Foundation'
+    organizations: 'wikimedia'
+
+  - rank: 203
+    name: 'Gaetano Bonofiglio'
+    login: 'Kidel'
+    id: 3390842
+    contributions: 730
+    company: ''
+    organizations: 'AvaComeLava,Agave-SIW,Campus-Roma3,CrowdLector,GameLabRomaTre,BigData-MielPops,BonIovi-InfoVis'
 
   - rank: 204
-    name: 'Alessio Biancalana'
-    login: 'dottorblaster'
-    id: 20770
-    contributions: 732
-    company: '@AdEspresso'
-    organizations: 'sourcesense,spaghetti-open-data,Roma2Lug-Projects,opensensorsdata'
-
-  - rank: 205
-    name: 'Edoardo T'
-    login: 'endorama'
-    id: 526307
-    contributions: 728
-    company: ''
-    organizations: 'todotoit,techlabtl'
-
-  - rank: 206
     name: 'Tommaso Visconti'
     login: 'tommyblue'
     id: 122749
-    contributions: 722
+    contributions: 728
     company: 'Develer srl'
     organizations: 'RubySocialClubFirenze,Spippolo'
 
+  - rank: 205
+    name: 'Alessio Biancalana'
+    login: 'dottorblaster'
+    id: 20770
+    contributions: 722
+    company: '@AdEspresso'
+    organizations: 'sourcesense,spaghetti-open-data,Roma2Lug-Projects,opensensorsdata'
+
+  - rank: 206
+    name: 'Morgan Bazalgette'
+    login: 'thehowl'
+    id: 4681308
+    contributions: 718
+    company: ''
+    organizations: 'golangit,AniDevTwitter,go-gitea,zxqco,bnch,osuripple'
+
   - rank: 207
-    name: 'Fabio Z Tessitore'
-    login: 'FabioZTessitore'
-    id: 3002194
-    contributions: 721
+    name: 'Andrea Valenza'
+    login: 'AvalZ'
+    id: 5167818
+    contributions: 718
     company: ''
     organizations: ''
 
   - rank: 208
-    name: 'Simone Bordet'
-    login: 'sbordet'
-    id: 414681
-    contributions: 710
-    company: '@Webtide'
-    organizations: 'livetribe,cometd,jetty-project'
+    name: 'Edoardo T'
+    login: 'endorama'
+    id: 526307
+    contributions: 717
+    company: ''
+    organizations: 'todotoit,techlabtl'
 
   - rank: 209
-    name: 'Davide Abati'
-    login: 'DavideA'
-    id: 7113894
-    contributions: 696
-    company: ''
-    organizations: ''
-
-  - rank: 210
-    name: 'ssynx'
-    login: 'StefanoBelli'
-    id: 10385152
-    contributions: 695
-    company: ''
-    organizations: 'erebos-project'
-
-  - rank: 211
     name: 'Alessandro Iori'
     login: 'alessandroiori'
     id: 6897889
-    contributions: 692
+    contributions: 716
     company: 'Filo (www.filotrack.com)'
     organizations: ''
 
-  - rank: 212
-    name: 'Jaga Santagostino'
-    login: 'kandros'
-    id: 4562878
-    contributions: 691
-    company: 'freelance'
-    organizations: 'jaga,MilanoTechScene,js-girls,jagascript'
-
-  - rank: 213
-    name: 'Ronald Ashri'
-    login: 'istos'
-    id: 80763
-    contributions: 682
-    company: ''
-    organizations: 'istossrl,Roomify'
-
-  - rank: 214
-    name: 'Mattia Spinelli'
-    login: 'daymos'
-    id: 5450558
-    contributions: 676
-    company: '3doers'
-    organizations: ''
-
-  - rank: 215
-    name: 'Bernardo Giordano'
-    login: 'BernardoGiordano'
-    id: 17624378
-    contributions: 676
+  - rank: 210
+    name: 'Davide Abati'
+    login: 'DavideA'
+    id: 7113894
+    contributions: 715
     company: ''
     organizations: ''
 
-  - rank: 216
-    name: 'Gianguido Sora'''
-    login: 'gsora'
-    id: 145909
-    contributions: 672
-    company: ''
-    organizations: ''
-
-  - rank: 217
+  - rank: 211
     name: 'Riccardo Tommasini'
     login: 'riccardotommasini'
     id: 2592465
-    contributions: 669
+    contributions: 711
     company: '@streamreasoning Politecnico di Milano'
     organizations: 'streamreasoning'
+
+  - rank: 212
+    name: 'Ronald Ashri'
+    login: 'istos'
+    id: 80763
+    contributions: 706
+    company: ''
+    organizations: 'istossrl,Roomify'
+
+  - rank: 213
+    name: 'Simone Bordet'
+    login: 'sbordet'
+    id: 414681
+    contributions: 702
+    company: '@Webtide'
+    organizations: 'livetribe,cometd,jetty-project'
+
+  - rank: 214
+    name: 'Fabio Z Tessitore'
+    login: 'FabioZTessitore'
+    id: 3002194
+    contributions: 699
+    company: ''
+    organizations: ''
+
+  - rank: 215
+    name: 'Matías Dumrauf'
+    login: 'mdumrauf'
+    id: 1047525
+    contributions: 698
+    company: '@indec-it'
+    organizations: 'uqbar-project,dds-utn,indec-it'
+
+  - rank: 216
+    name: 'ssynx'
+    login: 'StefanoBelli'
+    id: 10385152
+    contributions: 694
+    company: ''
+    organizations: 'erebos-project'
+
+  - rank: 217
+    name: 'Jaga Santagostino'
+    login: 'kandros'
+    id: 4562878
+    contributions: 685
+    company: 'freelance'
+    organizations: 'jaga,MilanoTechScene,js-girls,jagascript'
 
   - rank: 218
     name: 'Franc[e]sco'
     login: 'Francesco149'
     id: 973793
-    contributions: 668
+    contributions: 679
     company: ''
     organizations: ''
 
@@ -1750,23 +1750,23 @@ users:
     name: 'Antonio Davide'
     login: 'Dax89'
     id: 1503603
-    contributions: 666
+    contributions: 678
     company: ''
     organizations: 'PREF'
 
   - rank: 220
-    name: 'Davide Saurino'
-    login: 'sub'
-    id: 27673
-    contributions: 665
-    company: 'Alca Società Cooperativa'
-    organizations: 'alcacoop'
+    name: 'Mattia Spinelli'
+    login: 'daymos'
+    id: 5450558
+    contributions: 676
+    company: '3doers'
+    organizations: ''
 
   - rank: 221
     name: '‮ittaG ordnasselA'
     login: 'Hamcha'
     id: 974661
-    contributions: 664
+    contributions: 672
     company: ''
     organizations: 'jacksoftszone'
 
@@ -1774,57 +1774,57 @@ users:
     name: 'Silvio Peroni'
     login: 'essepuntato'
     id: 3869247
-    contributions: 655
+    contributions: 664
     company: 'Department of Computer Science and Engineering, University of Bologna'
     organizations: 'SPAROntologies'
 
   - rank: 223
-    name: 'Federico Ravasio'
-    login: 'razielgn'
-    id: 237493
-    contributions: 655
-    company: ''
-    organizations: 'codebrawl,webrain,eventifyit'
-
-  - rank: 224
     name: 'Andrea Bogazzi'
     login: 'asturur'
     id: 1194048
-    contributions: 655
+    contributions: 658
     company: ''
     organizations: ''
 
+  - rank: 224
+    name: 'Simone Orsi'
+    login: 'simahawk'
+    id: 347149
+    contributions: 658
+    company: '@camptocamp '
+    organizations: 'plone,collective'
+
   - rank: 225
-    name: 'Martino Visintin'
-    login: 'vise890'
-    id: 1628760
-    contributions: 653
+    name: 'Gianguido Sora'''
+    login: 'gsora'
+    id: 145909
+    contributions: 657
     company: ''
-    organizations: 'ThoughtWorksInc,recursecenter,SICPDistilled,clojurecup2014'
+    organizations: ''
 
   - rank: 226
     name: 'Massimo Callegari'
     login: 'mcallegari'
     id: 2951337
-    contributions: 649
+    contributions: 656
     company: ''
     organizations: ''
 
   - rank: 227
-    name: 'Walter Dal Mut'
-    login: 'wdalmut'
-    id: 551974
-    contributions: 647
-    company: 'Corley S.R.L.'
-    organizations: 'corley,upcloo,spaghetti-io,cloudconf,mary-shelley,hic-et-nunc'
+    name: 'Bernardo Giordano'
+    login: 'BernardoGiordano'
+    id: 17624378
+    contributions: 652
+    company: ''
+    organizations: ''
 
   - rank: 228
-    name: 'Simone Orsi'
-    login: 'simahawk'
-    id: 347149
+    name: 'Davide Saurino'
+    login: 'sub'
+    id: 27673
     contributions: 645
-    company: '@camptocamp '
-    organizations: 'plone,collective'
+    company: 'Alca Società Cooperativa'
+    organizations: 'alcacoop'
 
   - rank: 229
     name: 'Enrico Marino'
@@ -1838,59 +1838,107 @@ users:
     name: 'Daniel Di Sarli'
     login: 'danieleds'
     id: 402652
-    contributions: 641
+    contributions: 640
     company: 'University of Pisa'
     organizations: 'klense,notepadqq'
 
   - rank: 231
-    name: 'Maurizio De Santis'
-    login: 'mdesantis'
-    id: 283320
-    contributions: 641
+    name: 'Luigi Ballabio'
+    login: 'lballabio'
+    id: 170560
+    contributions: 636
     company: ''
-    organizations: ''
+    organizations: 'quantlib'
 
   - rank: 232
     name: 'Alberto Santini'
     login: 'albertosantini'
     id: 328179
-    contributions: 640
+    contributions: 631
     company: ''
     organizations: ''
 
   - rank: 233
+    name: 'Walter Dal Mut'
+    login: 'wdalmut'
+    id: 551974
+    contributions: 631
+    company: 'Corley S.R.L.'
+    organizations: 'corley,upcloo,spaghetti-io,cloudconf,mary-shelley,hic-et-nunc'
+
+  - rank: 234
+    name: 'Federico Ravasio'
+    login: 'razielgn'
+    id: 237493
+    contributions: 623
+    company: ''
+    organizations: 'codebrawl,webrain,eventifyit'
+
+  - rank: 235
     name: 'Matteo Pagliazzi'
     login: 'paglias'
     id: 589911
-    contributions: 638
+    contributions: 623
     company: ''
     organizations: ''
 
-  - rank: 234
-    name: 'Luigi Ballabio'
-    login: 'lballabio'
-    id: 170560
-    contributions: 629
-    company: ''
-    organizations: 'quantlib'
-
-  - rank: 235
+  - rank: 236
     name: 'Federico Silvio Busetto'
     login: 'fedsib'
     id: 5816660
-    contributions: 623
+    contributions: 618
     company: 'Università degli Studi di Padova'
     organizations: 'FIUP'
 
-  - rank: 236
+  - rank: 237
     name: 'Emanuele Bertoldi'
     login: 'zuck'
     id: 1370938
-    contributions: 616
+    contributions: 618
     company: ''
     organizations: 'leaf3d,cute-django,quasarframework,markright'
 
-  - rank: 237
+  - rank: 238
+    name: 'Maurizio De Santis'
+    login: 'mdesantis'
+    id: 283320
+    contributions: 617
+    company: ''
+    organizations: ''
+
+  - rank: 239
+    name: 'kuus'
+    login: 'kuus'
+    id: 3102245
+    contributions: 614
+    company: ''
+    organizations: 'knitkode,contextaservices,AmberScriptCom'
+
+  - rank: 240
+    name: 'James Hovious'
+    login: 'JamesHovious'
+    id: 4935929
+    contributions: 612
+    company: ''
+    organizations: ''
+
+  - rank: 241
+    name: 'Martino Visintin'
+    login: 'vise890'
+    id: 1628760
+    contributions: 611
+    company: ''
+    organizations: 'ThoughtWorksInc,recursecenter,SICPDistilled,clojurecup2014'
+
+  - rank: 242
+    name: 'Alessandro Ranellucci'
+    login: 'alexrj'
+    id: 594957
+    contributions: 606
+    company: ''
+    organizations: 'italia,teamdigitale'
+
+  - rank: 243
     name: 'Salvatore Sanfilippo'
     login: 'antirez'
     id: 65632
@@ -1898,157 +1946,109 @@ users:
     company: 'Redis Labs'
     organizations: 'redis'
 
-  - rank: 238
-    name: 'Giuseppe Di Terlizzi'
-    login: 'LotarProject'
-    id: 1824717
-    contributions: 604
-    company: 'ADAXI'
-    organizations: ''
-
-  - rank: 239
-    name: 'Alessio Soldano'
-    login: 'asoldano'
-    id: 410976
-    contributions: 593
-    company: 'Red Hat'
-    organizations: 'resteasy,jbossws'
-
-  - rank: 240
+  - rank: 244
     name: 'Simone Bizzotto'
     login: 'niphlod'
     id: 122119
-    contributions: 588
+    contributions: 604
     company: '@sqlcollaborative @web2py '
     organizations: 'web2py'
 
-  - rank: 241
-    name: 'Diego Pasquali'
-    login: 'dgopsq'
-    id: 5963683
-    contributions: 587
-    company: ''
-    organizations: 'efficiam'
-
-  - rank: 242
-    name: 'Alessandro Ranellucci'
-    login: 'alexrj'
-    id: 594957
-    contributions: 586
-    company: ''
-    organizations: 'italia,teamdigitale'
-
-  - rank: 243
-    name: 'Luca Dionisi'
-    login: 'lukisi'
-    id: 17383110
-    contributions: 583
-    company: ''
-    organizations: ''
-
-  - rank: 244
-    name: 'Andrea Cardaci'
-    login: 'cyrus-and'
-    id: 1660263
-    contributions: 581
-    company: ''
-    organizations: 'GoogleChrome'
-
   - rank: 245
-    name: 'James Hovious'
-    login: 'JamesHovious'
-    id: 4935929
-    contributions: 580
-    company: ''
+    name: 'Giuseppe Di Terlizzi'
+    login: 'LotarProject'
+    id: 1824717
+    contributions: 602
+    company: 'ADAXI'
     organizations: ''
 
   - rank: 246
-    name: 'Francesco Negri'
-    login: 'dhinus'
-    id: 474311
-    contributions: 577
-    company: '@buildo '
-    organizations: 'buildo,biosmusic'
+    name: 'Diego Pasquali'
+    login: 'dgopsq'
+    id: 5963683
+    contributions: 592
+    company: ''
+    organizations: 'efficiam'
 
   - rank: 247
-    name: 'Generoso Martello'
-    login: 'genemars'
-    id: 6654265
-    contributions: 576
-    company: '@genielabs'
-    organizations: 'genielabs'
+    name: 'Alessio Soldano'
+    login: 'asoldano'
+    id: 410976
+    contributions: 590
+    company: 'Red Hat'
+    organizations: 'resteasy,jbossws'
 
   - rank: 248
+    name: 'Cristian Baldi'
+    login: 'crisbal'
+    id: 2728038
+    contributions: 590
+    company: ''
+    organizations: 'WikiToLearn,unixMiB'
+
+  - rank: 249
+    name: 'gu '
+    login: 'rootslab'
+    id: 133909
+    contributions: 588
+    company: 'rootslab'
+    organizations: ''
+
+  - rank: 250
     name: 'AngeloGioacchino Del Regno'
     login: 'kholk'
     id: 1922359
-    contributions: 576
+    contributions: 586
     company: ''
     organizations: ''
 
-  - rank: 249
+  - rank: 251
     name: 'Riccardo Iaconelli'
     login: 'ruphy'
     id: 2030
-    contributions: 571
+    contributions: 584
     company: '@WikiToLearn @KDE @AkhetLab '
     organizations: 'WikiToLearn,italia,teamdigitale'
 
-  - rank: 250
-    name: 'Andrea Verlicchi'
-    login: 'verlok'
-    id: 1127721
-    contributions: 569
-    company: 'YOOX NET-A-PORTER GROUP'
-    organizations: ''
-
-  - rank: 251
-    name: 'Fabrizio Regini'
-    login: 'freegenie'
-    id: 19538
-    contributions: 567
-    company: 'Mind2Mind S.r.l.'
-    organizations: 'exelab,Panmind'
-
   - rank: 252
-    name: 'Micaela Linda Villani'
-    login: 'MicaelaLV'
-    id: 17528760
-    contributions: 565
-    company: 'https://homiefoodapp.herokuapp.com/'
+    name: 'Luca Dionisi'
+    login: 'lukisi'
+    id: 17383110
+    contributions: 577
+    company: ''
     organizations: ''
 
   - rank: 253
-    name: 'Luca Marturana'
-    login: 'luca3m'
-    id: 1469982
-    contributions: 564
-    company: 'Sysdig'
-    organizations: ''
+    name: 'Davide Alberani'
+    login: 'alberanid'
+    id: 222857
+    contributions: 577
+    company: ''
+    organizations: 'raspibo,endianspa'
 
   - rank: 254
-    name: 'Massimo Santini'
-    login: 'mapio'
-    id: 612826
-    contributions: 563
-    company: 'Dipartimento di Informatica – Università degli Studi di Milano'
-    organizations: 'Aladdin-Unimi,LAW-Unimi'
+    name: 'Fabrizio Regini'
+    login: 'freegenie'
+    id: 19538
+    contributions: 575
+    company: 'Mind2Mind S.r.l.'
+    organizations: 'exelab,Panmind'
 
   - rank: 255
+    name: 'Francesco Negri'
+    login: 'dhinus'
+    id: 474311
+    contributions: 569
+    company: '@buildo '
+    organizations: 'buildo,biosmusic'
+
+  - rank: 256
     name: 'Marcello Barnaba'
     login: 'vjt'
     id: 14077
-    contributions: 562
+    contributions: 569
     company: '@ifad '
     organizations: 'ifad,condividilo'
-
-  - rank: 256
-    name: 'Luca Delucchi'
-    login: 'lucadelu'
-    id: 178741
-    contributions: 562
-    company: 'Fondazione Edmund Mach'
-    organizations: 'osmItalia'
 
 organizations:
 
@@ -2057,7 +2057,7 @@ organizations:
     membercount: 6
 
   - rank: 2
-    name: 'GrUSP'
+    name: 'italia'
     membercount: 5
 
   - rank: 3
@@ -2065,8 +2065,8 @@ organizations:
     membercount: 5
 
   - rank: 4
-    name: 'italia'
-    membercount: 5
+    name: 'GrUSP'
+    membercount: 4
 
   - rank: 5
     name: 'spaghetti-open-data'
@@ -2077,11 +2077,11 @@ organizations:
     membercount: 3
 
   - rank: 7
-    name: 'maintainers'
+    name: 'FIUP'
     membercount: 3
 
   - rank: 8
-    name: 'FIUP'
+    name: 'maintainers'
     membercount: 3
 
   - rank: 9
@@ -2089,6 +2089,6 @@ organizations:
     membercount: 3
 
   - rank: 10
-    name: 'js-girls'
+    name: 'cloudparty-io'
     membercount: 2
-generated: 2018-01-22 01:35:32.128682254 +0000 UTC
+generated: 2018-01-29 01:35:37.978082964 +0000 UTC
