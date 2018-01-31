@@ -29,6 +29,7 @@ sleep 3600
 ./generate.sh $1 portugal Portugal
 
 git add _data
+git add *.md
 git commit -m "updated data"
 git push origin "$now"
 curl -v -X POST -H "Authorization: token $1" -H "Content-type: application/vnd.github.v3+json" -d "{ \"title\": \"Data update $now\", \"head\": \"$now\", \"base\": \"master\"}" https://api.github.com/repos/lauripiispanen/github-top/pulls
