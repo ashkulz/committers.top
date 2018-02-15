@@ -12,9 +12,6 @@ git checkout -B "$now"
 ./generate.sh $1 russia Russia
 ./generate.sh $1 sweden Sweden
 ./generate.sh $1 ukraine Ukraine
-
-sleep 3600
-
 ./generate.sh $1 estonia Estonia
 ./generate.sh $1 denmark Denmark
 ./generate.sh $1 france France
@@ -23,9 +20,6 @@ sleep 3600
 ./generate.sh $1 uk UK
 ./generate.sh $1 croatia Croatia
 ./generate.sh $1 austria Austria
-
-sleep 3600
-
 ./generate.sh $1 portugal Portugal
 
 git add _data
