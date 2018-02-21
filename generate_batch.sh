@@ -21,6 +21,16 @@ git checkout -B "$now"
 ./generate.sh $1 croatia Croatia
 ./generate.sh $1 austria Austria
 ./generate.sh $1 portugal Portugal
+./generate.sh $1 worldwide Worldwide
+./generate.sh $1 china China
+./generate.sh $1 india India
+./generate.sh $1 indonesia Indonesia
+./generate.sh $1 pakistan Pakistan
+./generate.sh $1 brazil Brazil
+./generate.sh $1 nigeria Nigeria
+./generate.sh $1 bangladesh Bangladesh
+./generate.sh $1 mexico Mexico
+./generate.sh $1 philippines Philippines
 
 git add _data
 git add *.md
