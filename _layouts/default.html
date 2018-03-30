@@ -99,7 +99,7 @@
               <td>{{user.rank}}.</td>
               <td><a href="https://github.com/{{user.login}}">{{user.login}}</a> ({{user.name}})</td>
               <td>{{user.contributions}}</td>
-              <td><img src="https://avatars3.githubusercontent.com/u/{{user.id}}?v=3&s=40" width="40" height="40" /></td>
+              <td><img src="{{user.avatarUrl}}" width="40" height="40" /></td>
             </tr>
           {% endfor %}
           </table>
