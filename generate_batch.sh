@@ -31,6 +31,14 @@ git checkout -B "$now"
 ./generate.sh $1 bangladesh Bangladesh
 ./generate.sh $1 mexico Mexico
 ./generate.sh $1 philippines Philippines
+./generate.sh $1 luxembourg Luxembourg
+./generate.sh $1 egypt Egypt
+./generate.sh $1 ethiopia Ethiopia
+./generate.sh $1 vietnam Vietnam
+./generate.sh $1 iran Iran
+./generate.sh $1 congo Congo
+./generate.sh $1 turkey Turkey
+./generate.sh $1 israel Israel
 
 git add _data
 git add *.md
