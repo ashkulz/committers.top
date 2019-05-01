@@ -52,8 +52,18 @@ git checkout -B "$now"
 ./generate.sh $1 poland Poland
 ./generate.sh $1 canada Canada
 ./generate.sh $1 australia Australia
+./generate.sh $1 "new zealand" "New Zealand"
 ./generate.sh $1 belgium Belgium
 ./generate.sh $1 greece Greece
+./generate.sh $1 peru Peru
+./generate.sh $1 hungary Hungary
+./generate.sh $1 albania Albania
+./generate.sh $1 uganda Uganda
+./generate.sh $1 zambia Zambia
+./generate.sh $1 "sri lanka" "Sri Lanka"
+./generate.sh $1 singapore Singapore
+./generate.sh $1 latvia Latvia
+./generate.sh $1 romania Romania
 
 git add _data
 git add *.md
