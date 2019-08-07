@@ -64,6 +64,13 @@ git checkout -B "$now"
 ./generate.sh $1 singapore Singapore
 ./generate.sh $1 latvia Latvia
 ./generate.sh $1 romania Romania
+./generate.sh $1 belarus Belarus
+./generate.sh $1 malta Malta
+./generate.sh $1 rwanda Rwanda
+./generate.sh $1 "saudi arabia" "Saudi Arabia"
+./generate.sh $1 morocco Morocco
+./generate.sh $1 uzbekistan Uzbekistan
+./generate.sh $1 malaysia Malaysia
 
 git add _data
 git add *.md
