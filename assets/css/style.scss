@@ -1,0 +1,50 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  li:first-child a, ul {
+    border-radius: 0;
+  }
+
+  ul {
+    background: transparent;
+    border: 0;
+
+    li + li + li {
+      width: auto;
+    } 
+  }
+
+  li {
+    width: auto;
+    border-right: 0;
+  }
+
+}
+
+ul.share-buttons {
+  display: flex;
+
+  li {
+    flex: 1;
+  }
+}
+
+th, td {
+  padding: inherit;
+}
+
+table.users-list {
+  td {
+    padding: 2px 0;
+    img {
+      vertical-align: middle;
+    }
+  }
+}
+
+table.organizations-list td {
+  padding: 5px 0;
+}

@@ -45,15 +45,6 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    {% if site.google_ad_client %}
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "{{ site.google_ad_client }}",
-        enable_page_level_ads: true
-      });
-    </script>
-    {% endif %}
   </head>
   <body>
     <div class="wrapper">
@@ -96,7 +87,7 @@
           <p>Private contributions are included if the user has selected that option in their profile settings.
           </p>
           <p>
-          <table>
+          <table class="users-list">
             <tr>
               <th>Rank</th>
               <th>User</th>
@@ -115,7 +106,7 @@
         </p>
         <h3>Organizations</h3>
         <p>
-        <table>
+        <table class="organizations-list">
           <tr>
             <th>Rank</th>
             <th>Organization</th>
@@ -162,10 +153,6 @@
   ul.share-buttons{
     list-style: none;
     padding: 0;
-  }
-
-  ul.share-buttons li{
-    display: inline;
   }
 
   ul.share-buttons .sr-only {
