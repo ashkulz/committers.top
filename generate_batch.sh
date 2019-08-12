@@ -71,6 +71,14 @@ git checkout -B "$now"
 ./generate.sh $1 morocco Morocco
 ./generate.sh $1 uzbekistan Uzbekistan
 ./generate.sh $1 malaysia Malaysia
+./generate.sh $1 afghanistan Afghanistan
+./generate.sh $1 venezuela Venezuela
+./generate.sh $1 ghana Ghana
+./generate.sh $1 angola Angola
+./generate.sh $1 nepal Nepal
+./generate.sh $1 yemen Yemen
+./generate.sh $1 mozambique Mozambique
+./generate.sh $1 "ivory coast" "Ivory Coast"
 
 git add _data
 git add *.md
