@@ -1,6 +1,9 @@
-FROM jekyll/jekyll:3.5
+FROM alpine:3.10
 
-VOLUME $PWD:/srv/jekyll
-VOLUME $PWD/vendor/bundle:/usr/local/bundle
+RUN apk --no-cache add curl git
 
-CMD jekyll build
+COPY . /app
+
+WORKDIR /app
+
+ENTRYPOINT ["./generate_batch.sh"]

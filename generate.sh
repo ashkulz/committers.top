@@ -2,7 +2,8 @@
 
 if [ ! -f "github-top" ]
 then
-  curl -L -O https://github.com/lauripiispanen/most-active-github-users-counter/releases/download/v1.10/github-top
+  curl -L -O https://github.com/lauripiispanen/most-active-github-users-counter/releases/download/v1.10/github-top.cgo_disabled
+  mv github-top.cgo_disabled github-top
   chmod u+x github-top
 fi
 

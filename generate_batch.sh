@@ -1,5 +1,9 @@
 #!/bin/sh
 
+if [ -z "$1" ]; then
+    exit 1
+fi
+
 now="$(date +'%d-%m-%Y')"
 
 git checkout -B "$now"
