@@ -83,6 +83,13 @@ git checkout -B "$now"
 ./generate.sh $1 yemen Yemen
 ./generate.sh $1 mozambique Mozambique
 ./generate.sh $1 "ivory coast" "Ivory Coast"
+./generate.sh $1 cameroon Cameroon
+./generate.sh $1 taiwan Taiwan
+./generate.sh $1 niger Niger
+./generate.sh $1 "burkina faso" "Burkina Faso"
+./generate.sh $1 mali Mali
+./generate.sh $1 malawi Malawi
+./generate.sh $1 chile Chile
 
 git add _data
 git add *.md
