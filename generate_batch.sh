@@ -32,6 +32,9 @@ git checkout -B "$now"
 ./generate.sh $1 pakistan Pakistan
 ./generate.sh $1 brazil Brazil
 ./generate.sh $1 nigeria Nigeria
+
+sleep 1800
+
 ./generate.sh $1 bangladesh Bangladesh
 ./generate.sh $1 mexico Mexico
 ./generate.sh $1 philippines Philippines
@@ -55,6 +58,9 @@ git checkout -B "$now"
 ./generate.sh $1 sudan Sudan
 ./generate.sh $1 poland Poland
 ./generate.sh $1 canada Canada
+
+sleep 1800
+
 ./generate.sh $1 australia Australia
 ./generate.sh $1 "new zealand" "New Zealand"
 ./generate.sh $1 belgium Belgium
@@ -77,6 +83,9 @@ git checkout -B "$now"
 ./generate.sh $1 malaysia Malaysia
 ./generate.sh $1 afghanistan Afghanistan
 ./generate.sh $1 venezuela Venezuela
+
+sleep 1800
+
 ./generate.sh $1 ghana Ghana
 ./generate.sh $1 angola Angola
 ./generate.sh $1 nepal Nepal
