@@ -99,6 +99,25 @@ sleep 1800
 ./generate.sh $1 mali Mali
 ./generate.sh $1 malawi Malawi
 ./generate.sh $1 chile Chile
+./generate.sh $1 kazakhstan Kazakhstan
+./generate.sh $1 guatemala Guatemala
+./generate.sh $1 ecuador Ecuador
+./generate.sh $1 syria Syria
+./generate.sh $1 cambodia Cambodia
+./generate.sh $1 senegal Senegal
+./generate.sh $1 chad Chad
+./generate.sh $1 somalia Somalia
+./generate.sh $1 zimbabwe Zimbabwe
+./generate.sh $1 guinea Guinea
+./generate.sh $1 benin Benin
+
+sleep 1800
+
+./generate.sh $1 haiti Haiti
+./generate.sh $1 cuba Cuba
+./generate.sh $1 bolivia Bolivia
+./generate.sh $1 tunisia Tunisia
+
 
 git add _data
 git add *.md
