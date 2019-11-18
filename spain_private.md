@@ -1,5 +1,5 @@
 ---
 type: location
 location: spain
-public: true
+private: true
 ---

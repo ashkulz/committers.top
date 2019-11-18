@@ -1,5 +1,5 @@
 ---
 type: location
 location: india
-public: true
+private: true
 ---

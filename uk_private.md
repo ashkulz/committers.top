@@ -1,5 +1,5 @@
 ---
 type: location
 location: uk
-public: true
+private: true
 ---

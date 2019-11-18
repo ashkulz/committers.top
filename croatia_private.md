@@ -1,5 +1,5 @@
 ---
 type: location
 location: croatia
-public: true
+private: true
 ---
