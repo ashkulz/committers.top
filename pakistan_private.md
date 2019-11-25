@@ -1,5 +1,5 @@
 ---
 type: location
 location: pakistan
-public: true
+private: true
 ---
