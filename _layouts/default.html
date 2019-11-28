@@ -127,7 +127,7 @@
               <td>{{user.rank}}.</td>
               <td><a href="https://github.com/{{user.login}}">{{user.login}}</a> ({{user.name}})</td>
               <td>{{user.contributions}}</td>
-              <td><img src="{{user.avatarUrl}}&s=80" width="40" height="40" /></td>
+	      <td><img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload" alt="Avatar for {{user.login}}" /></td>
             </tr>
           {% endfor %}
           </table>
@@ -203,5 +203,6 @@
     width: 32px;
   }
   </style>
+  <script src="{{ '/assets/js/lazysizes.min.js' | relative_url }}" async></script>
   </body>
 </html>
