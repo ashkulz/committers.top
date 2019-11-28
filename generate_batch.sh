@@ -117,6 +117,21 @@ sleep 1800
 ./generate.sh $1 cuba Cuba
 ./generate.sh $1 bolivia Bolivia
 ./generate.sh $1 tunisia Tunisia
+./generate.sh $1 "south sudan" "South Sudan"
+./generate.sh $1 burundi Burundi
+./generate.sh $1 "dominican republic "Dominican Republic
+./generate.sh $1 "czech republic" "Czech Republic"
+./generate.sh $1 jordan Jordan
+./generate.sh $1 azerbaijan Azerbaijan
+./generate.sh $1 uae UAE
+./generate.sh $1 honduras Honduras
+./generate.sh $1 tajikistan Tajikistan
+./generate.sh $1 "papua new guinea" "Papua New Guinea"
+./generate.sh $1 serbia Serbia
+./generate.sh $1 switzerland Switzerland
+./generate.sh $1 togo Togo
+./generate.sh $1 "sierra leone" "Sierra Leone"
+./generate.sh $1 "hong kong" "Hong Kong"
 
 
 git add _data
