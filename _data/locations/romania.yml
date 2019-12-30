@@ -3,30 +3,46 @@ title: Romania
 users:
 
   - rank: 1
+    name: 'Radu Iacob'
+    login: 'johnthebrave'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1448827?v=4'
+    contributions: 9283
+    company: ''
+    organizations: 'HMatata'
+
+  - rank: 2
     name: 'Adrian Ocneanu'
     login: 'aocneanu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/16073274?v=4'
-    contributions: 4808
+    contributions: 4841
     company: ''
     organizations: 'laravel-enso'
 
-  - rank: 2
+  - rank: 3
     name: 'Stefan Prodan'
     login: 'stefanprodan'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3797675?v=4'
-    contributions: 4668
+    contributions: 4702
     company: '@weaveworks'
     organizations: 'weaveworks,openfaas,openfaas-incubator,knative,deislabs,teamserverless,fluxcd'
 
-  - rank: 3
+  - rank: 4
     name: 'anghelleonard'
     login: 'AnghelLeonard'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3829643?v=4'
-    contributions: 4244
+    contributions: 4192
     company: ''
     organizations: ''
 
-  - rank: 4
+  - rank: 5
+    name: 'Florin Braescu'
+    login: 'florin65'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1948024?v=4'
+    contributions: 3991
+    company: 'Independent Contractor'
+    organizations: 'lunar-linux'
+
+  - rank: 6
     name: 'Teo Sarca'
     login: 'teosarca'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1244701?v=4'
@@ -34,55 +50,55 @@ users:
     company: 'metas.ro SRL'
     organizations: 'metasfresh'
 
-  - rank: 5
+  - rank: 7
     name: 'Razvan Stoenescu'
     login: 'rstoenescu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4665641?v=4'
-    contributions: 2887
+    contributions: 2853
     company: '@quasarframework '
     organizations: 'quasarframework'
 
-  - rank: 6
+  - rank: 8
     name: 'Marius Ungureanu'
     login: 'Therzok'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/109974?v=4'
-    contributions: 2730
+    contributions: 2728
     company: '@Microsoft'
     organizations: 'mono,libgit2,xamarin,rosedu,microsoft'
 
-  - rank: 7
-    name: 'Sorin Chis'
-    login: 'SorinC6'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/37213944?v=4'
-    contributions: 2468
-    company: ''
-    organizations: ''
-
-  - rank: 8
+  - rank: 9
     name: 'Liviu Ionescu'
     login: 'ilg-ul'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/362732?v=4'
-    contributions: 2424
+    contributions: 2499
     company: ''
     organizations: 'gnuarmeclipse'
 
-  - rank: 9
-    name: 'Demon000'
-    login: 'Demon000'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/12939434?v=4'
-    contributions: 2204
-    company: '@Digilent '
-    organizations: ''
-
   - rank: 10
-    name: 'Kuran Kaname'
-    login: 'celtare21'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/29823626?v=4'
-    contributions: 2159
+    name: 'Sorin Chis'
+    login: 'SorinC6'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/37213944?v=4'
+    contributions: 2467
     company: ''
     organizations: ''
 
   - rank: 11
+    name: 'Kuran Kaname'
+    login: 'celtare21'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/29823626?v=4'
+    contributions: 2355
+    company: ''
+    organizations: ''
+
+  - rank: 12
+    name: 'Demon000'
+    login: 'Demon000'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/12939434?v=4'
+    contributions: 2242
+    company: '@Digilent '
+    organizations: ''
+
+  - rank: 13
     name: 'Ghiță Bizău'
     login: 'GhitaB'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3416893?v=4'
@@ -90,143 +106,151 @@ users:
     company: 'freelancer'
     organizations: 'eaudeweb,eea,Bloggify,LienJS,Pixelblaster'
 
-  - rank: 12
+  - rank: 14
     name: 'Tiberiu Ichim'
     login: 'tiberiuichim'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/141568?v=4'
-    contributions: 1989
+    contributions: 2040
     company: '@eea @eaudeweb @Kotti '
     organizations: 'eaudeweb,collective,eea'
 
-  - rank: 13
+  - rank: 15
     name: 'Cosmin Apreutesei'
     login: 'capr'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/131660?v=4'
-    contributions: 1846
+    contributions: 1935
     company: ''
     organizations: 'luapower,terralang'
-
-  - rank: 14
-    name: 'Bogdan Popa'
-    login: 'Bogdanp'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/43347?v=4'
-    contributions: 1721
-    company: '@matchacharo'
-    organizations: 'nomics-crypto,matchacharo'
-
-  - rank: 15
-    name: 'xxvirusxx'
-    login: 'condor2'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/14251939?v=4'
-    contributions: 1698
-    company: ''
-    organizations: 'AnarchyLinux'
 
   - rank: 16
     name: 'Vladimir Oltean'
     login: 'vladimiroltean'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/11811246?v=4'
-    contributions: 1608
+    contributions: 1813
     company: ''
     organizations: ''
 
   - rank: 17
+    name: 'Bogdan Popa'
+    login: 'Bogdanp'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/43347?v=4'
+    contributions: 1771
+    company: '@matchacharo'
+    organizations: 'nomics-crypto,matchacharo'
+
+  - rank: 18
+    name: 'xxvirusxx'
+    login: 'condor2'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/14251939?v=4'
+    contributions: 1704
+    company: ''
+    organizations: 'AnarchyLinux'
+
+  - rank: 19
+    name: 'Vlad Iovanov'
+    login: 'viovanov'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/918484?v=4'
+    contributions: 1650
+    company: 'SUSE'
+    organizations: 'cloudfoundry,UhuruSoftware,SUSE,cloudfoundry-community,cloudfoundry-incubator'
+
+  - rank: 20
     name: 'Marius Cristea'
     login: 'selul'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3330746?v=4'
-    contributions: 1597
+    contributions: 1573
     company: 'ThemeIsle'
     organizations: ''
 
-  - rank: 18
+  - rank: 21
     name: 'Alexandru Ardelean'
     login: 'commodo'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2766732?v=4'
-    contributions: 1507
+    contributions: 1511
     company: ''
     organizations: 'mstpd'
 
-  - rank: 19
+  - rank: 22
     name: 'Lia Domide'
     login: 'liadomide'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/674853?v=4'
-    contributions: 1454
+    contributions: 1459
     company: 'Codemart'
     organizations: 'the-virtual-brain'
 
-  - rank: 20
+  - rank: 23
     name: 'Alex Morega'
     login: 'mgax'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/27617?v=4'
-    contributions: 1443
+    contributions: 1450
     company: ''
     organizations: 'pybucuresti,wurbe,rosedu,pistruiatul,rootio,georust,aptiro,baronii,funkycitizens,hoover,liquidinvestigations'
 
-  - rank: 21
-    name: 'Andrei Ignat'
-    login: 'ignatandrei'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/153982?v=4'
-    contributions: 1421
-    company: ''
-    organizations: ''
-
-  - rank: 22
+  - rank: 24
     name: 'Alin Voinea'
     login: 'avoinea'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/323385?v=4'
-    contributions: 1410
+    contributions: 1408
     company: 'Eau de Web'
     organizations: 'plone,eaudeweb,collective,pybucuresti,eea'
 
-  - rank: 23
-    name: 'Paul Razvan Berg'
-    login: 'PaulRBerg'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/8782666?v=4'
-    contributions: 1337
-    company: '@sablierhq'
-    organizations: 'sablierhq'
-
-  - rank: 24
-    name: 'Laurențiu Nicola'
-    login: 'lnicola'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/308347?v=4'
-    contributions: 1311
-    company: ''
-    organizations: 'tantivy-search,rust-ammonia'
-
   - rank: 25
-    name: 'Alexandru Dinu'
-    login: 'alexandru-dinu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/14110183?v=4'
-    contributions: 1303
-    company: ''
-    organizations: 'code-gen'
-
-  - rank: 26
-    name: 'Eduard-Mihai Burtescu'
-    login: 'eddyb'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/77424?v=4'
-    contributions: 1228
-    company: '@LykenSol'
-    organizations: 'rust-lang,rust-lang-nursery,LykenSol,image-rs,LykenSol-abandoned,eddyb-abandoned'
-
-  - rank: 27
-    name: 'Grigore Stefan'
-    login: 'g-stefan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5883720?v=4'
-    contributions: 1165
+    name: 'Andrei Ignat'
+    login: 'ignatandrei'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/153982?v=4'
+    contributions: 1377
     company: ''
     organizations: ''
 
+  - rank: 26
+    name: 'Paul Razvan Berg'
+    login: 'PaulRBerg'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8782666?v=4'
+    contributions: 1348
+    company: '@sablierhq'
+    organizations: 'sablierhq'
+
+  - rank: 27
+    name: 'Alexandru Dinu'
+    login: 'alexandru-dinu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/14110183?v=4'
+    contributions: 1328
+    company: ''
+    organizations: 'code-gen'
+
   - rank: 28
+    name: 'Laurențiu Nicola'
+    login: 'lnicola'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/308347?v=4'
+    contributions: 1315
+    company: ''
+    organizations: 'tantivy-search,rust-ammonia'
+
+  - rank: 29
+    name: 'Eduard-Mihai Burtescu'
+    login: 'eddyb'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/77424?v=4'
+    contributions: 1236
+    company: '@LykenSol'
+    organizations: 'rust-lang,rust-lang-nursery,LykenSol,image-rs,LykenSol-abandoned,eddyb-abandoned'
+
+  - rank: 30
     name: 'Vlad Olaru'
     login: 'vladolaru'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/8830539?v=4'
-    contributions: 1139
+    contributions: 1141
     company: '@pixelgrade '
     organizations: 'pixelgrade'
 
-  - rank: 29
+  - rank: 31
+    name: 'Andrei Băicuș'
+    login: 'abaicus'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/15010186?v=4'
+    contributions: 1131
+    company: 'ThemeIsle'
+    organizations: 'Codeinwp'
+
+  - rank: 32
     name: 'Calin Don'
     login: 'calind'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/266375?v=4'
@@ -234,7 +258,7 @@ users:
     company: 'PressLabs SRL'
     organizations: 'presslabs,silverapp'
 
-  - rank: 30
+  - rank: 33
     name: 'Ruxandra Craciunescu'
     login: 'metas-rc'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/16001442?v=4'
@@ -242,31 +266,47 @@ users:
     company: ''
     organizations: 'metasfresh'
 
-  - rank: 31
-    name: 'Loredana Crusoveanu'
-    login: 'lor6'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/18684932?v=4'
-    contributions: 1081
+  - rank: 34
+    name: 'Grigore Stefan'
+    login: 'g-stefan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5883720?v=4'
+    contributions: 1068
     company: ''
     organizations: ''
 
-  - rank: 32
+  - rank: 35
+    name: 'Loredana Crusoveanu'
+    login: 'lor6'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/18684932?v=4'
+    contributions: 1055
+    company: ''
+    organizations: ''
+
+  - rank: 36
     name: 'Matei Adriel'
     login: 'Mateiadrielrafael'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/39400800?v=4'
-    contributions: 993
+    contributions: 1053
     company: ''
     organizations: 'eix-js'
 
-  - rank: 33
+  - rank: 37
+    name: 'Andrei Meliș'
+    login: 'melish'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1218168?v=4'
+    contributions: 1022
+    company: 'Eau de Web'
+    organizations: 'eaudeweb,eea,EU-OSHA,digital-agenda-data'
+
+  - rank: 38
     name: 'Alex Moldovan'
     login: 'alexnm'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/9945366?v=4'
-    contributions: 993
+    contributions: 980
     company: '@teleporthq'
     organizations: 'teleporthq'
 
-  - rank: 34
+  - rank: 39
     name: 'Vlad Temian'
     login: 'vtemian'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/639771?v=4'
@@ -274,23 +314,23 @@ users:
     company: ''
     organizations: 'presslabs'
 
-  - rank: 35
+  - rank: 40
     name: 'App Generator'
     login: 'app-generator'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/51070104?v=4'
-    contributions: 954
+    contributions: 957
     company: 'AppSeed'
     organizations: ''
 
-  - rank: 36
-    name: 'Rodica-Elena Irodiu'
-    login: 'rodica-andronache'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3266155?v=4'
-    contributions: 951
-    company: 'themeisle.com'
-    organizations: ''
+  - rank: 41
+    name: 'Cristina Ghita'
+    login: 'cristinamghita'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/15378036?v=4'
+    contributions: 954
+    company: 'metas'
+    organizations: 'metasfresh'
 
-  - rank: 37
+  - rank: 42
     name: 'Andrei Pfeiffer'
     login: 'andreipfeiffer'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2570562?v=4'
@@ -298,31 +338,47 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 38
-    name: 'Alexandru Darie'
-    login: 'alexdarie'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/20638296?v=4'
-    contributions: 924
-    company: ''
+  - rank: 43
+    name: 'Rodica-Elena Irodiu'
+    login: 'rodica-andronache'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3266155?v=4'
+    contributions: 944
+    company: 'themeisle.com'
     organizations: ''
 
-  - rank: 39
-    name: 'Alex Grozav'
-    login: 'alexgrozav'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6179477?v=4'
-    contributions: 907
-    company: 'Grozav'
-    organizations: 'inkline'
+  - rank: 44
+    name: 'Cezar Mathe'
+    login: 'cezarmathe'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/25750780?v=4'
+    contributions: 916
+    company: '@VectronRomania @pgang-cnamd @hack-club-cnamd '
+    organizations: 'vectronromania,pgang-cnamd,hack-club-cnamd'
 
-  - rank: 40
+  - rank: 45
     name: 'Gabriel Vîjială'
     login: 'gabriel-v'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/7493327?v=4'
-    contributions: 890
+    contributions: 891
     company: ''
     organizations: 'hoover,liquidinvestigations'
 
-  - rank: 41
+  - rank: 46
+    name: 'Cristian Necula'
+    login: 'cristinecula'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/710155?v=4'
+    contributions: 859
+    company: ''
+    organizations: ''
+
+  - rank: 47
+    name: 'Alex Grozav'
+    login: 'alexgrozav'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/6179477?v=4'
+    contributions: 851
+    company: 'Grozav'
+    organizations: 'inkline'
+
+  - rank: 48
     name: 'Ionel Cristian Mărieș'
     login: 'ionelmc'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/129501?v=4'
@@ -330,15 +386,15 @@ users:
     company: ''
     organizations: 'RoPython,pytest-dev'
 
-  - rank: 42
+  - rank: 49
     name: 'Cosmin Popovici'
     login: 'cossssmin'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1656595?v=4'
-    contributions: 845
+    contributions: 847
     company: ''
     organizations: ''
 
-  - rank: 43
+  - rank: 50
     name: 'Victor Rentea'
     login: 'victorrentea'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/12481094?v=4'
@@ -346,7 +402,7 @@ users:
     company: 'Independent'
     organizations: ''
 
-  - rank: 44
+  - rank: 51
     name: 'Popescu Dan'
     login: 'pdanpdan'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/118764?v=4'
@@ -354,7 +410,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 45
+  - rank: 52
     name: 'Bogdan Oancea'
     login: 'bogdanoancea'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/9313914?v=4'
@@ -362,23 +418,23 @@ users:
     company: 'Univesity of Bucharest'
     organizations: 'uRosConf,MobilePhoneESSnetBigData'
 
-  - rank: 46
+  - rank: 53
     name: 'Adrian Vladu'
     login: 'ader1990'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1412442?v=4'
-    contributions: 753
+    contributions: 751
     company: 'Cloudbase Solutions SRL'
     organizations: 'cloudbase'
 
-  - rank: 47
+  - rank: 54
     name: 'Irina Borozan'
     login: 'aniri'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1358055?v=4'
-    contributions: 743
+    contributions: 742
     company: ''
     organizations: 'code4romania'
 
-  - rank: 48
+  - rank: 55
     name: 'Serban Petrescu'
     login: 'serban-petrescu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/15961282?v=4'
@@ -386,23 +442,31 @@ users:
     company: '@msg-systems'
     organizations: 'dotabap'
 
-  - rank: 49
+  - rank: 56
+    name: 'Alexandru Darie'
+    login: 'alexdarie'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/20638296?v=4'
+    contributions: 712
+    company: ''
+    organizations: ''
+
+  - rank: 57
     name: 'ichim-david'
     login: 'ichim-david'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/152852?v=4'
-    contributions: 698
+    contributions: 695
     company: 'Eau de Web '
     organizations: 'plone,eaudeweb,collective,eea'
 
-  - rank: 50
+  - rank: 58
     name: 'Marius Constantinescu'
     login: 'mariusc'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/844175?v=4'
-    contributions: 683
+    contributions: 686
     company: 'Greener Pastures'
     organizations: 'DanskeBank,iOS-Goodies'
 
-  - rank: 51
+  - rank: 59
     name: 'Luca Daniel'
     login: 'cleanunicorn'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/547012?v=4'
@@ -410,47 +474,47 @@ users:
     company: 'ConsenSys Diligence'
     organizations: 'ElasticOrange'
 
-  - rank: 52
+  - rank: 60
     name: 'Gabriel Majeri'
     login: 'GabrielMajeri'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/3010346?v=4'
-    contributions: 654
+    contributions: 645
     company: ''
     organizations: 'QubeRomania'
 
-  - rank: 53
+  - rank: 61
     name: 'Gabriel Aszalos'
     login: 'gbbr'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6686356?v=4'
-    contributions: 645
+    contributions: 635
     company: 'Datadog'
     organizations: 'DataDog,golang,pkg,upspin'
 
-  - rank: 54
-    name: 'Raiber Cristian'
-    login: 'cristianraiber'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7841556?v=4'
-    contributions: 620
-    company: 'Macho Themes'
-    organizations: 'ColorlibHQ'
-
-  - rank: 55
+  - rank: 62
     name: 'Cătălin Frâncu'
     login: 'CatalinFrancu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1180392?v=4'
-    contributions: 613
+    contributions: 612
     company: '@dexonline '
     organizations: 'varena,dexonline'
 
-  - rank: 56
+  - rank: 63
     name: 'József Sallai'
     login: 'jozsefsallai'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/20266711?v=4'
-    contributions: 612
+    contributions: 610
     company: ''
     organizations: 'OkunaOrg,EuropeOSS'
 
-  - rank: 57
+  - rank: 64
+    name: 'Raiber Cristian'
+    login: 'cristianraiber'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7841556?v=4'
+    contributions: 607
+    company: 'Macho Themes'
+    organizations: 'ColorlibHQ'
+
+  - rank: 65
     name: 'Vlad Jerca'
     login: 'vladjerca'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6339681?v=4'
@@ -458,15 +522,15 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 58
-    name: 'Zoltan Szabo'
-    login: 'zotya'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/468679?v=4'
+  - rank: 66
+    name: 'Gabriel Ionescu'
+    login: 'blchinezu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3418598?v=4'
     contributions: 600
-    company: '@eea @eaudeweb'
-    organizations: 'plone,eaudeweb,collective,eea'
+    company: ''
+    organizations: ''
 
-  - rank: 59
+  - rank: 67
     name: 'Adrian-George Bostan'
     login: 'adrg'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/6454770?v=4'
@@ -474,15 +538,31 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 60
-    name: 'Pandula Péter'
-    login: 'pandulapeter'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/10262638?v=4'
-    contributions: 591
-    company: 'Halcyon Mobile'
+  - rank: 68
+    name: 'Adrian Manea'
+    login: 'adimanea'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/12065036?v=4'
+    contributions: 600
+    company: ''
     organizations: ''
 
-  - rank: 61
+  - rank: 69
+    name: 'Razvan Onofrei'
+    login: 'razwan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1633371?v=4'
+    contributions: 600
+    company: 'PixelGrade'
+    organizations: 'pixelgrade'
+
+  - rank: 70
+    name: 'Zoltan Szabo'
+    login: 'zotya'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/468679?v=4'
+    contributions: 595
+    company: '@eea @eaudeweb'
+    organizations: 'plone,eaudeweb,collective,eea'
+
+  - rank: 71
     name: 'Victor Nițu'
     login: 'nightsh'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1579997?v=4'
@@ -490,31 +570,47 @@ users:
     company: ''
     organizations: 'openspending,thesponge,rootio,debian-ro,tenders-exposed,ViderumGlobal,datopian,plagiari-sm,liquidinvestigations,eic-network,theblacksea'
 
-  - rank: 62
+  - rank: 72
+    name: 'Pandula Péter'
+    login: 'pandulapeter'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/10262638?v=4'
+    contributions: 573
+    company: 'Halcyon Mobile'
+    organizations: ''
+
+  - rank: 73
     name: 'János Rusiczki'
     login: 'janosrusiczki'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/189468?v=4'
-    contributions: 575
+    contributions: 573
     company: ''
     organizations: ''
 
-  - rank: 63
+  - rank: 74
     name: 'Dan Burzo'
     login: 'danburzo'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/205375?v=4'
-    contributions: 569
+    contributions: 568
     company: '@Evercoder'
     organizations: 'madeincluj,somesdelivery,llll-org,forklor,marceljs'
 
-  - rank: 64
+  - rank: 75
     name: 'Traian Florin Șerbănuță'
     login: 'traiansf'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/2890067?v=4'
-    contributions: 563
+    contributions: 562
     company: ' @fmi-unibuc ,@runtimeverification'
     organizations: 'runtimeverification,kframework'
 
-  - rank: 65
+  - rank: 76
+    name: 'Enache Ionut'
+    login: 'Enache-Ionut'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/10616921?v=4'
+    contributions: 556
+    company: '@Caphyon '
+    organizations: ''
+
+  - rank: 77
     name: 'Endre Simo'
     login: 'esimov'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/883386?v=4'
@@ -522,7 +618,39 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 66
+  - rank: 78
+    name: 'Dan Mihaila'
+    login: 'danmihaila'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3865844?v=4'
+    contributions: 545
+    company: ''
+    organizations: ''
+
+  - rank: 79
+    name: 'Chris Valean'
+    login: 'chvalean'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6150951?v=4'
+    contributions: 541
+    company: 'Cloudbase Solutions'
+    organizations: 'cloudbase'
+
+  - rank: 80
+    name: 'Ciprian Dorin Craciun'
+    login: 'cipriancraciun'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/29785?v=4'
+    contributions: 537
+    company: '(available for hire)'
+    organizations: 'volution,tmlug'
+
+  - rank: 81
+    name: 'Catalin Zalog'
+    login: 'zalog'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/985838?v=4'
+    contributions: 530
+    company: ''
+    organizations: 'civictechro'
+
+  - rank: 82
     name: 'Swen Kooij'
     login: 'Photonios'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5777517?v=4'
@@ -530,31 +658,23 @@ users:
     company: '@SectorLabs '
     organizations: 'SectorLabs'
 
-  - rank: 67
+  - rank: 83
     name: 'GC'
     login: 'gc-plp'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/81714?v=4'
-    contributions: 526
+    contributions: 525
     company: ''
     organizations: ''
 
-  - rank: 68
-    name: 'Ciprian Dorin Craciun'
-    login: 'cipriancraciun'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/29785?v=4'
-    contributions: 517
-    company: '(available for hire)'
-    organizations: 'volution,tmlug'
-
-  - rank: 69
+  - rank: 84
     name: 'Florin Mihalache'
     login: 'florinrm'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/12157537?v=4'
-    contributions: 509
+    contributions: 510
     company: '@oop-pub'
     organizations: 'microsoft-dx,oop-pub'
 
-  - rank: 70
+  - rank: 85
     name: 'Ionut-Cristian Florescu'
     login: 'icflorescu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/581999?v=4'
@@ -562,47 +682,55 @@ users:
     company: 'React/Next.js/Node.js Developer'
     organizations: 'aspax'
 
-  - rank: 71
-    name: 'Mihai Oltean'
-    login: 'mihaioltean'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3392157?v=4'
-    contributions: 493
-    company: '"1 Decembrie 1918" University of Alba-Iulia'
-    organizations: 'jenny5-robot,mepx'
+  - rank: 86
+    name: 'Madalin Popa'
+    login: 'ppmadalin'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5753617?v=4'
+    contributions: 491
+    company: 'Oracle'
+    organizations: 'python-romania,PyBites-Open-Source'
 
-  - rank: 72
+  - rank: 87
     name: 'Dan Goje'
     login: 'pringon'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/16070030?v=4'
-    contributions: 486
+    contributions: 489
     company: ''
     organizations: 'campus-hack-shenanigans'
 
-  - rank: 73
-    name: 'Catalin Zalog'
-    login: 'zalog'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/985838?v=4'
-    contributions: 475
-    company: ''
-    organizations: 'civictechro'
+  - rank: 88
+    name: 'Mihai Oltean'
+    login: 'mihaioltean'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3392157?v=4'
+    contributions: 488
+    company: '"1 Decembrie 1918" University of Alba-Iulia'
+    organizations: 'jenny5-robot,mepx'
 
-  - rank: 74
+  - rank: 89
     name: 'Dan Berindei'
     login: 'danberindei'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/504907?v=4'
-    contributions: 471
+    contributions: 483
     company: 'JBoss by RedHat'
     organizations: 'infinispan'
 
-  - rank: 75
+  - rank: 90
     name: 'MrAugu'
     login: 'MrAugu'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/39545629?v=4'
-    contributions: 463
+    contributions: 473
     company: ''
     organizations: ''
 
-  - rank: 76
+  - rank: 91
+    name: 'Andrei Avram'
+    login: 'andreiavrammsd'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/6795248?v=4'
+    contributions: 461
+    company: ''
+    organizations: ''
+
+  - rank: 92
     name: 'Alexandru Ionut Panait'
     login: 'IonutAlexandruPanait'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/29681377?v=4'
@@ -610,15 +738,7 @@ users:
     company: 'WebDollar'
     organizations: 'WebDollar'
 
-  - rank: 77
-    name: 'Andrei Avram'
-    login: 'andreiavrammsd'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/6795248?v=4'
-    contributions: 456
-    company: ''
-    organizations: ''
-
-  - rank: 78
+  - rank: 93
     name: 'Răzvan Crainea'
     login: 'razvancrainea'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1511224?v=4'
@@ -626,23 +746,31 @@ users:
     company: 'OpenSIPS'
     organizations: 'OpenSIPS,hexcellents'
 
-  - rank: 79
+  - rank: 94
     name: 'Vlad Mihalcea'
     login: 'vladmihalcea'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5571399?v=4'
-    contributions: 450
+    contributions: 449
     company: '@vladmihalcea'
     organizations: ''
 
-  - rank: 80
+  - rank: 95
     name: 'Alex Bișag'
     login: 'axbg'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/24988697?v=4'
-    contributions: 443
+    contributions: 448
     company: '@Accenture'
     organizations: ''
 
-  - rank: 81
+  - rank: 96
+    name: 'Rodica Vasilescu'
+    login: 'RodicaMihaelaVasilescu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/41547572?v=4'
+    contributions: 448
+    company: ''
+    organizations: ''
+
+  - rank: 97
     name: 'George Bina'
     login: 'georgebina'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1246612?v=4'
@@ -650,15 +778,15 @@ users:
     company: 'Syncro Soft / oXygen XML Editor'
     organizations: 'dita-ot'
 
-  - rank: 82
+  - rank: 98
     name: 'Vlad Frangu'
     login: 'vladfrangu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/17960496?v=4'
-    contributions: 435
+    contributions: 439
     company: ''
     organizations: 'TCDG,dirigeants,GeekHub-Discord,tt-bot-dev,KlasaCommunityPlugins,MagicCap,kubecord'
 
-  - rank: 83
+  - rank: 99
     name: 'Cristian Bote'
     login: 'cristianbote'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3405161?v=4'
@@ -666,39 +794,23 @@ users:
     company: ''
     organizations: 'preactjs,kitabsawti'
 
-  - rank: 84
-    name: 'Rodica Vasilescu'
-    login: 'RodicaMihaelaVasilescu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/41547572?v=4'
-    contributions: 419
-    company: ''
-    organizations: ''
-
-  - rank: 85
+  - rank: 100
     name: ''
     login: 'catileptic'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/14028425?v=4'
-    contributions: 419
+    contributions: 421
     company: ''
     organizations: 'code4romania,securityespresso'
 
-  - rank: 86
+  - rank: 101
     name: 'Ionut Dincu'
     login: 'gdincu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/20664969?v=4'
-    contributions: 413
+    contributions: 414
     company: ''
     organizations: ''
 
-  - rank: 87
-    name: 'Digi'
-    login: 'THDigi'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/844339?v=4'
-    contributions: 413
-    company: ''
-    organizations: ''
-
-  - rank: 88
+  - rank: 102
     name: ''
     login: 'cristian-ungureanu'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/9929553?v=4'
@@ -706,23 +818,39 @@ users:
     company: 'Themeisle'
     organizations: 'Codeinwp'
 
-  - rank: 89
-    name: 'Dan Ungureanu'
-    login: 'udan11'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4147664?v=4'
-    contributions: 411
-    company: ''
-    organizations: 'phpmyadmin,discourse'
-
-  - rank: 90
-    name: 'Dragos Ifrim'
-    login: 'echo7yankee'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/37633121?v=4'
-    contributions: 410
+  - rank: 103
+    name: 'Digi'
+    login: 'THDigi'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/844339?v=4'
+    contributions: 413
     company: ''
     organizations: ''
 
-  - rank: 91
+  - rank: 104
+    name: 'Dragos Ifrim'
+    login: 'echo7yankee'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/37633121?v=4'
+    contributions: 412
+    company: ''
+    organizations: ''
+
+  - rank: 105
+    name: 'Dan Ungureanu'
+    login: 'udan11'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/4147664?v=4'
+    contributions: 412
+    company: ''
+    organizations: 'phpmyadmin,discourse'
+
+  - rank: 106
+    name: 'Alin Panaitiu'
+    login: 'alin23'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/3819725?v=4'
+    contributions: 409
+    company: ''
+    organizations: ''
+
+  - rank: 107
     name: 'Andrei Bodea'
     login: 'abodea'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/42831109?v=4'
@@ -730,63 +858,47 @@ users:
     company: 'Softvision / @Mozilla'
     organizations: 'mozilla-mobile,mozilla-lockwise'
 
-  - rank: 92
-    name: 'Anton Kulaga'
-    login: 'antonkulaga'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/842436?v=4'
-    contributions: 406
-    company: 'Computational Biology of Aging Group'
-    organizations: 'denigma,banana-rdf,hackbio'
-
-  - rank: 93
-    name: 'Alin Panaitiu'
-    login: 'alin23'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3819725?v=4'
-    contributions: 405
-    company: ''
-    organizations: ''
-
-  - rank: 94
-    name: 'Marius Petcu'
-    login: 'dapetcu21'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/428060?v=4'
-    contributions: 403
-    company: ''
-    organizations: 'GalaciucDreamTeam'
-
-  - rank: 95
+  - rank: 108
     name: 'Vladimir Ciobanu'
     login: 'vladciobanu'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1017953?v=4'
-    contributions: 400
+    contributions: 397
     company: '@runtimeverification'
     organizations: ''
 
-  - rank: 96
-    name: 'Stefan Gabos'
-    login: 'stefangabos'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/741165?v=4'
+  - rank: 109
+    name: 'Marius Stanca'
+    login: 'wmariuss'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/6131115?v=4'
     contributions: 397
     company: ''
     organizations: ''
 
-  - rank: 97
-    name: 'Marius Stanca'
-    login: 'wmariuss'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/6131115?v=4'
-    contributions: 396
+  - rank: 110
+    name: 'Anton Kulaga'
+    login: 'antonkulaga'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/842436?v=4'
+    contributions: 395
+    company: 'Computational Biology of Aging Group'
+    organizations: 'denigma,banana-rdf,hackbio'
+
+  - rank: 111
+    name: 'Stefan Gabos'
+    login: 'stefangabos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/741165?v=4'
+    contributions: 394
     company: ''
     organizations: ''
 
-  - rank: 98
-    name: 'Motea Marius'
-    login: 'mariusmotea'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5594370?v=4'
-    contributions: 394
+  - rank: 112
+    name: 'Alexandru Chirila'
+    login: 'alexkiro'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1538458?v=4'
+    contributions: 392
     company: ''
-    organizations: 'diyhue'
+    organizations: ''
 
-  - rank: 99
+  - rank: 113
     name: 'Alin Enachescu'
     login: 'aenachescu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6330622?v=4'
@@ -794,15 +906,39 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 100
-    name: 'Nicu FLORICA (niq_ro)'
-    login: 'tehniq3'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4947574?v=4'
-    contributions: 385
-    company: 'http://www.arduinotehniq.com'
+  - rank: 114
+    name: 'Vonica Maria Minerva'
+    login: 'BabyCakes13'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/33813223?v=4'
+    contributions: 391
+    company: ''
     organizations: ''
 
-  - rank: 101
+  - rank: 115
+    name: 'Motea Marius'
+    login: 'mariusmotea'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5594370?v=4'
+    contributions: 389
+    company: ''
+    organizations: 'diyhue'
+
+  - rank: 116
+    name: 'Elod-Arpad Szopos'
+    login: 'elodszopos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/4669986?v=4'
+    contributions: 389
+    company: 'MCRO'
+    organizations: 'MCROEngineering'
+
+  - rank: 117
+    name: 'Marius Petcu'
+    login: 'dapetcu21'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/428060?v=4'
+    contributions: 381
+    company: ''
+    organizations: 'GalaciucDreamTeam'
+
+  - rank: 118
     name: 'Alexandru Radovici'
     login: 'alexandruradovici'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2838177?v=4'
@@ -810,15 +946,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 102
-    name: 'Cristian Mircea Messel'
-    login: 'mess110'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/226170?v=4'
-    contributions: 379
-    company: ''
-    organizations: ''
-
-  - rank: 103
+  - rank: 119
     name: 'Florin Pop'
     login: 'florinpop17'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/6692364?v=4'
@@ -826,15 +954,15 @@ users:
     company: 'Freelance'
     organizations: ''
 
-  - rank: 104
+  - rank: 120
     name: 'Daniel Baluta'
     login: 'dbaluta'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/62316?v=4'
-    contributions: 374
+    contributions: 372
     company: 'NXP'
     organizations: 'vmchecker,IxLabs,linux-kernel-labs'
 
-  - rank: 105
+  - rank: 121
     name: 'Liviu Chircu'
     login: 'liviuchircu'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4446084?v=4'
@@ -842,15 +970,39 @@ users:
     company: 'OpenSIPS Solutions'
     organizations: 'OpenSIPS'
 
-  - rank: 106
-    name: 'Alexandru Stoica'
-    login: 'alexandrustoica'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/11233413?v=4'
-    contributions: 371
+  - rank: 122
+    name: 'alincmt'
+    login: 'ClimenteA'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/9250009?v=4'
+    contributions: 368
     company: ''
     organizations: ''
 
-  - rank: 107
+  - rank: 123
+    name: 'xSlendiX'
+    login: 'xslendix'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/32436619?v=4'
+    contributions: 366
+    company: 'Programmingduty'
+    organizations: '3CP-Studios,teamastrum'
+
+  - rank: 124
+    name: 'Nicu FLORICA (niq_ro)'
+    login: 'tehniq3'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/4947574?v=4'
+    contributions: 365
+    company: 'http://www.arduinotehniq.com'
+    organizations: ''
+
+  - rank: 125
+    name: 'Cristian Mircea Messel'
+    login: 'mess110'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/226170?v=4'
+    contributions: 363
+    company: ''
+    organizations: ''
+
+  - rank: 126
     name: 'Andrei Tudor Călin'
     login: 'acln0'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3393388?v=4'
@@ -858,23 +1010,7 @@ users:
     company: ''
     organizations: 'gofrs'
 
-  - rank: 108
-    name: 'alincmt'
-    login: 'ClimenteA'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/9250009?v=4'
-    contributions: 358
-    company: ''
-    organizations: ''
-
-  - rank: 109
-    name: 'Ionut BALUTOIU'
-    login: 'ionutbalutoiu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6170274?v=4'
-    contributions: 355
-    company: 'Cloudbase Solutions'
-    organizations: 'cloudbase'
-
-  - rank: 110
+  - rank: 127
     name: 'Bogdan Irimie'
     login: 'IrimieBogdan'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3924120?v=4'
@@ -882,63 +1018,103 @@ users:
     company: 'Puppet'
     organizations: ''
 
-  - rank: 111
+  - rank: 128
     name: 'Nazare Emanuel-Ioan'
     login: 'EINazare'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/26245512?v=4'
-    contributions: 350
+    contributions: 351
     company: '@creativetimofficial '
     organizations: ''
 
-  - rank: 112
-    name: 'Gerlinde Christine Ciocea'
-    login: 'gerlindee'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/44527090?v=4'
-    contributions: 349
+  - rank: 129
+    name: 'Dana Paduraru'
+    login: 'danapaduraru'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/38670077?v=4'
+    contributions: 351
     company: ''
     organizations: ''
 
-  - rank: 113
+  - rank: 130
+    name: 'Ionut BALUTOIU'
+    login: 'ionutbalutoiu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6170274?v=4'
+    contributions: 347
+    company: 'Cloudbase Solutions'
+    organizations: 'cloudbase'
+
+  - rank: 131
     name: 'Dread Knight'
     login: 'DreadKnight'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/587487?v=4'
-    contributions: 340
+    contributions: 342
     company: '@FreezingMoon'
     organizations: 'FreezingMoon'
 
-  - rank: 114
-    name: 'Alexandra Iordache'
-    login: 'aghecenco'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2035829?v=4'
-    contributions: 337
-    company: '@aws '
-    organizations: ''
-
-  - rank: 115
-    name: 'Cosmin Nechifor'
-    login: 'CosminNechifor'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/22676160?v=4'
-    contributions: 333
+  - rank: 132
+    name: 'Gerlinde Christine Ciocea'
+    login: 'gerlindee'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/44527090?v=4'
+    contributions: 341
     company: ''
     organizations: ''
 
-  - rank: 116
+  - rank: 133
+    name: 'Florin Asavei'
+    login: 'florinasavei'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/10842995?v=4'
+    contributions: 332
+    company: ''
+    organizations: ''
+
+  - rank: 134
+    name: 'Alexandru Stoica'
+    login: 'alexandrustoica'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/11233413?v=4'
+    contributions: 326
+    company: ''
+    organizations: ''
+
+  - rank: 135
+    name: 'Alexandra Iordache'
+    login: 'aghecenco'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2035829?v=4'
+    contributions: 326
+    company: '@aws '
+    organizations: ''
+
+  - rank: 136
+    name: 'Florin Dragos'
+    login: 'florindragos'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1062561?v=4'
+    contributions: 325
+    company: 'Puppet'
+    organizations: ''
+
+  - rank: 137
     name: 'Costin Leau'
     login: 'costin'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/76245?v=4'
-    contributions: 324
+    contributions: 322
     company: '@elastic '
     organizations: 'elastic'
 
-  - rank: 117
+  - rank: 138
     name: 'Ecaterina Moraru (Valica)'
     login: 'evalica'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/629552?v=4'
-    contributions: 316
+    contributions: 318
     company: 'http://risherry.ro/'
     organizations: 'xwiki,xwiki-contrib,opensourcedesign,opensourcediversity,is-css'
 
-  - rank: 118
+  - rank: 139
+    name: 'Olimpiu Rob'
+    login: 'olimpiurob'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/4509513?v=4'
+    contributions: 314
+    company: 'Eau de Web'
+    organizations: 'plone,eaudeweb,collective,eea'
+
+  - rank: 140
     name: 'nicu marasoiu'
     login: 'nmarasoiu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/7734846?v=4'
@@ -946,39 +1122,47 @@ users:
     company: 'Metro Systems Romania'
     organizations: ''
 
-  - rank: 119
+  - rank: 141
     name: 'Diana Popa'
     login: 'dianpopa'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4263668?v=4'
-    contributions: 312
+    contributions: 309
     company: ''
     organizations: ''
 
-  - rank: 120
+  - rank: 142
+    name: 'Teofana Enachioiu'
+    login: 'teofanaenachioiu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/38041744?v=4'
+    contributions: 308
+    company: ''
+    organizations: ''
+
+  - rank: 143
     name: 'sch'
     login: 'stefanciprian'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1279561?v=4'
-    contributions: 309
+    contributions: 306
     company: 'SCH Digital Ltd.'
     organizations: 'sch-digital-ltd'
 
-  - rank: 121
+  - rank: 144
     name: 'Alexandru Ghica'
     login: 'alecghica'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1176874?v=4'
-    contributions: 309
+    contributions: 304
     company: '@eaudeweb '
     organizations: 'plone,eaudeweb,collective,eea,PloneGov,studyindenmark'
 
-  - rank: 122
-    name: 'Adrian Cotfas'
-    login: 'adrcotfas'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11249107?v=4'
-    contributions: 307
+  - rank: 145
+    name: 'Alexandru Branza'
+    login: 'jaruba'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1777923?v=4'
+    contributions: 303
     company: ''
     organizations: ''
 
-  - rank: 123
+  - rank: 146
     name: 'Cristian Romanescu'
     login: 'cristiroma'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/634661?v=4'
@@ -986,71 +1170,79 @@ users:
     company: 'Eau De Web'
     organizations: 'eaudeweb'
 
-  - rank: 124
-    name: 'Georgiana Elena'
-    login: 'GeorgianaElena'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/7579677?v=4'
-    contributions: 298
-    company: ''
-    organizations: 'jupyterhub,voila-dashboards'
-
-  - rank: 125
+  - rank: 147
     name: 'Nashwan Azhari'
     login: 'aznashwan'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/6192535?v=4'
-    contributions: 297
+    contributions: 298
     company: '@cloudbase '
     organizations: 'cloudbase'
 
-  - rank: 126
-    name: 'Alexandru Branza'
-    login: 'jaruba'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1777923?v=4'
-    contributions: 296
+  - rank: 148
+    name: 'Georgiana Elena'
+    login: 'GeorgianaElena'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/7579677?v=4'
+    contributions: 297
     company: ''
-    organizations: ''
+    organizations: 'jupyterhub,voila-dashboards'
 
-  - rank: 127
-    name: 'Teofana Enachioiu'
-    login: 'teofanaenachioiu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/38041744?v=4'
-    contributions: 295
-    company: ''
-    organizations: ''
-
-  - rank: 128
-    name: 'Krisztina Elekes'
-    login: 'kreafox'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/20109479?v=4'
-    contributions: 294
-    company: 'Eau de Web'
-    organizations: 'eea,OpenGenus'
-
-  - rank: 129
-    name: 'Bogdan U'
-    login: 'ubogdan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4992696?v=4'
-    contributions: 291
-    company: 'SC ACTIVEMALL SRL'
-    organizations: ''
-
-  - rank: 130
-    name: 'Nicolaie Constantinescu'
-    login: 'kosson'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3862735?v=4'
-    contributions: 284
-    company: 'Planet RO'
-    organizations: ''
-
-  - rank: 131
+  - rank: 149
     name: 'Emilian Bold'
     login: 'emilianbold'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/991554?v=4'
-    contributions: 283
+    contributions: 296
     company: ''
     organizations: 'OpenBeans'
 
-  - rank: 132
+  - rank: 150
+    name: 'Krisztina Elekes'
+    login: 'kreafox'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/20109479?v=4'
+    contributions: 293
+    company: 'Eau de Web'
+    organizations: 'eea,OpenGenus'
+
+  - rank: 151
+    name: 'Bogdan U'
+    login: 'ubogdan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4992696?v=4'
+    contributions: 293
+    company: 'SC ACTIVEMALL SRL'
+    organizations: ''
+
+  - rank: 152
+    name: 'Diana'
+    login: 'dianastanciu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/26607309?v=4'
+    contributions: 292
+    company: ''
+    organizations: ''
+
+  - rank: 153
+    name: 'Grama Nicolae'
+    login: 'gramanicu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/23612572?v=4'
+    contributions: 290
+    company: ''
+    organizations: ''
+
+  - rank: 154
+    name: 'Adrian Cotfas'
+    login: 'adrcotfas'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/11249107?v=4'
+    contributions: 283
+    company: ''
+    organizations: ''
+
+  - rank: 155
+    name: 'Iulian Onofrei'
+    login: 'revolter'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5748627?v=4'
+    contributions: 283
+    company: ''
+    organizations: 'sqlitebrowser,FolioReader,PureLayout'
+
+  - rank: 156
     name: 'Costi Muraru'
     login: 'costimuraru'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/952836?v=4'
@@ -1058,15 +1250,15 @@ users:
     company: '@adobe'
     organizations: ''
 
-  - rank: 133
-    name: 'Iulian Onofrei'
-    login: 'revolter'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5748627?v=4'
+  - rank: 157
+    name: 'Nicolaie Constantinescu'
+    login: 'kosson'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3862735?v=4'
     contributions: 280
-    company: ''
-    organizations: 'sqlitebrowser,FolioReader,PureLayout'
+    company: 'Planet RO'
+    organizations: ''
 
-  - rank: 134
+  - rank: 158
     name: 'Radu Enucă'
     login: 'raduenuca'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/462852?v=4'
@@ -1074,15 +1266,7 @@ users:
     company: 'ING Tech'
     organizations: ''
 
-  - rank: 135
-    name: 'Florin Gogianu'
-    login: 'floringogianu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1670348?v=4'
-    contributions: 278
-    company: '@bit-ml '
-    organizations: 'bit-ml,village-people'
-
-  - rank: 136
+  - rank: 159
     name: 'Çağrı S.'
     login: 'bencagri'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/823521?v=4'
@@ -1090,23 +1274,31 @@ users:
     company: ''
     organizations: 'sociozat'
 
-  - rank: 137
-    name: 'Diana'
-    login: 'dianastanciu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/26607309?v=4'
-    contributions: 277
+  - rank: 160
+    name: 'Teodor Dutu'
+    login: 'teodutu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/19818392?v=4'
+    contributions: 275
+    company: '@systems-cs-pub-ro '
+    organizations: ''
+
+  - rank: 161
+    name: ''
+    login: 'nuyonu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/39441451?v=4'
+    contributions: 270
     company: ''
     organizations: ''
 
-  - rank: 138
-    name: 'Adrian Ispas'
-    login: 'adiIspas'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15428252?v=4'
-    contributions: 271
+  - rank: 162
+    name: ''
+    login: 'mihainsto'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/44275480?v=4'
+    contributions: 270
     company: ''
     organizations: ''
 
-  - rank: 139
+  - rank: 163
     name: 'Chelaru Ciprian'
     login: 'chelaruc'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/22840626?v=4'
@@ -1114,47 +1306,79 @@ users:
     company: '@creativetimofficial '
     organizations: 'RoR-FMI,creativetimofficial'
 
-  - rank: 140
-    name: 'Cristi Jora'
-    login: 'cristijora'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15955045?v=4'
-    contributions: 268
-    company: '@BinarCode '
+  - rank: 164
+    name: 'Petre Diana'
+    login: 'petrediana'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/16005672?v=4'
+    contributions: 269
+    company: ''
     organizations: ''
 
-  - rank: 141
-    name: 'Erik'
-    login: 'codepadawan93'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/32717298?v=4'
-    contributions: 265
-    company: 'Stefanini'
+  - rank: 165
+    name: 'Matei'
+    login: 'mateimicu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4560298?v=4'
+    contributions: 269
+    company: 'Mambu'
     organizations: ''
 
-  - rank: 142
+  - rank: 166
     name: 'Adrian Fâciu'
     login: 'adrianfaciu'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2067101?v=4'
-    contributions: 264
+    contributions: 263
     company: 'Visma'
     organizations: ''
 
-  - rank: 143
-    name: 'Victor Zamfir'
-    login: 'viczam'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/22033?v=4'
-    contributions: 261
-    company: ''
+  - rank: 167
+    name: 'andrei draganescu'
+    login: 'draganescu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/107534?v=4'
+    contributions: 262
+    company: 'andrei draganescu'
     organizations: ''
 
-  - rank: 144
+  - rank: 168
+    name: 'Adrian Roman'
+    login: 'aromanro'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/16321322?v=4'
+    contributions: 261
+    company: 'Invictus Wings SRL'
+    organizations: 'InvictusWingsSRL'
+
+  - rank: 169
     name: 'Dragos Dehelean'
     login: 'dragosdehelean'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/34175492?v=4'
-    contributions: 261
+    contributions: 260
     company: ''
     organizations: ''
 
-  - rank: 145
+  - rank: 170
+    name: 'Cristi Jora'
+    login: 'cristijora'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15955045?v=4'
+    contributions: 260
+    company: '@BinarCode '
+    organizations: ''
+
+  - rank: 171
+    name: 'Adrian Ispas'
+    login: 'adiIspas'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15428252?v=4'
+    contributions: 260
+    company: ''
+    organizations: ''
+
+  - rank: 172
+    name: 'Claudiu Ceia'
+    login: 'ClaudiuCeia'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/22706412?v=4'
+    contributions: 259
+    company: '@civictechro '
+    organizations: 'civictechro,CoderDojoAlbaIulia'
+
+  - rank: 173
     name: 'Claudiu Belu'
     login: 'claudiubelu'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1552519?v=4'
@@ -1162,7 +1386,7 @@ users:
     company: 'Cloudbase Solutions'
     organizations: 'cloudbase'
 
-  - rank: 146
+  - rank: 174
     name: 'Razvan Deaconescu'
     login: 'razvand'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/232418?v=4'
@@ -1170,31 +1394,63 @@ users:
     company: 'University POLITEHNICA of Bucharest'
     organizations: 'vmchecker,lkl,pybucuresti,rosedu,IxLabs,lisa-project,open-software-solutions,hexcellents,malus-security'
 
-  - rank: 147
+  - rank: 175
+    name: 'Erik'
+    login: 'codepadawan93'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/32717298?v=4'
+    contributions: 258
+    company: 'Stefanini'
+    organizations: ''
+
+  - rank: 176
+    name: 'Florin Gogianu'
+    login: 'floringogianu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1670348?v=4'
+    contributions: 258
+    company: '@bit-ml '
+    organizations: 'bit-ml,village-people'
+
+  - rank: 177
+    name: 'Victor Zamfir'
+    login: 'viczam'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/22033?v=4'
+    contributions: 256
+    company: ''
+    organizations: ''
+
+  - rank: 178
+    name: 'Cosma Alex'
+    login: 'Alex-Cosma'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5063160?v=4'
+    contributions: 255
+    company: 'Freelancing'
+    organizations: ''
+
+  - rank: 179
     name: 'Andrei Pavel'
     login: 'andrei-pavel'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6838492?v=4'
-    contributions: 256
+    contributions: 254
     company: 'QUALITANCE'
     organizations: ''
 
-  - rank: 148
-    name: 'Alin Gabriel Serdean'
-    login: 'aserdean'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5985012?v=4'
-    contributions: 251
-    company: 'Cloudbase Solutions'
-    organizations: 'cloudbase,openvswitch'
+  - rank: 180
+    name: 'Ovidiu Bute'
+    login: 'ovidiubute'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/462561?v=4'
+    contributions: 252
+    company: ''
+    organizations: 'react-bucharest,react-cosmos,react-puzzle-games'
 
-  - rank: 149
-    name: 'Elian Doran'
-    login: 'eliandoran'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/21236836?v=4'
+  - rank: 181
+    name: 'Mircea Sorin Sebastian'
+    login: 'msorins'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/4971463?v=4'
     contributions: 251
-    company: 'Ausy Technologies Romania'
-    organizations: 'EpicGames'
+    company: ''
+    organizations: 'so-organisation'
 
-  - rank: 150
+  - rank: 182
     name: 'Florin Strugariu'
     login: 'bebef1987'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/703611?v=4'
@@ -1202,7 +1458,7 @@ users:
     company: ' Mozilla'
     organizations: 'mozilla-b2g,summer-party-cluj,mozilla-ro'
 
-  - rank: 151
+  - rank: 183
     name: 'Valeri Nistor'
     login: 'valerinistor'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1456721?v=4'
@@ -1210,39 +1466,39 @@ users:
     company: '@CUBRID'
     organizations: 'arnia'
 
-  - rank: 152
-    name: 'Ovidiu Bute'
-    login: 'ovidiubute'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/462561?v=4'
-    contributions: 249
-    company: ''
-    organizations: 'react-bucharest,react-cosmos,react-puzzle-games'
+  - rank: 184
+    name: 'Alin Gabriel Serdean'
+    login: 'aserdean'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5985012?v=4'
+    contributions: 248
+    company: 'Cloudbase Solutions'
+    organizations: 'cloudbase,openvswitch'
 
-  - rank: 153
-    name: 'Cosma Alex'
-    login: 'Alex-Cosma'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5063160?v=4'
-    contributions: 246
-    company: 'Freelancing'
+  - rank: 185
+    name: 'Dorin Hongu'
+    login: 'dhongu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/8823556?v=4'
+    contributions: 244
+    company: 'Terrabit / Deltatech'
     organizations: ''
 
-  - rank: 154
-    name: 'Adrian Roman'
-    login: 'aromanro'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/16321322?v=4'
-    contributions: 245
-    company: 'Invictus Wings SRL'
-    organizations: 'InvictusWingsSRL'
-
-  - rank: 155
-    name: 'Robert Suselea'
-    login: 'rflorian2017'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/30376759?v=4'
+  - rank: 186
+    name: 'Lucian Petrut'
+    login: 'petrutlucian94'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/4570749?v=4'
     contributions: 242
-    company: 'Vitesco Technologies Romania'
+    company: 'Cloudbase Solutions'
+    organizations: 'cloudbase'
+
+  - rank: 187
+    name: 'Skitsanos'
+    login: 'skitsanos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1391820?v=4'
+    contributions: 241
+    company: 'Skitsanos (@skitsanosinc)'
     organizations: ''
 
-  - rank: 156
+  - rank: 188
     name: 'Petru Alin Gheorghe'
     login: 'palingheorghe'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/15977949?v=4'
@@ -1250,15 +1506,15 @@ users:
     company: ''
     organizations: 'galio-org'
 
-  - rank: 157
-    name: 'Dorin Hongu'
-    login: 'dhongu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/8823556?v=4'
+  - rank: 189
+    name: 'Robert Suselea'
+    login: 'rflorian2017'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/30376759?v=4'
     contributions: 238
-    company: 'Terrabit / Deltatech'
+    company: 'Vitesco Technologies Romania'
     organizations: ''
 
-  - rank: 158
+  - rank: 190
     name: 'vizu'
     login: 'bvizureanu'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/3786565?v=4'
@@ -1266,15 +1522,31 @@ users:
     company: '@code4romania'
     organizations: 'code4romania,tech-week-ro'
 
-  - rank: 159
+  - rank: 191
+    name: 'Daniel Platon'
+    login: 'dplaton'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1407821?v=4'
+    contributions: 237
+    company: 'Adobe Romania'
+    organizations: ''
+
+  - rank: 192
+    name: 'Hecării, Țuica și Păunii'
+    login: 'HecariiTuicaSiPaunii'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/46106346?v=4'
+    contributions: 237
+    company: 'HTsP'
+    organizations: ''
+
+  - rank: 193
     name: 'Bianca Nenciu'
     login: 'nbianca'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/23153890?v=4'
-    contributions: 238
+    contributions: 237
     company: '@discourse'
     organizations: 'discourse'
 
-  - rank: 160
+  - rank: 194
     name: 'Theodor Diaconu'
     login: 'theodorDiaconu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1814863?v=4'
@@ -1282,15 +1554,23 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 161
+  - rank: 195
     name: 'Bogdan Bujdea'
     login: 'thewindev'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/793611?v=4'
-    contributions: 235
+    contributions: 233
     company: 'ISSCO'
     organizations: 'code4romania'
 
-  - rank: 162
+  - rank: 196
+    name: 'Dan Rusu'
+    login: 'danrusu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/28700293?v=4'
+    contributions: 226
+    company: '@DPA-RO'
+    organizations: 'AIT-RO'
+
+  - rank: 197
     name: 'Taylor Mock'
     login: 'tmock12'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1124585?v=4'
@@ -1298,7 +1578,7 @@ users:
     company: 'Heroku'
     organizations: 'rubyjax,ember-weekend'
 
-  - rank: 163
+  - rank: 198
     name: 'Dronca Raul'
     login: 'iRaul'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6464945?v=4'
@@ -1306,39 +1586,15 @@ users:
     company: '@Fyusion '
     organizations: ''
 
-  - rank: 164
+  - rank: 199
     name: 'Gabriel'
     login: 'gabriel-samfira'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/903160?v=4'
-    contributions: 224
+    contributions: 225
     company: 'Cloudbase Solutions SRL'
     organizations: 'cloudbase,juju'
 
-  - rank: 165
-    name: 'Sturza Mihai George'
-    login: 'sturzamihai'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/22714953?v=4'
-    contributions: 221
-    company: ''
-    organizations: 'bucharestschoolofai'
-
-  - rank: 166
-    name: 'Emilia Muresan'
-    login: 'emimuresan'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5598081?v=4'
-    contributions: 221
-    company: ''
-    organizations: ''
-
-  - rank: 167
-    name: 'Belciug Ovidiu-Mihai'
-    login: 'ovidiumihaibelciug'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/25400915?v=4'
-    contributions: 221
-    company: ''
-    organizations: 'gatsbyjs,reactemplates'
-
-  - rank: 168
+  - rank: 200
     name: 'Alboaie Sînică'
     login: 'salboaie'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1595518?v=4'
@@ -1346,7 +1602,23 @@ users:
     company: 'Axiologic SaaS SRL'
     organizations: 'PrivateSky'
 
-  - rank: 169
+  - rank: 201
+    name: 'Sturza Mihai George'
+    login: 'sturzamihai'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/22714953?v=4'
+    contributions: 217
+    company: ''
+    organizations: 'bucharestschoolofai'
+
+  - rank: 202
+    name: 'Robert Badea'
+    login: 'Owlree'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6094194?v=4'
+    contributions: 216
+    company: '@electronicarts'
+    organizations: ''
+
+  - rank: 203
     name: 'Zeno Popovici'
     login: 'zenopopovici'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/767998?v=4'
@@ -1354,7 +1626,15 @@ users:
     company: 'Graffino'
     organizations: 'Graffino'
 
-  - rank: 170
+  - rank: 204
+    name: 'Calin Tamas'
+    login: 'calintamas'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/9104454?v=4'
+    contributions: 216
+    company: ''
+    organizations: 'omasacalda'
+
+  - rank: 205
     name: 'Lucian Sasu'
     login: 'lmsasu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3276268?v=4'
@@ -1362,23 +1642,31 @@ users:
     company: 'Transilvania University of Brasov'
     organizations: ''
 
-  - rank: 171
+  - rank: 206
+    name: 'Emilia Muresan'
+    login: 'emimuresan'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5598081?v=4'
+    contributions: 215
+    company: ''
+    organizations: ''
+
+  - rank: 207
     name: 'Alexandru Oancea'
     login: 'aoancea'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4282532?v=4'
-    contributions: 215
+    contributions: 213
     company: 'Qubiz'
     organizations: 'githubschool,QubizSolutions,aoanceaorg,gov-ithub,coderdojooradea,csu-org,aoancea-dapps,Qubiz-Academy'
 
-  - rank: 172
-    name: 'Robert Badea'
-    login: 'Owlree'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6094194?v=4'
-    contributions: 214
-    company: '@electronicarts'
+  - rank: 208
+    name: 'Lucian Radu Teodorescu'
+    login: 'lucteo'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/9896706?v=4'
+    contributions: 211
+    company: ''
     organizations: ''
 
-  - rank: 173
+  - rank: 209
     name: 'Emanuel Ciuca'
     login: 'eciuca'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3948642?v=4'
@@ -1386,15 +1674,31 @@ users:
     company: ''
     organizations: 'webgenerals'
 
-  - rank: 174
-    name: 'Lucian Radu Teodorescu'
-    login: 'lucteo'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/9896706?v=4'
-    contributions: 207
-    company: ''
-    organizations: ''
+  - rank: 210
+    name: 'George Olaru'
+    login: 'georgeolaru'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1632775?v=4'
+    contributions: 210
+    company: '@pixelgrade'
+    organizations: 'pixelgrade'
 
-  - rank: 175
+  - rank: 211
+    name: 'Belciug Ovidiu-Mihai'
+    login: 'ovidiumihaibelciug'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/25400915?v=4'
+    contributions: 209
+    company: ''
+    organizations: 'gatsbyjs,reactemplates'
+
+  - rank: 212
+    name: 'Elian Doran'
+    login: 'eliandoran'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/21236836?v=4'
+    contributions: 208
+    company: 'Ausy Technologies Romania'
+    organizations: 'EpicGames'
+
+  - rank: 213
     name: 'Eduard Tamsa'
     login: 'TaEduard'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/19353972?v=4'
@@ -1402,15 +1706,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 176
-    name: 'Mircea Dobreanu'
-    login: 'mcdobr'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/10348173?v=4'
-    contributions: 205
-    company: ''
-    organizations: ''
-
-  - rank: 177
+  - rank: 214
     name: 'Fmohican'
     login: 'fmohican'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/8583317?v=4'
@@ -1418,23 +1714,31 @@ users:
     company: ''
     organizations: 'wien-subs,ColoniseTheWorld'
 
-  - rank: 178
-    name: 'Petre Rodan'
-    login: 'rodan'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1022777?v=4'
-    contributions: 199
+  - rank: 215
+    name: 'Vlad Gheorghe'
+    login: 'vlad-gheorghe'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/31849727?v=4'
+    contributions: 200
     company: ''
     organizations: ''
 
-  - rank: 179
-    name: 'Lavinia Dragunoi'
-    login: 'LaviniaDragunoi'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/36914492?v=4'
-    contributions: 198
+  - rank: 216
+    name: 'Gabi Udrescu'
+    login: 'gabiudrescu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5156054?v=4'
+    contributions: 197
     company: ''
     organizations: ''
 
-  - rank: 180
+  - rank: 217
+    name: 'Mircea Dobreanu'
+    login: 'mcdobr'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/10348173?v=4'
+    contributions: 197
+    company: ''
+    organizations: ''
+
+  - rank: 218
     name: 'Daniela Craciun'
     login: 'danielacraciun'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/13560477?v=4'
@@ -1442,7 +1746,23 @@ users:
     company: '@deliveryhero'
     organizations: 'deliveryhero,foodora,gcodersclub'
 
-  - rank: 181
+  - rank: 219
+    name: 'Petre Rodan'
+    login: 'rodan'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1022777?v=4'
+    contributions: 196
+    company: ''
+    organizations: ''
+
+  - rank: 220
+    name: 'Ovidiu'
+    login: 'ovidiugabriel'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/4112492?v=4'
+    contributions: 196
+    company: ''
+    organizations: 'Iasi-C-CPP-Developers-Meetup'
+
+  - rank: 221
     name: 'Alex ln'
     login: 'logalex96'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/6248839?v=4'
@@ -1450,23 +1770,55 @@ users:
     company: 'Endava'
     organizations: ''
 
-  - rank: 182
-    name: 'Eduard Suica'
-    login: 'eduardsui'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/16817829?v=4'
+  - rank: 222
+    name: 'Andrei Badea'
+    login: 'zbiller'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2579306?v=4'
     contributions: 194
-    company: 'Devronium Applications'
-    organizations: 'Devronium'
+    company: 'Neurony'
+    organizations: 'Neurony,LaraCrafts'
 
-  - rank: 183
+  - rank: 223
+    name: 'Denis Nuțiu'
+    login: 'dnutiu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6840706?v=4'
+    contributions: 193
+    company: 'Bitdefender'
+    organizations: 'NovelComputationAndControl'
+
+  - rank: 224
+    name: 'Lavinia Dragunoi'
+    login: 'LaviniaDragunoi'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/36914492?v=4'
+    contributions: 193
+    company: ''
+    organizations: ''
+
+  - rank: 225
+    name: 'Vlad Meșco'
+    login: 'alzwded'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1749301?v=4'
+    contributions: 191
+    company: ''
+    organizations: ''
+
+  - rank: 226
+    name: 'Mihail Feraru'
+    login: 'JustBeYou'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/10727813?v=4'
+    contributions: 190
+    company: 'a home app'
+    organizations: ''
+
+  - rank: 227
     name: 'Andrei Nitescu'
     login: 'andreinitescu'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/743918?v=4'
-    contributions: 192
+    contributions: 189
     company: 'https://twitter.com/nitescua'
     organizations: ''
 
-  - rank: 184
+  - rank: 228
     name: 'Daniel Butum'
     login: 'vampy'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1269608?v=4'
@@ -1474,39 +1826,39 @@ users:
     company: 'Not Yet'
     organizations: 'supertuxkart'
 
-  - rank: 185
-    name: 'Mihail Feraru'
-    login: 'JustBeYou'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/10727813?v=4'
-    contributions: 187
-    company: 'a home app'
-    organizations: ''
-
-  - rank: 186
-    name: 'Bogdan Solga'
-    login: 'bogdansolga'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/4047257?v=4'
-    contributions: 187
-    company: 'SafeData Net'
-    organizations: ''
-
-  - rank: 187
-    name: 'Vlad Meșco'
-    login: 'alzwded'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1749301?v=4'
-    contributions: 186
+  - rank: 229
+    name: 'Ursaciuc Adrian'
+    login: 'ursaciuc-adrian'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/21957490?v=4'
+    contributions: 188
     company: ''
     organizations: ''
 
-  - rank: 188
-    name: 'Denis Nuțiu'
-    login: 'dnutiu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6840706?v=4'
-    contributions: 184
-    company: 'Bitdefender'
-    organizations: 'NovelComputationAndControl'
+  - rank: 230
+    name: 'Dragos Sebestin'
+    login: 'sebestindragos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1622790?v=4'
+    contributions: 187
+    company: 'PRO BST IT @probstit'
+    organizations: 'probstit'
 
-  - rank: 189
+  - rank: 231
+    name: 'Eduard Suica'
+    login: 'eduardsui'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/16817829?v=4'
+    contributions: 187
+    company: 'Devronium Applications'
+    organizations: 'Devronium'
+
+  - rank: 232
+    name: 'Alexandru Pavaloi'
+    login: 'iampava'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/11327761?v=4'
+    contributions: 187
+    company: ''
+    organizations: 'flixier'
+
+  - rank: 233
     name: 'Costin Bleotu'
     login: 'costibleotu'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1089585?v=4'
@@ -1514,7 +1866,7 @@ users:
     company: 'Cortex Technology'
     organizations: 'code4romania,databus-systems'
 
-  - rank: 190
+  - rank: 234
     name: 'Stefan Cristian B.'
     login: 'StefanCristian'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1596515?v=4'
@@ -1522,23 +1874,23 @@ users:
     company: '@Rogentos Linux Group'
     organizations: 'Rogentos,CloudSlang'
 
-  - rank: 191
-    name: 'Robert Pop'
-    login: 'robipop22'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/13586721?v=4'
-    contributions: 182
+  - rank: 235
+    name: 'Ervin'
+    login: 'ErvinCs'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/37117821?v=4'
+    contributions: 181
     company: ''
     organizations: ''
 
-  - rank: 192
-    name: 'MarinFotache'
-    login: 'marinfotache'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/7832272?v=4'
-    contributions: 180
-    company: 'Al.I.Cuza University of Iasi'
+  - rank: 236
+    name: 'Bogdan Solga'
+    login: 'bogdansolga'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/4047257?v=4'
+    contributions: 181
+    company: 'SafeData Net'
     organizations: ''
 
-  - rank: 193
+  - rank: 237
     name: 'Grigore Cristian-Andrei'
     login: 'grrigore'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/13870729?v=4'
@@ -1546,7 +1898,7 @@ users:
     company: 'roweb'
     organizations: ''
 
-  - rank: 194
+  - rank: 238
     name: 'Paul Catinean'
     login: 'PCatinean'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/3704235?v=4'
@@ -1554,7 +1906,7 @@ users:
     company: 'Pledra'
     organizations: ''
 
-  - rank: 195
+  - rank: 239
     name: 'Mihai Costea'
     login: 'macostea'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3407863?v=4'
@@ -1562,31 +1914,15 @@ users:
     company: 'Telenav'
     organizations: 'CultOfAgileLimericks'
 
-  - rank: 196
-    name: 'Andrei Nedelus'
-    login: 'misshu1'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/31734905?v=4'
-    contributions: 177
-    company: 'Front-End Web Developer'
+  - rank: 240
+    name: 'Adrian Nuta'
+    login: 'adriannuta'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/956984?v=4'
+    contributions: 178
+    company: '@manticoresoftware '
     organizations: ''
 
-  - rank: 197
-    name: 'Alexandru Pavaloi'
-    login: 'iampava'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/11327761?v=4'
-    contributions: 177
-    company: ''
-    organizations: 'flixier'
-
-  - rank: 198
-    name: 'Alexandru Turcanu'
-    login: 'Pondorasti'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/32957606?v=4'
-    contributions: 177
-    company: ''
-    organizations: 'Kifuapp'
-
-  - rank: 199
+  - rank: 241
     name: 'Radu Stoenescu'
     login: 'radustoenescu'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1506044?v=4'
@@ -1594,7 +1930,15 @@ users:
     company: 'Politehnica Bucharest'
     organizations: ''
 
-  - rank: 200
+  - rank: 242
+    name: 'MarinFotache'
+    login: 'marinfotache'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/7832272?v=4'
+    contributions: 177
+    company: 'Al.I.Cuza University of Iasi'
+    organizations: ''
+
+  - rank: 243
     name: 'Costin Grigore'
     login: 'raisercostin'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1624467?v=4'
@@ -1602,7 +1946,7 @@ users:
     company: '@Revomatico '
     organizations: ''
 
-  - rank: 201
+  - rank: 244
     name: 'David Saltares'
     login: 'dsaltares'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/570314?v=4'
@@ -1610,23 +1954,7 @@ users:
     company: ''
     organizations: 'libgdx'
 
-  - rank: 202
-    name: 'Adrian Nuta'
-    login: 'adriannuta'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/956984?v=4'
-    contributions: 174
-    company: '@manticoresoftware '
-    organizations: ''
-
-  - rank: 203
-    name: 'Claudiu Nicola'
-    login: 'claudiunicolaa'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/15197275?v=4'
-    contributions: 173
-    company: '@cluj-ytech @NicTechSolutions '
-    organizations: 'cluj-ytech'
-
-  - rank: 204
+  - rank: 245
     name: 'Costin Moise'
     login: 'necenzurat'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/145449?v=4'
@@ -1634,31 +1962,71 @@ users:
     company: '@smso '
     organizations: 'romania,smso'
 
-  - rank: 205
-    name: 'Iftimie Florentin Alexandru'
-    login: 'Iftimie'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/15947767?v=4'
-    contributions: 168
-    company: ''
-    organizations: 'Gordius2017'
+  - rank: 246
+    name: 'Claudiu Nicola'
+    login: 'claudiunicolaa'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/15197275?v=4'
+    contributions: 173
+    company: '@cluj-ytech @NicTechSolutions '
+    organizations: 'cluj-ytech'
 
-  - rank: 206
+  - rank: 247
     name: 'Andrei Sfat'
     login: 'sfat'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/442744?v=4'
-    contributions: 167
+    contributions: 172
     company: 'iWelcome'
     organizations: ''
 
-  - rank: 207
-    name: 'Bogdan Alexandru Militaru'
-    login: 'boobo94'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/16722674?v=4'
-    contributions: 163
+  - rank: 248
+    name: 'Paul Jugărean'
+    login: 'pauljugarean'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/19713238?v=4'
+    contributions: 171
+    company: '@Graffino '
+    organizations: 'Graffino'
+
+  - rank: 249
+    name: 'ars'
+    login: 'ardeleanasm'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/3134549?v=4'
+    contributions: 171
     company: ''
     organizations: ''
 
-  - rank: 208
+  - rank: 250
+    name: 'leptun'
+    login: 'leptun'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/17808203?v=4'
+    contributions: 167
+    company: ''
+    organizations: ''
+
+  - rank: 251
+    name: 'Robert Pop'
+    login: 'robipop22'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/13586721?v=4'
+    contributions: 167
+    company: ''
+    organizations: ''
+
+  - rank: 252
+    name: 'Andrei Nedelus'
+    login: 'misshu1'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/31734905?v=4'
+    contributions: 166
+    company: 'Front-End Web Developer'
+    organizations: ''
+
+  - rank: 253
+    name: 'Micky Socaci'
+    login: 'mickys'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/200507?v=4'
+    contributions: 164
+    company: '@blockbitsio '
+    organizations: 'blockbitsio,lukso-network,OpenZesame,genomesio,cryptolandtech'
+
+  - rank: 254
     name: 'Stefan Dumitrescu'
     login: 'dumitrescustefan'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/22746816?v=4'
@@ -1666,481 +2034,153 @@ users:
     company: 'Sustainalytics (currently), Research Institute for AI (previous)'
     organizations: ''
 
-  - rank: 209
-    name: 'Ștefan-Gabriel Muscalu'
-    login: 'legraphista'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/962643?v=4'
-    contributions: 163
-    company: 'Findie Development'
-    organizations: 'findie'
-
-  - rank: 210
-    name: 'B.G.Adrian'
-    login: 'bgadrian'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/830001?v=4'
-    contributions: 162
-    company: 'https://twitter.com/B3aT'
-    organizations: ''
-
-  - rank: 211
-    name: 'Micky Socaci'
-    login: 'mickys'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/200507?v=4'
-    contributions: 162
-    company: '@blockbitsio '
-    organizations: 'blockbitsio,lukso-network,OpenZesame,genomesio,cryptolandtech'
-
-  - rank: 212
-    name: 'Razvan'
-    login: 'corsicanu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6254131?v=4'
-    contributions: 160
-    company: ''
-    organizations: 'TwrpBuilder,Exynos7880,devkingsteam'
-
-  - rank: 213
-    name: 'Decebal Suiu'
-    login: 'decebals'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1248311?v=4'
-    contributions: 159
-    company: ''
-    organizations: 'pf4j,pippo-java'
-
-  - rank: 214
-    name: 'Munteanu Andrei-Stefan'
-    login: 'MunteanuAndreiStefan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/9087422?v=4'
-    contributions: 158
-    company: ''
-    organizations: ''
-
-  - rank: 215
-    name: 'Constantin Emanuel'
-    login: 'Vegas007'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/17238102?v=4'
-    contributions: 157
-    company: 'Software Engineer at Continental AG'
-    organizations: ''
-
-  - rank: 216
-    name: 'Andrei Tudorache'
-    login: 'Andrei2D'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/32478989?v=4'
-    contributions: 156
-    company: ''
-    organizations: ''
-
-  - rank: 217
-    name: 'Horia Coman'
-    login: 'horia141'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6992873?v=4'
-    contributions: 155
-    company: 'Bolt'
-    organizations: 'ocelot-saas'
-
-  - rank: 218
-    name: 'Adrian Tache'
-    login: 'adriantache'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/33874344?v=4'
-    contributions: 151
-    company: ''
-    organizations: ''
-
-  - rank: 219
-    name: 'Alexandru Bau'
-    login: 'alexandrubau'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1225661?v=4'
-    contributions: 150
-    company: ''
-    organizations: ''
-
-  - rank: 220
-    name: 'Brian Lowe'
-    login: 'brianjlowe'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2677238?v=4'
-    contributions: 150
-    company: 'Ontocale SRL'
-    organizations: 'vivo-project,openrif,AGROFIMS,AgriculturalSemantics,ontocale,WheatVIVO,RAP-research-output-impact,vivo-community,vivo-archive'
-
-  - rank: 221
-    name: 'Dan Oneata'
-    login: 'danoneata'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/819256?v=4'
-    contributions: 150
-    company: 'Eloquentix'
-    organizations: ''
-
-  - rank: 222
-    name: 'Mihai Ghidoveanu'
-    login: 'mihaighidoveanu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/17084301?v=4'
-    contributions: 149
-    company: 'Adonis Software'
-    organizations: ''
-
-  - rank: 223
-    name: 'Balaj Marius'
-    login: 'balajmarius'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5159921?v=4'
-    contributions: 148
-    company: ''
-    organizations: 'timisoara,srdpat,unlease-retro,alacrity-law'
-
-  - rank: 224
-    name: 'Mircea Kitsune'
-    login: 'MirceaKitsune'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/825418?v=4'
-    contributions: 147
-    company: ''
-    organizations: ''
-
-  - rank: 225
-    name: 'Robert Colca'
-    login: 'robery567'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2547282?v=4'
-    contributions: 147
-    company: 'Amazon'
-    organizations: 'leustean'
-
-  - rank: 226
-    name: 'Calinoiu Alexandru Nicolae'
-    login: 'alexandru-calinoiu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/679198?v=4'
-    contributions: 147
-    company: 'Agilefreaks'
-    organizations: 'fog,staunchRobots,Agilefreaks,Studio3,JLL-IT,gov-ithub'
-
-  - rank: 227
-    name: 'Codrin Pavel'
-    login: 'ZeroSpree'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1673595?v=4'
-    contributions: 144
-    company: '@ideasonpurpose '
-    organizations: ''
-
-  - rank: 228
-    name: 'Cretu Eusebiu'
-    login: 'cretueusebiu'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1517945?v=4'
-    contributions: 143
-    company: ''
-    organizations: 'hazzardweb,otinsoft,flixier'
-
-  - rank: 229
-    name: 'Nicu'
-    login: 'surdu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/11520795?v=4'
-    contributions: 143
-    company: '@3PillarGlobal '
-    organizations: '3PG-h4ck3rs,Formless-js,3PillarGlobal,code4romania'
-
-  - rank: 230
-    name: 'Liviu-Adrian Cotfas'
-    login: 'liviucotfas'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2981923?v=4'
-    contributions: 143
-    company: ''
-    organizations: ''
-
-  - rank: 231
-    name: 'Cornel Stefanache'
-    login: 'cstefanache'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3071201?v=4'
-    contributions: 142
-    company: 'ApexWeb'
-    organizations: 'readthesource,CxSci,ismonkeyuser'
-
-  - rank: 232
-    name: 'Dan Cojocar'
-    login: 'dancojocar'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/79465?v=4'
-    contributions: 141
-    company: ''
-    organizations: ''
-
-  - rank: 233
-    name: 'Lupu'
-    login: 'lupu60'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5337610?v=4'
-    contributions: 141
-    company: ''
-    organizations: ''
-
-  - rank: 234
-    name: 'Stefan Delibas'
-    login: 'stefandelibas'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/25058135?v=4'
-    contributions: 139
-    company: ''
-    organizations: ''
-
-  - rank: 235
-    name: 'Eugen Tudorancea'
-    login: 'ugin'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/147790?v=4'
-    contributions: 138
-    company: 'Navaru'
-    organizations: 'romania,navaru,nore'
-
-  - rank: 236
-    name: 'Catalin Zmole'
-    login: 'czmole'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3465858?v=4'
-    contributions: 137
-    company: '11Digits'
-    organizations: 'code4romania'
-
-  - rank: 237
-    name: 'Razvan Romanescu'
-    login: 'hiezust'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/11097683?v=4'
-    contributions: 134
-    company: ''
-    organizations: ''
-
-  - rank: 238
-    name: 'Razvan Axinie'
-    login: 'redount2k9'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/13453590?v=4'
-    contributions: 134
-    company: ''
-    organizations: ''
-
-  - rank: 239
-    name: 'Alexandru Cambose'
-    login: 'alexcambose'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/12383978?v=4'
-    contributions: 134
-    company: ''
-    organizations: ''
-
-  - rank: 240
-    name: 'Adrian Muraru'
-    login: 'amuraru'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/728853?v=4'
-    contributions: 133
-    company: '@adobe'
-    organizations: ''
-
-  - rank: 241
-    name: 'Hetmann W. Iohan'
-    login: 'hetmann'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3584560?v=4'
-    contributions: 133
-    company: 'Hetmann Technologies SRL'
-    organizations: ''
-
-  - rank: 242
-    name: 'Andrei Cioban'
-    login: 'andreicioban'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/7642654?v=4'
-    contributions: 133
-    company: 'Assist Software'
-    organizations: 'assist-software,sefaira'
-
-  - rank: 243
-    name: 'Gabriel Vasile'
-    login: 'gabriel-vasile'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/10602896?v=4'
-    contributions: 131
-    company: '-'
-    organizations: ''
-
-  - rank: 244
-    name: 'TED Vortex (Teodor Eugen Duțulescu)'
-    login: '0-vortex'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/237133?v=4'
-    contributions: 131
-    company: 'Tiamat Tech'
-    organizations: 'superleap,RequiemAeterna'
-
-  - rank: 245
-    name: 'Calin'
-    login: 'botofancalin'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/32721615?v=4'
-    contributions: 130
-    company: ''
-    organizations: ''
-
-  - rank: 246
-    name: 'Mihai Cristescu'
-    login: 'mihaicris'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5946912?v=4'
-    contributions: 129
-    company: 'Systematic'
-    organizations: ''
-
-  - rank: 247
-    name: 'Claudiu Ceia'
-    login: 'ClaudiuCeia'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/22706412?v=4'
-    contributions: 129
-    company: '@civictechro '
-    organizations: 'civictechro,CoderDojoAlbaIulia'
-
-  - rank: 248
-    name: 'Szilagyi Ervin'
-    login: 'Ernyoke'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5096852?v=4'
-    contributions: 129
-    company: 'RIA Solutions Group'
-    organizations: ''
-
-  - rank: 249
-    name: 'Nicolae Matei'
-    login: 'nmatei'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2863309?v=4'
-    contributions: 128
-    company: 'SDL'
-    organizations: ''
-
-  - rank: 250
-    name: 'Andrei Ghervan'
-    login: 'andreighervan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/22854315?v=4'
-    contributions: 126
-    company: ''
-    organizations: ''
-
-  - rank: 251
-    name: 'Bogdan Constantinescu'
-    login: 'bogdanconstantinescu'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/301601?v=4'
-    contributions: 125
-    company: ''
-    organizations: 'code4romania'
-
-  - rank: 252
-    name: 'Gabriel Ivașcu'
-    login: 'gabrielivascu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/8331126?v=4'
-    contributions: 125
-    company: ''
-    organizations: ''
-
-  - rank: 253
-    name: 'Stefan Neculai'
-    login: 'stefanneculai'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/637004?v=4'
-    contributions: 125
-    company: ''
-    organizations: ''
-
-  - rank: 254
-    name: 'Alexandru N. Onea'
-    login: 'alexonea'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1883841?v=4'
-    contributions: 125
-    company: '@thetopor '
-    organizations: 'eyessee,codeforpeople,thetopor'
-
   - rank: 255
-    name: 'Roland Leth'
-    login: 'rolandleth'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1858700?v=4'
-    contributions: 124
-    company: 'Runtime Sharks'
+    name: 'Daniel Andrei'
+    login: 'whitecrownclown'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/8309417?v=4'
+    contributions: 163
+    company: 'Ezugi'
     organizations: ''
 
   - rank: 256
-    name: 'Razvan Marian Cazacu'
-    login: 'razvancazacu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/37286774?v=4'
-    contributions: 124
+    name: ''
+    login: 'eddyp'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/123772?v=4'
+    contributions: 162
     company: ''
-    organizations: ''
+    organizations: 'sbenitez-cs140e'
 
 private_users:
 
   - rank: 1
+    name: 'Radu Iacob'
+    login: 'johnthebrave'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1448827?v=4'
+    contributions: 9283
+    company: ''
+    organizations: 'HMatata'
+
+  - rank: 2
+    name: 'Emil Alexandrescu'
+    login: 'emil-alexandrescu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/7582371?v=4'
+    contributions: 6079
+    company: ''
+    organizations: ''
+
+  - rank: 3
     name: 'Cretu Eusebiu'
     login: 'cretueusebiu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1517945?v=4'
-    contributions: 5948
+    contributions: 5951
     company: ''
     organizations: 'hazzardweb,otinsoft,flixier'
 
-  - rank: 2
+  - rank: 4
     name: 'Swen Kooij'
     login: 'Photonios'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5777517?v=4'
-    contributions: 5338
+    contributions: 5252
     company: '@SectorLabs '
     organizations: 'SectorLabs'
 
-  - rank: 3
+  - rank: 5
     name: 'Adrian Ocneanu'
     login: 'aocneanu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/16073274?v=4'
-    contributions: 4808
+    contributions: 4841
     company: ''
     organizations: 'laravel-enso'
 
-  - rank: 4
+  - rank: 6
     name: 'Stefan Prodan'
     login: 'stefanprodan'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3797675?v=4'
-    contributions: 4739
+    contributions: 4773
     company: '@weaveworks'
     organizations: 'weaveworks,openfaas,openfaas-incubator,knative,deislabs,teamserverless,fluxcd'
 
-  - rank: 5
+  - rank: 7
+    name: 'Jared Smith'
+    login: 'jrods'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5874122?v=4'
+    contributions: 4511
+    company: '@Phyramid '
+    organizations: 'EpicGames,jared-n-sams-fun-playhouses'
+
+  - rank: 8
     name: 'Balaj Marius'
     login: 'balajmarius'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/5159921?v=4'
-    contributions: 4470
+    contributions: 4471
     company: ''
     organizations: 'timisoara,srdpat,unlease-retro,alacrity-law'
 
-  - rank: 6
+  - rank: 9
     name: 'Elian Doran'
     login: 'eliandoran'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/21236836?v=4'
-    contributions: 4440
+    contributions: 4362
     company: 'Ausy Technologies Romania'
     organizations: 'EpicGames'
 
-  - rank: 7
+  - rank: 10
     name: 'anghelleonard'
     login: 'AnghelLeonard'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3829643?v=4'
-    contributions: 4244
+    contributions: 4192
     company: ''
     organizations: ''
 
-  - rank: 8
+  - rank: 11
     name: 'Alexandru Leca'
     login: 'alexandruleca'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3527961?v=4'
-    contributions: 4056
+    contributions: 4054
     company: ''
     organizations: 'softbinator,swazm'
 
-  - rank: 9
+  - rank: 12
+    name: 'Florin Braescu'
+    login: 'florin65'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1948024?v=4'
+    contributions: 3991
+    company: 'Independent Contractor'
+    organizations: 'lunar-linux'
+
+  - rank: 13
     name: 'Florin Ionce'
     login: 'florinionce'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5691532?v=4'
-    contributions: 3824
+    contributions: 3826
     company: 'Full Stack Developer @Wolfpack-Digital '
     organizations: 'Wolfpack-Digital'
 
-  - rank: 10
+  - rank: 14
     name: 'Bogdan Popa'
     login: 'Bogdanp'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/43347?v=4'
-    contributions: 3588
+    contributions: 3628
     company: '@matchacharo'
     organizations: 'nomics-crypto,matchacharo'
 
-  - rank: 11
+  - rank: 15
     name: 'Cristi Jora'
     login: 'cristijora'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/15955045?v=4'
-    contributions: 3464
+    contributions: 3466
     company: '@BinarCode '
     organizations: ''
 
-  - rank: 12
+  - rank: 16
+    name: 'Cosmin Stamate'
+    login: 'monovertex'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1837605?v=4'
+    contributions: 3422
+    company: ''
+    organizations: 'SmartBillCloud'
+
+  - rank: 17
     name: 'Teo Sarca'
     login: 'teosarca'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1244701?v=4'
@@ -2148,119 +2188,135 @@ private_users:
     company: 'metas.ro SRL'
     organizations: 'metasfresh'
 
-  - rank: 13
+  - rank: 18
     name: 'Razvan Stoenescu'
     login: 'rstoenescu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4665641?v=4'
-    contributions: 3237
+    contributions: 3206
     company: '@quasarframework '
     organizations: 'quasarframework'
 
-  - rank: 14
+  - rank: 19
     name: 'Vlad Olaru'
     login: 'vladolaru'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/8830539?v=4'
-    contributions: 3182
+    contributions: 3184
     company: '@pixelgrade '
     organizations: 'pixelgrade'
 
-  - rank: 15
+  - rank: 20
     name: 'Kuran Kaname'
     login: 'celtare21'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/29823626?v=4'
-    contributions: 2932
+    contributions: 3122
     company: ''
     organizations: ''
 
-  - rank: 16
+  - rank: 21
     name: 'Robert Rusu'
     login: 'rusuandreirobert'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3656623?v=4'
-    contributions: 2878
+    contributions: 2844
     company: 'CTO - @codeiscode LLC.'
     organizations: 'easy-development'
 
-  - rank: 17
+  - rank: 22
     name: 'Marius Ungureanu'
     login: 'Therzok'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/109974?v=4'
-    contributions: 2730
+    contributions: 2728
     company: '@Microsoft'
     organizations: 'mono,libgit2,xamarin,rosedu,microsoft'
 
-  - rank: 18
+  - rank: 23
     name: 'Demon000'
     login: 'Demon000'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/12939434?v=4'
-    contributions: 2691
+    contributions: 2721
     company: '@Digilent '
     organizations: ''
 
-  - rank: 19
+  - rank: 24
+    name: 'Neamtu Andrei'
+    login: 'neamtua'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1029457?v=4'
+    contributions: 2705
+    company: 'Ameya Solutions'
+    organizations: 'fizteqsolutions'
+
+  - rank: 25
     name: 'Sorin Chis'
     login: 'SorinC6'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/37213944?v=4'
-    contributions: 2591
+    contributions: 2605
     company: ''
-    organizations: ''
-
-  - rank: 20
-    name: 'Liviu Ionescu'
-    login: 'ilg-ul'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/362732?v=4'
-    contributions: 2424
-    company: ''
-    organizations: 'gnuarmeclipse'
-
-  - rank: 21
-    name: 'Ștefan-Gabriel Muscalu'
-    login: 'legraphista'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/962643?v=4'
-    contributions: 2420
-    company: 'Findie Development'
-    organizations: 'findie'
-
-  - rank: 22
-    name: 'Alexandru Mărășteanu'
-    login: 'alexei'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/96283?v=4'
-    contributions: 2379
-    company: 'Sailo'
-    organizations: 'kinecto,sailoboats'
-
-  - rank: 23
-    name: 'Catalin Ionescu'
-    login: 'cionescu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3137291?v=4'
-    contributions: 2344
-    company: 'Caring.com'
-    organizations: ''
-
-  - rank: 24
-    name: 'Pandula Péter'
-    login: 'pandulapeter'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/10262638?v=4'
-    contributions: 2264
-    company: 'Halcyon Mobile'
-    organizations: ''
-
-  - rank: 25
-    name: 'Alexandru Arnăutu'
-    login: 'alexarnautu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6322463?v=4'
-    contributions: 2124
-    company: '@SectorLabs '
     organizations: ''
 
   - rank: 26
+    name: 'Liviu Ionescu'
+    login: 'ilg-ul'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/362732?v=4'
+    contributions: 2499
+    company: ''
+    organizations: 'gnuarmeclipse'
+
+  - rank: 27
+    name: 'Alexandru Mărășteanu'
+    login: 'alexei'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/96283?v=4'
+    contributions: 2418
+    company: 'Sailo'
+    organizations: 'kinecto,sailoboats'
+
+  - rank: 28
+    name: 'Ștefan-Gabriel Muscalu'
+    login: 'legraphista'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/962643?v=4'
+    contributions: 2417
+    company: 'Findie Development'
+    organizations: 'findie'
+
+  - rank: 29
+    name: 'Catalin Ionescu'
+    login: 'cionescu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3137291?v=4'
+    contributions: 2329
+    company: 'Caring.com'
+    organizations: ''
+
+  - rank: 30
+    name: 'Pandula Péter'
+    login: 'pandulapeter'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/10262638?v=4'
+    contributions: 2246
+    company: 'Halcyon Mobile'
+    organizations: ''
+
+  - rank: 31
     name: 'Vlad Temian'
     login: 'vtemian'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/639771?v=4'
-    contributions: 2122
+    contributions: 2133
     company: ''
     organizations: 'presslabs'
 
-  - rank: 27
+  - rank: 32
+    name: 'Alexandru Arnăutu'
+    login: 'alexarnautu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6322463?v=4'
+    contributions: 2125
+    company: '@SectorLabs '
+    organizations: ''
+
+  - rank: 33
+    name: 'Alecsandru Patrascu'
+    login: 'apatrascu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1193770?v=4'
+    contributions: 2116
+    company: ''
+    organizations: ''
+
+  - rank: 34
     name: 'Ghiță Bizău'
     login: 'GhitaB'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3416893?v=4'
@@ -2268,39 +2324,47 @@ private_users:
     company: 'freelancer'
     organizations: 'eaudeweb,eea,Bloggify,LienJS,Pixelblaster'
 
-  - rank: 28
+  - rank: 35
     name: 'Adriana Saroz'
     login: 'adriana-saroz'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/435240?v=4'
-    contributions: 2083
+    contributions: 2085
     company: '@plexinc '
     organizations: 'madeincluj'
 
-  - rank: 29
+  - rank: 36
     name: 'Tiberiu Ichim'
     login: 'tiberiuichim'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/141568?v=4'
-    contributions: 1989
+    contributions: 2040
     company: '@eea @eaudeweb @Kotti '
     organizations: 'eaudeweb,collective,eea'
 
-  - rank: 30
-    name: 'Vitalie Cherpec'
-    login: 'vitalie'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/42342?v=4'
-    contributions: 1985
-    company: 'Anverino Software S.R.L.'
-    organizations: ''
+  - rank: 37
+    name: 'Cosmin Apreutesei'
+    login: 'capr'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/131660?v=4'
+    contributions: 1999
+    company: ''
+    organizations: 'luapower,terralang'
 
-  - rank: 31
+  - rank: 38
     name: 'Alexandru Cambose'
     login: 'alexcambose'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/12383978?v=4'
-    contributions: 1967
+    contributions: 1996
     company: ''
     organizations: ''
 
-  - rank: 32
+  - rank: 39
+    name: 'Vitalie Cherpec'
+    login: 'vitalie'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/42342?v=4'
+    contributions: 1957
+    company: 'Anverino Software S.R.L.'
+    organizations: ''
+
+  - rank: 40
     name: 'Vlad Jerca'
     login: 'vladjerca'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6339681?v=4'
@@ -2308,23 +2372,23 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 33
-    name: 'Cosmin Apreutesei'
-    login: 'capr'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/131660?v=4'
-    contributions: 1901
-    company: ''
-    organizations: 'luapower,terralang'
+  - rank: 41
+    name: 'Vlad Iovanov'
+    login: 'viovanov'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/918484?v=4'
+    contributions: 1892
+    company: 'SUSE'
+    organizations: 'cloudfoundry,UhuruSoftware,SUSE,cloudfoundry-community,cloudfoundry-incubator'
 
-  - rank: 34
-    name: 'Mike Crantea'
-    login: 'mehigh'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/367593?v=4'
-    contributions: 1855
-    company: '@xwp '
-    organizations: 'x-team'
+  - rank: 42
+    name: 'Rosu Silviu'
+    login: 'silviurosu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/509403?v=4'
+    contributions: 1875
+    company: 'Ubazu'
+    organizations: ''
 
-  - rank: 35
+  - rank: 43
     name: 'Calin Don'
     login: 'calind'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/266375?v=4'
@@ -2332,23 +2396,47 @@ private_users:
     company: 'PressLabs SRL'
     organizations: 'presslabs,silverapp'
 
-  - rank: 36
-    name: 'Vlad Ionescu'
-    login: 'Vlaaaaaaad'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5440007?v=4'
-    contributions: 1805
+  - rank: 44
+    name: 'Vladimir Oltean'
+    login: 'vladimiroltean'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/11811246?v=4'
+    contributions: 1813
     company: ''
     organizations: ''
 
-  - rank: 37
+  - rank: 45
+    name: 'Vlad Ionescu'
+    login: 'Vlaaaaaaad'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5440007?v=4'
+    contributions: 1803
+    company: ''
+    organizations: ''
+
+  - rank: 46
+    name: 'Andrei Băicuș'
+    login: 'abaicus'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/15010186?v=4'
+    contributions: 1792
+    company: 'ThemeIsle'
+    organizations: 'Codeinwp'
+
+  - rank: 47
+    name: 'Zoli Szőgyényi'
+    login: 'zoltanszogyenyi'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8052108?v=4'
+    contributions: 1773
+    company: 'CEO @ Themesberg'
+    organizations: 'themesberg'
+
+  - rank: 48
     name: 'Sergiu Truta'
     login: 'serggiu'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1447?v=4'
-    contributions: 1766
+    contributions: 1769
     company: 'serggiu.com'
     organizations: ''
 
-  - rank: 38
+  - rank: 49
     name: 'Costin Moise'
     login: 'necenzurat'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/145449?v=4'
@@ -2356,23 +2444,39 @@ private_users:
     company: '@smso '
     organizations: 'romania,smso'
 
-  - rank: 39
-    name: 'Marius Petcu'
-    login: 'dapetcu21'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/428060?v=4'
-    contributions: 1753
-    company: ''
-    organizations: 'GalaciucDreamTeam'
-
-  - rank: 40
+  - rank: 50
     name: 'Stoica Alexandru'
     login: 'alexstoick'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1664100?v=4'
-    contributions: 1738
+    contributions: 1746
     company: '@deliveroo'
     organizations: ''
 
-  - rank: 41
+  - rank: 51
+    name: 'Marius Petcu'
+    login: 'dapetcu21'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/428060?v=4'
+    contributions: 1731
+    company: ''
+    organizations: 'GalaciucDreamTeam'
+
+  - rank: 52
+    name: 'Paul Razvan Berg'
+    login: 'PaulRBerg'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8782666?v=4'
+    contributions: 1720
+    company: '@sablierhq'
+    organizations: 'sablierhq'
+
+  - rank: 53
+    name: 'Serban Teodorescu'
+    login: 'teodorescuserban'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1542984?v=4'
+    contributions: 1718
+    company: ''
+    organizations: 'OCHA-DAP,HXLStandard'
+
+  - rank: 54
     name: 'Radu-Sebastian Amarie'
     login: 'eek'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/2953026?v=4'
@@ -2380,23 +2484,23 @@ private_users:
     company: 'Findie Development @findie '
     organizations: 'findie'
 
-  - rank: 42
-    name: 'Paul Razvan Berg'
-    login: 'PaulRBerg'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/8782666?v=4'
-    contributions: 1705
-    company: '@sablierhq'
-    organizations: 'sablierhq'
-
-  - rank: 43
+  - rank: 55
     name: 'xxvirusxx'
     login: 'condor2'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/14251939?v=4'
-    contributions: 1698
+    contributions: 1704
     company: ''
     organizations: 'AnarchyLinux'
 
-  - rank: 44
+  - rank: 56
+    name: 'Gabi'
+    login: 'MGabi'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/13252068?v=4'
+    contributions: 1665
+    company: 'Wolfpack Digital SRL-D'
+    organizations: ''
+
+  - rank: 57
     name: 'Madalin Tache'
     login: 'niladam'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4151765?v=4'
@@ -2404,7 +2508,7 @@ private_users:
     company: ''
     organizations: 'gazduim'
 
-  - rank: 45
+  - rank: 58
     name: 'Dan Farcas'
     login: 'dmfarcas'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/681522?v=4'
@@ -2412,7 +2516,23 @@ private_users:
     company: '3 Pillar Global'
     organizations: 'gov-ithub'
 
-  - rank: 46
+  - rank: 59
+    name: 'Andrei Badea'
+    login: 'zbiller'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2579306?v=4'
+    contributions: 1627
+    company: 'Neurony'
+    organizations: 'Neurony,LaraCrafts'
+
+  - rank: 60
+    name: 'Alexandru Dinu'
+    login: 'alexandru-dinu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/14110183?v=4'
+    contributions: 1625
+    company: ''
+    organizations: 'code-gen'
+
+  - rank: 61
     name: 'Ruxandra Craciunescu'
     login: 'metas-rc'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/16001442?v=4'
@@ -2420,15 +2540,7 @@ private_users:
     company: ''
     organizations: 'metasfresh'
 
-  - rank: 47
-    name: 'Vladimir Oltean'
-    login: 'vladimiroltean'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11811246?v=4'
-    contributions: 1608
-    company: ''
-    organizations: ''
-
-  - rank: 48
+  - rank: 62
     name: 'Mihai Dumitrache'
     login: 'mmdumi'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/189993?v=4'
@@ -2436,39 +2548,39 @@ private_users:
     company: '@wearewip '
     organizations: ''
 
-  - rank: 49
-    name: 'Alexandru Dinu'
-    login: 'alexandru-dinu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/14110183?v=4'
-    contributions: 1600
-    company: ''
-    organizations: 'code-gen'
-
-  - rank: 50
+  - rank: 63
     name: 'Marius Cristea'
     login: 'selul'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3330746?v=4'
-    contributions: 1597
+    contributions: 1573
     company: 'ThemeIsle'
     organizations: ''
 
-  - rank: 51
+  - rank: 64
+    name: 'Francisc Balint'
+    login: 'franciscbalint'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/7178547?v=4'
+    contributions: 1518
+    company: ''
+    organizations: ''
+
+  - rank: 65
     name: 'Alexandru Ardelean'
     login: 'commodo'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2766732?v=4'
-    contributions: 1507
+    contributions: 1511
     company: ''
     organizations: 'mstpd'
 
-  - rank: 52
+  - rank: 66
     name: 'Cătălin Dogaru'
     login: 'cdog'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/690647?v=4'
-    contributions: 1482
+    contributions: 1487
     company: '@inhausmakers'
     organizations: 'inhausmakers,EU-OSHA,drupal-unibuc,eos-code-lab,IUCN-ELC,u-s-r'
 
-  - rank: 53
+  - rank: 67
     name: 'Lupu'
     login: 'lupu60'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/5337610?v=4'
@@ -2476,31 +2588,23 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 54
+  - rank: 68
     name: 'Lia Domide'
     login: 'liadomide'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/674853?v=4'
-    contributions: 1454
+    contributions: 1459
     company: 'Codemart'
     organizations: 'the-virtual-brain'
 
-  - rank: 55
-    name: 'Robert Kovacs'
-    login: 'robikovacs'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5718030?v=4'
-    contributions: 1448
-    company: '@Wolfpack-Digital '
-    organizations: 'Wolfpack-Digital'
-
-  - rank: 56
+  - rank: 69
     name: 'Alex Morega'
     login: 'mgax'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/27617?v=4'
-    contributions: 1443
+    contributions: 1450
     company: ''
     organizations: 'pybucuresti,wurbe,rosedu,pistruiatul,rootio,georust,aptiro,baronii,funkycitizens,hoover,liquidinvestigations'
 
-  - rank: 57
+  - rank: 70
     name: 'Zeno Popovici'
     login: 'zenopopovici'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/767998?v=4'
@@ -2508,7 +2612,23 @@ private_users:
     company: 'Graffino'
     organizations: 'Graffino'
 
-  - rank: 58
+  - rank: 71
+    name: 'Robert Kovacs'
+    login: 'robikovacs'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5718030?v=4'
+    contributions: 1432
+    company: '@Wolfpack-Digital '
+    organizations: 'Wolfpack-Digital'
+
+  - rank: 72
+    name: 'Mike Crantea'
+    login: 'mehigh'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/367593?v=4'
+    contributions: 1427
+    company: '@xwp '
+    organizations: 'x-team'
+
+  - rank: 73
     name: 'Alex Ciobica'
     login: 'c10b10'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/306633?v=4'
@@ -2516,71 +2636,87 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 59
-    name: 'Andrei Ignat'
-    login: 'ignatandrei'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/153982?v=4'
-    contributions: 1421
-    company: ''
+  - rank: 74
+    name: 'Alexandru Georoceanu'
+    login: 'toxik'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/235319?v=4'
+    contributions: 1410
+    company: '@UiPath '
     organizations: ''
 
-  - rank: 60
+  - rank: 75
     name: 'Alin Voinea'
     login: 'avoinea'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/323385?v=4'
-    contributions: 1410
+    contributions: 1408
     company: 'Eau de Web'
     organizations: 'plone,eaudeweb,collective,pybucuresti,eea'
 
-  - rank: 61
-    name: 'Dan Burzo'
-    login: 'danburzo'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/205375?v=4'
-    contributions: 1401
-    company: '@Evercoder'
-    organizations: 'madeincluj,somesdelivery,llll-org,forklor,marceljs'
-
-  - rank: 62
-    name: 'Dragos Rizescu'
-    login: 'rizedr'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3323353?v=4'
-    contributions: 1400
-    company: '@ConsenSys '
-    organizations: ''
-
-  - rank: 63
+  - rank: 76
     name: 'Alexandru Pavaloi'
     login: 'iampava'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/11327761?v=4'
-    contributions: 1389
+    contributions: 1404
     company: ''
     organizations: 'flixier'
 
-  - rank: 64
+  - rank: 77
+    name: 'Dan Burzo'
+    login: 'danburzo'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/205375?v=4'
+    contributions: 1400
+    company: '@Evercoder'
+    organizations: 'madeincluj,somesdelivery,llll-org,forklor,marceljs'
+
+  - rank: 78
+    name: 'Dragos Rizescu'
+    login: 'rizedr'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3323353?v=4'
+    contributions: 1399
+    company: '@ConsenSys '
+    organizations: ''
+
+  - rank: 79
     name: 'Catalin Zmole'
     login: 'czmole'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3465858?v=4'
-    contributions: 1386
+    contributions: 1394
     company: '11Digits'
     organizations: 'code4romania'
 
-  - rank: 65
+  - rank: 80
+    name: 'Cristian Necula'
+    login: 'cristinecula'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/710155?v=4'
+    contributions: 1381
+    company: ''
+    organizations: ''
+
+  - rank: 81
     name: 'Valentin Milea'
     login: 'vmilea'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/278476?v=4'
-    contributions: 1384
+    contributions: 1378
     company: ''
     organizations: ''
 
-  - rank: 66
+  - rank: 82
+    name: 'Andrei Ignat'
+    login: 'ignatandrei'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/153982?v=4'
+    contributions: 1377
+    company: ''
+    organizations: ''
+
+  - rank: 83
     name: 'Bogdan Alexandru Militaru'
     login: 'boobo94'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/16722674?v=4'
-    contributions: 1369
+    contributions: 1366
     company: ''
     organizations: ''
 
-  - rank: 67
+  - rank: 84
     name: 'Cristi Pufu'
     login: 'cristipufu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3955285?v=4'
@@ -2588,7 +2724,7 @@ private_users:
     company: ''
     organizations: 'UiPath,vtfuture,ninjastackio'
 
-  - rank: 68
+  - rank: 85
     name: 'Alexandru Burghelea'
     login: 'aburghelea'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/664057?v=4'
@@ -2596,23 +2732,55 @@ private_users:
     company: 'Adswizz'
     organizations: ''
 
-  - rank: 69
+  - rank: 86
     name: 'Laurențiu Nicola'
     login: 'lnicola'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/308347?v=4'
-    contributions: 1312
+    contributions: 1316
     company: ''
     organizations: 'tantivy-search,rust-ammonia'
 
-  - rank: 70
+  - rank: 87
     name: 'Matei Adriel'
     login: 'Mateiadrielrafael'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/39400800?v=4'
-    contributions: 1249
+    contributions: 1309
     company: ''
     organizations: 'eix-js'
 
-  - rank: 71
+  - rank: 88
+    name: 'Marius Ionescu'
+    login: 'mariusionescu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2272966?v=4'
+    contributions: 1283
+    company: 'Blue Pony Software SRL'
+    organizations: 'InteractiveAdvertisingBureau,orielio,telize-ai'
+
+  - rank: 89
+    name: 'Sorin Silaghi'
+    login: 'sorin7486'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/116458?v=4'
+    contributions: 1269
+    company: ''
+    organizations: ''
+
+  - rank: 90
+    name: 'Cezar Mathe'
+    login: 'cezarmathe'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/25750780?v=4'
+    contributions: 1258
+    company: '@VectronRomania @pgang-cnamd @hack-club-cnamd '
+    organizations: 'vectronromania,pgang-cnamd,hack-club-cnamd'
+
+  - rank: 91
+    name: 'Eduard-Mihai Burtescu'
+    login: 'eddyb'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/77424?v=4'
+    contributions: 1236
+    company: '@LykenSol'
+    organizations: 'rust-lang,rust-lang-nursery,LykenSol,image-rs,LykenSol-abandoned,eddyb-abandoned'
+
+  - rank: 92
     name: 'Chelaru Ciprian'
     login: 'chelaruc'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/22840626?v=4'
@@ -2620,31 +2788,39 @@ private_users:
     company: '@creativetimofficial '
     organizations: 'RoR-FMI,creativetimofficial'
 
-  - rank: 72
-    name: 'Eduard-Mihai Burtescu'
-    login: 'eddyb'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/77424?v=4'
-    contributions: 1228
-    company: '@LykenSol'
-    organizations: 'rust-lang,rust-lang-nursery,LykenSol,image-rs,LykenSol-abandoned,eddyb-abandoned'
-
-  - rank: 73
-    name: 'Bianca Nenciu'
-    login: 'nbianca'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/23153890?v=4'
-    contributions: 1214
-    company: '@discourse'
-    organizations: 'discourse'
-
-  - rank: 74
+  - rank: 93
     name: 'Cosmin Rusu'
     login: 'rusucosmin'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/5725047?v=4'
-    contributions: 1209
+    contributions: 1225
     company: '@dutylabs '
     organizations: 'dutylabs'
 
-  - rank: 75
+  - rank: 94
+    name: 'Edward Marinescu'
+    login: 'speedwheel'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5404341?v=4'
+    contributions: 1222
+    company: 'https://github.com/cedar-creek'
+    organizations: ''
+
+  - rank: 95
+    name: 'Emil Burzo'
+    login: 'emilburzo'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/6228327?v=4'
+    contributions: 1221
+    company: ''
+    organizations: 'komoot,ambient-monitoring,hnjobs,datoriistat,1090,stirimm'
+
+  - rank: 96
+    name: 'Bianca Nenciu'
+    login: 'nbianca'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/23153890?v=4'
+    contributions: 1213
+    company: '@discourse'
+    organizations: 'discourse'
+
+  - rank: 97
     name: 'Eugen Minciu'
     login: 'thegengen'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/36608?v=4'
@@ -2652,15 +2828,7 @@ private_users:
     company: 'Less Everything'
     organizations: 'LessEverything'
 
-  - rank: 76
-    name: 'Grigore Stefan'
-    login: 'g-stefan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5883720?v=4'
-    contributions: 1165
-    company: ''
-    organizations: ''
-
-  - rank: 77
+  - rank: 98
     name: 'Andrei Rosca'
     login: 'arosca'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/908900?v=4'
@@ -2668,7 +2836,15 @@ private_users:
     company: ''
     organizations: 'Purepoint'
 
-  - rank: 78
+  - rank: 99
+    name: 'Razvan'
+    login: 'corsicanu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6254131?v=4'
+    contributions: 1095
+    company: ''
+    organizations: 'TwrpBuilder,Exynos7880,devkingsteam'
+
+  - rank: 100
     name: 'Radu Paraschiv'
     login: 'XPilot'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/691234?v=4'
@@ -2676,7 +2852,7 @@ private_users:
     company: 'NullBit'
     organizations: ''
 
-  - rank: 79
+  - rank: 101
     name: 'Andrei Boar'
     login: 'zuzuleinen'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/944919?v=4'
@@ -2684,7 +2860,7 @@ private_users:
     company: 'Freelancer'
     organizations: ''
 
-  - rank: 80
+  - rank: 102
     name: 'Carol Pelu'
     login: 'Tynael'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/16559614?v=4'
@@ -2692,55 +2868,87 @@ private_users:
     company: 'EDIS'
     organizations: 'RomanianIT'
 
-  - rank: 81
-    name: 'Loredana Crusoveanu'
-    login: 'lor6'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/18684932?v=4'
-    contributions: 1081
-    company: ''
-    organizations: ''
-
-  - rank: 82
-    name: 'Luca Daniel'
-    login: 'cleanunicorn'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/547012?v=4'
-    contributions: 1074
-    company: 'ConsenSys Diligence'
-    organizations: 'ElasticOrange'
-
-  - rank: 83
+  - rank: 103
     name: 'Dan Ungureanu'
     login: 'udan11'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4147664?v=4'
-    contributions: 1074
+    contributions: 1075
     company: ''
     organizations: 'phpmyadmin,discourse'
 
-  - rank: 84
-    name: 'Razvan'
-    login: 'corsicanu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6254131?v=4'
-    contributions: 1074
-    company: ''
-    organizations: 'TwrpBuilder,Exynos7880,devkingsteam'
+  - rank: 104
+    name: 'Luca Daniel'
+    login: 'cleanunicorn'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/547012?v=4'
+    contributions: 1075
+    company: 'ConsenSys Diligence'
+    organizations: 'ElasticOrange'
 
-  - rank: 85
-    name: 'Matei Oprea'
-    login: 'mateioprea'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1246733?v=4'
-    contributions: 1064
-    company: 'Okapi Dev'
-    organizations: 'rosedu'
-
-  - rank: 86
-    name: 'Alexandru Darie'
-    login: 'alexdarie'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/20638296?v=4'
-    contributions: 1054
+  - rank: 105
+    name: 'Alexandru Mihai'
+    login: 'alexm92'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2988929?v=4'
+    contributions: 1075
     company: ''
     organizations: ''
 
-  - rank: 87
+  - rank: 106
+    name: 'Matei Oprea'
+    login: 'mateioprea'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1246733?v=4'
+    contributions: 1071
+    company: 'Okapi Dev'
+    organizations: 'rosedu'
+
+  - rank: 107
+    name: 'Grigore Stefan'
+    login: 'g-stefan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5883720?v=4'
+    contributions: 1068
+    company: ''
+    organizations: ''
+
+  - rank: 108
+    name: 'Loredana Crusoveanu'
+    login: 'lor6'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/18684932?v=4'
+    contributions: 1055
+    company: ''
+    organizations: ''
+
+  - rank: 109
+    name: 'Lupacescu Eduard'
+    login: 'binaryk'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6833714?v=4'
+    contributions: 1047
+    company: '@BinarCode @creativetimofficial '
+    organizations: ''
+
+  - rank: 110
+    name: 'Vlad Mandiuc'
+    login: 'manyacy'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1556115?v=4'
+    contributions: 1044
+    company: '@lolaent '
+    organizations: ''
+
+  - rank: 111
+    name: 'Alin Panaitiu'
+    login: 'alin23'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/3819725?v=4'
+    contributions: 1036
+    company: ''
+    organizations: ''
+
+  - rank: 112
+    name: 'Mircea Sorin Sebastian'
+    login: 'msorins'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/4971463?v=4'
+    contributions: 1034
+    company: ''
+    organizations: 'so-organisation'
+
+  - rank: 113
     name: 'Robert Richter'
     login: 'robi-richter'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1088228?v=4'
@@ -2748,31 +2956,47 @@ private_users:
     company: '@QCatalyst @natgeosociety @hipwerk '
     organizations: 'hipwerk,miezhq,QCatalyst'
 
-  - rank: 88
+  - rank: 114
     name: 'Calinoiu Alexandru Nicolae'
     login: 'alexandru-calinoiu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/679198?v=4'
-    contributions: 1020
+    contributions: 1027
     company: 'Agilefreaks'
     organizations: 'fog,staunchRobots,Agilefreaks,Studio3,JLL-IT,gov-ithub'
 
-  - rank: 89
-    name: 'Alin Panaitiu'
-    login: 'alin23'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3819725?v=4'
-    contributions: 1008
+  - rank: 115
+    name: 'Andrei Meliș'
+    login: 'melish'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1218168?v=4'
+    contributions: 1022
+    company: 'Eau de Web'
+    organizations: 'eaudeweb,eea,EU-OSHA,digital-agenda-data'
+
+  - rank: 116
+    name: 'Alexandru Darie'
+    login: 'alexdarie'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/20638296?v=4'
+    contributions: 1014
     company: ''
     organizations: ''
 
-  - rank: 90
+  - rank: 117
     name: 'Octa Cimpu'
     login: 'octa-george'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/8332257?v=4'
-    contributions: 1004
+    contributions: 1005
     company: ''
     organizations: 'codegile'
 
-  - rank: 91
+  - rank: 118
+    name: 'Cristian Stănciulescu'
+    login: 'Cristianf'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/476124?v=4'
+    contributions: 1002
+    company: ''
+    organizations: ''
+
+  - rank: 119
     name: 'Radu-Bogdan Croitoru'
     login: 'radubogdan'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2222046?v=4'
@@ -2780,23 +3004,7 @@ private_users:
     company: 'AutoUncle'
     organizations: 'thesponge,debian-ro,hsluv'
 
-  - rank: 92
-    name: 'Cristian Stănciulescu'
-    login: 'Cristianf'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/476124?v=4'
-    contributions: 995
-    company: ''
-    organizations: ''
-
-  - rank: 93
-    name: 'Alex Moldovan'
-    login: 'alexnm'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/9945366?v=4'
-    contributions: 993
-    company: '@teleporthq'
-    organizations: 'teleporthq'
-
-  - rank: 94
+  - rank: 120
     name: 'Mihai Târnovan'
     login: 'mtarnovan'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4074?v=4'
@@ -2804,39 +3012,79 @@ private_users:
     company: '@openapi-ro'
     organizations: ''
 
-  - rank: 95
+  - rank: 121
     name: 'Cătălin Tănăsescu'
     login: 'catalint'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/787730?v=4'
-    contributions: 990
+    contributions: 987
     company: '@MVPFactory'
     organizations: ''
 
-  - rank: 96
-    name: 'Alexandru Emil Lupu'
-    login: 'alecslupu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/105683?v=4'
+  - rank: 122
+    name: 'Alex Moldovan'
+    login: 'alexnm'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/9945366?v=4'
+    contributions: 980
+    company: '@teleporthq'
+    organizations: 'teleporthq'
+
+  - rank: 123
+    name: 'Calin Tamas'
+    login: 'calintamas'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/9104454?v=4'
+    contributions: 979
+    company: ''
+    organizations: 'omasacalda'
+
+  - rank: 124
+    name: 'Florin Pop'
+    login: 'florinpop17'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6692364?v=4'
+    contributions: 960
+    company: 'Freelance'
+    organizations: ''
+
+  - rank: 125
+    name: 'Gabriel Vîjială'
+    login: 'gabriel-v'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/7493327?v=4'
+    contributions: 959
+    company: ''
+    organizations: 'hoover,liquidinvestigations'
+
+  - rank: 126
+    name: 'Buicescu Alexandru'
+    login: 'alexbuicescu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6463015?v=4'
     contributions: 959
     company: ''
     organizations: ''
 
-  - rank: 97
-    name: 'Gabriel Vîjială'
-    login: 'gabriel-v'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/7493327?v=4'
-    contributions: 958
-    company: ''
-    organizations: 'hoover,liquidinvestigations'
-
-  - rank: 98
+  - rank: 127
     name: 'App Generator'
     login: 'app-generator'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/51070104?v=4'
-    contributions: 954
+    contributions: 957
     company: 'AppSeed'
     organizations: ''
 
-  - rank: 99
+  - rank: 128
+    name: 'Cristina Ghita'
+    login: 'cristinamghita'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/15378036?v=4'
+    contributions: 954
+    company: 'metas'
+    organizations: 'metasfresh'
+
+  - rank: 129
+    name: 'Alexandru Emil Lupu'
+    login: 'alecslupu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/105683?v=4'
+    contributions: 952
+    company: ''
+    organizations: ''
+
+  - rank: 130
     name: 'Andrei Pfeiffer'
     login: 'andreipfeiffer'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2570562?v=4'
@@ -2844,47 +3092,31 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 100
+  - rank: 131
     name: 'Rodica-Elena Irodiu'
     login: 'rodica-andronache'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3266155?v=4'
-    contributions: 951
+    contributions: 944
     company: 'themeisle.com'
     organizations: ''
 
-  - rank: 101
-    name: 'Buicescu Alexandru'
-    login: 'alexbuicescu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6463015?v=4'
-    contributions: 943
-    company: ''
-    organizations: ''
-
-  - rank: 102
-    name: 'Florin Pop'
-    login: 'florinpop17'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6692364?v=4'
-    contributions: 938
-    company: 'Freelance'
-    organizations: ''
-
-  - rank: 103
+  - rank: 132
     name: 'Catalin Ilinca'
     login: 'ducknorris'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/40106?v=4'
-    contributions: 937
+    contributions: 935
     company: 'Tech Wizard'
     organizations: 'endofwaste'
 
-  - rank: 104
+  - rank: 133
     name: 'Rares'
     login: 'rareserban'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/32885182?v=4'
-    contributions: 933
+    contributions: 934
     company: ''
     organizations: ''
 
-  - rank: 105
+  - rank: 134
     name: 'Eugen Tudorancea'
     login: 'ugin'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/147790?v=4'
@@ -2892,23 +3124,15 @@ private_users:
     company: 'Navaru'
     organizations: 'romania,navaru,nore'
 
-  - rank: 106
-    name: 'Alex Grozav'
-    login: 'alexgrozav'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6179477?v=4'
-    contributions: 922
-    company: 'Grozav'
-    organizations: 'inkline'
-
-  - rank: 107
+  - rank: 135
     name: 'Magdas Adrian'
     login: 'amagdas'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/204229?v=4'
-    contributions: 915
+    contributions: 913
     company: 'CraftingSoftware | Innovation'
     organizations: ''
 
-  - rank: 108
+  - rank: 136
     name: 'Artur Grigor'
     login: 'arturgrigor'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/579087?v=4'
@@ -2916,63 +3140,87 @@ private_users:
     company: 'DataReef'
     organizations: ''
 
-  - rank: 109
+  - rank: 137
     name: 'Alex Bișag'
     login: 'axbg'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/24988697?v=4'
-    contributions: 883
+    contributions: 891
     company: '@Accenture'
     organizations: ''
 
-  - rank: 110
-    name: 'Bogdan Ghervan'
-    login: 'bogdanghervan'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/585130?v=4'
-    contributions: 878
-    company: '@adore-me'
-    organizations: 'cronkeep'
+  - rank: 138
+    name: 'Petru-Sebastian Toader'
+    login: 'petrutoader'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7121006?v=4'
+    contributions: 891
+    company: '@Phyramid @submodule '
+    organizations: 'Phyramid,50five,submodule'
 
-  - rank: 111
-    name: 'Belciug Ovidiu-Mihai'
-    login: 'ovidiumihaibelciug'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/25400915?v=4'
-    contributions: 873
-    company: ''
-    organizations: 'gatsbyjs,reactemplates'
-
-  - rank: 112
+  - rank: 139
     name: 'Mardari Igor'
     login: 'GarryOne'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6481499?v=4'
-    contributions: 868
+    contributions: 876
     company: ''
     organizations: '7codeRO'
 
-  - rank: 113
-    name: 'Cosmin M. Tutunaru'
-    login: 'stocarul'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1935983?v=4'
-    contributions: 865
-    company: 'AlgoTech Solutions'
-    organizations: ''
+  - rank: 140
+    name: 'Bogdan Ghervan'
+    login: 'bogdanghervan'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/585130?v=4'
+    contributions: 875
+    company: '@adore-me'
+    organizations: 'cronkeep'
 
-  - rank: 114
+  - rank: 141
+    name: 'Belciug Ovidiu-Mihai'
+    login: 'ovidiumihaibelciug'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/25400915?v=4'
+    contributions: 868
+    company: ''
+    organizations: 'gatsbyjs,reactemplates'
+
+  - rank: 142
     name: 'Victor Zamfir'
     login: 'viczam'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/22033?v=4'
-    contributions: 863
+    contributions: 867
     company: ''
     organizations: ''
 
-  - rank: 115
-    name: 'Raiber Cristian'
-    login: 'cristianraiber'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7841556?v=4'
-    contributions: 853
-    company: 'Macho Themes'
-    organizations: 'ColorlibHQ'
+  - rank: 143
+    name: 'Alex Grozav'
+    login: 'alexgrozav'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/6179477?v=4'
+    contributions: 866
+    company: 'Grozav'
+    organizations: 'inkline'
 
-  - rank: 116
+  - rank: 144
+    name: 'Cosmin M. Tutunaru'
+    login: 'stocarul'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1935983?v=4'
+    contributions: 864
+    company: 'AlgoTech Solutions'
+    organizations: ''
+
+  - rank: 145
+    name: 'Mădălin Păsărel'
+    login: 'mvpasarel'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/642453?v=4'
+    contributions: 856
+    company: '@luminousy '
+    organizations: ''
+
+  - rank: 146
+    name: 'Ciprian Ceteras'
+    login: 'cipix2000'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6470738?v=4'
+    contributions: 851
+    company: ''
+    organizations: ''
+
+  - rank: 147
     name: 'Ionel Cristian Mărieș'
     login: 'ionelmc'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/129501?v=4'
@@ -2980,15 +3228,39 @@ private_users:
     company: ''
     organizations: 'RoPython,pytest-dev'
 
-  - rank: 117
+  - rank: 148
     name: 'Cosmin Popovici'
     login: 'cossssmin'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1656595?v=4'
-    contributions: 845
+    contributions: 847
     company: ''
     organizations: ''
 
-  - rank: 118
+  - rank: 149
+    name: 'George Brata'
+    login: 'kyokidG'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/15268479?v=4'
+    contributions: 846
+    company: 'QCatalyst'
+    organizations: ''
+
+  - rank: 150
+    name: 'MrAugu'
+    login: 'MrAugu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/39545629?v=4'
+    contributions: 842
+    company: ''
+    organizations: ''
+
+  - rank: 151
+    name: 'Raiber Cristian'
+    login: 'cristianraiber'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7841556?v=4'
+    contributions: 840
+    company: 'Macho Themes'
+    organizations: 'ColorlibHQ'
+
+  - rank: 152
     name: 'Bogdan Oancea'
     login: 'bogdanoancea'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/9313914?v=4'
@@ -2996,15 +3268,15 @@ private_users:
     company: 'Univesity of Bucharest'
     organizations: 'uRosConf,MobilePhoneESSnetBigData'
 
-  - rank: 119
+  - rank: 153
     name: 'Ciocanel Razvan'
     login: 'Chocksy'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/178892?v=4'
-    contributions: 825
+    contributions: 814
     company: 'EpicCoders'
     organizations: 'EpicCoders'
 
-  - rank: 120
+  - rank: 154
     name: 'Victor Rentea'
     login: 'victorrentea'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/12481094?v=4'
@@ -3012,7 +3284,7 @@ private_users:
     company: 'Independent'
     organizations: ''
 
-  - rank: 121
+  - rank: 155
     name: 'Bogdan Dragomir'
     login: 'bvdr'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4183317?v=4'
@@ -3020,7 +3292,7 @@ private_users:
     company: '@DekodeInteraktiv'
     organizations: 'codeablehq,DekodeInteraktiv'
 
-  - rank: 122
+  - rank: 156
     name: 'Popescu Dan'
     login: 'pdanpdan'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/118764?v=4'
@@ -3028,71 +3300,71 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 123
-    name: 'Alexandru Stoica'
-    login: 'alexandrustoica'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/11233413?v=4'
-    contributions: 807
-    company: ''
-    organizations: ''
-
-  - rank: 124
-    name: 'MrAugu'
-    login: 'MrAugu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/39545629?v=4'
-    contributions: 801
-    company: ''
-    organizations: ''
-
-  - rank: 125
+  - rank: 157
     name: 'Alexandru Tache'
     login: 'hadesgames'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/650744?v=4'
-    contributions: 792
+    contributions: 800
     company: ''
     organizations: ''
 
-  - rank: 126
-    name: 'Tudorica Constantin-Alexandru'
-    login: 'tudalex'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/205058?v=4'
-    contributions: 787
-    company: 'Wholi'
-    organizations: 'rosedu,HMatata,MPS-UPB'
-
-  - rank: 127
+  - rank: 158
     name: 'Dan Caragea'
     login: 'terebentina'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/238611?v=4'
-    contributions: 782
+    contributions: 783
     company: ''
     organizations: ''
 
-  - rank: 128
+  - rank: 159
     name: 'Razvan Muntian'
     login: 'muntianrazvan'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/6641655?v=4'
-    contributions: 772
+    contributions: 771
     company: ''
     organizations: 'fiveem'
 
-  - rank: 129
-    name: 'Vlad Suciu'
-    login: 'suciuvlad'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/286058?v=4'
-    contributions: 755
-    company: 'Provably Fair'
+  - rank: 160
+    name: 'Mihnea Theodor Vișoiu'
+    login: 'Molizo'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/7733731?v=4'
+    contributions: 769
+    company: '@QuantumRoboticsFTC '
+    organizations: 'QuantumRoboticsFTC'
+
+  - rank: 161
+    name: 'Alexandru Stoica'
+    login: 'alexandrustoica'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/11233413?v=4'
+    contributions: 768
+    company: ''
     organizations: ''
 
-  - rank: 130
+  - rank: 162
+    name: 'Adrian Manea'
+    login: 'adimanea'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/12065036?v=4'
+    contributions: 766
+    company: ''
+    organizations: ''
+
+  - rank: 163
+    name: 'Tudorica Constantin-Alexandru'
+    login: 'tudalex'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/205058?v=4'
+    contributions: 764
+    company: 'Wholi'
+    organizations: 'rosedu,HMatata,MPS-UPB'
+
+  - rank: 164
     name: 'Adrian Vladu'
     login: 'ader1990'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1412442?v=4'
-    contributions: 753
+    contributions: 751
     company: 'Cloudbase Solutions SRL'
     organizations: 'cloudbase'
 
-  - rank: 131
+  - rank: 165
     name: 'Dan Andrei'
     login: 'danandrei'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4629089?v=4'
@@ -3100,15 +3372,15 @@ private_users:
     company: ''
     organizations: 'jillix'
 
-  - rank: 132
+  - rank: 166
     name: 'Irina Borozan'
     login: 'aniri'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1358055?v=4'
-    contributions: 743
+    contributions: 742
     company: ''
     organizations: 'code4romania'
 
-  - rank: 133
+  - rank: 167
     name: 'Taylor Mock'
     login: 'tmock12'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1124585?v=4'
@@ -3116,7 +3388,7 @@ private_users:
     company: 'Heroku'
     organizations: 'rubyjax,ember-weekend'
 
-  - rank: 134
+  - rank: 168
     name: 'André Drougge'
     login: 'miphe'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/393147?v=4'
@@ -3124,7 +3396,15 @@ private_users:
     company: 'Keeper Solutions'
     organizations: 'mytalengi'
 
-  - rank: 135
+  - rank: 169
+    name: 'Bogdan Constantinescu'
+    login: 'bogdanconstantinescu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/301601?v=4'
+    contributions: 731
+    company: ''
+    organizations: 'code4romania'
+
+  - rank: 170
     name: 'Serban Petrescu'
     login: 'serban-petrescu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/15961282?v=4'
@@ -3132,15 +3412,31 @@ private_users:
     company: '@msg-systems'
     organizations: 'dotabap'
 
-  - rank: 136
+  - rank: 171
     name: 'Dan Goje'
     login: 'pringon'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/16070030?v=4'
-    contributions: 725
+    contributions: 728
     company: ''
     organizations: 'campus-hack-shenanigans'
 
-  - rank: 137
+  - rank: 172
+    name: 'Grama Nicolae'
+    login: 'gramanicu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/23612572?v=4'
+    contributions: 726
+    company: ''
+    organizations: ''
+
+  - rank: 173
+    name: 'Vlad Suciu'
+    login: 'suciuvlad'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/286058?v=4'
+    contributions: 726
+    company: 'Provably Fair'
+    organizations: ''
+
+  - rank: 174
     name: 'Mihai Balint'
     login: 'MihaiBalint'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/164886?v=4'
@@ -3148,15 +3444,15 @@ private_users:
     company: ''
     organizations: 'CityProjects,TheTicks,eHealthMeetup,NasaAppChallenge'
 
-  - rank: 138
-    name: 'Bogdan Constantinescu'
-    login: 'bogdanconstantinescu'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/301601?v=4'
-    contributions: 710
+  - rank: 175
+    name: 'Mihai Potra'
+    login: 'mpotra'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/888283?v=4'
+    contributions: 706
     company: ''
-    organizations: 'code4romania'
+    organizations: ''
 
-  - rank: 139
+  - rank: 176
     name: 'Stefan Neculai'
     login: 'stefanneculai'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/637004?v=4'
@@ -3164,87 +3460,95 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 140
+  - rank: 177
     name: 'ichim-david'
     login: 'ichim-david'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/152852?v=4'
-    contributions: 698
+    contributions: 695
     company: 'Eau de Web '
     organizations: 'plone,eaudeweb,collective,eea'
 
-  - rank: 141
-    name: 'Gabriel Majeri'
-    login: 'GabrielMajeri'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3010346?v=4'
-    contributions: 693
-    company: ''
-    organizations: 'QubeRomania'
+  - rank: 178
+    name: 'Florin Mihalache'
+    login: 'florinrm'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/12157537?v=4'
+    contributions: 694
+    company: '@oop-pub'
+    organizations: 'microsoft-dx,oop-pub'
 
-  - rank: 142
+  - rank: 179
     name: 'József Sallai'
     login: 'jozsefsallai'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/20266711?v=4'
-    contributions: 691
+    contributions: 689
     company: ''
     organizations: 'OkunaOrg,EuropeOSS'
 
-  - rank: 143
-    name: 'Lucas Paulger'
-    login: 'lpaulger'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1000544?v=4'
-    contributions: 689
-    company: 'YOCO LLC'
-    organizations: 'atomicflowtechorg'
+  - rank: 180
+    name: 'Gabriel Majeri'
+    login: 'GabrielMajeri'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3010346?v=4'
+    contributions: 688
+    company: ''
+    organizations: 'QubeRomania'
 
-  - rank: 144
-    name: 'Bogdan Soare'
-    login: 'bogdansoare'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/2750170?v=4'
-    contributions: 685
-    company: 'Deep dark web'
-    organizations: ''
-
-  - rank: 145
+  - rank: 181
     name: 'Marius Constantinescu'
     login: 'mariusc'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/844175?v=4'
-    contributions: 683
+    contributions: 686
     company: 'Greener Pastures'
     organizations: 'DanskeBank,iOS-Goodies'
 
-  - rank: 146
+  - rank: 182
+    name: 'Bogdan Soare'
+    login: 'bogdansoare'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2750170?v=4'
+    contributions: 686
+    company: 'Deep dark web'
+    organizations: ''
+
+  - rank: 183
     name: 'Andrei Demian'
     login: 'unDemian'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2129455?v=4'
-    contributions: 682
+    contributions: 684
     company: '@Automattic'
     organizations: 'waterpistols'
 
-  - rank: 147
+  - rank: 184
+    name: 'Lucas Paulger'
+    login: 'lpaulger'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1000544?v=4'
+    contributions: 683
+    company: 'YOCO LLC'
+    organizations: 'atomicflowtechorg'
+
+  - rank: 185
     name: 'Adrian Geană'
     login: 'adig'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/548264?v=4'
-    contributions: 679
+    contributions: 677
     company: 'Moqups, @Evercoder'
     organizations: ''
 
-  - rank: 148
+  - rank: 186
     name: 'Ciprian Sofronia'
     login: 'cipriansofronia'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/9365666?v=4'
-    contributions: 676
+    contributions: 675
     company: 'Levi9 IT Services'
     organizations: ''
 
-  - rank: 149
+  - rank: 187
     name: 'Irina Dumitrascu'
     login: 'dira'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/29137?v=4'
-    contributions: 675
+    contributions: 674
     company: ''
     organizations: ''
 
-  - rank: 150
+  - rank: 188
     name: 'Alexandru Ionut Panait'
     login: 'IonutAlexandruPanait'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/29681377?v=4'
@@ -3252,15 +3556,15 @@ private_users:
     company: 'WebDollar'
     organizations: 'WebDollar'
 
-  - rank: 151
-    name: 'Florin Mihalache'
-    login: 'florinrm'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/12157537?v=4'
-    contributions: 668
-    company: '@oop-pub'
-    organizations: 'microsoft-dx,oop-pub'
+  - rank: 189
+    name: 'Cristian Geambasu'
+    login: 'daemon3000'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3215789?v=4'
+    contributions: 666
+    company: ''
+    organizations: ''
 
-  - rank: 152
+  - rank: 190
     name: 'Răzvan Ionescu'
     login: 'ionescu77'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/8016748?v=4'
@@ -3268,55 +3572,31 @@ private_users:
     company: 'AVProiect'
     organizations: ''
 
-  - rank: 153
-    name: 'Cristian Geambasu'
-    login: 'daemon3000'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3215789?v=4'
-    contributions: 650
-    company: ''
-    organizations: ''
-
-  - rank: 154
+  - rank: 191
     name: 'Alex Bordei'
     login: 'AlexBordei'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/15997714?v=4'
-    contributions: 647
+    contributions: 642
     company: ''
     organizations: ''
 
-  - rank: 155
+  - rank: 192
+    name: 'Alexandru Corut'
+    login: 'r3dm4n'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/19235301?v=4'
+    contributions: 641
+    company: 'spaceapps.io'
+    organizations: ''
+
+  - rank: 193
     name: 'Gabriel Aszalos'
     login: 'gbbr'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6686356?v=4'
-    contributions: 645
+    contributions: 635
     company: 'Datadog'
     organizations: 'DataDog,golang,pkg,upspin'
 
-  - rank: 156
-    name: 'Marius Palade'
-    login: 'yoyosan'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/32405?v=4'
-    contributions: 640
-    company: 'Freelancing'
-    organizations: 'lua-yoyo,training-yoyosan,gov-ithub,interviews-yoyosan'
-
-  - rank: 157
-    name: 'Anatolie Stafie'
-    login: 'Stafie'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1656477?v=4'
-    contributions: 636
-    company: 'Epic Coders'
-    organizations: 'EpicCoders'
-
-  - rank: 158
-    name: 'Alexandra Iordache'
-    login: 'aghecenco'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2035829?v=4'
-    contributions: 633
-    company: '@aws '
-    organizations: ''
-
-  - rank: 159
+  - rank: 194
     name: 'Andrei Lupu'
     login: 'andreilupu'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1893980?v=4'
@@ -3324,15 +3604,63 @@ private_users:
     company: 'Astoundify'
     organizations: ''
 
-  - rank: 160
+  - rank: 195
+    name: 'Marius Palade'
+    login: 'yoyosan'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/32405?v=4'
+    contributions: 629
+    company: 'Freelancing'
+    organizations: 'lua-yoyo,training-yoyosan,gov-ithub,interviews-yoyosan'
+
+  - rank: 196
+    name: 'Anatolie Stafie'
+    login: 'Stafie'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1656477?v=4'
+    contributions: 627
+    company: 'Epic Coders'
+    organizations: 'EpicCoders'
+
+  - rank: 197
+    name: 'Enache Ionut'
+    login: 'Enache-Ionut'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/10616921?v=4'
+    contributions: 624
+    company: '@Caphyon '
+    organizations: ''
+
+  - rank: 198
+    name: 'Alexandru Cobuz'
+    login: 'gamebak'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2984011?v=4'
+    contributions: 619
+    company: ''
+    organizations: ''
+
+  - rank: 199
+    name: 'Paul Jugărean'
+    login: 'pauljugarean'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/19713238?v=4'
+    contributions: 618
+    company: '@Graffino '
+    organizations: 'Graffino'
+
+  - rank: 200
     name: 'Cătălin Frâncu'
     login: 'CatalinFrancu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1180392?v=4'
-    contributions: 613
+    contributions: 612
     company: '@dexonline '
     organizations: 'varena,dexonline'
 
-  - rank: 161
+  - rank: 201
+    name: 'Alexandra Iordache'
+    login: 'aghecenco'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2035829?v=4'
+    contributions: 612
+    company: '@aws '
+    organizations: ''
+
+  - rank: 202
     name: 'Roland Bogosi'
     login: 'RoliSoft'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/119426?v=4'
@@ -3340,15 +3668,15 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 162
-    name: 'Zoltan Szabo'
-    login: 'zotya'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/468679?v=4'
-    contributions: 600
-    company: '@eea @eaudeweb'
-    organizations: 'plone,eaudeweb,collective,eea'
+  - rank: 203
+    name: 'Vlad Potra'
+    login: 'Japjappedulap'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/34290379?v=4'
+    contributions: 602
+    company: '@SectorLabs ex @bitdefender'
+    organizations: ''
 
-  - rank: 163
+  - rank: 204
     name: 'Adrian-George Bostan'
     login: 'adrg'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/6454770?v=4'
@@ -3356,15 +3684,39 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 164
+  - rank: 205
+    name: 'Razvan Onofrei'
+    login: 'razwan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1633371?v=4'
+    contributions: 600
+    company: 'PixelGrade'
+    organizations: 'pixelgrade'
+
+  - rank: 206
+    name: 'Gabriel Ionescu'
+    login: 'blchinezu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3418598?v=4'
+    contributions: 600
+    company: ''
+    organizations: ''
+
+  - rank: 207
     name: 'Daniela Craciun'
     login: 'danielacraciun'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/13560477?v=4'
-    contributions: 598
+    contributions: 597
     company: '@deliveryhero'
     organizations: 'deliveryhero,foodora,gcodersclub'
 
-  - rank: 165
+  - rank: 208
+    name: 'Zoltan Szabo'
+    login: 'zotya'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/468679?v=4'
+    contributions: 595
+    company: '@eea @eaudeweb'
+    organizations: 'plone,eaudeweb,collective,eea'
+
+  - rank: 209
     name: 'Victor Nițu'
     login: 'nightsh'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1579997?v=4'
@@ -3372,23 +3724,15 @@ private_users:
     company: ''
     organizations: 'openspending,thesponge,rootio,debian-ro,tenders-exposed,ViderumGlobal,datopian,plagiari-sm,liquidinvestigations,eic-network,theblacksea'
 
-  - rank: 166
-    name: 'Catalin Ciobanu'
-    login: 'caciobanu'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3765656?v=4'
+  - rank: 210
+    name: 'Horia Coman'
+    login: 'horia141'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/6992873?v=4'
     contributions: 590
-    company: ''
-    organizations: 'doesntmattr'
+    company: 'Bolt'
+    organizations: 'ocelot-saas'
 
-  - rank: 167
-    name: 'Ionut Milica'
-    login: 'ionutmilica'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/627239?v=4'
-    contributions: 589
-    company: ''
-    organizations: ''
-
-  - rank: 168
+  - rank: 211
     name: 'Cosmin Poieana'
     login: 'cmin764'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/709053?v=4'
@@ -3396,23 +3740,15 @@ private_users:
     company: 'Comfy'
     organizations: 'Rogentos,RoPython,TeqTeams,Skillin,bioteqgroup,savvybit'
 
-  - rank: 169
+  - rank: 212
     name: 'Vlad'
     login: 'vladootz'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/119264?v=4'
-    contributions: 588
+    contributions: 587
     company: ''
     organizations: ''
 
-  - rank: 170
-    name: 'Horia Coman'
-    login: 'horia141'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6992873?v=4'
-    contributions: 588
-    company: 'Bolt'
-    organizations: 'ocelot-saas'
-
-  - rank: 171
+  - rank: 213
     name: 'Alin Iacob'
     login: 'alinbsp'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/75691?v=4'
@@ -3420,23 +3756,47 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 172
-    name: 'János Rusiczki'
-    login: 'janosrusiczki'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/189468?v=4'
+  - rank: 214
+    name: 'Ionut Milica'
+    login: 'ionutmilica'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/627239?v=4'
+    contributions: 585
+    company: ''
+    organizations: ''
+
+  - rank: 215
+    name: 'Catalin Ciobanu'
+    login: 'caciobanu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3765656?v=4'
+    contributions: 584
+    company: ''
+    organizations: 'doesntmattr'
+
+  - rank: 216
+    name: 'Ovidiu Anca'
+    login: 'ovidiuanca'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/13612877?v=4'
     contributions: 583
     company: ''
     organizations: ''
 
-  - rank: 173
-    name: 'Ovidiu Anca'
-    login: 'ovidiuanca'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/13612877?v=4'
+  - rank: 217
+    name: 'Alex Marinescu'
+    login: 'marinescualex'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/110439?v=4'
     contributions: 582
     company: ''
     organizations: ''
 
-  - rank: 174
+  - rank: 218
+    name: 'János Rusiczki'
+    login: 'janosrusiczki'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/189468?v=4'
+    contributions: 581
+    company: ''
+    organizations: ''
+
+  - rank: 219
     name: 'Endre Simo'
     login: 'esimov'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/883386?v=4'
@@ -3444,7 +3804,15 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 175
+  - rank: 220
+    name: 'Józsi'
+    login: 'jozsi'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/840815?v=4'
+    contributions: 577
+    company: ''
+    organizations: ''
+
+  - rank: 221
     name: 'Will Frew'
     login: 'willfrew'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/521750?v=4'
@@ -3452,7 +3820,7 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 176
+  - rank: 222
     name: 'Codrin Pavel'
     login: 'ZeroSpree'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1673595?v=4'
@@ -3460,23 +3828,39 @@ private_users:
     company: '@ideasonpurpose '
     organizations: ''
 
-  - rank: 177
+  - rank: 223
     name: 'Traian Florin Șerbănuță'
     login: 'traiansf'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/2890067?v=4'
-    contributions: 565
+    contributions: 564
     company: ' @fmi-unibuc ,@runtimeverification'
     organizations: 'runtimeverification,kframework'
 
-  - rank: 178
+  - rank: 224
     name: 'Vlad Frangu'
     login: 'vladfrangu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/17960496?v=4'
-    contributions: 559
+    contributions: 560
     company: ''
     organizations: 'TCDG,dirigeants,GeekHub-Discord,tt-bot-dev,KlasaCommunityPlugins,MagicCap,kubecord'
 
-  - rank: 179
+  - rank: 225
+    name: 'Dan Mihaila'
+    login: 'danmihaila'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3865844?v=4'
+    contributions: 545
+    company: ''
+    organizations: ''
+
+  - rank: 226
+    name: 'Chris Valean'
+    login: 'chvalean'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6150951?v=4'
+    contributions: 541
+    company: 'Cloudbase Solutions'
+    organizations: 'cloudbase'
+
+  - rank: 227
     name: 'ᴄɪᴘʀɪᴀɴ ɪᴏɴᴇsᴄᴜ'
     login: 'ciprianionescu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/347014?v=4'
@@ -3484,7 +3868,31 @@ private_users:
     company: '[e-spres-oh]'
     organizations: 'mygovus,mygovdev'
 
-  - rank: 180
+  - rank: 228
+    name: 'Ciprian Dorin Craciun'
+    login: 'cipriancraciun'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/29785?v=4'
+    contributions: 537
+    company: '(available for hire)'
+    organizations: 'volution,tmlug'
+
+  - rank: 229
+    name: 'Catalin Zalog'
+    login: 'zalog'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/985838?v=4'
+    contributions: 535
+    company: ''
+    organizations: 'civictechro'
+
+  - rank: 230
+    name: 'Diana'
+    login: 'dianastanciu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/26607309?v=4'
+    contributions: 534
+    company: ''
+    organizations: ''
+
+  - rank: 231
     name: 'Andrei Tudor Călin'
     login: 'acln0'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3393388?v=4'
@@ -3492,7 +3900,7 @@ private_users:
     company: ''
     organizations: 'gofrs'
 
-  - rank: 181
+  - rank: 232
     name: 'Octavian Dima'
     login: 'WopsS'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3403191?v=4'
@@ -3500,55 +3908,31 @@ private_users:
     company: ''
     organizations: 'SkyrimTogether'
 
-  - rank: 182
-    name: 'Bogdan Poplauschi'
-    login: 'bpoplauschi'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/154913?v=4'
-    contributions: 531
-    company: ''
-    organizations: 'VividSeats,CocoaLumberjack,SDWebImage'
-
-  - rank: 183
-    name: 'Emilia Muresan'
-    login: 'emimuresan'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5598081?v=4'
-    contributions: 526
-    company: ''
+  - rank: 233
+    name: 'Bogdan U'
+    login: 'ubogdan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4992696?v=4'
+    contributions: 529
+    company: 'SC ACTIVEMALL SRL'
     organizations: ''
 
-  - rank: 184
+  - rank: 234
     name: 'GC'
     login: 'gc-plp'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/81714?v=4'
-    contributions: 526
+    contributions: 525
     company: ''
     organizations: ''
 
-  - rank: 185
-    name: 'Cosmin Nechifor'
-    login: 'CosminNechifor'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/22676160?v=4'
-    contributions: 522
+  - rank: 235
+    name: 'Bogdan Poplauschi'
+    login: 'bpoplauschi'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/154913?v=4'
+    contributions: 524
     company: ''
-    organizations: ''
+    organizations: 'VividSeats,CocoaLumberjack,SDWebImage'
 
-  - rank: 186
-    name: 'Diana'
-    login: 'dianastanciu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/26607309?v=4'
-    contributions: 519
-    company: ''
-    organizations: ''
-
-  - rank: 187
-    name: 'Ciprian Dorin Craciun'
-    login: 'cipriancraciun'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/29785?v=4'
-    contributions: 517
-    company: '(available for hire)'
-    organizations: 'volution,tmlug'
-
-  - rank: 188
+  - rank: 236
     name: 'Gino Ungureanu'
     login: 'g-un--'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/2708835?v=4'
@@ -3556,15 +3940,47 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 189
-    name: 'Bogdan U'
-    login: 'ubogdan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4992696?v=4'
-    contributions: 502
-    company: 'SC ACTIVEMALL SRL'
+  - rank: 237
+    name: 'Emilia Muresan'
+    login: 'emimuresan'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5598081?v=4'
+    contributions: 515
+    company: ''
     organizations: ''
 
-  - rank: 190
+  - rank: 238
+    name: 'Paul Hrimiuc'
+    login: 'hpaul'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/594424?v=4'
+    contributions: 512
+    company: ''
+    organizations: ''
+
+  - rank: 239
+    name: 'George Olaru'
+    login: 'georgeolaru'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1632775?v=4'
+    contributions: 509
+    company: '@pixelgrade'
+    organizations: 'pixelgrade'
+
+  - rank: 240
+    name: 'Brian Lowe'
+    login: 'brianjlowe'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2677238?v=4'
+    contributions: 504
+    company: 'Ontocale SRL'
+    organizations: 'vivo-project,openrif,AGROFIMS,AgriculturalSemantics,ontocale,WheatVIVO,RAP-research-output-impact,vivo-community,vivo-archive'
+
+  - rank: 241
+    name: 'Denis Nuțiu'
+    login: 'dnutiu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6840706?v=4'
+    contributions: 501
+    company: 'Bitdefender'
+    organizations: 'NovelComputationAndControl'
+
+  - rank: 242
     name: 'Ionut-Cristian Florescu'
     login: 'icflorescu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/581999?v=4'
@@ -3572,55 +3988,63 @@ private_users:
     company: 'React/Next.js/Node.js Developer'
     organizations: 'aspax'
 
-  - rank: 191
-    name: 'Mihai Oltean'
-    login: 'mihaioltean'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3392157?v=4'
+  - rank: 243
+    name: 'Toader Mihai'
+    login: 'mihaiToader'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/20223069?v=4'
     contributions: 493
-    company: '"1 Decembrie 1918" University of Alba-Iulia'
-    organizations: 'jenny5-robot,mepx'
-
-  - rank: 192
-    name: 'Denis Nuțiu'
-    login: 'dnutiu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6840706?v=4'
-    contributions: 492
-    company: 'Bitdefender'
-    organizations: 'NovelComputationAndControl'
-
-  - rank: 193
-    name: 'Brian Lowe'
-    login: 'brianjlowe'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2677238?v=4'
-    contributions: 491
-    company: 'Ontocale SRL'
-    organizations: 'vivo-project,openrif,AGROFIMS,AgriculturalSemantics,ontocale,WheatVIVO,RAP-research-output-impact,vivo-community,vivo-archive'
-
-  - rank: 194
-    name: 'Ionut Dincu'
-    login: 'gdincu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/20664969?v=4'
-    contributions: 490
     company: ''
     organizations: ''
 
-  - rank: 195
-    name: 'Florin Gogianu'
-    login: 'floringogianu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1670348?v=4'
-    contributions: 484
-    company: '@bit-ml '
-    organizations: 'bit-ml,village-people'
+  - rank: 244
+    name: 'Madalin Popa'
+    login: 'ppmadalin'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5753617?v=4'
+    contributions: 491
+    company: 'Oracle'
+    organizations: 'python-romania,PyBites-Open-Source'
 
-  - rank: 196
-    name: 'Catalin Zalog'
-    login: 'zalog'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/985838?v=4'
-    contributions: 480
+  - rank: 245
+    name: 'Ionut Dincu'
+    login: 'gdincu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/20664969?v=4'
+    contributions: 491
     company: ''
-    organizations: 'civictechro'
+    organizations: ''
 
-  - rank: 197
+  - rank: 246
+    name: 'Mihai Oltean'
+    login: 'mihaioltean'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3392157?v=4'
+    contributions: 488
+    company: '"1 Decembrie 1918" University of Alba-Iulia'
+    organizations: 'jenny5-robot,mepx'
+
+  - rank: 247
+    name: 'Dan Berindei'
+    login: 'danberindei'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/504907?v=4'
+    contributions: 483
+    company: 'JBoss by RedHat'
+    organizations: 'infinispan'
+
+  - rank: 248
+    name: 'Dragos'
+    login: 'cdragos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/298186?v=4'
+    contributions: 476
+    company: ''
+    organizations: ''
+
+  - rank: 249
+    name: 'Alexandru Furculita ♻'
+    login: 'afurculita'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3129631?v=4'
+    contributions: 475
+    company: ''
+    organizations: 'boxador,AlexanderForks'
+
+  - rank: 250
     name: 'Dronca Raul'
     login: 'iRaul'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6464945?v=4'
@@ -3628,15 +4052,23 @@ private_users:
     company: '@Fyusion '
     organizations: ''
 
-  - rank: 198
-    name: 'Dan Berindei'
-    login: 'danberindei'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/504907?v=4'
-    contributions: 471
-    company: 'JBoss by RedHat'
-    organizations: 'infinispan'
+  - rank: 251
+    name: 'Florin Gogianu'
+    login: 'floringogianu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1670348?v=4'
+    contributions: 464
+    company: '@bit-ml '
+    organizations: 'bit-ml,village-people'
 
-  - rank: 199
+  - rank: 252
+    name: 'Andrei Avram'
+    login: 'andreiavrammsd'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/6795248?v=4'
+    contributions: 461
+    company: ''
+    organizations: ''
+
+  - rank: 253
     name: 'Fmohican'
     login: 'fmohican'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/8583317?v=4'
@@ -3644,7 +4076,15 @@ private_users:
     company: ''
     organizations: 'wien-subs,ColoniseTheWorld'
 
-  - rank: 200
+  - rank: 254
+    name: 'Alexandru Constantin'
+    login: 'alexdevmotion'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7261890?v=4'
+    contributions: 459
+    company: 'Franc'
+    organizations: ''
+
+  - rank: 255
     name: 'Ciprian Ciubotariu'
     login: 'CMoH'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/663132?v=4'
@@ -3652,537 +4092,97 @@ private_users:
     company: ''
     organizations: 'triplequote'
 
-  - rank: 201
-    name: 'Alexandru Furculita ♻'
-    login: 'afurculita'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3129631?v=4'
-    contributions: 459
-    company: ''
-    organizations: 'boxador,AlexanderForks'
-
-  - rank: 202
-    name: 'Andrei Avram'
-    login: 'andreiavrammsd'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/6795248?v=4'
-    contributions: 456
-    company: ''
-    organizations: ''
-
-  - rank: 203
-    name: 'Tudor Luca'
-    login: 'lucamtudor'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3036785?v=4'
-    contributions: 455
-    company: 'Shift STUDIO'
-    organizations: ''
-
-  - rank: 204
-    name: 'Răzvan Crainea'
-    login: 'razvancrainea'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1511224?v=4'
-    contributions: 453
-    company: 'OpenSIPS'
-    organizations: 'OpenSIPS,hexcellents'
-
-  - rank: 205
-    name: 'Daniel Pintilei'
-    login: 'DanielPintilei'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/9828983?v=4'
-    contributions: 452
-    company: ''
-    organizations: ''
-
-  - rank: 206
-    name: 'Vlad Mihalcea'
-    login: 'vladmihalcea'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5571399?v=4'
-    contributions: 450
-    company: '@vladmihalcea'
-    organizations: ''
-
-  - rank: 207
+  - rank: 256
     name: 'Adrian Oprea'
     login: 'oprearocks'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/2746712?v=4'
-    contributions: 444
+    contributions: 458
     company: 'NBSP.co — The No-BS Professionals Collective'
     organizations: ''
-
-  - rank: 208
-    name: 'Tudor Gergely'
-    login: 'tudorgergely'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7794865?v=4'
-    contributions: 441
-    company: ''
-    organizations: 'Catalysts,jsheroes'
-
-  - rank: 209
-    name: 'Grigore Cristian-Andrei'
-    login: 'grrigore'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/13870729?v=4'
-    contributions: 440
-    company: 'roweb'
-    organizations: ''
-
-  - rank: 210
-    name: 'George Bina'
-    login: 'georgebina'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1246612?v=4'
-    contributions: 440
-    company: 'Syncro Soft / oXygen XML Editor'
-    organizations: 'dita-ot'
-
-  - rank: 211
-    name: 'Dorin Hongu'
-    login: 'dhongu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/8823556?v=4'
-    contributions: 437
-    company: 'Terrabit / Deltatech'
-    organizations: ''
-
-  - rank: 212
-    name: 'Andrei Verdes'
-    login: 'andreiverdes'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/702346?v=4'
-    contributions: 425
-    company: 'NoIdeea'
-    organizations: 'AndroidIasi'
-
-  - rank: 213
-    name: 'Andrei Cacio'
-    login: 'andrei-cacio'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5195546?v=4'
-    contributions: 425
-    company: 'Moqups @Evercoder '
-    organizations: 'jsheroes'
-
-  - rank: 214
-    name: 'Cristian Bote'
-    login: 'cristianbote'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3405161?v=4'
-    contributions: 423
-    company: ''
-    organizations: 'preactjs,kitabsawti'
-
-  - rank: 215
-    name: 'Andrei Bodea'
-    login: 'abodea'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/42831109?v=4'
-    contributions: 420
-    company: 'Softvision / @Mozilla'
-    organizations: 'mozilla-mobile,mozilla-lockwise'
-
-  - rank: 216
-    name: 'Andrei Marinescu'
-    login: 'andreimarinescu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1049591?v=4'
-    contributions: 420
-    company: 'Telepat.io Inc, Veeplay GmbH'
-    organizations: 'telepat-io'
-
-  - rank: 217
-    name: ''
-    login: 'catileptic'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/14028425?v=4'
-    contributions: 419
-    company: ''
-    organizations: 'code4romania,securityespresso'
-
-  - rank: 218
-    name: 'Rodica Vasilescu'
-    login: 'RodicaMihaelaVasilescu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/41547572?v=4'
-    contributions: 419
-    company: ''
-    organizations: ''
-
-  - rank: 219
-    name: 'Eduard Tamsa'
-    login: 'TaEduard'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/19353972?v=4'
-    contributions: 416
-    company: ''
-    organizations: ''
-
-  - rank: 220
-    name: ''
-    login: 'cristian-ungureanu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/9929553?v=4'
-    contributions: 413
-    company: 'Themeisle'
-    organizations: 'Codeinwp'
-
-  - rank: 221
-    name: 'Digi'
-    login: 'THDigi'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/844339?v=4'
-    contributions: 413
-    company: ''
-    organizations: ''
-
-  - rank: 222
-    name: 'Dragos Ifrim'
-    login: 'echo7yankee'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/37633121?v=4'
-    contributions: 410
-    company: ''
-    organizations: ''
-
-  - rank: 223
-    name: 'Anton Kulaga'
-    login: 'antonkulaga'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/842436?v=4'
-    contributions: 406
-    company: 'Computational Biology of Aging Group'
-    organizations: 'denigma,banana-rdf,hackbio'
-
-  - rank: 224
-    name: 'Costin Leau'
-    login: 'costin'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/76245?v=4'
-    contributions: 403
-    company: '@elastic '
-    organizations: 'elastic'
-
-  - rank: 225
-    name: 'Gabriel Vasile'
-    login: 'gabriel-vasile'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/10602896?v=4'
-    contributions: 400
-    company: '-'
-    organizations: ''
-
-  - rank: 226
-    name: 'Dan Achim'
-    login: 'danakim'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1060347?v=4'
-    contributions: 400
-    company: ''
-    organizations: 'funkycitizens'
-
-  - rank: 227
-    name: 'Vladimir Ciobanu'
-    login: 'vladciobanu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1017953?v=4'
-    contributions: 400
-    company: '@runtimeverification'
-    organizations: ''
-
-  - rank: 228
-    name: 'Stefan Gabos'
-    login: 'stefangabos'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/741165?v=4'
-    contributions: 397
-    company: ''
-    organizations: ''
-
-  - rank: 229
-    name: 'Marius Stanca'
-    login: 'wmariuss'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/6131115?v=4'
-    contributions: 397
-    company: ''
-    organizations: ''
-
-  - rank: 230
-    name: 'Motea Marius'
-    login: 'mariusmotea'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5594370?v=4'
-    contributions: 394
-    company: ''
-    organizations: 'diyhue'
-
-  - rank: 231
-    name: 'Roland Szabo'
-    login: 'rolisz'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/426313?v=4'
-    contributions: 394
-    company: ''
-    organizations: ''
-
-  - rank: 232
-    name: 'Mali Imre Gergely'
-    login: 'imimali'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/23083140?v=4'
-    contributions: 393
-    company: ''
-    organizations: ''
-
-  - rank: 233
-    name: 'Alin Enachescu'
-    login: 'aenachescu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6330622?v=4'
-    contributions: 391
-    company: ''
-    organizations: ''
-
-  - rank: 234
-    name: 'Andrei Antal'
-    login: 'andrei-antal'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/9883163?v=4'
-    contributions: 389
-    company: ''
-    organizations: 'qualitance'
-
-  - rank: 235
-    name: 'Nicu FLORICA (niq_ro)'
-    login: 'tehniq3'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4947574?v=4'
-    contributions: 385
-    company: 'http://www.arduinotehniq.com'
-    organizations: ''
-
-  - rank: 236
-    name: 'Claudiu Nicola'
-    login: 'claudiunicolaa'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/15197275?v=4'
-    contributions: 385
-    company: '@cluj-ytech @NicTechSolutions '
-    organizations: 'cluj-ytech'
-
-  - rank: 237
-    name: 'Bogdan Irimie'
-    login: 'IrimieBogdan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3924120?v=4'
-    contributions: 384
-    company: 'Puppet'
-    organizations: ''
-
-  - rank: 238
-    name: 'Alexandru Ungur'
-    login: 'alexaandru'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/85237?v=4'
-    contributions: 383
-    company: ''
-    organizations: 'medivo'
-
-  - rank: 239
-    name: 'Alexandru Radovici'
-    login: 'alexandruradovici'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2838177?v=4'
-    contributions: 380
-    company: ''
-    organizations: ''
-
-  - rank: 240
-    name: 'Cristian Mircea Messel'
-    login: 'mess110'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/226170?v=4'
-    contributions: 379
-    company: ''
-    organizations: ''
-
-  - rank: 241
-    name: 'Baransel'
-    login: 'xosad'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/48059103?v=4'
-    contributions: 378
-    company: '@mob-soft '
-    organizations: ''
-
-  - rank: 242
-    name: 'Bogdan Covrig'
-    login: 'BogDAAAMN'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/22895284?v=4'
-    contributions: 376
-    company: ''
-    organizations: 'appwrite,maastrichtlawtech'
-
-  - rank: 243
-    name: 'Daniel Baluta'
-    login: 'dbaluta'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/62316?v=4'
-    contributions: 374
-    company: 'NXP'
-    organizations: 'vmchecker,IxLabs,linux-kernel-labs'
-
-  - rank: 244
-    name: 'Liviu Chircu'
-    login: 'liviuchircu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4446084?v=4'
-    contributions: 371
-    company: 'OpenSIPS Solutions'
-    organizations: 'OpenSIPS'
-
-  - rank: 245
-    name: 'Marius Nedelcu'
-    login: 'nedzen'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1203215?v=4'
-    contributions: 371
-    company: ''
-    organizations: ''
-
-  - rank: 246
-    name: 'Marius Nicolae'
-    login: 'bytao7mao'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/28831190?v=4'
-    contributions: 369
-    company: 'bytao7mao'
-    organizations: ''
-
-  - rank: 247
-    name: 'Teofana Enachioiu'
-    login: 'teofanaenachioiu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/38041744?v=4'
-    contributions: 365
-    company: ''
-    organizations: ''
-
-  - rank: 248
-    name: 'alincmt'
-    login: 'ClimenteA'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/9250009?v=4'
-    contributions: 358
-    company: ''
-    organizations: ''
-
-  - rank: 249
-    name: 'Ionut BALUTOIU'
-    login: 'ionutbalutoiu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6170274?v=4'
-    contributions: 355
-    company: 'Cloudbase Solutions'
-    organizations: 'cloudbase'
-
-  - rank: 250
-    name: 'Roland Leth'
-    login: 'rolandleth'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1858700?v=4'
-    contributions: 351
-    company: 'Runtime Sharks'
-    organizations: ''
-
-  - rank: 251
-    name: 'Teodor Pripoae'
-    login: 'teodor-pripoae'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/393437?v=4'
-    contributions: 351
-    company: ''
-    organizations: ''
-
-  - rank: 252
-    name: 'Nazare Emanuel-Ioan'
-    login: 'EINazare'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/26245512?v=4'
-    contributions: 350
-    company: '@creativetimofficial '
-    organizations: ''
-
-  - rank: 253
-    name: 'Bogdan Boboc'
-    login: 'bogdanboboc97'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/23665109?v=4'
-    contributions: 349
-    company: 'InfiniSwiss'
-    organizations: ''
-
-  - rank: 254
-    name: 'Gerlinde Christine Ciocea'
-    login: 'gerlindee'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/44527090?v=4'
-    contributions: 349
-    company: ''
-    organizations: ''
-
-  - rank: 255
-    name: 'Dorin Ionita'
-    login: 'dorin-ionita'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/20026973?v=4'
-    contributions: 341
-    company: ''
-    organizations: ''
-
-  - rank: 256
-    name: 'Dread Knight'
-    login: 'DreadKnight'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/587487?v=4'
-    contributions: 340
-    company: '@FreezingMoon'
-    organizations: 'FreezingMoon'
 
 organizations:
 
   - rank: 1
-    name: 'code4romania'
-    membercount: 8
+    name: 'eea'
+    membercount: 9
 
   - rank: 2
     name: 'eaudeweb'
-    membercount: 7
+    membercount: 9
 
   - rank: 3
-    name: 'eea'
-    membercount: 7
+    name: 'cloudbase'
+    membercount: 8
 
   - rank: 4
-    name: 'cloudbase'
+    name: 'collective'
     membercount: 6
 
   - rank: 5
-    name: 'collective'
+    name: 'plone'
     membercount: 5
 
   - rank: 6
-    name: 'plone'
-    membercount: 4
+    name: 'code4romania'
+    membercount: 5
 
   - rank: 7
-    name: 'rosedu'
+    name: 'metasfresh'
     membercount: 3
 
   - rank: 8
-    name: 'liquidinvestigations'
+    name: 'rosedu'
     membercount: 3
 
   - rank: 9
-    name: 'pybucuresti'
+    name: 'liquidinvestigations'
     membercount: 3
 
   - rank: 10
-    name: 'metasfresh'
-    membercount: 2
+    name: 'pybucuresti'
+    membercount: 3
 
 private_organizations:
 
   - rank: 1
-    name: 'eea'
-    membercount: 5
+    name: 'eaudeweb'
+    membercount: 6
 
   - rank: 2
-    name: 'eaudeweb'
-    membercount: 5
+    name: 'eea'
+    membercount: 6
 
   - rank: 3
-    name: 'code4romania'
-    membercount: 4
-
-  - rank: 4
     name: 'collective'
     membercount: 4
 
-  - rank: 5
+  - rank: 4
     name: 'rosedu'
     membercount: 4
 
+  - rank: 5
+    name: 'code4romania'
+    membercount: 3
+
   - rank: 6
-    name: 'plone'
+    name: 'pixelgrade'
     membercount: 3
 
   - rank: 7
-    name: 'liquidinvestigations'
-    membercount: 3
-
-  - rank: 8
     name: 'gov-ithub'
     membercount: 3
 
+  - rank: 8
+    name: 'plone'
+    membercount: 3
+
   - rank: 9
-    name: 'microsoft'
-    membercount: 2
+    name: 'liquidinvestigations'
+    membercount: 3
 
   - rank: 10
-    name: 'sectorlabs'
-    membercount: 2
-generated: 2019-12-23 05:58:39.585437357 +0000 UTC
-min_followers_required: 10
-total_user_count: 16178
+    name: 'metasfresh'
+    membercount: 3
+generated: 2019-12-30 05:46:53.651572414 +0000 UTC
+min_followers_required: 7
+total_user_count: 15736

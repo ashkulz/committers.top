@@ -3,70 +3,78 @@ title: Finland
 users:
 
   - rank: 1
+    name: 'Miikka Koskinen'
+    login: 'miikka'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/34607?v=4'
+    contributions: 10328
+    company: '@metosin '
+    organizations: 'metosin,cljsjs,osakunta'
+
+  - rank: 2
     name: 'Oleg Grenrus'
     login: 'phadej'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/51087?v=4'
-    contributions: 4097
+    contributions: 4072
     company: 'Well-Typed LLP'
     organizations: 'igbinary,baconjs,haskell-infra,jsverify,haskell-servant,haskhel,osakunta'
 
-  - rank: 2
+  - rank: 3
     name: 'Hugo van Kemenade'
     login: 'hugovk'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1324225?v=4'
-    contributions: 3528
+    contributions: 3540
     company: 'Nord Software'
-    organizations: 'python-pillow,unitedstates,digiaonline,pylast,pytest-dev,whyaretheflagsup,mobbler,cycle148hki,gatsbyjs,jazzband,citybikes,NaNoGenMo,WahKazoo,nordsoftware'
+    organizations: 'python-pillow,unitedstates,digiaonline,fatiando,pylast,pytest-dev,whyaretheflagsup,mobbler,cycle148hki,gatsbyjs,jazzband,citybikes,NaNoGenMo,WahKazoo,nordsoftware'
 
-  - rank: 3
+  - rank: 4
     name: 'Tulir Asokan'
     login: 'tulir'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4224639?v=4'
-    contributions: 3112
+    contributions: 3117
     company: '@rage, @maunium'
     organizations: 'rage,maunium,matrix-construct,maubot'
-
-  - rank: 4
-    name: 'Henrik Nygren'
-    login: 'nygrenh'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1922896?v=4'
-    contributions: 3050
-    company: ''
-    organizations: 'testmycode,friends-of-rails,rage,TeamWhat,FinJam,ohjelmointikurssi,cybersecuritybase,2017-tilai,ohjelmointi'
 
   - rank: 5
     name: 'Daniel Dunderfelt'
     login: 'danieldunderfelt'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/3145668?v=4'
-    contributions: 3014
+    contributions: 3013
     company: ''
     organizations: 'styled-components'
 
   - rank: 6
+    name: 'Henrik Nygren'
+    login: 'nygrenh'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1922896?v=4'
+    contributions: 2884
+    company: ''
+    organizations: 'testmycode,friends-of-rails,rage,TeamWhat,FinJam,ohjelmointikurssi,cybersecuritybase,2017-tilai,ohjelmointi'
+
+  - rank: 7
     name: 'Esko Luontola'
     login: 'luontola'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/42678?v=4'
-    contributions: 2692
+    contributions: 2715
     company: '@NitorCreations '
     organizations: 'NitorCreations,titokone,HSLdevcom,pamods'
 
-  - rank: 7
+  - rank: 8
     name: 'Lassi Kortela'
     login: 'lassik'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2564245?v=4'
-    contributions: 2589
+    contributions: 2623
     company: ''
     organizations: 'srfi-explorations,schemedoc,lispunion,schemeweb'
 
-  - rank: 8
+  - rank: 9
     name: 'Serhii Kulykov'
     login: 'web-padawan'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/10589913?v=4'
-    contributions: 2433
+    contributions: 2419
     company: '@vaadin'
     organizations: 'vaadin'
 
-  - rank: 9
+  - rank: 10
     name: ''
     login: 'Rochet2'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/468816?v=4'
@@ -74,35 +82,27 @@ users:
     company: ''
     organizations: 'mangos,mangoszero,testmycode,mangosone,mangosthree,mangostwo,ElunaLuaEngine,CoronaCore,EpicGames,mangosfive,UniversityOfHelsinkiCS,Mahtimursut,azerothcore,tmc-api-team,sataako'
 
-  - rank: 10
+  - rank: 11
     name: 'Esa-Matti Suuronen'
     login: 'esamattis'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/225712?v=4'
-    contributions: 2012
+    contributions: 2049
     company: 'Valu Digital Oy'
     organizations: 'plone,nko2,Instanssi,koodilehto,tftp-go-team'
 
-  - rank: 11
+  - rank: 12
     name: 'Tarmo Leppänen'
     login: 'tarlepp'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/595561?v=4'
-    contributions: 2010
+    contributions: 2035
     company: 'Protacon Solutions Ltd'
     organizations: 'UniBot,geekcollision,protacon'
-
-  - rank: 12
-    name: 'Kimmo Sääskilahti'
-    login: 'ksaaskil'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11660974?v=4'
-    contributions: 1955
-    company: '@Meeshkan '
-    organizations: 'Meeshkan'
 
   - rank: 13
     name: 'Justin Woo'
     login: 'justinwoo'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2396926?v=4'
-    contributions: 1924
+    contributions: 1910
     company: ''
     organizations: 'NixOS'
 
@@ -110,23 +110,23 @@ users:
     name: 'Matti Luukkainen'
     login: 'mluukkai'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/523235?v=4'
-    contributions: 1872
+    contributions: 1896
     company: 'University of Helsinki'
     organizations: 'UniversityHelsinkiTKTL,UniversityOfHelsinkiCS'
 
   - rank: 15
-    name: 'Matti Ahinko'
-    login: 'stormaaja'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1937585?v=4'
-    contributions: 1832
-    company: ''
-    organizations: 'Lepovirta'
+    name: 'Kimmo Sääskilahti'
+    login: 'ksaaskil'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/11660974?v=4'
+    contributions: 1861
+    company: '@Meeshkan '
+    organizations: 'Meeshkan'
 
   - rank: 16
     name: 'Lauri Ojansivu'
     login: 'xet7'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/15545?v=4'
-    contributions: 1817
+    contributions: 1793
     company: ''
     organizations: 'Secretchronicles,wekan,wefork,sandstormports,EthKan'
 
@@ -134,17 +134,17 @@ users:
     name: 'Joonas Rikkonen'
     login: 'Regalis11'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/14351070?v=4'
-    contributions: 1700
+    contributions: 1697
     company: ''
     organizations: ''
 
   - rank: 18
-    name: 'Mikhail Zabaluev'
-    login: 'mzabaluev'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1198919?v=4'
-    contributions: 1693
-    company: ''
-    organizations: 'gi-rust'
+    name: 'Perry Mitchell'
+    login: 'perry-mitchell'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3869469?v=4'
+    contributions: 1678
+    company: '@buttercup '
+    organizations: 'Kiosked,buttercup,cafedev-org'
 
   - rank: 19
     name: 'Joel Kaasinen'
@@ -155,22 +155,30 @@ users:
     organizations: ''
 
   - rank: 20
-    name: 'Perry Mitchell'
-    login: 'perry-mitchell'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3869469?v=4'
-    contributions: 1643
-    company: '@buttercup '
-    organizations: 'Kiosked,buttercup,cafedev-org'
-
-  - rank: 21
     name: 'Mike Solomon'
     login: 'mikesol'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/525350?v=4'
-    contributions: 1642
+    contributions: 1615
     company: 'Meeshkan'
     organizations: ''
 
+  - rank: 21
+    name: 'Kenigbolo Meya Stephen'
+    login: 'kenigbolo'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/18700907?v=4'
+    contributions: 1586
+    company: '@CodeAfrique '
+    organizations: ''
+
   - rank: 22
+    name: 'Richard Darst'
+    login: 'rkdarst'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/6877977?v=4'
+    contributions: 1568
+    company: 'Aalto University'
+    organizations: 'CxAalto,coderefinery,AaltoScienceIT,usefulaaltomap,NordicHPC'
+
+  - rank: 23
     name: 'Lucas Käldström'
     login: 'luxas'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/5442475?v=4'
@@ -178,111 +186,87 @@ users:
     company: '@kubernetes @weaveworks '
     organizations: 'kubernetes,kubernetes-incubator,rook,cloud-native-nordics'
 
-  - rank: 23
-    name: 'Kenigbolo Meya Stephen'
-    login: 'kenigbolo'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/18700907?v=4'
-    contributions: 1560
-    company: '@CodeAfrique '
-    organizations: ''
-
   - rank: 24
     name: 'Brylie Christopher Oxley'
     login: 'brylie'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/17307?v=4'
-    contributions: 1558
+    contributions: 1564
     company: 'GeriLife'
     organizations: 'p2pu,MovingBlocks,GeoLibre,Crowducate,openjournals,gramps-project,quaker-tech,wekan,GeriLife,api-standards,CiviWiki,maasglobal,maas-alliance,GodotGarden,WesternFriend'
 
   - rank: 25
-    name: 'Richard Darst'
-    login: 'rkdarst'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6877977?v=4'
-    contributions: 1556
-    company: 'Aalto University'
-    organizations: 'CxAalto,coderefinery,AaltoScienceIT,usefulaaltomap,NordicHPC'
-
-  - rank: 26
     name: 'Olli'
     login: 'woltsu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/22446801?v=4'
-    contributions: 1538
+    contributions: 1531
     company: ''
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 27
-    name: 'Iiro Jäppinen'
-    login: 'iiroj'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/11628889?v=4'
-    contributions: 1495
-    company: '@verkkokauppacom'
-    organizations: 'verkkokauppacom'
-
-  - rank: 28
+  - rank: 26
     name: 'Steve Kemp'
     login: 'skx'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/735291?v=4'
-    contributions: 1443
+    contributions: 1502
     company: ''
     organizations: 'goruby,DNS-API,lumail,BlogSpam-Net'
 
-  - rank: 29
-    name: 'Martin Vysny'
-    login: 'mvysny'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/254091?v=4'
-    contributions: 1440
-    company: 'Vaadin'
-    organizations: ''
-
-  - rank: 30
-    name: 'Martti Malmi'
-    login: 'mmalmi'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2116445?v=4'
-    contributions: 1424
-    company: ''
-    organizations: ''
-
-  - rank: 31
+  - rank: 27
     name: 'Paul Houghton'
     login: 'paulirotta'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3486467?v=4'
-    contributions: 1424
+    contributions: 1445
     company: 'Futurice Oy'
     organizations: 'TantalumMobile,LEGO-compatible-gadgets'
 
-  - rank: 32
-    name: 'Lars Eggert'
-    login: 'larseggert'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/200328?v=4'
-    contributions: 1388
-    company: '@NTAP '
-    organizations: 'NTAP,SSICLOPS,quicwg'
+  - rank: 28
+    name: 'Martin Vysny'
+    login: 'mvysny'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/254091?v=4'
+    contributions: 1432
+    company: 'Vaadin'
+    organizations: ''
 
-  - rank: 33
-    name: 'Joonas Kallunki'
-    login: 'J-Kallunki'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/13827786?v=4'
-    contributions: 1357
+  - rank: 29
+    name: 'Martti Malmi'
+    login: 'mmalmi'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2116445?v=4'
+    contributions: 1422
     company: ''
     organizations: ''
 
-  - rank: 34
+  - rank: 30
+    name: 'Iiro Jäppinen'
+    login: 'iiroj'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/11628889?v=4'
+    contributions: 1404
+    company: '@verkkokauppacom'
+    organizations: 'verkkokauppacom'
+
+  - rank: 31
+    name: 'Lars Eggert'
+    login: 'larseggert'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/200328?v=4'
+    contributions: 1390
+    company: '@NTAP '
+    organizations: 'NTAP,SSICLOPS,quicwg'
+
+  - rank: 32
     name: 'Mikaela Suomalainen'
     login: 'Mikaela'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/831184?v=4'
-    contributions: 1314
+    contributions: 1322
     company: 'Work try-out practice at @Robuntu-osk'
     organizations: 'Piraattinuoret,privacytoolsIO,Robuntu-osk'
 
-  - rank: 35
+  - rank: 33
     name: 'André Staltz'
     login: 'staltz'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/90512?v=4'
-    contributions: 1305
+    contributions: 1297
     company: ''
     organizations: 'ReactiveX,ssbc,cyclejs,snabbdom,maintainers,callbag,cabal-club'
 
-  - rank: 36
+  - rank: 34
     name: 'Fredrik Wollsén'
     login: 'motin'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/793037?v=4'
@@ -290,7 +274,7 @@ users:
     company: 'Neam AB @neam & Clerk.AI'
     organizations: 'neam,Gapminder,inyourapp'
 
-  - rank: 37
+  - rank: 35
     name: 'Jari Voutilainen'
     login: 'Zharktas'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/830663?v=4'
@@ -298,7 +282,7 @@ users:
     company: 'Gofore'
     organizations: 'ckan,gofore,koodiklinikka'
 
-  - rank: 38
+  - rank: 36
     name: 'Esa Kemppainen'
     login: 'esakemp'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/40692959?v=4'
@@ -306,23 +290,7 @@ users:
     company: '@UniversityOfHelsinkiCS '
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 39
-    name: 'Stefan Negru'
-    login: 'blankdots'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/47524?v=4'
-    contributions: 1254
-    company: ''
-    organizations: 'VisualDataWeb'
-
-  - rank: 40
-    name: 'Eemeli Aro'
-    login: 'eemeli'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/617000?v=4'
-    contributions: 1242
-    company: ''
-    organizations: 'Vincit,helsinkijs,webpack,maailma,konopas,messageformat,ReactFinland,openjs-foundation'
-
-  - rank: 41
+  - rank: 37
     name: 'Ivan Gagis'
     login: 'igagis'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/783401?v=4'
@@ -330,31 +298,47 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 42
-    name: 'Ville Skyttä'
-    login: 'scop'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/109152?v=4'
-    contributions: 1170
-    company: '@UpCloudLtd '
-    organizations: 'libwww-perl,rpm-software-management,UpCloudLtd'
+  - rank: 38
+    name: 'Eemeli Aro'
+    login: 'eemeli'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/617000?v=4'
+    contributions: 1218
+    company: ''
+    organizations: 'Vincit,helsinkijs,webpack,maailma,konopas,messageformat,ReactFinland,openjs-foundation'
 
-  - rank: 43
+  - rank: 39
     name: ''
     login: 'fogfish'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/716093?v=4'
-    contributions: 1169
+    contributions: 1195
     company: ''
     organizations: ''
 
-  - rank: 44
+  - rank: 40
+    name: 'Ville Skyttä'
+    login: 'scop'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/109152?v=4'
+    contributions: 1166
+    company: '@UpCloudLtd '
+    organizations: 'libwww-perl,rpm-software-management,UpCloudLtd'
+
+  - rank: 41
+    name: 'Tatu Tarvainen'
+    login: 'tatut'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/83725?v=4'
+    contributions: 1162
+    company: ''
+    organizations: ''
+
+  - rank: 42
     name: 'Akseli Palén'
     login: 'axelpale'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/992081?v=4'
-    contributions: 1147
+    contributions: 1155
     company: ''
     organizations: ''
 
-  - rank: 45
+  - rank: 43
     name: 'Timo Rantalaiho'
     login: 'timorantalaiho'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/94310?v=4'
@@ -362,47 +346,31 @@ users:
     company: '@reaktor '
     organizations: 'reaktor,jdave'
 
-  - rank: 46
-    name: 'Tatu Tarvainen'
-    login: 'tatut'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/83725?v=4'
-    contributions: 1128
-    company: ''
-    organizations: ''
-
-  - rank: 47
-    name: 'Aarni Koskela'
-    login: 'akx'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/58669?v=4'
-    contributions: 1112
-    company: '@valohai '
-    organizations: 'kcsry,koodiklinikka,6aika,nteract,python-babel,wurstfabrik,valohai,ReactFinland,kompisar'
-
-  - rank: 48
-    name: 'Fabrizio Ferrai'
-    login: 'f-f'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5480361?v=4'
-    contributions: 1111
-    company: 'functional.pizza'
-    organizations: 'Politecnico-Open-unix-Labs,KSF-Media,dhall-lang,spacchetti'
-
-  - rank: 49
+  - rank: 44
     name: 'Paul-Christian Bürkner'
     login: 'paul-buerkner'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/12938496?v=4'
-    contributions: 1110
+    contributions: 1113
     company: ''
     organizations: ''
 
-  - rank: 50
-    name: 'Simo Tukiainen'
-    login: 'tukiains'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/18035491?v=4'
-    contributions: 1094
-    company: 'Finnish Meteorological Institute'
-    organizations: ''
+  - rank: 45
+    name: 'Aarni Koskela'
+    login: 'akx'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/58669?v=4'
+    contributions: 1110
+    company: '@valohai '
+    organizations: 'kcsry,koodiklinikka,6aika,nteract,python-babel,wurstfabrik,valohai,ReactFinland,kompisar'
 
-  - rank: 51
+  - rank: 46
+    name: 'Fabrizio Ferrai'
+    login: 'f-f'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5480361?v=4'
+    contributions: 1101
+    company: 'functional.pizza'
+    organizations: 'Politecnico-Open-unix-Labs,KSF-Media,dhall-lang,spacchetti'
+
+  - rank: 47
     name: 'Antti Hukkanen'
     login: 'ahukkanen'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/864340?v=4'
@@ -410,39 +378,23 @@ users:
     company: 'Mainio Tech Ltd.'
     organizations: ''
 
-  - rank: 52
+  - rank: 48
     name: 'Roni Laukkarinen'
     login: 'ronilaukkarinen'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1534150?v=4'
-    contributions: 1085
+    contributions: 1087
     company: '@digitoimistodude '
     organizations: 'koodiklinikka,digitoimistodude,wp-languages,pulinairc,adminlabs'
 
-  - rank: 53
+  - rank: 49
     name: 'Juha Kovanen'
     login: 'xludx'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/213489?v=4'
-    contributions: 1081
+    contributions: 1059
     company: '@particl  '
     organizations: 'particl'
 
-  - rank: 54
-    name: 'Krister Kari'
-    login: 'kristerkari'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/993108?v=4'
-    contributions: 1063
-    company: 'Unicorn Codes'
-    organizations: ''
-
-  - rank: 55
-    name: 'Evans Chaba'
-    login: 'evanschaba'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/30877422?v=4'
-    contributions: 1055
-    company: 'integrify.io'
-    organizations: ''
-
-  - rank: 56
+  - rank: 50
     name: 'Markku Rontu'
     login: 'Macroz'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/823661?v=4'
@@ -450,167 +402,167 @@ users:
     company: 'http://www.nitor.com'
     organizations: 'NitorCreations'
 
-  - rank: 57
+  - rank: 51
+    name: 'Krister Kari'
+    login: 'kristerkari'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/993108?v=4'
+    contributions: 1047
+    company: 'Unicorn Codes'
+    organizations: ''
+
+  - rank: 52
     name: 'Tommi Reiman'
     login: 'ikitommi'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/567532?v=4'
-    contributions: 1034
+    contributions: 1035
     company: 'Metosin'
     organizations: 'metosin'
 
-  - rank: 58
-    name: 'Daniel Riissanen'
-    login: 'doc97'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4580546?v=4'
-    contributions: 1033
-    company: ''
-    organizations: ''
-
-  - rank: 59
-    name: 'Sasha (Alejandro Vicente Grabovetsky)'
-    login: 'alexvicegrab'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1575642?v=4'
-    contributions: 1013
-    company: '@CuriousAI @aidtechnology '
-    organizations: ''
-
-  - rank: 60
-    name: 'Stefan Rimaila'
-    login: 'stuf'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/363320?v=4'
-    contributions: 1006
-    company: 'Siili Solutions'
-    organizations: ''
-
-  - rank: 61
+  - rank: 53
     name: 'Jesse Rosenberger'
     login: 'abernix'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/841294?v=4'
-    contributions: 1001
+    contributions: 1021
     company: '@apollographql, @meteor'
     organizations: 'meteor,apollographql'
 
-  - rank: 62
+  - rank: 54
+    name: 'Sasha (Alejandro Vicente Grabovetsky)'
+    login: 'alexvicegrab'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1575642?v=4'
+    contributions: 1015
+    company: '@CuriousAI @aidtechnology '
+    organizations: ''
+
+  - rank: 55
     name: 'Erno Salo'
     login: 'endormi'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/39559256?v=4'
-    contributions: 988
+    contributions: 1002
     company: 'Foredata Oy'
     organizations: ''
 
-  - rank: 63
-    name: 'Marko Mäkelä'
-    login: 'dr-m'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/20552695?v=4'
-    contributions: 972
-    company: 'Lead Developer InnoDB @MariaDB'
+  - rank: 56
+    name: 'Stefan Rimaila'
+    login: 'stuf'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/363320?v=4'
+    contributions: 999
+    company: 'Siili Solutions'
     organizations: ''
 
-  - rank: 64
-    name: 'Koray Dündar'
-    login: 'DundarKoray'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/41788843?v=4'
-    contributions: 966
-    company: 'integrify.io'
-    organizations: ''
-
-  - rank: 65
-    name: 'Panu Tulimäki'
-    login: 'tulimaki'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4940349?v=4'
-    contributions: 966
-    company: 'Anders Innovations Inc.'
-    organizations: 'andersinno,shuup'
-
-  - rank: 66
-    name: 'Jarkko Moilanen'
-    login: 'kyyberi'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1927158?v=4'
-    contributions: 954
-    company: '@PlatformOfTrust '
-    organizations: 'educloudalliance,digikopo,APIOps,zenofapi,PlatformOfTrust'
-
-  - rank: 67
-    name: 'Asko Soukka'
-    login: 'datakurre'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/160447?v=4'
-    contributions: 953
-    company: 'University of Jyväskylä'
-    organizations: 'plone'
-
-  - rank: 68
-    name: 'Cid Lopes'
-    login: 'supercid'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2778820?v=4'
-    contributions: 928
-    company: '@nosto'
-    organizations: 'Nosto'
-
-  - rank: 69
-    name: 'Jari Kolehmainen'
-    login: 'jakolehm'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1446224?v=4'
-    contributions: 923
-    company: 'Kontena Inc.'
-    organizations: 'kontena'
-
-  - rank: 70
-    name: 'Atte Juvonen'
-    login: 'baobabKoodaa'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/10188072?v=4'
-    contributions: 919
-    company: ''
-    organizations: ''
-
-  - rank: 71
-    name: 'Varya Stepanova'
-    login: 'varya'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/27215?v=4'
-    contributions: 919
-    company: '@SC5'
-    organizations: 'bem,getbem'
-
-  - rank: 72
-    name: 'Karim'
-    login: 'streetracer48'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/38099690?v=4'
-    contributions: 906
-    company: ''
-    organizations: 'CONTEST-PROBLEM-SLOVING,Manchester-CityFC-Project'
-
-  - rank: 73
-    name: 'Jani Anttonen'
-    login: 'JaniAnttonen'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/502428?v=4'
-    contributions: 899
-    company: '@eqlabs'
-    organizations: 'CodeDistillery,maasglobal,orbitdb,eqlabs'
-
-  - rank: 74
-    name: 'Jarno Elovirta'
-    login: 'jelovirt'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/52934?v=4'
-    contributions: 898
-    company: '@wunderdogsw '
-    organizations: 'dita-ot'
-
-  - rank: 75
-    name: 'Andy Shevchenko'
-    login: 'andy-shev'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/78496?v=4'
-    contributions: 890
-    company: 'Intel Finland Oy'
-    organizations: ''
-
-  - rank: 76
+  - rank: 57
     name: 'Otso Jousimaa'
     login: 'ojousima'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2360368?v=4'
-    contributions: 885
+    contributions: 973
     company: ''
     organizations: 'ruuvi'
 
-  - rank: 77
+  - rank: 58
+    name: 'Koray Dündar'
+    login: 'DundarKoray'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/41788843?v=4'
+    contributions: 970
+    company: 'integrify.io'
+    organizations: ''
+
+  - rank: 59
+    name: 'Marko Mäkelä'
+    login: 'dr-m'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/20552695?v=4'
+    contributions: 969
+    company: 'Lead Developer InnoDB @MariaDB'
+    organizations: ''
+
+  - rank: 60
+    name: 'Jarkko Moilanen'
+    login: 'kyyberi'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1927158?v=4'
+    contributions: 939
+    company: '@PlatformOfTrust '
+    organizations: 'educloudalliance,digikopo,APIOps,zenofapi,PlatformOfTrust'
+
+  - rank: 61
+    name: 'Asko Soukka'
+    login: 'datakurre'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/160447?v=4'
+    contributions: 938
+    company: 'University of Jyväskylä'
+    organizations: 'plone'
+
+  - rank: 62
+    name: 'Varya Stepanova'
+    login: 'varya'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/27215?v=4'
+    contributions: 930
+    company: '@SC5'
+    organizations: 'bem,getbem'
+
+  - rank: 63
+    name: 'Atte Juvonen'
+    login: 'baobabKoodaa'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/10188072?v=4'
+    contributions: 921
+    company: ''
+    organizations: ''
+
+  - rank: 64
+    name: 'Cid Lopes'
+    login: 'supercid'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2778820?v=4'
+    contributions: 919
+    company: '@nosto'
+    organizations: 'Nosto'
+
+  - rank: 65
+    name: 'Jari Kolehmainen'
+    login: 'jakolehm'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1446224?v=4'
+    contributions: 919
+    company: 'Kontena Inc.'
+    organizations: 'kontena'
+
+  - rank: 66
+    name: 'Jani Anttonen'
+    login: 'JaniAnttonen'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/502428?v=4'
+    contributions: 900
+    company: '@eqlabs'
+    organizations: 'CodeDistillery,maasglobal,orbitdb,eqlabs'
+
+  - rank: 67
+    name: 'Karim'
+    login: 'streetracer48'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/38099690?v=4'
+    contributions: 893
+    company: ''
+    organizations: 'CONTEST-PROBLEM-SLOVING,Manchester-CityFC-Project'
+
+  - rank: 68
+    name: 'Andy Shevchenko'
+    login: 'andy-shev'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/78496?v=4'
+    contributions: 892
+    company: 'Intel Finland Oy'
+    organizations: ''
+
+  - rank: 69
+    name: 'Jarno Elovirta'
+    login: 'jelovirt'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/52934?v=4'
+    contributions: 892
+    company: '@wunderdogsw '
+    organizations: 'dita-ot'
+
+  - rank: 70
+    name: 'Georgi Yanev'
+    login: 'jumpalottahigh'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4155121?v=4'
+    contributions: 886
+    company: '@SharperShape'
+    organizations: 'reactjs,gatsbyjs'
+
+  - rank: 71
     name: 'Simo Ahava'
     login: 'sahava'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/8957531?v=4'
@@ -618,15 +570,7 @@ users:
     company: '@8-bit-sheep '
     organizations: ''
 
-  - rank: 78
-    name: 'Georgi Yanev'
-    login: 'jumpalottahigh'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4155121?v=4'
-    contributions: 881
-    company: '@SharperShape'
-    organizations: 'reactjs,gatsbyjs'
-
-  - rank: 79
+  - rank: 72
     name: 'Matias Griese'
     login: 'mahagr'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/854915?v=4'
@@ -634,39 +578,39 @@ users:
     company: ''
     organizations: 'Kunena,gantry,getgrav'
 
-  - rank: 80
+  - rank: 73
     name: 'Tero Tapio'
     login: 'Granigan'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/28741135?v=4'
-    contributions: 878
+    contributions: 877
     company: 'University of Helsinki'
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 81
+  - rank: 74
     name: 'Matti Ruohonen'
     login: 'maruohon'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/2331050?v=4'
-    contributions: 862
+    contributions: 861
     company: ''
     organizations: ''
 
-  - rank: 82
+  - rank: 75
     name: 'Ilkka Seppälä'
     login: 'iluwatar'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/582346?v=4'
-    contributions: 858
+    contributions: 860
     company: '@gofore '
     organizations: 'gofore'
 
-  - rank: 83
+  - rank: 76
     name: 'Vinh Le'
     login: 'vinhlee95'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/31971259?v=4'
-    contributions: 847
+    contributions: 854
     company: 'Vertics'
     organizations: ''
 
-  - rank: 84
+  - rank: 77
     name: 'Artur'
     login: 'Artur-'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/260340?v=4'
@@ -674,15 +618,15 @@ users:
     company: 'Vaadin'
     organizations: 'vaadin'
 
-  - rank: 85
+  - rank: 78
     name: 'Juan Osorio Robles'
     login: 'JAORMX'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/145564?v=4'
-    contributions: 824
+    contributions: 825
     company: 'Red Hat'
     organizations: ''
 
-  - rank: 86
+  - rank: 79
     name: 'Mikael Sand'
     login: 'msand'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1131362?v=4'
@@ -690,39 +634,23 @@ users:
     company: '@Seaber-io'
     organizations: 'opendemocracy'
 
-  - rank: 87
-    name: 'Slava Monich'
-    login: 'monich'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5909522?v=4'
-    contributions: 811
-    company: 'Jolla'
-    organizations: 'mer-hybris'
-
-  - rank: 88
-    name: 'Raine Virta'
-    login: 'raine'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/11027?v=4'
-    contributions: 808
-    company: ''
-    organizations: 'ramda'
-
-  - rank: 89
+  - rank: 80
     name: 'Jami Kettunen'
     login: 'JamiKettunen'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/47358222?v=4'
-    contributions: 804
+    contributions: 815
     company: 'Hobbyist'
     organizations: ''
 
-  - rank: 90
-    name: 'Petteri'
-    login: 'PetteriM1'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/26197131?v=4'
-    contributions: 782
-    company: ''
-    organizations: 'BedrockCommunity,Nukkit-coders,SuomiCraftPENetwork,ign-gg'
+  - rank: 81
+    name: 'Slava Monich'
+    login: 'monich'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5909522?v=4'
+    contributions: 789
+    company: 'Jolla'
+    organizations: 'mer-hybris'
 
-  - rank: 91
+  - rank: 82
     name: 'Xurxe Toivo García'
     login: 'xurxe'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/46743267?v=4'
@@ -730,7 +658,7 @@ users:
     company: '@wunderio'
     organizations: ''
 
-  - rank: 92
+  - rank: 83
     name: 'Jani Rahkola'
     login: 'rahcola'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/136006?v=4'
@@ -738,39 +666,39 @@ users:
     company: ''
     organizations: 'iloveponies'
 
-  - rank: 93
-    name: 'Sam Spilsbury'
-    login: 'smspillaz'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/775309?v=4'
+  - rank: 84
+    name: 'Petteri'
+    login: 'PetteriM1'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/26197131?v=4'
+    contributions: 773
+    company: ''
+    organizations: 'BedrockCommunity,Nukkit-coders,SuomiCraftPENetwork,ign-gg'
+
+  - rank: 85
+    name: 'Raine Virta'
+    login: 'raine'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/11027?v=4'
     contributions: 760
-    company: '@CuriousAI'
-    organizations: 'polysquare'
+    company: ''
+    organizations: 'ramda'
 
-  - rank: 94
-    name: 'Tien Pham'
-    login: 'tienpham94'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/25751050?v=4'
-    contributions: 759
-    company: 'Epic Games'
-    organizations: 'learn-co-students,gatsbyjs,zero-to-mastery,letterpad'
-
-  - rank: 95
+  - rank: 86
     name: 'Joona Heikkilä'
     login: 'cxcorp'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/21111572?v=4'
-    contributions: 758
+    contributions: 757
     company: ''
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 96
-    name: 'Kimmo Puputti'
-    login: 'kpuputti'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/53923?v=4'
+  - rank: 87
+    name: 'Tien Pham'
+    login: 'tienpham94'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/25751050?v=4'
     contributions: 751
-    company: 'Sharetribe'
-    organizations: ''
+    company: 'Epic Games'
+    organizations: 'learn-co-students,gatsbyjs,zero-to-mastery,letterpad'
 
-  - rank: 97
+  - rank: 88
     name: 'koutsie'
     login: 'koutsie'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/18449778?v=4'
@@ -778,15 +706,15 @@ users:
     company: '@L1nuxDotFun'
     organizations: ''
 
-  - rank: 98
-    name: 'Mika Tuupola'
-    login: 'tuupola'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/21913?v=4'
+  - rank: 89
+    name: 'Kimmo Puputti'
+    login: 'kpuputti'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/53923?v=4'
     contributions: 730
-    company: 'Taevas Ogilvy'
+    company: 'Sharetribe'
     organizations: ''
 
-  - rank: 99
+  - rank: 90
     name: 'Sasu Mäkinen'
     login: 'sasumaki'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/10545809?v=4'
@@ -794,7 +722,15 @@ users:
     company: ''
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 100
+  - rank: 91
+    name: 'Axel Neergaard'
+    login: 'c00k133'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/23499634?v=4'
+    contributions: 727
+    company: '@smartlyio '
+    organizations: 'Teknologforeningen,smartlyio'
+
+  - rank: 92
     name: 'Marko Koskinen'
     login: 'markokoskinen2037'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/22393121?v=4'
@@ -802,7 +738,7 @@ users:
     company: ''
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 101
+  - rank: 93
     name: 'Fotis Papadogeorgopoulos'
     login: 'fpapado'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3210764?v=4'
@@ -810,23 +746,23 @@ users:
     company: '@futurice '
     organizations: ''
 
-  - rank: 102
-    name: 'Axel Neergaard'
-    login: 'c00k133'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/23499634?v=4'
+  - rank: 94
+    name: 'Timo Savola'
+    login: 'tsavola'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/55473?v=4'
     contributions: 719
-    company: '@smartlyio '
-    organizations: 'Teknologforeningen,smartlyio'
+    company: 'Ninchat'
+    organizations: 'somia,ninchat'
 
-  - rank: 103
+  - rank: 95
     name: 'Maks Turtiainen'
     login: 'mjturt'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/31819939?v=4'
-    contributions: 707
+    contributions: 714
     company: 'LVS Brokers'
     organizations: 'asteriskiry,unixkerho'
 
-  - rank: 104
+  - rank: 96
     name: 'Osma Suominen'
     login: 'osma'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1132830?v=4'
@@ -834,23 +770,23 @@ users:
     company: '@NatLibFi'
     organizations: 'NatLibFi'
 
-  - rank: 105
-    name: 'Dave Whipp'
-    login: 'davewhipp'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/893956?v=4'
-    contributions: 699
-    company: 'University of Helsinki'
-    organizations: 'HUGG,Intro-Quantitative-Geology'
+  - rank: 97
+    name: 'Sam Spilsbury'
+    login: 'smspillaz'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/775309?v=4'
+    contributions: 701
+    company: '@CuriousAI'
+    organizations: 'polysquare'
 
-  - rank: 106
-    name: 'Jaakko Heusala'
-    login: 'thejhh'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/905840?v=4'
-    contributions: 699
-    company: '@sendanor'
-    organizations: 'sendanor,tidhr'
+  - rank: 98
+    name: 'Ari Hartikainen'
+    login: 'ahartikainen'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/13161958?v=4'
+    contributions: 690
+    company: 'Aalto University'
+    organizations: ''
 
-  - rank: 107
+  - rank: 99
     name: 'Nizar Rahme'
     login: 'Nizar-Rahme'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/23040926?v=4'
@@ -858,23 +794,55 @@ users:
     company: 'Digia'
     organizations: ''
 
-  - rank: 108
-    name: 'Ari Hartikainen'
-    login: 'ahartikainen'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/13161958?v=4'
-    contributions: 681
-    company: 'Aalto University'
+  - rank: 100
+    name: 'Mika Tuupola'
+    login: 'tuupola'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/21913?v=4'
+    contributions: 689
+    company: 'Taevas Ogilvy'
     organizations: ''
 
-  - rank: 109
+  - rank: 101
+    name: 'Teppo Kurki'
+    login: 'tkurki'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1049678?v=4'
+    contributions: 684
+    company: ''
+    organizations: 'SignalK'
+
+  - rank: 102
+    name: 'Guo Yunhe'
+    login: 'guoyunhe'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5836790?v=4'
+    contributions: 683
+    company: 'Adventure Club'
+    organizations: 'santakani,openSUSE-zh,advclb'
+
+  - rank: 103
+    name: 'Jaakko Heusala'
+    login: 'thejhh'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/905840?v=4'
+    contributions: 682
+    company: '@sendanor'
+    organizations: 'sendanor,tidhr'
+
+  - rank: 104
     name: 'Jason Robinson'
     login: 'jaywink'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1174866?v=4'
-    contributions: 677
+    contributions: 681
     company: '@vector-im'
     organizations: 'sharetodiaspora,matrix-org,w3c-social,vector-im,thefederationinfo,forgefed,feneas'
 
-  - rank: 110
+  - rank: 105
+    name: 'Dave Whipp'
+    login: 'davewhipp'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/893956?v=4'
+    contributions: 680
+    company: 'University of Helsinki'
+    organizations: 'HUGG,Intro-Quantitative-Geology'
+
+  - rank: 106
     name: 'Sulka Haro'
     login: 'sulkaharo'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1001330?v=4'
@@ -882,31 +850,23 @@ users:
     company: 'Next Games'
     organizations: 'nightscout'
 
-  - rank: 111
+  - rank: 107
     name: 'Jami Kousa'
     login: 'Jakousa'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6400208?v=4'
-    contributions: 665
+    contributions: 664
     company: '@UniversityOfHelsinkiCS '
     organizations: 'AppGyver,UniversityOfHelsinkiCS,ohtu-ohjaajat,docker-hy'
 
-  - rank: 112
+  - rank: 108
     name: 'Scott'
     login: 'sprusr'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/7497084?v=4'
-    contributions: 664
+    contributions: 661
     company: '@creditornot'
     organizations: ''
 
-  - rank: 113
-    name: 'Guo Yunhe'
-    login: 'guoyunhe'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5836790?v=4'
-    contributions: 660
-    company: 'Adventure Club'
-    organizations: 'santakani,openSUSE-zh,advclb'
-
-  - rank: 114
+  - rank: 109
     name: 'Teemu Erkkola'
     login: 'bzar'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/726461?v=4'
@@ -914,15 +874,15 @@ users:
     company: ''
     organizations: 'Panorama,gofore'
 
-  - rank: 115
-    name: 'Viacheslav Lotsmanov'
-    login: 'unclechu'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/799353?v=4'
-    contributions: 658
-    company: 'RELEX Solutions'
-    organizations: 'perl6,codingteam,metachronica,livescript'
+  - rank: 110
+    name: 'Diego Casillas'
+    login: 'diegocasillas'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/20227008?v=4'
+    contributions: 656
+    company: '@GroupBuilderOy '
+    organizations: ''
 
-  - rank: 116
+  - rank: 111
     name: 'Simon Maher'
     login: 'Si-maher'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/46902207?v=4'
@@ -930,31 +890,15 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 117
-    name: 'Diego Casillas'
-    login: 'diegocasillas'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/20227008?v=4'
-    contributions: 656
-    company: '@GroupBuilderOy '
-    organizations: ''
+  - rank: 112
+    name: 'Viacheslav Lotsmanov'
+    login: 'unclechu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/799353?v=4'
+    contributions: 653
+    company: 'RELEX Solutions'
+    organizations: 'perl6,codingteam,metachronica,livescript'
 
-  - rank: 118
-    name: 'Teppo Kurki'
-    login: 'tkurki'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1049678?v=4'
-    contributions: 650
-    company: ''
-    organizations: 'SignalK'
-
-  - rank: 119
-    name: 'Martino Pilia'
-    login: 'm-pilia'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/8300317?v=4'
-    contributions: 645
-    company: 'Tampere University'
-    organizations: ''
-
-  - rank: 120
+  - rank: 113
     name: 'Turo Lamminen'
     login: 'turol'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/805057?v=4'
@@ -962,31 +906,47 @@ users:
     company: ''
     organizations: 'assimp,chocolate-doom'
 
-  - rank: 121
-    name: 'Inan Evin'
-    login: 'inanevin'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3519379?v=4'
-    contributions: 642
-    company: ''
+  - rank: 114
+    name: 'Martino Pilia'
+    login: 'm-pilia'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8300317?v=4'
+    contributions: 645
+    company: 'Tampere University'
     organizations: ''
 
-  - rank: 122
+  - rank: 115
     name: 'Juha Yrjölä'
     login: 'juyrjola'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/216030?v=4'
-    contributions: 638
+    contributions: 635
     company: ''
     organizations: 'kansanmuisti,okffi,avoindata,City-of-Helsinki,codeforeurope,6aika'
 
-  - rank: 123
+  - rank: 116
+    name: 'Yrjö Kari-Koskinen'
+    login: 'ykarikos'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/845477?v=4'
+    contributions: 628
+    company: 'Futurice'
+    organizations: 'Restaurantday-org,BetterDigitalServices,TomorrowLabs,clojurebridgefi'
+
+  - rank: 117
     name: 'Lasse Lukkari'
     login: 'lasselukkari'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1687972?v=4'
-    contributions: 623
+    contributions: 619
     company: ''
     organizations: 'Applifier'
 
-  - rank: 124
+  - rank: 118
+    name: 'Inan Evin'
+    login: 'inanevin'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3519379?v=4'
+    contributions: 617
+    company: ''
+    organizations: ''
+
+  - rank: 119
     name: 'Yannick Meeus'
     login: 'YannickMeeus'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/588607?v=4'
@@ -994,71 +954,55 @@ users:
     company: '@smartlyio '
     organizations: 'smartlyio'
 
-  - rank: 125
+  - rank: 120
     name: 'yi'
     login: 'YIZHUANG'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/28932103?v=4'
-    contributions: 611
+    contributions: 614
     company: 'https://w3js.com/'
     organizations: ''
 
-  - rank: 126
-    name: 'Aleksi Huotala'
-    login: 'alehuo'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7612995?v=4'
-    contributions: 607
-    company: ''
-    organizations: ''
-
-  - rank: 127
-    name: 'Toni Ruottu'
-    login: 'cyberixae'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1158275?v=4'
-    contributions: 605
-    company: ''
-    organizations: 'titokone,kunquat,xsltea,beeswarmmapreduce'
-
-  - rank: 128
+  - rank: 121
     name: 'Vesa Karvonen'
     login: 'polytypic'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5804945?v=4'
-    contributions: 603
+    contributions: 606
     company: ''
     organizations: 'Hopac,calmm-js,Infers,per-framework,cppsm,1ml-prime'
 
-  - rank: 129
-    name: 'Yrjö Kari-Koskinen'
-    login: 'ykarikos'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/845477?v=4'
-    contributions: 601
-    company: 'Futurice'
-    organizations: 'Restaurantday-org,BetterDigitalServices,TomorrowLabs,clojurebridgefi'
+  - rank: 122
+    name: 'Eralp Karaduman'
+    login: 'eralpkaraduman'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1270272?v=4'
+    contributions: 600
+    company: '@nicework-company '
+    organizations: 'Yleisradio,superdamage,procrastinating,hypeserver,nicework-company'
 
-  - rank: 130
-    name: 'Juho Teperi'
-    login: 'Deraen'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/648087?v=4'
-    contributions: 599
-    company: 'Metosin'
-    organizations: 'metosin,reagent-project,boot-clj,cljsjs,clojure-vim,cljs-oss'
-
-  - rank: 131
-    name: 'Pekka Enberg'
-    login: 'penberg'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/81939?v=4'
-    contributions: 597
-    company: 'ScyllaDB'
-    organizations: 'cloudius-systems,jatovm,libtrading'
-
-  - rank: 132
+  - rank: 123
     name: 'Sallar Kaboli'
     login: 'sallar'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/768052?v=4'
-    contributions: 595
+    contributions: 600
     company: ''
     organizations: 'ganjoor,buttercup,cafedev-org,maintainers,cxcloud,RedDoorHQ'
 
-  - rank: 133
+  - rank: 124
+    name: 'Pekka Enberg'
+    login: 'penberg'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/81939?v=4'
+    contributions: 594
+    company: 'ScyllaDB'
+    organizations: 'cloudius-systems,jatovm,libtrading'
+
+  - rank: 125
+    name: 'Juho Teperi'
+    login: 'Deraen'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/648087?v=4'
+    contributions: 591
+    company: 'Metosin'
+    organizations: 'metosin,reagent-project,boot-clj,cljsjs,clojure-vim,cljs-oss'
+
+  - rank: 126
     name: 'Siebe Brouwer'
     login: 'siebeprojects'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/2749406?v=4'
@@ -1066,47 +1010,39 @@ users:
     company: 'Siebe Projects Oy'
     organizations: ''
 
-  - rank: 134
-    name: 'Seppo Takalo'
-    login: 'SeppoTakalo'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3104794?v=4'
-    contributions: 587
-    company: 'Arm @ARMmbed '
-    organizations: ''
-
-  - rank: 135
-    name: 'HyeSoo'
-    login: 'flyjwayur'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/11784820?v=4'
-    contributions: 584
-    company: 'Metropolia UAS'
-    organizations: 'Rookies-RGSOC2016'
-
-  - rank: 136
-    name: 'Iikka Hauhio'
-    login: 'fergusq'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3512480?v=4'
-    contributions: 582
-    company: ''
-    organizations: ''
-
-  - rank: 137
+  - rank: 127
     name: 'Jesse Haka'
     login: 'zetaab'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/22482503?v=4'
-    contributions: 579
+    contributions: 584
     company: 'Elisa Oyj'
     organizations: 'ElisaOyj,kubernetes'
 
-  - rank: 138
+  - rank: 128
+    name: 'Iikka Hauhio'
+    login: 'fergusq'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3512480?v=4'
+    contributions: 580
+    company: ''
+    organizations: ''
+
+  - rank: 129
     name: 'Huong Ngo'
     login: 'misacorn'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/35432501?v=4'
-    contributions: 577
+    contributions: 573
     company: ''
     organizations: 'learn-co-students,dwyl,gatsbyjs'
 
-  - rank: 139
+  - rank: 130
+    name: 'HyeSoo'
+    login: 'flyjwayur'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/11784820?v=4'
+    contributions: 566
+    company: 'Metropolia UAS'
+    organizations: 'Rookies-RGSOC2016'
+
+  - rank: 131
     name: 'Joonas Tiala'
     login: 'jtiala'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1576782?v=4'
@@ -1114,39 +1050,39 @@ users:
     company: '@solita'
     organizations: 'blankory,pioco'
 
-  - rank: 140
-    name: 'Leo Lahti'
-    login: 'antagomir'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1228382?v=4'
-    contributions: 557
-    company: 'Academic'
-    organizations: 'louhos,avoindata,microbiome,okffi-science,rOpenGov,COMHIS'
-
-  - rank: 141
-    name: 'Jani Mikkonen'
-    login: 'rasjani'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/27887?v=4'
-    contributions: 557
-    company: 'Varjo'
-    organizations: ''
-
-  - rank: 142
-    name: 'Matti Paksula'
-    login: 'matti'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3893?v=4'
-    contributions: 545
-    company: ''
-    organizations: 'enemy,kuje'
-
-  - rank: 143
+  - rank: 132
     name: 'Mikko Korpela'
     login: 'mkorpela'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/136885?v=4'
-    contributions: 543
+    contributions: 556
     company: 'Reaktor'
     organizations: 'robotframework'
 
-  - rank: 144
+  - rank: 133
+    name: 'Toni Ruottu'
+    login: 'cyberixae'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1158275?v=4'
+    contributions: 551
+    company: ''
+    organizations: 'titokone,kunquat,xsltea,beeswarmmapreduce'
+
+  - rank: 134
+    name: 'Jani Mikkonen'
+    login: 'rasjani'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/27887?v=4'
+    contributions: 547
+    company: 'Varjo'
+    organizations: ''
+
+  - rank: 135
+    name: 'Rendall'
+    login: 'rendall'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/293263?v=4'
+    contributions: 543
+    company: '@disorient '
+    organizations: 'disorient'
+
+  - rank: 136
     name: 'Aapo Talvensaari'
     login: 'bungle'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/983257?v=4'
@@ -1154,23 +1090,39 @@ users:
     company: '@Kong '
     organizations: 'Kong'
 
-  - rank: 145
-    name: 'Aleksi Häkli'
-    login: 'aleksihakli'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2477934?v=4'
+  - rank: 137
+    name: 'Matti Paksula'
+    login: 'matti'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3893?v=4'
     contributions: 542
-    company: 'Vincit'
-    organizations: 'Vincit,modeemi,jazzband'
+    company: ''
+    organizations: 'enemy,kuje'
 
-  - rank: 146
-    name: 'Aleksi Juvani'
-    login: 'aleksijuvani'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3168386?v=4'
-    contributions: 539
+  - rank: 138
+    name: 'Steve Phuc'
+    login: 'StevePhuc'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/27769175?v=4'
+    contributions: 542
+    company: ''
+    organizations: 'integrify-class2019'
+
+  - rank: 139
+    name: ''
+    login: 'jonaskay'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/34066517?v=4'
+    contributions: 541
+    company: ''
+    organizations: 'wunderdogsw'
+
+  - rank: 140
+    name: 'Aleksi Huotala'
+    login: 'alehuo'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7612995?v=4'
+    contributions: 541
     company: ''
     organizations: ''
 
-  - rank: 147
+  - rank: 141
     name: 'Sam Stenvall'
     login: 'Jalle19'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1106133?v=4'
@@ -1178,15 +1130,15 @@ users:
     company: '@digiaonline (formerly Nord Software)'
     organizations: 'xbmc,digiaonline'
 
-  - rank: 148
-    name: 'Eralp Karaduman'
-    login: 'eralpkaraduman'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1270272?v=4'
-    contributions: 534
-    company: '@nicework-company '
-    organizations: 'Yleisradio,superdamage,procrastinating,hypeserver,nicework-company'
+  - rank: 142
+    name: 'Joachim Viide'
+    login: 'jviide'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/19776768?v=4'
+    contributions: 535
+    company: ''
+    organizations: 'HowNetWorks'
 
-  - rank: 149
+  - rank: 143
     name: 'Ruslan Gainutdinov'
     login: 'huksley'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1594349?v=4'
@@ -1194,87 +1146,55 @@ users:
     company: ''
     organizations: 'wizecore'
 
-  - rank: 150
+  - rank: 144
     name: 'Jari Oksanen'
     login: 'jarioksa'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1432933?v=4'
-    contributions: 531
+    contributions: 530
     company: ''
     organizations: ''
 
-  - rank: 151
-    name: 'Samuli Vuorinen'
-    login: 'naavis'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4519697?v=4'
-    contributions: 531
-    company: ''
-    organizations: 'komakallio'
+  - rank: 145
+    name: 'Leo Lahti'
+    login: 'antagomir'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1228382?v=4'
+    contributions: 529
+    company: 'Academic'
+    organizations: 'louhos,avoindata,microbiome,okffi-science,rOpenGov,COMHIS'
 
-  - rank: 152
-    name: 'Joachim Viide'
-    login: 'jviide'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/19776768?v=4'
-    contributions: 530
-    company: ''
-    organizations: 'HowNetWorks'
+  - rank: 146
+    name: 'Aleksi Häkli'
+    login: 'aleksihakli'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2477934?v=4'
+    contributions: 529
+    company: 'Vincit'
+    organizations: 'Vincit,modeemi,jazzband'
 
-  - rank: 153
-    name: 'Rendall'
-    login: 'rendall'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/293263?v=4'
-    contributions: 526
-    company: '@disorient '
-    organizations: 'disorient'
-
-  - rank: 154
-    name: ''
-    login: 'jonaskay'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/34066517?v=4'
-    contributions: 526
-    company: ''
-    organizations: 'wunderdogsw'
-
-  - rank: 155
-    name: 'Santtu Pajukanta'
-    login: 'japsu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/109397?v=4'
-    contributions: 525
-    company: '@CybercomGroup'
-    organizations: 'kcsry,tracon,conikuvat,wurstfabrik,tallessa'
-
-  - rank: 156
+  - rank: 147
     name: 'Martin Storsjö'
     login: 'mstorsjo'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/69727?v=4'
-    contributions: 519
+    contributions: 527
     company: ''
     organizations: ''
 
-  - rank: 157
-    name: 'Ville Immonen'
-    login: 'fson'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/497214?v=4'
-    contributions: 518
-    company: '@expo'
-    organizations: 'reindexio,expo'
-
-  - rank: 158
-    name: 'Erik S. V. Jansson'
-    login: 'CaffeineViking'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5418661?v=4'
-    contributions: 518
-    company: 'Remedy Entertainment Plc'
-    organizations: ''
-
-  - rank: 159
+  - rank: 148
     name: 'Mustafa Enes Ertarhanaci'
     login: 'scriptype'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5516876?v=4'
-    contributions: 516
+    contributions: 519
     company: ''
     organizations: 'creditornot,timuu,fermentemutfagim'
 
-  - rank: 160
+  - rank: 149
+    name: 'Ville Immonen'
+    login: 'fson'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/497214?v=4'
+    contributions: 517
+    company: '@expo'
+    organizations: 'reindexio,expo'
+
+  - rank: 150
     name: ' Tomáš Karásek'
     login: 't0mk'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1223677?v=4'
@@ -1282,31 +1202,23 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 161
-    name: 'Otto Kekäläinen'
-    login: 'ottok'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/668724?v=4'
-    contributions: 507
-    company: '@Seravo'
-    organizations: 'Seravo'
-
-  - rank: 162
-    name: 'Steve Phuc'
-    login: 'StevePhuc'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/27769175?v=4'
-    contributions: 507
-    company: ''
-    organizations: 'integrify-class2019'
-
-  - rank: 163
+  - rank: 151
     name: 'Risto Saarelma'
     login: 'rsaarelm'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/41840?v=4'
-    contributions: 504
+    contributions: 512
     company: ''
     organizations: ''
 
-  - rank: 164
+  - rank: 152
+    name: 'Santtu Pajukanta'
+    login: 'japsu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/109397?v=4'
+    contributions: 509
+    company: '@CybercomGroup'
+    organizations: 'kcsry,tracon,conikuvat,wurstfabrik,tallessa'
+
+  - rank: 153
     name: 'Jonas Oppenlaender'
     login: 'joetm'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/8612515?v=4'
@@ -1314,23 +1226,31 @@ users:
     company: 'University of Oulu'
     organizations: 'project-IKON'
 
-  - rank: 165
-    name: 'Ha-Duong Nguyen'
-    login: 'cmpitg'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/85649?v=4'
-    contributions: 502
+  - rank: 154
+    name: 'Hugo Holmqvist'
+    login: 'MergHQ'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5868954?v=4'
+    contributions: 501
+    company: '@reaktor'
+    organizations: ''
+
+  - rank: 155
+    name: ''
+    login: 'Sulaymon333'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/28514231?v=4'
+    contributions: 501
     company: ''
-    organizations: 'HaNoiCodingDojo,BoGoEngine,gokien'
+    organizations: ''
 
-  - rank: 166
-    name: 'Petri Lehtinen'
-    login: 'akheron'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/70927?v=4'
+  - rank: 156
+    name: 'Erik S. V. Jansson'
+    login: 'CaffeineViking'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5418661?v=4'
     contributions: 500
-    company: '@reaktor '
-    organizations: 'python-finland,python,suomipelit'
+    company: 'Remedy Entertainment Plc'
+    organizations: ''
 
-  - rank: 167
+  - rank: 157
     name: 'Elias Kunnas'
     login: 'eliask'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/563480?v=4'
@@ -1338,47 +1258,23 @@ users:
     company: ''
     organizations: 'sdp-2011'
 
-  - rank: 168
-    name: 'Jesse Niininen'
-    login: 'FINDarkside'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/8396424?v=4'
-    contributions: 497
+  - rank: 158
+    name: 'Ha-Duong Nguyen'
+    login: 'cmpitg'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/85649?v=4'
+    contributions: 494
     company: ''
-    organizations: ''
+    organizations: 'HaNoiCodingDojo,BoGoEngine,gokien'
 
-  - rank: 169
-    name: 'Hugo Holmqvist'
-    login: 'MergHQ'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5868954?v=4'
-    contributions: 495
-    company: '@reaktor'
-    organizations: ''
+  - rank: 159
+    name: 'Otto Kekäläinen'
+    login: 'ottok'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/668724?v=4'
+    contributions: 489
+    company: '@Seravo'
+    organizations: 'Seravo'
 
-  - rank: 170
-    name: ''
-    login: 'Sulaymon333'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/28514231?v=4'
-    contributions: 492
-    company: ''
-    organizations: ''
-
-  - rank: 171
-    name: 'Nikolai Kondrashov'
-    login: 'spbnick'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/549246?v=4'
-    contributions: 491
-    company: ''
-    organizations: 'DIGImend,SSSD,Scribery,CKI-project'
-
-  - rank: 172
-    name: ''
-    login: 'Aleadinglight'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/23744063?v=4'
-    contributions: 490
-    company: ''
-    organizations: 'vnspoj'
-
-  - rank: 173
+  - rank: 160
     name: 'Joonas Javanainen'
     login: 'Gekkio'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/94033?v=4'
@@ -1386,15 +1282,23 @@ users:
     company: 'Reaktor'
     organizations: 'reaktor'
 
-  - rank: 174
-    name: 'Jukka Svahn'
-    login: 'gocom'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/665186?v=4'
-    contributions: 486
-    company: '@lamiaoy'
-    organizations: 'textile'
+  - rank: 161
+    name: 'Jesse Niininen'
+    login: 'FINDarkside'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8396424?v=4'
+    contributions: 489
+    company: ''
+    organizations: ''
 
-  - rank: 175
+  - rank: 162
+    name: 'Petri Lehtinen'
+    login: 'akheron'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/70927?v=4'
+    contributions: 488
+    company: '@reaktor '
+    organizations: 'python-finland,python,suomipelit'
+
+  - rank: 163
     name: 'Teppo Koivula'
     login: 'teppokoivula'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1252021?v=4'
@@ -1402,15 +1306,15 @@ users:
     company: ''
     organizations: 'Aldone'
 
-  - rank: 176
-    name: 'Aleksei Tiulpin'
-    login: 'lext'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4714134?v=4'
-    contributions: 479
-    company: 'University of Oulu'
-    organizations: ''
+  - rank: 164
+    name: 'Jukka Svahn'
+    login: 'gocom'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/665186?v=4'
+    contributions: 480
+    company: '@lamiaoy'
+    organizations: 'textile'
 
-  - rank: 177
+  - rank: 165
     name: 'Teemu Likonen'
     login: 'tlikonen'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/442794?v=4'
@@ -1418,7 +1322,23 @@ users:
     company: ''
     organizations: 'voikko'
 
-  - rank: 178
+  - rank: 166
+    name: 'Aleksei Tiulpin'
+    login: 'lext'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4714134?v=4'
+    contributions: 478
+    company: '@Ailean-Technologies, @MIPT-Oulu'
+    organizations: ''
+
+  - rank: 167
+    name: 'John Ahlroos'
+    login: 'johndevs'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1967917?v=4'
+    contributions: 478
+    company: '@devsoap'
+    organizations: 'devsoap'
+
+  - rank: 168
     name: 'Henri Sivonen'
     login: 'hsivonen'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/478856?v=4'
@@ -1426,55 +1346,55 @@ users:
     company: '@mozilla'
     organizations: 'mozilla,validator,whatwg,html5lib,relaxng,mozilla-standards'
 
-  - rank: 179
-    name: 'Sami Keijonen'
-    login: 'samikeijonen'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1820415?v=4'
-    contributions: 471
-    company: 'Foxnet'
-    organizations: ''
-
-  - rank: 180
-    name: 'Thiago Marcos P. Santos'
-    login: 'tmpsantos'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/996307?v=4'
-    contributions: 462
-    company: 'Mapbox'
-    organizations: 'mapbox'
-
-  - rank: 181
-    name: 'Valeryi Savich'
-    login: 'Relrin'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1627100?v=4'
-    contributions: 462
+  - rank: 169
+    name: 'Mythic'
+    login: 'MythicManiac'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8225825?v=4'
+    contributions: 475
     company: ''
-    organizations: 'EpicGames,NVIDIAGameWorks,GameDevHQ,OpenMatchmaking'
+    organizations: 'LeagueSandbox,risk-of-thunder,disunity-hq'
 
-  - rank: 182
-    name: 'John Ahlroos'
-    login: 'johndevs'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1967917?v=4'
-    contributions: 453
-    company: '@devsoap'
-    organizations: 'devsoap'
-
-  - rank: 183
-    name: 'Tommi S.E. Laukkanen'
-    login: 'tlaukkan'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/232774?v=4'
-    contributions: 451
-    company: ''
-    organizations: ''
-
-  - rank: 184
+  - rank: 170
     name: 'Eero Anttila'
     login: 'eeroan'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/114198?v=4'
-    contributions: 450
+    contributions: 464
     company: 'Reaktor Innovations'
     organizations: 'reaktor'
 
-  - rank: 185
+  - rank: 171
+    name: 'Thiago Marcos P. Santos'
+    login: 'tmpsantos'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/996307?v=4'
+    contributions: 463
+    company: 'Mapbox'
+    organizations: 'mapbox'
+
+  - rank: 172
+    name: 'Nikolai Kondrashov'
+    login: 'spbnick'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/549246?v=4'
+    contributions: 463
+    company: ''
+    organizations: 'DIGImend,SSSD,Scribery,CKI-project'
+
+  - rank: 173
+    name: ''
+    login: 'dr-costas'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/7984120?v=4'
+    contributions: 457
+    company: 'Tampere University'
+    organizations: ''
+
+  - rank: 174
+    name: ''
+    login: 'Aleadinglight'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/23744063?v=4'
+    contributions: 453
+    company: ''
+    organizations: 'vnspoj'
+
+  - rank: 175
     name: 'Annaia Berry'
     login: 'jarcane'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/8036258?v=4'
@@ -1482,15 +1402,23 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 186
-    name: 'Mythic'
-    login: 'MythicManiac'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/8225825?v=4'
+  - rank: 176
+    name: 'Reaver'
+    login: 'ReaverTeknoGods'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2404814?v=4'
     contributions: 448
     company: ''
-    organizations: 'LeagueSandbox,risk-of-thunder,disunity-hq'
+    organizations: 'teknogods'
 
-  - rank: 187
+  - rank: 177
+    name: 'Daniel Schildt'
+    login: 'd2s'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/135053?v=4'
+    contributions: 447
+    company: ''
+    organizations: 'okffi,avoindata,koodiklinikka,teaops'
+
+  - rank: 178
     name: 'Pontus Aurdal'
     login: 'Pwntus'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/854759?v=4'
@@ -1498,39 +1426,31 @@ users:
     company: 'Telenor'
     organizations: 'TelenorStartIoT,vuejs-sv,ntnu-ai-lab,Novamar,td-org-uit-no,visualbox'
 
-  - rank: 188
-    name: 'Daniel Schildt'
-    login: 'd2s'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/135053?v=4'
-    contributions: 446
-    company: ''
-    organizations: 'okffi,avoindata,koodiklinikka,teaops'
-
-  - rank: 189
-    name: 'John W. Fail'
-    login: 'cenotaph'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/785941?v=4'
-    contributions: 442
-    company: 'No Culture Icons'
-    organizations: 'BiathlonHelsinki'
-
-  - rank: 190
+  - rank: 179
     name: 'Marijn van Vliet'
     login: 'wmvanvliet'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/428273?v=4'
-    contributions: 442
+    contributions: 446
     company: ''
     organizations: ''
 
-  - rank: 191
-    name: 'Reaver'
-    login: 'ReaverTeknoGods'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/2404814?v=4'
-    contributions: 442
+  - rank: 180
+    name: 'Juga Paazmaya'
+    login: 'paazmaya'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/369881?v=4'
+    contributions: 444
     company: ''
-    organizations: 'teknogods'
+    organizations: ''
 
-  - rank: 192
+  - rank: 181
+    name: 'Sami Keijonen'
+    login: 'samikeijonen'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1820415?v=4'
+    contributions: 443
+    company: 'Foxnet'
+    organizations: ''
+
+  - rank: 182
     name: 'Johan Halin'
     login: 'superjohan'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/101094?v=4'
@@ -1538,39 +1458,23 @@ users:
     company: '@richiefi '
     organizations: ''
 
-  - rank: 193
-    name: 'Diego Cardoso'
-    login: 'DiegoCardoso'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/262432?v=4'
-    contributions: 440
-    company: '@vaadin '
-    organizations: ''
+  - rank: 183
+    name: 'Torsten Rüger'
+    login: 'rubydesign'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/142157?v=4'
+    contributions: 435
+    company: 'Eco Frame House'
+    organizations: 'rubyclerks,ruby-x,webdev-camp'
 
-  - rank: 194
-    name: 'Juga Paazmaya'
-    login: 'paazmaya'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/369881?v=4'
-    contributions: 438
-    company: ''
-    organizations: ''
-
-  - rank: 195
+  - rank: 184
     name: 'Jere Helén'
     login: 'xneme'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2877177?v=4'
-    contributions: 437
+    contributions: 434
     company: 'University of Helsinki'
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 196
-    name: 'Jarno Rantanen'
-    login: 'jareware'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/560055?v=4'
-    contributions: 434
-    company: ''
-    organizations: 'futurice'
-
-  - rank: 197
+  - rank: 185
     name: 'Joni Taajamo'
     login: 'jonitaajamo'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/28587898?v=4'
@@ -1578,7 +1482,15 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 198
+  - rank: 186
+    name: 'Valeryi Savich'
+    login: 'Relrin'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1627100?v=4'
+    contributions: 431
+    company: ''
+    organizations: 'EpicGames,NVIDIAGameWorks,GameDevHQ,OpenMatchmaking'
+
+  - rank: 187
     name: 'Olavi Haapala'
     login: 'olpeh'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/6113341?v=4'
@@ -1586,23 +1498,15 @@ users:
     company: '@futurice  '
     organizations: 'futurice,Codaone,koodiklinikka,cyclejs-community,sailfishos-community'
 
-  - rank: 199
-    name: ''
-    login: 'Gskartwii'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6651822?v=4'
-    contributions: 430
-    company: ''
-    organizations: ''
-
-  - rank: 200
-    name: 'Torsten Rüger'
-    login: 'rubydesign'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/142157?v=4'
+  - rank: 188
+    name: 'John W. Fail'
+    login: 'cenotaph'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/785941?v=4'
     contributions: 429
-    company: 'Eco Frame House'
-    organizations: 'rubyclerks,ruby-x,webdev-camp'
+    company: 'No Culture Icons'
+    organizations: 'BiathlonHelsinki'
 
-  - rank: 201
+  - rank: 189
     name: 'Mikhail Novikov'
     login: 'freiksenet'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/172936?v=4'
@@ -1610,55 +1514,39 @@ users:
     company: 'Gatsby'
     organizations: ''
 
-  - rank: 202
-    name: 'Farzad YZ'
-    login: 'farskid'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/8332043?v=4'
-    contributions: 427
-    company: 'EpicGames'
-    organizations: 'TehranJS,pr-techblog,tulipsocial'
-
-  - rank: 203
-    name: 'Esa Juhani Ruoho'
-    login: 'esaruoho'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4966687?v=4'
-    contributions: 422
+  - rank: 190
+    name: 'Antti Ajanki'
+    login: 'aajanki'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/353043?v=4'
+    contributions: 423
     company: ''
-    organizations: ''
+    organizations: 'futurice'
 
-  - rank: 204
+  - rank: 191
     name: 'Paul Browne'
     login: 'Paul-Browne'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/2651729?v=4'
-    contributions: 419
+    contributions: 421
     company: ''
     organizations: 'ColumbiaRoad'
 
-  - rank: 205
-    name: 'Matti Tahvonen'
-    login: 'mstahv'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1478052?v=4'
-    contributions: 416
-    company: '@vaadin'
-    organizations: 'vaadin,viritin,VOL3'
-
-  - rank: 206
-    name: 'Richard Zilahi'
-    login: 'zilahir'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6687149?v=4'
-    contributions: 416
-    company: 'SalesFrame Oy'
+  - rank: 192
+    name: 'Tommi S.E. Laukkanen'
+    login: 'tlaukkan'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/232774?v=4'
+    contributions: 417
+    company: ''
     organizations: ''
 
-  - rank: 207
-    name: 'Juha Tauriainen'
-    login: 'JuhQ'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/525676?v=4'
-    contributions: 413
+  - rank: 193
+    name: ''
+    login: 'Gskartwii'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6651822?v=4'
+    contributions: 414
     company: ''
-    organizations: 'purple-circle'
+    organizations: ''
 
-  - rank: 208
+  - rank: 194
     name: 'Timo Wiren'
     login: 'bioglaze'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/7099779?v=4'
@@ -1666,15 +1554,15 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 209
-    name: 'Tatu Lund'
-    login: 'TatuLund'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/14309836?v=4'
-    contributions: 411
-    company: '@vaadin Vaadin'
-    organizations: ''
+  - rank: 195
+    name: 'Matti Tahvonen'
+    login: 'mstahv'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1478052?v=4'
+    contributions: 410
+    company: '@vaadin'
+    organizations: 'vaadin,viritin,VOL3'
 
-  - rank: 210
+  - rank: 196
     name: 'Kari Söderholm'
     login: 'Haprog'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/75155?v=4'
@@ -1682,71 +1570,95 @@ users:
     company: 'Vaadin Ltd.'
     organizations: 'irssiconnectbot,vaadin,vaadin-learning-center'
 
-  - rank: 211
-    name: 'Tomi Tuhkanen'
-    login: 'ttu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/589786?v=4'
-    contributions: 409
-    company: '@Vincit'
-    organizations: 'Vincit'
+  - rank: 197
+    name: 'Esa Juhani Ruoho'
+    login: 'esaruoho'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/4966687?v=4'
+    contributions: 407
+    company: ''
+    organizations: ''
 
-  - rank: 212
+  - rank: 198
+    name: 'Farzad YZ'
+    login: 'farskid'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/8332043?v=4'
+    contributions: 400
+    company: 'EpicGames'
+    organizations: 'TehranJS,pr-techblog,tulipsocial'
+
+  - rank: 199
     name: 'Igor'
     login: 'cy6erskunk'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/754849?v=4'
-    contributions: 402
+    contributions: 398
     company: '@smartlyio'
     organizations: 'Saunalol,smartlyio'
 
-  - rank: 213
-    name: 'Jari Aalto'
-    login: 'jaalto'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/34601?v=4'
-    contributions: 396
-    company: ''
-    organizations: ''
-
-  - rank: 214
-    name: 'Osmo Salomaa'
-    login: 'otsaloma'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/237265?v=4'
-    contributions: 392
-    company: ''
-    organizations: ''
-
-  - rank: 215
+  - rank: 200
     name: 'Taavi Väänänen'
     login: 'supertassu'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/9721638?v=4'
-    contributions: 392
+    contributions: 398
     company: ''
     organizations: 'tassu-issues,tryrulla,HelSec'
 
-  - rank: 216
+  - rank: 201
     name: 'Alex Grönholm'
     login: 'agronholm'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/130003?v=4'
-    contributions: 390
+    contributions: 396
     company: 'Tmi NextDay Solutions'
     organizations: 'asphalt-framework'
 
-  - rank: 217
-    name: 'pyllyukko'
-    login: 'pyllyukko'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1058704?v=4'
-    contributions: 389
-    company: ''
-    organizations: ''
-
-  - rank: 218
+  - rank: 202
     name: 'Rasmus Eskola'
     login: 'FruitieX'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3673134?v=4'
-    contributions: 382
+    contributions: 394
     company: '@tocoman'
     organizations: ''
 
-  - rank: 219
+  - rank: 203
+    name: 'pyllyukko'
+    login: 'pyllyukko'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1058704?v=4'
+    contributions: 393
+    company: ''
+    organizations: ''
+
+  - rank: 204
+    name: 'Tomi Tuhkanen'
+    login: 'ttu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/589786?v=4'
+    contributions: 392
+    company: '@Vincit'
+    organizations: 'Vincit'
+
+  - rank: 205
+    name: 'Juha Tauriainen'
+    login: 'JuhQ'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/525676?v=4'
+    contributions: 388
+    company: ''
+    organizations: 'purple-circle'
+
+  - rank: 206
+    name: 'Osmo Salomaa'
+    login: 'otsaloma'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/237265?v=4'
+    contributions: 386
+    company: ''
+    organizations: ''
+
+  - rank: 207
+    name: 'Jarno Rantanen'
+    login: 'jareware'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/560055?v=4'
+    contributions: 384
+    company: ''
+    organizations: 'futurice'
+
+  - rank: 208
     name: 'Niko Partanen'
     login: 'nikopartanen'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/6486495?v=4'
@@ -1754,47 +1666,47 @@ users:
     company: ''
     organizations: 'langdoc'
 
-  - rank: 220
-    name: 'Jussi Nummelin'
-    login: 'jnummelin'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3205505?v=4'
-    contributions: 377
-    company: 'Kontena Inc.'
-    organizations: 'kontena'
-
-  - rank: 221
+  - rank: 209
     name: 'Pekka Klärck'
     login: 'pekkaklarck'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/114985?v=4'
-    contributions: 377
+    contributions: 373
     company: 'Eliga Oy'
     organizations: 'robotframework'
 
-  - rank: 222
+  - rank: 210
     name: 'Mikko Koski'
     login: 'rap1ds'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/429876?v=4'
-    contributions: 375
+    contributions: 373
     company: '@sharetribe '
     organizations: 'sharetribe'
 
-  - rank: 223
+  - rank: 211
     name: 'Yulong Ruan'
     login: 'ruanyl'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/486382?v=4'
-    contributions: 372
+    contributions: 371
     company: ''
     organizations: 'node-codewars,waditu,awesome-news,OpenQuantJS,ReapexJS,vim-sh'
 
-  - rank: 224
-    name: 'Emil Laine'
-    login: 'emlai'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/7543552?v=4'
-    contributions: 369
-    company: '@Reaktor'
-    organizations: 'reaktor,Attnam,delta-lang,kanbahn,ts-llvm,suomipelit'
+  - rank: 212
+    name: 'Jussi Nummelin'
+    login: 'jnummelin'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3205505?v=4'
+    contributions: 368
+    company: 'Kontena Inc.'
+    organizations: 'kontena'
 
-  - rank: 225
+  - rank: 213
+    name: 'Toni Wilen'
+    login: 'tonioni'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/178454?v=4'
+    contributions: 368
+    company: ''
+    organizations: ''
+
+  - rank: 214
     name: 'Alejandro'
     login: 'alejandro-du'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1708527?v=4'
@@ -1802,79 +1714,47 @@ users:
     company: '@vaadin '
     organizations: ''
 
-  - rank: 226
-    name: 'Jesse Luoto'
-    login: 'jehna'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2676795?v=4'
-    contributions: 364
-    company: 'Reaktor'
-    organizations: ''
-
-  - rank: 227
-    name: 'Toni Wilen'
-    login: 'tonioni'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/178454?v=4'
-    contributions: 359
-    company: ''
-    organizations: ''
-
-  - rank: 228
-    name: 'Elias Kosunen'
-    login: 'eliaskosunen'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/9979059?v=4'
-    contributions: 359
-    company: ''
-    organizations: ''
-
-  - rank: 229
-    name: 'Juha Syrjälä'
-    login: 'jsyrjala'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/25238?v=4'
-    contributions: 358
-    company: 'Nitor'
-    organizations: 'NitorCreations'
-
-  - rank: 230
-    name: 'Michael Andreuzza'
-    login: 'michael-andreuzza'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/34077176?v=4'
-    contributions: 354
-    company: 'Colorsandfonts.com'
-    organizations: ''
-
-  - rank: 231
-    name: 'Alberto Mardegan'
-    login: 'mardy'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/59287?v=4'
-    contributions: 354
-    company: ''
-    organizations: 'ubports'
-
-  - rank: 232
+  - rank: 215
     name: 'Henrik Nyman'
     login: 'nyyManni'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/11259167?v=4'
-    contributions: 353
+    contributions: 359
     company: 'OptoFidelity Ltd.'
     organizations: ''
 
-  - rank: 233
-    name: 'Tomi Turtiainen'
-    login: 'tomi'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/10324676?v=4'
-    contributions: 351
+  - rank: 216
+    name: 'Elias Kosunen'
+    login: 'eliaskosunen'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/9979059?v=4'
+    contributions: 357
+    company: ''
+    organizations: ''
+
+  - rank: 217
+    name: 'Evans Chaba'
+    login: 'evanschaba'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/30877422?v=4'
+    contributions: 354
+    company: 'integrify.io'
+    organizations: ''
+
+  - rank: 218
+    name: 'Neil McAlister'
+    login: 'pingzing'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5133649?v=4'
+    contributions: 354
     company: 'Futurice'
     organizations: 'futurice'
 
-  - rank: 234
-    name: 'Antti Ajanki'
-    login: 'aajanki'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/353043?v=4'
-    contributions: 351
+  - rank: 219
+    name: 'Alberto Mardegan'
+    login: 'mardy'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/59287?v=4'
+    contributions: 353
     company: ''
-    organizations: 'futurice'
+    organizations: 'ubports'
 
-  - rank: 235
+  - rank: 220
     name: 'Toni Rikkola'
     login: 'Rikkola'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/331092?v=4'
@@ -1882,15 +1762,15 @@ users:
     company: ''
     organizations: 'kiegroup,bpmc,Guvnor'
 
-  - rank: 236
-    name: 'Bryan Richter'
-    login: 'chreekat'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/538538?v=4'
+  - rank: 221
+    name: 'Tomi Turtiainen'
+    login: 'tomi'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/10324676?v=4'
     contributions: 351
-    company: '@snowdriftcoop, @databrary'
-    organizations: 'databrary,snowdriftcoop'
+    company: 'Futurice'
+    organizations: 'futurice'
 
-  - rank: 237
+  - rank: 222
     name: 'Ruiyang Ding '
     login: 'JohnDing1995'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/16483298?v=4'
@@ -1898,23 +1778,15 @@ users:
     company: 'Aalto University & TU Delft'
     organizations: ''
 
-  - rank: 238
-    name: 'Neil McAlister'
-    login: 'pingzing'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5133649?v=4'
-    contributions: 350
-    company: 'Futurice'
-    organizations: 'futurice'
-
-  - rank: 239
-    name: ''
-    login: 'dr-costas'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/7984120?v=4'
+  - rank: 223
+    name: 'Rakhim'
+    login: 'freetonik'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2665931?v=4'
     contributions: 349
-    company: 'Tampere University'
+    company: ''
     organizations: ''
 
-  - rank: 240
+  - rank: 224
     name: 'Tuomo Torppa'
     login: 'totutotu'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/10516652?v=4'
@@ -1922,15 +1794,15 @@ users:
     company: '@UniversityOfHelsinkiCS '
     organizations: 'EpicGames,UniversityOfHelsinkiCS,LUOMUSPYHA,UltraBikes,ohtu-ohjaajat,AmazingAgility'
 
-  - rank: 241
-    name: ''
-    login: 'ashleynguci'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/40316179?v=4'
-    contributions: 345
-    company: ''
-    organizations: ''
+  - rank: 225
+    name: 'Bryan Richter'
+    login: 'chreekat'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/538538?v=4'
+    contributions: 347
+    company: '@snowdriftcoop, @databrary'
+    organizations: 'databrary,snowdriftcoop'
 
-  - rank: 242
+  - rank: 226
     name: 'Henry Heikkinen'
     login: 'rce'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4427896?v=4'
@@ -1938,23 +1810,7 @@ users:
     company: '@reaktor '
     organizations: 'reaktor,Majavapaja,thomaxius-and-co'
 
-  - rank: 243
-    name: 'Jaakko Luttinen'
-    login: 'jluttine'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2195834?v=4'
-    contributions: 341
-    company: '@pandiaoy '
-    organizations: 'NixOS,bayespy'
-
-  - rank: 244
-    name: 'Rakhim'
-    login: 'freetonik'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2665931?v=4'
-    contributions: 341
-    company: ''
-    organizations: ''
-
-  - rank: 245
+  - rank: 227
     name: 'Mikko Rantanen'
     login: 'Rantanen'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/385385?v=4'
@@ -1962,7 +1818,15 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 246
+  - rank: 228
+    name: 'Jaakko Luttinen'
+    login: 'jluttine'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2195834?v=4'
+    contributions: 341
+    company: '@pandiaoy '
+    organizations: 'NixOS,bayespy'
+
+  - rank: 229
     name: 'Leif Åstrand'
     login: 'Legioth'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1294657?v=4'
@@ -1970,15 +1834,23 @@ users:
     company: '@vaadin '
     organizations: 'vaadin'
 
-  - rank: 247
-    name: 'Otto Seiskari'
-    login: 'oseiskar'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1812432?v=4'
+  - rank: 230
+    name: 'Timo Aho'
+    login: 'Zeukkari'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3033037?v=4'
     contributions: 339
-    company: 'IndoorAtlas '
-    organizations: 'IndoorAtlas'
+    company: '@phzfi '
+    organizations: ''
 
-  - rank: 248
+  - rank: 231
+    name: 'Valtteri Koskivuori'
+    login: 'VKoskiv'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/20117975?v=4'
+    contributions: 338
+    company: ''
+    organizations: ''
+
+  - rank: 232
     name: 'Per Lundberg'
     login: 'perlun'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/630613?v=4'
@@ -1986,7 +1858,7 @@ users:
     company: '@hiboxsystems'
     organizations: 'cefsharp'
 
-  - rank: 249
+  - rank: 233
     name: 'Lucas'
     login: 'Dreameh'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/9027391?v=4'
@@ -1994,23 +1866,7 @@ users:
     company: ''
     organizations: 'the-programmers-hangout'
 
-  - rank: 250
-    name: 'Mats Rauhala'
-    login: 'MasseR'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/41126?v=4'
-    contributions: 336
-    company: ''
-    organizations: ''
-
-  - rank: 251
-    name: 'Petteri Kivimäki'
-    login: 'petkivim'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/575897?v=4'
-    contributions: 334
-    company: 'Nordic Institute for Interoperability Solutions (NIIS)'
-    organizations: 'nordic-institute'
-
-  - rank: 252
+  - rank: 234
     name: 'Niklas Laxström'
     login: 'Nikerabbit'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1109395?v=4'
@@ -2018,15 +1874,15 @@ users:
     company: ''
     organizations: 'wikimedia,mifos,pediapress,apertium'
 
-  - rank: 253
-    name: 'Seppo Yli-Olli'
-    login: 'nanonyme'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/348449?v=4'
+  - rank: 235
+    name: 'Antti-Jussi Nygård'
+    login: 'ajnyga'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/16347527?v=4'
     contributions: 333
     company: ''
-    organizations: 'jenkinsci,heapify'
+    organizations: 'tsv-fi'
 
-  - rank: 254
+  - rank: 236
     name: 'Joni Kanerva'
     login: 'jonikanerva'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/679717?v=4'
@@ -2034,21 +1890,165 @@ users:
     company: '@reaktor '
     organizations: 'reaktor,HBOCodeLabs'
 
-  - rank: 255
-    name: 'Antti-Jussi Nygård'
-    login: 'ajnyga'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/16347527?v=4'
-    contributions: 331
-    company: ''
-    organizations: 'tsv-fi'
+  - rank: 237
+    name: 'Anton Platonov'
+    login: 'platosha'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/247998?v=4'
+    contributions: 329
+    company: 'Vaadin'
+    organizations: ''
 
-  - rank: 256
-    name: 'Valtteri Koskivuori'
-    login: 'VKoskiv'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/20117975?v=4'
-    contributions: 330
+  - rank: 238
+    name: 'Petteri Kivimäki'
+    login: 'petkivim'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/575897?v=4'
+    contributions: 326
+    company: 'Nordic Institute for Interoperability Solutions (NIIS)'
+    organizations: 'nordic-institute'
+
+  - rank: 239
+    name: 'Joel Yliluoma'
+    login: 'bisqwit'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/39278?v=4'
+    contributions: 325
     company: ''
     organizations: ''
+
+  - rank: 240
+    name: 'Samuel Husso'
+    login: 'shusso'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/590002?v=4'
+    contributions: 325
+    company: ''
+    organizations: 'UnityTech,Applifier,Unity-Technologies,github-beta,HkiPythonWorkshops,freqtrade'
+
+  - rank: 241
+    name: 'Jesse Luoto'
+    login: 'jehna'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2676795?v=4'
+    contributions: 324
+    company: 'Reaktor'
+    organizations: ''
+
+  - rank: 242
+    name: 'Viljami Kuosmanen'
+    login: 'anttiviljami'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/6105650?v=4'
+    contributions: 323
+    company: '@futurice '
+    organizations: 'futurice,koodiklinikka,FitWood'
+
+  - rank: 243
+    name: 'Kimmo Kiiski'
+    login: 'ktkiiski'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2203052?v=4'
+    contributions: 323
+    company: '@AppGyver '
+    organizations: ''
+
+  - rank: 244
+    name: 'Pedro Neto'
+    login: 'NetoPedro'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/17574348?v=4'
+    contributions: 321
+    company: 'Aalto University'
+    organizations: 'AaltoVision'
+
+  - rank: 245
+    name: 'Adrien Victor'
+    login: 'AdrienVictor'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/46904762?v=4'
+    contributions: 316
+    company: ''
+    organizations: ''
+
+  - rank: 246
+    name: 'Jussi Lind'
+    login: 'juzzlin'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2587783?v=4'
+    contributions: 316
+    company: 'Unikie'
+    organizations: ''
+
+  - rank: 247
+    name: 'Egor Danchenkov'
+    login: 'edanchenkov'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2707765?v=4'
+    contributions: 316
+    company: 'Red Nuclear Monkey'
+    organizations: ''
+
+  - rank: 248
+    name: ''
+    login: 'jamestthompson3'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/19915504?v=4'
+    contributions: 316
+    company: ''
+    organizations: ''
+
+  - rank: 249
+    name: 'Eero Helenius'
+    login: 'eerohele'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/31859?v=4'
+    contributions: 313
+    company: '@solita '
+    organizations: 'dita-ot'
+
+  - rank: 250
+    name: 'Matias Korhonen'
+    login: 'matiaskorhonen'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/43314?v=4'
+    contributions: 313
+    company: '@kiskolabs'
+    organizations: 'kiskolabs,goadapp'
+
+  - rank: 251
+    name: 'Martin Björkström'
+    login: 'mholo65'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/7863439?v=4'
+    contributions: 312
+    company: ''
+    organizations: 'cake-build,OmniSharp,cake-contrib,dotnet-foundation'
+
+  - rank: 252
+    name: 'Veeti Haapsamo'
+    login: 'Walther'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2943750?v=4'
+    contributions: 312
+    company: 'Webflow'
+    organizations: ''
+
+  - rank: 253
+    name: 'Juha Paananen'
+    login: 'raimohanska'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/292964?v=4'
+    contributions: 311
+    company: 'Reaktor'
+    organizations: 'reaktor'
+
+  - rank: 254
+    name: 'Denzil Ferreira'
+    login: 'denzilferreira'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8342829?v=4'
+    contributions: 310
+    company: 'Center for Ubiquitous Computing, University of Oulu'
+    organizations: ''
+
+  - rank: 255
+    name: 'Anton Rissanen'
+    login: 'antris'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/572232?v=4'
+    contributions: 308
+    company: ''
+    organizations: ''
+
+  - rank: 256
+    name: 'Sami Vänttinen'
+    login: 'varjolintu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/24570482?v=4'
+    contributions: 307
+    company: ''
+    organizations: 'keepassxreboot'
 
 private_users:
 
@@ -2056,23 +2056,23 @@ private_users:
     name: 'Jarmo Puttonen'
     login: 'putsi'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/5388424?v=4'
-    contributions: 30366
+    contributions: 29794
     company: 'ROT'
     organizations: ''
 
   - rank: 2
-    name: 'Iikka Winter'
-    login: 'IikkaWinter'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5743958?v=4'
-    contributions: 12936
-    company: ''
-    organizations: ''
+    name: 'Miikka Koskinen'
+    login: 'miikka'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/34607?v=4'
+    contributions: 10328
+    company: '@metosin '
+    organizations: 'metosin,cljsjs,osakunta'
 
   - rank: 3
     name: 'Janne Käki'
     login: 'repomies'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1328614?v=4'
-    contributions: 6576
+    contributions: 6491
     company: 'Awesomeness Factory Oy'
     organizations: ''
 
@@ -2080,7 +2080,7 @@ private_users:
     name: 'Tarmo Leppänen'
     login: 'tarlepp'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/595561?v=4'
-    contributions: 6167
+    contributions: 6288
     company: 'Protacon Solutions Ltd'
     organizations: 'UniBot,geekcollision,protacon'
 
@@ -2088,15 +2088,15 @@ private_users:
     name: 'Hugo van Kemenade'
     login: 'hugovk'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1324225?v=4'
-    contributions: 5623
+    contributions: 5626
     company: 'Nord Software'
-    organizations: 'python-pillow,unitedstates,digiaonline,pylast,pytest-dev,whyaretheflagsup,mobbler,cycle148hki,gatsbyjs,jazzband,citybikes,NaNoGenMo,WahKazoo,nordsoftware'
+    organizations: 'python-pillow,unitedstates,digiaonline,fatiando,pylast,pytest-dev,whyaretheflagsup,mobbler,cycle148hki,gatsbyjs,jazzband,citybikes,NaNoGenMo,WahKazoo,nordsoftware'
 
   - rank: 6
     name: 'Juha Lindstedt'
     login: 'pakastin'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1475902?v=4'
-    contributions: 5581
+    contributions: 5583
     company: '@connectingtalents '
     organizations: 'stylus,koodiklinikka,connectingtalents,redom,deck-of-cards'
 
@@ -2104,27 +2104,19 @@ private_users:
     name: 'Roni Laukkarinen'
     login: 'ronilaukkarinen'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1534150?v=4'
-    contributions: 4996
+    contributions: 4998
     company: '@digitoimistodude '
     organizations: 'koodiklinikka,digitoimistodude,wp-languages,pulinairc,adminlabs'
 
   - rank: 8
-    name: ''
-    login: 'MarkusSintonen'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/12939780?v=4'
-    contributions: 4913
-    company: '@smartlyio'
-    organizations: 'smartlyio'
-
-  - rank: 9
     name: 'Jacopo Chiapparino'
     login: 'jacopoch'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1187497?v=4'
-    contributions: 4901
+    contributions: 4880
     company: '@woltapp'
     organizations: 'woltapp'
 
-  - rank: 10
+  - rank: 9
     name: 'Johan Halin'
     login: 'superjohan'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/101094?v=4'
@@ -2132,95 +2124,79 @@ private_users:
     company: '@richiefi '
     organizations: ''
 
-  - rank: 11
+  - rank: 10
     name: 'Juuso Mäyränen'
     login: 'juusom'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/192230?v=4'
-    contributions: 4578
+    contributions: 4602
     company: 'Smartly.io'
     organizations: 'smartlyio'
 
-  - rank: 12
+  - rank: 11
     name: 'Mikko Kivelä'
     login: 'woochi'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/861353?v=4'
-    contributions: 4392
+    contributions: 4405
     company: '@smartlyio '
     organizations: 'smartlyio'
 
-  - rank: 13
+  - rank: 12
     name: 'Tan Nguyen'
     login: 'tanqhnguyen'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/910024?v=4'
-    contributions: 4287
+    contributions: 4322
     company: 'Sharkpunch'
     organizations: ''
 
-  - rank: 14
-    name: 'Panu Tulimäki'
-    login: 'tulimaki'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4940349?v=4'
-    contributions: 4146
-    company: 'Anders Innovations Inc.'
-    organizations: 'andersinno,shuup'
-
-  - rank: 15
+  - rank: 13
     name: 'Oleg Grenrus'
     login: 'phadej'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/51087?v=4'
-    contributions: 4097
+    contributions: 4072
     company: 'Well-Typed LLP'
     organizations: 'igbinary,baconjs,haskell-infra,jsverify,haskell-servant,haskhel,osakunta'
 
-  - rank: 16
+  - rank: 14
     name: 'Rasmus Eskola'
     login: 'FruitieX'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3673134?v=4'
-    contributions: 3974
+    contributions: 3955
     company: '@tocoman'
     organizations: ''
 
-  - rank: 17
+  - rank: 15
     name: 'Martin Yrjölä'
     login: 'myrjola'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/36122?v=4'
-    contributions: 3776
+    contributions: 3728
     company: 'Netlight'
     organizations: 'Teknologforeningen'
 
-  - rank: 18
+  - rank: 16
     name: 'Aarni Koskela'
     login: 'akx'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/58669?v=4'
-    contributions: 3771
+    contributions: 3726
     company: '@valohai '
     organizations: 'kcsry,koodiklinikka,6aika,nteract,python-babel,wurstfabrik,valohai,ReactFinland,kompisar'
 
-  - rank: 19
-    name: 'Henrik Nygren'
-    login: 'nygrenh'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1922896?v=4'
-    contributions: 3644
-    company: ''
-    organizations: 'testmycode,friends-of-rails,rage,TeamWhat,FinJam,ohjelmointikurssi,cybersecuritybase,2017-tilai,ohjelmointi'
-
-  - rank: 20
-    name: 'Mikko Ala-Fossi'
-    login: 'mikkoaf'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/16817737?v=4'
-    contributions: 3640
-    company: ''
-    organizations: ''
-
-  - rank: 21
+  - rank: 17
     name: 'Joonas'
     login: 'wyozi'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4894573?v=4'
-    contributions: 3582
+    contributions: 3589
     company: ''
     organizations: ''
 
-  - rank: 22
+  - rank: 18
+    name: 'Henrik Nygren'
+    login: 'nygrenh'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1922896?v=4'
+    contributions: 3448
+    company: ''
+    organizations: 'testmycode,friends-of-rails,rage,TeamWhat,FinJam,ohjelmointikurssi,cybersecuritybase,2017-tilai,ohjelmointi'
+
+  - rank: 19
     name: 'Klaus Nygård'
     login: 'nygardk'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/2855908?v=4'
@@ -2228,55 +2204,55 @@ private_users:
     company: 'Software Engineer at @woltapp '
     organizations: 'woltapp'
 
-  - rank: 23
+  - rank: 20
     name: 'Daniel Dunderfelt'
     login: 'danieldunderfelt'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/3145668?v=4'
-    contributions: 3157
+    contributions: 3156
     company: ''
     organizations: 'styled-components'
 
-  - rank: 24
+  - rank: 21
     name: 'Tulir Asokan'
     login: 'tulir'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4224639?v=4'
-    contributions: 3147
+    contributions: 3152
     company: '@rage, @maunium'
     organizations: 'rage,maunium,matrix-construct,maubot'
 
-  - rank: 25
+  - rank: 22
     name: 'Juha Komulainen'
     login: 'komu'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3473?v=4'
-    contributions: 3134
+    contributions: 3104
     company: '@EvidentSolutions '
     organizations: 'EvidentSolutions'
 
-  - rank: 26
+  - rank: 23
     name: 'Kimmo Kiiski'
     login: 'ktkiiski'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/2203052?v=4'
-    contributions: 3100
+    contributions: 3104
     company: '@AppGyver '
     organizations: ''
 
-  - rank: 27
+  - rank: 24
     name: 'Antti Pitkänen'
     login: 'anttipitkanen'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/946511?v=4'
-    contributions: 3065
+    contributions: 3086
     company: '@smartlyio'
     organizations: 'smartlyio'
 
-  - rank: 28
+  - rank: 25
     name: 'Mykhailo Danylov'
     login: 'mikedanylov'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/6695656?v=4'
-    contributions: 2876
+    contributions: 2871
     company: '@woltapp'
     organizations: 'creditornot'
 
-  - rank: 29
+  - rank: 26
     name: 'Joel Mertanen'
     login: 'joelmertanen'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1712488?v=4'
@@ -2284,63 +2260,47 @@ private_users:
     company: '@smartlyio'
     organizations: 'smartlyio'
 
-  - rank: 30
-    name: 'Ville Toiviainen'
-    login: 'Villux'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4243244?v=4'
-    contributions: 2823
-    company: 'Intuition Machines'
-    organizations: 'teamglados'
-
-  - rank: 31
+  - rank: 27
     name: 'Atte Lautanala'
     login: 'lautat'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/10929949?v=4'
-    contributions: 2810
+    contributions: 2744
     company: '@woltapp'
     organizations: 'woltapp'
 
-  - rank: 32
-    name: 'Kimmo Sääskilahti'
-    login: 'ksaaskil'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11660974?v=4'
-    contributions: 2724
-    company: '@Meeshkan '
-    organizations: 'Meeshkan'
-
-  - rank: 33
+  - rank: 28
     name: 'Esko Luontola'
     login: 'luontola'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/42678?v=4'
-    contributions: 2710
+    contributions: 2733
     company: '@NitorCreations '
     organizations: 'NitorCreations,titokone,HSLdevcom,pamods'
 
-  - rank: 34
+  - rank: 29
     name: 'Marko Klemetti'
     login: 'mrako'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/203192?v=4'
-    contributions: 2703
+    contributions: 2702
     company: 'eficode.com, trail.fi, freeed.com'
     organizations: 'eficode,robotframework,trail,koodi101'
 
-  - rank: 35
-    name: 'Sakari Jokinen'
-    login: 'sakari'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/379600?v=4'
-    contributions: 2616
+  - rank: 30
+    name: 'Kimmo Sääskilahti'
+    login: 'ksaaskil'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/11660974?v=4'
+    contributions: 2628
+    company: '@Meeshkan '
+    organizations: 'Meeshkan'
+
+  - rank: 31
+    name: 'Lassi Kortela'
+    login: 'lassik'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2564245?v=4'
+    contributions: 2623
     company: ''
-    organizations: ''
+    organizations: 'srfi-explorations,schemedoc,lispunion,schemeweb'
 
-  - rank: 36
-    name: 'Jari Kolehmainen'
-    login: 'jakolehm'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1446224?v=4'
-    contributions: 2610
-    company: 'Kontena Inc.'
-    organizations: 'kontena'
-
-  - rank: 37
+  - rank: 32
     name: 'Ari Palo'
     login: 'aripalo'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/679146?v=4'
@@ -2348,7 +2308,7 @@ private_users:
     company: '@almamedia '
     organizations: ''
 
-  - rank: 38
+  - rank: 33
     name: 'Lasse Lukkari'
     login: 'lasselukkari'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1687972?v=4'
@@ -2356,7 +2316,15 @@ private_users:
     company: ''
     organizations: 'Applifier'
 
-  - rank: 39
+  - rank: 34
+    name: 'Jari Kolehmainen'
+    login: 'jakolehm'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1446224?v=4'
+    contributions: 2604
+    company: 'Kontena Inc.'
+    organizations: 'kontena'
+
+  - rank: 35
     name: 'Joona Pääkkönen'
     login: 'paksu'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/64442?v=4'
@@ -2364,95 +2332,87 @@ private_users:
     company: '@Unity-Technologies  '
     organizations: 'UnityTech,Applifier,Unity-Technologies'
 
-  - rank: 40
-    name: 'Lassi Kortela'
-    login: 'lassik'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2564245?v=4'
-    contributions: 2589
+  - rank: 36
+    name: 'Sakari Jokinen'
+    login: 'sakari'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/379600?v=4'
+    contributions: 2591
     company: ''
-    organizations: 'srfi-explorations,schemedoc,lispunion,schemeweb'
+    organizations: ''
 
-  - rank: 41
+  - rank: 37
     name: 'Eetu Tuomala'
     login: 'laardee'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4726921?v=4'
-    contributions: 2589
+    contributions: 2585
     company: 'MaaS Global'
     organizations: 'serverless,maasglobal,GoDashPi,serverless-components'
 
-  - rank: 42
+  - rank: 38
     name: 'Olli Jarva'
     login: 'ojarva'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1177797?v=4'
-    contributions: 2556
+    contributions: 2573
     company: ''
     organizations: 'aiven'
 
-  - rank: 43
-    name: 'Valtteri Virtanen'
-    login: 'waltsu'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1257076?v=4'
-    contributions: 2434
-    company: ''
-    organizations: 'smartlyio'
-
-  - rank: 44
+  - rank: 39
     name: 'Serhii Kulykov'
     login: 'web-padawan'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/10589913?v=4'
-    contributions: 2433
+    contributions: 2419
     company: '@vaadin'
     organizations: 'vaadin'
 
-  - rank: 45
+  - rank: 40
     name: 'Jarno Elovirta'
     login: 'jelovirt'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/52934?v=4'
-    contributions: 2421
+    contributions: 2415
     company: '@wunderdogsw '
     organizations: 'dita-ot'
 
-  - rank: 46
+  - rank: 41
+    name: 'Valtteri Virtanen'
+    login: 'waltsu'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1257076?v=4'
+    contributions: 2392
+    company: ''
+    organizations: 'smartlyio'
+
+  - rank: 42
     name: 'Matias Korhonen'
     login: 'matiaskorhonen'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/43314?v=4'
-    contributions: 2388
+    contributions: 2389
     company: '@kiskolabs'
     organizations: 'kiskolabs,goadapp'
 
-  - rank: 47
-    name: 'Sallar Kaboli'
-    login: 'sallar'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/768052?v=4'
-    contributions: 2328
-    company: ''
-    organizations: 'ganjoor,buttercup,cafedev-org,maintainers,cxcloud,RedDoorHQ'
-
-  - rank: 48
-    name: 'Marc Galang'
-    login: 'mgalang'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/209939?v=4'
-    contributions: 2303
-    company: 'Wunder.io'
-    organizations: ''
-
-  - rank: 49
+  - rank: 43
     name: 'Matti Luukkainen'
     login: 'mluukkai'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/523235?v=4'
-    contributions: 2266
+    contributions: 2343
     company: 'University of Helsinki'
     organizations: 'UniversityHelsinkiTKTL,UniversityOfHelsinkiCS'
 
-  - rank: 50
-    name: 'Otto Seiskari'
-    login: 'oseiskar'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1812432?v=4'
-    contributions: 2235
-    company: 'IndoorAtlas '
-    organizations: 'IndoorAtlas'
+  - rank: 44
+    name: 'Sallar Kaboli'
+    login: 'sallar'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/768052?v=4'
+    contributions: 2339
+    company: ''
+    organizations: 'ganjoor,buttercup,cafedev-org,maintainers,cxcloud,RedDoorHQ'
 
-  - rank: 51
+  - rank: 45
+    name: 'Marc Galang'
+    login: 'mgalang'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/209939?v=4'
+    contributions: 2269
+    company: 'Wunder.io'
+    organizations: ''
+
+  - rank: 46
     name: 'Marianne Siren'
     login: 'mariannesiren'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/17478447?v=4'
@@ -2460,39 +2420,39 @@ private_users:
     company: '@venuu '
     organizations: 'venuu,koodiklinikka'
 
-  - rank: 52
+  - rank: 47
+    name: 'Otto Seiskari'
+    login: 'oseiskar'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1812432?v=4'
+    contributions: 2201
+    company: 'IndoorAtlas '
+    organizations: 'IndoorAtlas'
+
+  - rank: 48
     name: ''
     login: 'Rochet2'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/468816?v=4'
-    contributions: 2195
+    contributions: 2194
     company: ''
     organizations: 'mangos,mangoszero,testmycode,mangosone,mangosthree,mangostwo,ElunaLuaEngine,CoronaCore,EpicGames,mangosfive,UniversityOfHelsinkiCS,Mahtimursut,azerothcore,tmc-api-team,sataako'
 
-  - rank: 53
+  - rank: 49
     name: 'Vesa Vänskä'
     login: 'vesan'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/4531?v=4'
-    contributions: 2191
+    contributions: 2183
     company: '@kiskolabs '
     organizations: 'kiskolabs,nko,railsgirls'
 
-  - rank: 54
-    name: 'Isto Nikula'
-    login: 'istonikula'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1543782?v=4'
-    contributions: 2150
-    company: ''
-    organizations: 'HSLdevcom,espoon-voltti'
-
-  - rank: 55
+  - rank: 50
     name: 'Christian Tschoepe'
     login: 'chrants'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4203662?v=4'
-    contributions: 2140
+    contributions: 2133
     company: '@smartlyio '
     organizations: ''
 
-  - rank: 56
+  - rank: 51
     name: 'Lucas Käldström'
     login: 'luxas'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/5442475?v=4'
@@ -2500,55 +2460,39 @@ private_users:
     company: '@kubernetes @weaveworks '
     organizations: 'kubernetes,kubernetes-incubator,rook,cloud-native-nordics'
 
-  - rank: 57
-    name: 'Aleksi Juvani'
-    login: 'aleksijuvani'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3168386?v=4'
-    contributions: 2112
-    company: ''
+  - rank: 52
+    name: 'Kenigbolo Meya Stephen'
+    login: 'kenigbolo'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/18700907?v=4'
+    contributions: 2054
+    company: '@CodeAfrique '
     organizations: ''
 
-  - rank: 58
-    name: 'Sam Spilsbury'
-    login: 'smspillaz'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/775309?v=4'
-    contributions: 2089
-    company: '@CuriousAI'
-    organizations: 'polysquare'
-
-  - rank: 59
-    name: 'Jari Aarniala'
-    login: 'codeflows'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/29481?v=4'
-    contributions: 2059
-    company: 'Panacea'
-    organizations: 'embreach,panacealabs'
-
-  - rank: 60
-    name: 'Michael Andreuzza'
-    login: 'michael-andreuzza'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/34077176?v=4'
-    contributions: 2050
-    company: 'Colorsandfonts.com'
-    organizations: ''
-
-  - rank: 61
-    name: 'Jouni K. Seppänen'
-    login: 'jkseppan'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/92814?v=4'
-    contributions: 2040
-    company: ''
-    organizations: 'matplotlib,matematiikkakilpailut'
-
-  - rank: 62
+  - rank: 53
     name: 'Erno Salo'
     login: 'endormi'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/39559256?v=4'
-    contributions: 2040
+    contributions: 2051
     company: 'Foredata Oy'
     organizations: ''
 
-  - rank: 63
+  - rank: 54
+    name: 'Esa-Matti Suuronen'
+    login: 'esamattis'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/225712?v=4'
+    contributions: 2049
+    company: 'Valu Digital Oy'
+    organizations: 'plone,nko2,Instanssi,koodilehto,tftp-go-team'
+
+  - rank: 55
+    name: 'Jari Aarniala'
+    login: 'codeflows'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/29481?v=4'
+    contributions: 2034
+    company: 'Panacea'
+    organizations: 'embreach,panacealabs'
+
+  - rank: 56
     name: 'Antti Kontoniemi'
     login: 'anttikon'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2187594?v=4'
@@ -2556,7 +2500,15 @@ private_users:
     company: '@wunderdogsw'
     organizations: ''
 
-  - rank: 64
+  - rank: 57
+    name: 'Sam Spilsbury'
+    login: 'smspillaz'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/775309?v=4'
+    contributions: 2028
+    company: '@CuriousAI'
+    organizations: 'polysquare'
+
+  - rank: 58
     name: 'Harri Hälikkä'
     login: 'harriha'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/101693?v=4'
@@ -2564,159 +2516,103 @@ private_users:
     company: 'Futurice'
     organizations: 'futurice'
 
-  - rank: 65
-    name: 'Kenigbolo Meya Stephen'
-    login: 'kenigbolo'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/18700907?v=4'
-    contributions: 2020
-    company: '@CodeAfrique '
-    organizations: ''
-
-  - rank: 66
-    name: 'Esa-Matti Suuronen'
-    login: 'esamattis'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/225712?v=4'
-    contributions: 2012
-    company: 'Valu Digital Oy'
-    organizations: 'plone,nko2,Instanssi,koodilehto,tftp-go-team'
-
-  - rank: 67
-    name: 'Tero Laitinen'
-    login: 'tlaitinen'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1113883?v=4'
-    contributions: 1984
-    company: '@woltapp @creditornot'
-    organizations: ''
-
-  - rank: 68
+  - rank: 59
     name: 'Georgi Yanev'
     login: 'jumpalottahigh'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4155121?v=4'
-    contributions: 1983
+    contributions: 2014
     company: '@SharperShape'
     organizations: 'reactjs,gatsbyjs'
 
-  - rank: 69
+  - rank: 60
     name: 'Fotis Papadogeorgopoulos'
     login: 'fpapado'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3210764?v=4'
-    contributions: 1977
+    contributions: 1990
     company: '@futurice '
     organizations: ''
 
-  - rank: 70
+  - rank: 61
+    name: 'Tero Laitinen'
+    login: 'tlaitinen'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1113883?v=4'
+    contributions: 1985
+    company: '@woltapp @creditornot'
+    organizations: ''
+
+  - rank: 62
     name: 'Yannick Meeus'
     login: 'YannickMeeus'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/588607?v=4'
-    contributions: 1967
+    contributions: 1968
     company: '@smartlyio '
     organizations: 'smartlyio'
 
-  - rank: 71
-    name: 'Sami Kukkonen'
-    login: 'strax'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/587213?v=4'
-    contributions: 1961
-    company: '@reaktor'
-    organizations: 'reaktor'
-
-  - rank: 72
-    name: 'Hannu Pelkonen'
-    login: 'hannu'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/19070?v=4'
-    contributions: 1951
-    company: ''
-    organizations: ''
-
-  - rank: 73
-    name: 'Mikko Korpela'
-    login: 'mkorpela'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/136885?v=4'
-    contributions: 1947
-    company: 'Reaktor'
-    organizations: 'robotframework'
-
-  - rank: 74
+  - rank: 63
     name: 'Joel Kaasinen'
     login: 'opqdonut'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/207385?v=4'
-    contributions: 1929
+    contributions: 1937
     company: '@NitorCreations '
     organizations: ''
 
-  - rank: 75
-    name: 'Justin Woo'
-    login: 'justinwoo'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2396926?v=4'
-    contributions: 1924
-    company: ''
-    organizations: 'NixOS'
+  - rank: 64
+    name: 'Sami Kukkonen'
+    login: 'strax'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/587213?v=4'
+    contributions: 1931
+    company: '@reaktor'
+    organizations: 'reaktor'
 
-  - rank: 76
-    name: 'Joshua Scott'
-    login: 'joshua-scott'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/22575651?v=4'
-    contributions: 1899
-    company: '@wunderio '
-    organizations: 'wunderio'
+  - rank: 65
+    name: 'Mikko Korpela'
+    login: 'mkorpela'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/136885?v=4'
+    contributions: 1929
+    company: 'Reaktor'
+    organizations: 'robotframework'
 
-  - rank: 77
-    name: ''
-    login: 'talmobi'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1460615?v=4'
-    contributions: 1879
-    company: ''
-    organizations: 'redom'
-
-  - rank: 78
-    name: 'Olli Iivonen'
-    login: 'olli-iivonen'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/39122011?v=4'
-    contributions: 1878
-    company: '@woltapp '
-    organizations: 'creditornot,woltapp'
-
-  - rank: 79
-    name: 'Toni Ahola'
-    login: 'xnode'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/367189?v=4'
-    contributions: 1857
-    company: '@woltapp '
-    organizations: 'woltapp'
-
-  - rank: 80
-    name: 'Alexander'
-    login: 'aednlaxer'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/20989940?v=4'
-    contributions: 1856
+  - rank: 66
+    name: 'Hannu Pelkonen'
+    login: 'hannu'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/19070?v=4'
+    contributions: 1920
     company: ''
     organizations: ''
 
-  - rank: 81
-    name: 'Matti Ahinko'
-    login: 'stormaaja'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1937585?v=4'
-    contributions: 1847
+  - rank: 67
+    name: 'Justin Woo'
+    login: 'justinwoo'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2396926?v=4'
+    contributions: 1910
     company: ''
-    organizations: 'Lepovirta'
+    organizations: 'NixOS'
 
-  - rank: 82
+  - rank: 68
+    name: 'Joshua Scott'
+    login: 'joshua-scott'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/22575651?v=4'
+    contributions: 1881
+    company: '@wunderio '
+    organizations: 'wunderio'
+
+  - rank: 69
     name: 'Olli'
     login: 'woltsu'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/22446801?v=4'
-    contributions: 1840
+    contributions: 1833
     company: ''
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 83
-    name: 'Lauri Ojansivu'
-    login: 'xet7'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/15545?v=4'
-    contributions: 1817
-    company: ''
-    organizations: 'Secretchronicles,wekan,wefork,sandstormports,EthKan'
+  - rank: 70
+    name: 'Toni Ahola'
+    login: 'xnode'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/367189?v=4'
+    contributions: 1833
+    company: '@woltapp '
+    organizations: 'woltapp'
 
-  - rank: 84
+  - rank: 71
     name: 'Oliver Lillie'
     login: 'buggedcom'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2810?v=4'
@@ -2724,7 +2620,7 @@ private_users:
     company: '@NewThingsCo '
     organizations: ''
 
-  - rank: 85
+  - rank: 72
     name: 'Joni Korpi'
     login: 'jonikorpi'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/621255?v=4'
@@ -2732,111 +2628,111 @@ private_users:
     company: 'Vuoro'
     organizations: ''
 
-  - rank: 86
-    name: 'Kasper Hirvikoski'
-    login: 'kasper'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/925851?v=4'
-    contributions: 1777
-    company: '@kytkemo'
-    organizations: 'Applifier,kytkemo'
+  - rank: 73
+    name: 'Lauri Ojansivu'
+    login: 'xet7'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/15545?v=4'
+    contributions: 1793
+    company: ''
+    organizations: 'Secretchronicles,wekan,wefork,sandstormports,EthKan'
 
-  - rank: 87
-    name: 'Pauli Jokela'
-    login: 'Dids'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3455449?v=4'
-    contributions: 1772
-    company: '@Didstopia'
-    organizations: ''
-
-  - rank: 88
+  - rank: 74
     name: 'Ville Lautanala'
     login: 'lautis'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/19264?v=4'
-    contributions: 1763
+    contributions: 1761
     company: ''
     organizations: 'nodeta,fog,baconjs,smartlyio'
 
-  - rank: 89
-    name: 'Hugo Kiiski'
-    login: 'khugo'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/23460277?v=4'
-    contributions: 1737
-    company: '@smartlyio '
-    organizations: 'smartlyio'
+  - rank: 75
+    name: 'Pauli Jokela'
+    login: 'Dids'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/3455449?v=4'
+    contributions: 1760
+    company: '@Didstopia'
+    organizations: ''
 
-  - rank: 90
+  - rank: 76
+    name: 'Timo Savola'
+    login: 'tsavola'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/55473?v=4'
+    contributions: 1749
+    company: 'Ninchat'
+    organizations: 'somia,ninchat'
+
+  - rank: 77
     name: 'Mike Shchurov'
     login: 'shchurov'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/5001455?v=4'
-    contributions: 1721
+    contributions: 1749
     company: ''
     organizations: ''
 
-  - rank: 91
-    name: 'Alexander Ryzhikov'
-    login: 'Coobaha'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2446638?v=4'
-    contributions: 1701
-    company: ''
-    organizations: 'zalando,creditornot,zalando-incubator,woltapp'
+  - rank: 78
+    name: 'Kasper Hirvikoski'
+    login: 'kasper'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/925851?v=4'
+    contributions: 1744
+    company: '@kytkemo'
+    organizations: 'Applifier,kytkemo'
 
-  - rank: 92
+  - rank: 79
+    name: 'Hugo Kiiski'
+    login: 'khugo'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/23460277?v=4'
+    contributions: 1702
+    company: '@smartlyio '
+    organizations: 'smartlyio'
+
+  - rank: 80
     name: 'Joonas Rikkonen'
     login: 'Regalis11'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/14351070?v=4'
-    contributions: 1700
+    contributions: 1697
     company: ''
     organizations: ''
 
-  - rank: 93
-    name: 'Mikhail Zabaluev'
-    login: 'mzabaluev'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1198919?v=4'
-    contributions: 1693
-    company: ''
-    organizations: 'gi-rust'
-
-  - rank: 94
-    name: 'Sami Nieminen'
-    login: 'niemisami'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/8126608?v=4'
-    contributions: 1684
-    company: ''
-    organizations: 'DigitKoodit,MadBooster'
-
-  - rank: 95
-    name: 'Ilkka Oksanen'
-    login: 'ilkkao'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/474587?v=4'
-    contributions: 1684
-    company: 'Smartly.io'
-    organizations: 'smartlyio'
-
-  - rank: 96
-    name: 'Jesse Luoto'
-    login: 'jehna'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2676795?v=4'
-    contributions: 1675
-    company: 'Reaktor'
-    organizations: ''
-
-  - rank: 97
-    name: 'Oskari Virtaoja'
-    login: 'OsQu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/520104?v=4'
-    contributions: 1671
-    company: ''
-    organizations: 'smartlyio'
-
-  - rank: 98
+  - rank: 81
     name: 'Perry Mitchell'
     login: 'perry-mitchell'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3869469?v=4'
-    contributions: 1651
+    contributions: 1686
     company: '@buttercup '
     organizations: 'Kiosked,buttercup,cafedev-org'
 
-  - rank: 99
+  - rank: 82
+    name: 'Sami Nieminen'
+    login: 'niemisami'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/8126608?v=4'
+    contributions: 1673
+    company: ''
+    organizations: 'DigitKoodit,MadBooster'
+
+  - rank: 83
+    name: 'Jesse Luoto'
+    login: 'jehna'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2676795?v=4'
+    contributions: 1661
+    company: 'Reaktor'
+    organizations: ''
+
+  - rank: 84
+    name: 'Ilkka Oksanen'
+    login: 'ilkkao'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/474587?v=4'
+    contributions: 1656
+    company: 'Smartly.io'
+    organizations: 'smartlyio'
+
+  - rank: 85
+    name: 'Oskari Virtaoja'
+    login: 'OsQu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/520104?v=4'
+    contributions: 1646
+    company: ''
+    organizations: 'smartlyio'
+
+  - rank: 86
     name: 'Jonne Nauha'
     login: 'jonnenauha'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/157519?v=4'
@@ -2844,15 +2740,7 @@ private_users:
     company: 'Oy Attracs AB'
     organizations: 'realXtend,Adminotech,Attracs,mapgets'
 
-  - rank: 100
-    name: 'Mike Solomon'
-    login: 'mikesol'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/525350?v=4'
-    contributions: 1642
-    company: 'Meeshkan'
-    organizations: ''
-
-  - rank: 101
+  - rank: 87
     name: 'Veli-Matti Luoto'
     login: 'vluoto'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1082148?v=4'
@@ -2860,15 +2748,15 @@ private_users:
     company: '@woltapp'
     organizations: 'woltapp'
 
-  - rank: 102
-    name: 'Alexey Nikolaev'
-    login: 'BitOfUniverse'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/208430?v=4'
-    contributions: 1621
-    company: '@smartlyio '
-    organizations: 'smartlyio'
+  - rank: 88
+    name: 'Neil McAlister'
+    login: 'pingzing'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5133649?v=4'
+    contributions: 1619
+    company: 'Futurice'
+    organizations: 'futurice'
 
-  - rank: 103
+  - rank: 89
     name: 'Diego Casillas'
     login: 'diegocasillas'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/20227008?v=4'
@@ -2876,103 +2764,119 @@ private_users:
     company: '@GroupBuilderOy '
     organizations: ''
 
-  - rank: 104
-    name: 'Neil McAlister'
-    login: 'pingzing'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5133649?v=4'
+  - rank: 90
+    name: 'Mike Solomon'
+    login: 'mikesol'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/525350?v=4'
     contributions: 1615
-    company: 'Futurice'
-    organizations: 'futurice'
+    company: 'Meeshkan'
+    organizations: ''
 
-  - rank: 105
+  - rank: 91
+    name: 'Alexey Nikolaev'
+    login: 'BitOfUniverse'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/208430?v=4'
+    contributions: 1611
+    company: '@smartlyio '
+    organizations: 'smartlyio'
+
+  - rank: 92
     name: 'Axel Neergaard'
     login: 'c00k133'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/23499634?v=4'
-    contributions: 1590
+    contributions: 1598
     company: '@smartlyio '
     organizations: 'Teknologforeningen,smartlyio'
 
-  - rank: 106
+  - rank: 93
     name: 'Pekka Pöyry'
     login: 'quantus'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/671419?v=4'
-    contributions: 1580
+    contributions: 1590
     company: 'Fast Monkeys'
     organizations: 'fastmonkeys'
 
-  - rank: 107
-    name: 'Iiro Jäppinen'
-    login: 'iiroj'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/11628889?v=4'
-    contributions: 1579
-    company: '@verkkokauppacom'
-    organizations: 'verkkokauppacom'
-
-  - rank: 108
+  - rank: 94
     name: 'Saber'
     login: 'kordestanchi'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/3592980?v=4'
-    contributions: 1576
+    contributions: 1572
     company: 'Hostaway'
     organizations: 'Hostaway'
 
-  - rank: 109
-    name: 'Ville Saukkonen'
-    login: 'villesau'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2647016?v=4'
-    contributions: 1572
-    company: '@smartlyio '
-    organizations: 'smartlyio,flow-typed'
-
-  - rank: 110
-    name: 'Otto Kekäläinen'
-    login: 'ottok'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/668724?v=4'
-    contributions: 1567
-    company: '@Seravo'
-    organizations: 'Seravo'
-
-  - rank: 111
-    name: 'Brylie Christopher Oxley'
-    login: 'brylie'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/17307?v=4'
-    contributions: 1558
-    company: 'GeriLife'
-    organizations: 'p2pu,MovingBlocks,GeoLibre,Crowducate,openjournals,gramps-project,quaker-tech,wekan,GeriLife,api-standards,CiviWiki,maasglobal,maas-alliance,GodotGarden,WesternFriend'
-
-  - rank: 112
+  - rank: 95
     name: 'Richard Darst'
     login: 'rkdarst'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6877977?v=4'
-    contributions: 1556
+    contributions: 1568
     company: 'Aalto University'
     organizations: 'CxAalto,coderefinery,AaltoScienceIT,usefulaaltomap,NordicHPC'
 
-  - rank: 113
-    name: 'Duc Do'
-    login: 'volatilegg'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3374348?v=4'
-    contributions: 1550
-    company: '@maasglobal '
-    organizations: ''
+  - rank: 96
+    name: 'Otto Kekäläinen'
+    login: 'ottok'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/668724?v=4'
+    contributions: 1568
+    company: '@Seravo'
+    organizations: 'Seravo'
 
-  - rank: 114
+  - rank: 97
+    name: 'Brylie Christopher Oxley'
+    login: 'brylie'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/17307?v=4'
+    contributions: 1564
+    company: 'GeriLife'
+    organizations: 'p2pu,MovingBlocks,GeoLibre,Crowducate,openjournals,gramps-project,quaker-tech,wekan,GeriLife,api-standards,CiviWiki,maasglobal,maas-alliance,GodotGarden,WesternFriend'
+
+  - rank: 98
+    name: 'Ville Saukkonen'
+    login: 'villesau'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2647016?v=4'
+    contributions: 1558
+    company: '@smartlyio '
+    organizations: 'smartlyio,flow-typed'
+
+  - rank: 99
+    name: 'Tomi Toivio'
+    login: 'TomiToivio'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1176369?v=4'
+    contributions: 1557
+    company: 'Ukuli'
+    organizations: 'Ukuli-Projects,Ukuli-Data'
+
+  - rank: 100
     name: 'Julius Hietala'
     login: 'hietalajulius'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4254623?v=4'
-    contributions: 1550
+    contributions: 1549
     company: 'Smartly.io'
     organizations: 'smartlyio'
 
-  - rank: 115
+  - rank: 101
+    name: 'Duc Do'
+    login: 'volatilegg'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3374348?v=4'
+    contributions: 1544
+    company: '@maasglobal '
+    organizations: ''
+
+  - rank: 102
     name: 'Yazan Al halabi'
     login: 'YazanAlhalabi'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/34846044?v=4'
-    contributions: 1529
+    contributions: 1536
     company: ''
     organizations: ''
 
-  - rank: 116
+  - rank: 103
+    name: 'Steve Kemp'
+    login: 'skx'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/735291?v=4'
+    contributions: 1534
+    company: ''
+    organizations: 'goruby,DNS-API,lumail,BlogSpam-Net'
+
+  - rank: 104
     name: 'Matias Griese'
     login: 'mahagr'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/854915?v=4'
@@ -2980,7 +2884,15 @@ private_users:
     company: ''
     organizations: 'Kunena,gantry,getgrav'
 
-  - rank: 117
+  - rank: 105
+    name: 'Jaakko Lukkari'
+    login: 'orktes'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/606347?v=4'
+    contributions: 1525
+    company: 'Unity Technologies'
+    organizations: 'UnityTech,Applifier,Everyplay'
+
+  - rank: 106
     name: 'Juha Litola'
     login: 'jlitola'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1092375?v=4'
@@ -2988,31 +2900,15 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 118
+  - rank: 107
     name: 'Carl Vuorinen'
     login: 'cvuorinen'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1764167?v=4'
-    contributions: 1509
+    contributions: 1510
     company: 'City Dev Labs @W3GroupFinland'
     organizations: 'W3GroupFinland'
 
-  - rank: 119
-    name: 'Evgeny Kulikov'
-    login: 'beyondcompute'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/248055?v=4'
-    contributions: 1505
-    company: ''
-    organizations: 'smartlyio'
-
-  - rank: 120
-    name: 'Jaakko Lukkari'
-    login: 'orktes'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/606347?v=4'
-    contributions: 1504
-    company: 'Unity Technologies'
-    organizations: 'UnityTech,Applifier,Everyplay'
-
-  - rank: 121
+  - rank: 108
     name: 'Dag Ågren'
     login: 'DagAgren'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/11536828?v=4'
@@ -3020,95 +2916,71 @@ private_users:
     company: '@woltapp '
     organizations: ''
 
-  - rank: 122
-    name: 'Tomi Toivio'
-    login: 'TomiToivio'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1176369?v=4'
-    contributions: 1492
-    company: 'Ukuli'
-    organizations: 'Ukuli-Projects,Ukuli-Data'
+  - rank: 109
+    name: 'Evgeny Kulikov'
+    login: 'beyondcompute'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/248055?v=4'
+    contributions: 1496
+    company: ''
+    organizations: 'smartlyio'
 
-  - rank: 123
-    name: 'Ville Saarinen'
-    login: 'vsaarinen'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/888333?v=4'
-    contributions: 1479
-    company: '@lucified '
-    organizations: 'Restaurantday-org,lucified'
+  - rank: 110
+    name: 'Iiro Jäppinen'
+    login: 'iiroj'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/11628889?v=4'
+    contributions: 1488
+    company: '@verkkokauppacom'
+    organizations: 'verkkokauppacom'
 
-  - rank: 124
-    name: 'Igor'
-    login: 'cy6erskunk'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/754849?v=4'
-    contributions: 1477
-    company: '@smartlyio'
-    organizations: 'Saunalol,smartlyio'
-
-  - rank: 125
+  - rank: 111
     name: 'Joonas Javanainen'
     login: 'Gekkio'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/94033?v=4'
-    contributions: 1474
+    contributions: 1484
     company: 'Reaktor'
     organizations: 'reaktor'
 
-  - rank: 126
-    name: 'Ruksi Laine'
-    login: 'ruksi'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/2681608?v=4'
-    contributions: 1470
-    company: '@valohai'
-    organizations: 'valohai'
+  - rank: 112
+    name: 'Ville Saarinen'
+    login: 'vsaarinen'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/888333?v=4'
+    contributions: 1481
+    company: '@lucified '
+    organizations: 'Restaurantday-org,lucified'
 
-  - rank: 127
-    name: 'Steve Kemp'
-    login: 'skx'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/735291?v=4'
-    contributions: 1470
-    company: ''
-    organizations: 'goruby,DNS-API,lumail,BlogSpam-Net'
+  - rank: 113
+    name: 'Igor'
+    login: 'cy6erskunk'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/754849?v=4'
+    contributions: 1473
+    company: '@smartlyio'
+    organizations: 'Saunalol,smartlyio'
 
-  - rank: 128
-    name: 'Karim'
-    login: 'streetracer48'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/38099690?v=4'
-    contributions: 1461
-    company: ''
-    organizations: 'CONTEST-PROBLEM-SLOVING,Manchester-CityFC-Project'
-
-  - rank: 129
-    name: 'Tommi Laukkanen'
-    login: 'tlaukkanen'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/65841?v=4'
-    contributions: 1457
-    company: ''
-    organizations: ''
-
-  - rank: 130
-    name: 'Ilkka Poutanen'
-    login: 'ilkka'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1549?v=4'
-    contributions: 1453
-    company: '@futurice '
-    organizations: 'futurice'
-
-  - rank: 131
-    name: 'Nikolay Zapolnov'
-    login: 'zapolnov'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1921392?v=4'
-    contributions: 1451
-    company: 'Rovio'
-    organizations: 'friedcroc,oss-forks,yiptool,bin-forks,bombyx3d'
-
-  - rank: 132
+  - rank: 114
     name: 'Lars Eggert'
     login: 'larseggert'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/200328?v=4'
-    contributions: 1449
+    contributions: 1451
     company: '@NTAP '
     organizations: 'NTAP,SSICLOPS,quicwg'
 
-  - rank: 133
+  - rank: 115
+    name: 'Karim'
+    login: 'streetracer48'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/38099690?v=4'
+    contributions: 1451
+    company: ''
+    organizations: 'CONTEST-PROBLEM-SLOVING,Manchester-CityFC-Project'
+
+  - rank: 116
+    name: 'Paul Houghton'
+    login: 'paulirotta'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3486467?v=4'
+    contributions: 1445
+    company: 'Futurice Oy'
+    organizations: 'TantalumMobile,LEGO-compatible-gadgets'
+
+  - rank: 117
     name: 'Jaakko Ojalehto'
     login: 'Zeikko'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/444862?v=4'
@@ -3116,39 +2988,55 @@ private_users:
     company: '@8-bit-sheep '
     organizations: 'nordichackday'
 
-  - rank: 134
-    name: 'Martin Vysny'
-    login: 'mvysny'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/254091?v=4'
-    contributions: 1440
-    company: 'Vaadin'
-    organizations: ''
+  - rank: 118
+    name: 'Ilkka Poutanen'
+    login: 'ilkka'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1549?v=4'
+    contributions: 1438
+    company: '@futurice '
+    organizations: 'futurice'
 
-  - rank: 135
-    name: 'Paul Houghton'
-    login: 'paulirotta'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3486467?v=4'
-    contributions: 1424
-    company: 'Futurice Oy'
-    organizations: 'TantalumMobile,LEGO-compatible-gadgets'
-
-  - rank: 136
-    name: 'Martti Malmi'
-    login: 'mmalmi'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2116445?v=4'
-    contributions: 1424
+  - rank: 119
+    name: 'Tommi Laukkanen'
+    login: 'tlaukkanen'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/65841?v=4'
+    contributions: 1435
     company: ''
     organizations: ''
 
-  - rank: 137
+  - rank: 120
+    name: 'Ruksi Laine'
+    login: 'ruksi'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2681608?v=4'
+    contributions: 1435
+    company: '@valohai'
+    organizations: 'valohai'
+
+  - rank: 121
+    name: 'Martin Vysny'
+    login: 'mvysny'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/254091?v=4'
+    contributions: 1432
+    company: 'Vaadin'
+    organizations: ''
+
+  - rank: 122
+    name: 'Martti Malmi'
+    login: 'mmalmi'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2116445?v=4'
+    contributions: 1422
+    company: ''
+    organizations: ''
+
+  - rank: 123
     name: 'Saad Ullah Akram'
     login: 'SaadUllahAkram'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/12829544?v=4'
-    contributions: 1421
+    contributions: 1419
     company: '@mvision-ai @AaltoVision '
     organizations: 'AaltoVision,mvision-ai'
 
-  - rank: 138
+  - rank: 124
     name: 'Marko Kurjonen'
     login: 'xmahle'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/7583155?v=4'
@@ -3156,23 +3044,31 @@ private_users:
     company: ''
     organizations: 'smartlyio'
 
-  - rank: 139
+  - rank: 125
     name: 'Matti Paksula'
     login: 'matti'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3893?v=4'
-    contributions: 1414
+    contributions: 1418
     company: ''
     organizations: 'enemy,kuje'
 
-  - rank: 140
+  - rank: 126
     name: 'yi'
     login: 'YIZHUANG'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/28932103?v=4'
-    contributions: 1403
+    contributions: 1406
     company: 'https://w3js.com/'
     organizations: ''
 
-  - rank: 141
+  - rank: 127
+    name: 'Fabiano Brito'
+    login: 'Fabianopb'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15076656?v=4'
+    contributions: 1406
+    company: 'SW Engineer @woltapp'
+    organizations: 'Semantic-Org'
+
+  - rank: 128
     name: 'Jyri Kytömäki'
     login: 'jkytomak'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/987902?v=4'
@@ -3180,79 +3076,71 @@ private_users:
     company: 'Reaktor'
     organizations: 'reaktor'
 
-  - rank: 142
+  - rank: 129
     name: 'Samuel Husso'
     login: 'shusso'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/590002?v=4'
-    contributions: 1392
+    contributions: 1391
     company: ''
     organizations: 'UnityTech,Applifier,Unity-Technologies,github-beta,HkiPythonWorkshops,freqtrade'
 
-  - rank: 143
+  - rank: 130
     name: 'Juho Teperi'
     login: 'Deraen'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/648087?v=4'
-    contributions: 1382
+    contributions: 1374
     company: 'Metosin'
     organizations: 'metosin,reagent-project,boot-clj,cljsjs,clojure-vim,cljs-oss'
 
-  - rank: 144
+  - rank: 131
+    name: 'Sampo Verkasalo'
+    login: 'RedBulli'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/607111?v=4'
+    contributions: 1368
+    company: '@smartlyio '
+    organizations: 'smartlyio'
+
+  - rank: 132
     name: 'Fırat Salgür'
     login: 'neuro-sys'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/648622?v=4'
-    contributions: 1376
+    contributions: 1360
     company: ''
     organizations: 'UnityTech,Applifier,Unity-Technologies'
 
-  - rank: 145
-    name: 'Fabiano Brito'
-    login: 'Fabianopb'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15076656?v=4'
-    contributions: 1367
-    company: 'SW Engineer @woltapp'
-    organizations: 'Semantic-Org'
-
-  - rank: 146
-    name: 'Adam Kapos'
-    login: 'Nezz'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/431167?v=4'
-    contributions: 1366
-    company: '@YousicianGit '
-    organizations: 'TurtleGames,MonoGame,SongArc,YousicianGit'
-
-  - rank: 147
-    name: 'Ha-Duong Nguyen'
-    login: 'cmpitg'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/85649?v=4'
-    contributions: 1361
-    company: ''
-    organizations: 'HaNoiCodingDojo,BoGoEngine,gokien'
-
-  - rank: 148
-    name: 'Joonas Kallunki'
-    login: 'J-Kallunki'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/13827786?v=4'
-    contributions: 1358
-    company: ''
-    organizations: ''
-
-  - rank: 149
+  - rank: 133
     name: 'André Praça'
     login: 'ganymedes01'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/5294529?v=4'
-    contributions: 1349
+    contributions: 1359
     company: '@smartlyio'
     organizations: 'smartlyio'
 
-  - rank: 150
+  - rank: 134
+    name: 'Adam Kapos'
+    login: 'Nezz'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/431167?v=4'
+    contributions: 1358
+    company: '@YousicianGit '
+    organizations: 'TurtleGames,MonoGame,SongArc,YousicianGit'
+
+  - rank: 135
+    name: 'Ha-Duong Nguyen'
+    login: 'cmpitg'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/85649?v=4'
+    contributions: 1350
+    company: ''
+    organizations: 'HaNoiCodingDojo,BoGoEngine,gokien'
+
+  - rank: 136
     name: 'James Nguyen'
     login: 'hieuunguyeen'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/12098216?v=4'
-    contributions: 1340
+    contributions: 1343
     company: '@maasglobal '
     organizations: ''
 
-  - rank: 151
+  - rank: 137
     name: 'Tomi Hiltunen'
     login: 'TomiHiltunen'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2010468?v=4'
@@ -3260,15 +3148,15 @@ private_users:
     company: 'Smartly.io'
     organizations: 'smartlyio,Innovaniac,hackjunction'
 
-  - rank: 152
+  - rank: 138
     name: 'Lassi Pölönen'
     login: 'lassizci'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/764886?v=4'
-    contributions: 1337
+    contributions: 1335
     company: 'Smartly.io'
     organizations: 'smartlyio'
 
-  - rank: 153
+  - rank: 139
     name: 'Henrik Huttunen'
     login: 'egaga'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/138295?v=4'
@@ -3276,87 +3164,55 @@ private_users:
     company: 'Evident Solutions'
     organizations: 'EvidentSolutions'
 
-  - rank: 154
-    name: 'Sampo Verkasalo'
-    login: 'RedBulli'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/607111?v=4'
-    contributions: 1324
-    company: '@smartlyio '
-    organizations: 'smartlyio'
-
-  - rank: 155
-    name: 'Valtteri Karesto'
-    login: 'valstu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/647861?v=4'
-    contributions: 1321
-    company: 'Motley'
-    organizations: ''
-
-  - rank: 156
+  - rank: 140
     name: 'Mikaela Suomalainen'
     login: 'Mikaela'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/831184?v=4'
-    contributions: 1316
+    contributions: 1324
     company: 'Work try-out practice at @Robuntu-osk'
     organizations: 'Piraattinuoret,privacytoolsIO,Robuntu-osk'
 
-  - rank: 157
-    name: 'Jani Anttonen'
-    login: 'JaniAnttonen'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/502428?v=4'
-    contributions: 1309
-    company: '@eqlabs'
-    organizations: 'CodeDistillery,maasglobal,orbitdb,eqlabs'
-
-  - rank: 158
-    name: 'Mika Tuupola'
-    login: 'tuupola'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/21913?v=4'
-    contributions: 1306
-    company: 'Taevas Ogilvy'
+  - rank: 141
+    name: 'Valtteri Karesto'
+    login: 'valstu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/647861?v=4'
+    contributions: 1313
+    company: 'Motley'
     organizations: ''
 
-  - rank: 159
-    name: 'André Staltz'
-    login: 'staltz'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/90512?v=4'
-    contributions: 1305
-    company: ''
-    organizations: 'ReactiveX,ssbc,cyclejs,snabbdom,maintainers,callbag,cabal-club'
-
-  - rank: 160
-    name: 'Johann Muszynski'
-    login: 'Nelarius'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3276684?v=4'
-    contributions: 1302
-    company: '@woltapp'
-    organizations: ''
-
-  - rank: 161
+  - rank: 142
     name: 'Pavel Prokopenko'
     login: 'propan'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1218821?v=4'
-    contributions: 1299
+    contributions: 1310
     company: ''
     organizations: 'UnityTech,Applifier,pedestal,wordie'
 
-  - rank: 162
+  - rank: 143
+    name: 'Jani Anttonen'
+    login: 'JaniAnttonen'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/502428?v=4'
+    contributions: 1308
+    company: '@eqlabs'
+    organizations: 'CodeDistillery,maasglobal,orbitdb,eqlabs'
+
+  - rank: 144
     name: 'Jussi Vesala'
     login: 'jvesala'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/91410?v=4'
-    contributions: 1297
+    contributions: 1298
     company: 'Reaktor'
     organizations: 'reaktor'
 
-  - rank: 163
-    name: 'Markus Laurila'
-    login: 'makelicious'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6642742?v=4'
+  - rank: 145
+    name: 'André Staltz'
+    login: 'staltz'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/90512?v=4'
     contributions: 1297
     company: ''
-    organizations: 'futurice,koodiklinikka'
+    organizations: 'ReactiveX,ssbc,cyclejs,snabbdom,maintainers,callbag,cabal-club'
 
-  - rank: 164
+  - rank: 146
     name: 'Lauri Oikari'
     login: 'Laurentus'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2285626?v=4'
@@ -3364,7 +3220,7 @@ private_users:
     company: 'Smartly.io'
     organizations: 'smartlyio'
 
-  - rank: 165
+  - rank: 147
     name: 'Esa Kemppainen'
     login: 'esakemp'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/40692959?v=4'
@@ -3372,15 +3228,23 @@ private_users:
     company: '@UniversityOfHelsinkiCS '
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 166
+  - rank: 148
+    name: 'Johann Muszynski'
+    login: 'Nelarius'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3276684?v=4'
+    contributions: 1292
+    company: '@woltapp'
+    organizations: ''
+
+  - rank: 149
     name: 'Joona Heikkilä'
     login: 'cxcorp'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/21111572?v=4'
-    contributions: 1290
+    contributions: 1289
     company: ''
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 167
+  - rank: 150
     name: 'Viljami Kuosmanen'
     login: 'anttiviljami'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6105650?v=4'
@@ -3388,7 +3252,7 @@ private_users:
     company: '@futurice '
     organizations: 'futurice,koodiklinikka,FitWood'
 
-  - rank: 168
+  - rank: 151
     name: 'Jari Voutilainen'
     login: 'Zharktas'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/830663?v=4'
@@ -3396,23 +3260,7 @@ private_users:
     company: 'Gofore'
     organizations: 'ckan,gofore,koodiklinikka'
 
-  - rank: 169
-    name: 'Sampsa Kuronen'
-    login: 'sampsakuronen'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1944139?v=4'
-    contributions: 1282
-    company: '@reaktor '
-    organizations: ''
-
-  - rank: 170
-    name: 'Eemeli Aro'
-    login: 'eemeli'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/617000?v=4'
-    contributions: 1274
-    company: ''
-    organizations: 'Vincit,helsinkijs,webpack,maailma,konopas,messageformat,ReactFinland,openjs-foundation'
-
-  - rank: 171
+  - rank: 152
     name: 'Fredrik Wollsén'
     login: 'motin'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/793037?v=4'
@@ -3420,103 +3268,103 @@ private_users:
     company: 'Neam AB @neam & Clerk.AI'
     organizations: 'neam,Gapminder,inyourapp'
 
-  - rank: 172
+  - rank: 153
+    name: 'Mika Tuupola'
+    login: 'tuupola'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/21913?v=4'
+    contributions: 1265
+    company: 'Taevas Ogilvy'
+    organizations: ''
+
+  - rank: 154
     name: 'Akseli Palén'
     login: 'axelpale'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/992081?v=4'
-    contributions: 1266
+    contributions: 1265
     company: ''
     organizations: ''
 
-  - rank: 173
-    name: 'Paavo Huhtala'
-    login: 'paavohuhtala'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/803180?v=4'
-    contributions: 1264
-    company: ''
-    organizations: 'reaktor'
-
-  - rank: 174
-    name: 'Cid Lopes'
-    login: 'supercid'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2778820?v=4'
-    contributions: 1256
-    company: '@nosto'
-    organizations: 'Nosto'
-
-  - rank: 175
-    name: 'Stefan Negru'
-    login: 'blankdots'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/47524?v=4'
-    contributions: 1256
-    company: ''
-    organizations: 'VisualDataWeb'
-
-  - rank: 176
+  - rank: 155
     name: 'Anton Lindholm'
     login: 'LinAnt'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/11833599?v=4'
-    contributions: 1250
+    contributions: 1256
     company: ''
     organizations: ''
 
-  - rank: 177
+  - rank: 156
     name: 'Mikko Porkola'
     login: 'mporkola'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/432030?v=4'
-    contributions: 1246
+    contributions: 1253
     company: '@woltapp '
     organizations: 'woltapp'
 
-  - rank: 178
-    name: 'Timo Blomqvist'
-    login: 'fymmit'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/17854178?v=4'
-    contributions: 1244
+  - rank: 157
+    name: 'Eemeli Aro'
+    login: 'eemeli'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/617000?v=4'
+    contributions: 1250
     company: ''
+    organizations: 'Vincit,helsinkijs,webpack,maailma,konopas,messageformat,ReactFinland,openjs-foundation'
+
+  - rank: 158
+    name: 'Cid Lopes'
+    login: 'supercid'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2778820?v=4'
+    contributions: 1247
+    company: '@nosto'
+    organizations: 'Nosto'
+
+  - rank: 159
+    name: 'Paavo Huhtala'
+    login: 'paavohuhtala'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/803180?v=4'
+    contributions: 1241
+    company: ''
+    organizations: 'reaktor'
+
+  - rank: 160
+    name: 'Jerry Pussinen'
+    login: 'jerry-git'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/30327563?v=4'
+    contributions: 1234
+    company: '@woltapp'
     organizations: ''
 
-  - rank: 179
-    name: 'Jami Kousa'
-    login: 'Jakousa'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/6400208?v=4'
-    contributions: 1229
-    company: '@UniversityOfHelsinkiCS '
-    organizations: 'AppGyver,UniversityOfHelsinkiCS,ohtu-ohjaajat,docker-hy'
+  - rank: 161
+    name: 'Evans Chaba'
+    login: 'evanschaba'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/30877422?v=4'
+    contributions: 1230
+    company: 'integrify.io'
+    organizations: ''
 
-  - rank: 180
+  - rank: 162
     name: 'Tero Parviainen'
     login: 'teropa'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/47968?v=4'
-    contributions: 1228
+    contributions: 1229
     company: 'Counterpoint'
     organizations: 'nko,reitti,coderwall-charity,coderwall-mongoose3'
 
-  - rank: 181
-    name: 'Sakumatti Luukkonen'
-    login: 'sluukkonen'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/39655?v=4'
-    contributions: 1225
-    company: 'Reaktor'
-    organizations: 'reitti'
+  - rank: 163
+    name: 'Jami Kousa'
+    login: 'Jakousa'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6400208?v=4'
+    contributions: 1221
+    company: '@UniversityOfHelsinkiCS '
+    organizations: 'AppGyver,UniversityOfHelsinkiCS,ohtu-ohjaajat,docker-hy'
 
-  - rank: 182
-    name: 'Rauli Laine'
-    login: 'RauliL'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/8155018?v=4'
-    contributions: 1225
-    company: ''
-    organizations: 'andersinno,peelonet,koodiklinikka,ForthHub,redom'
-
-  - rank: 183
+  - rank: 164
     name: 'Jerry Jalava'
     login: 'jerryjj'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/26043?v=4'
-    contributions: 1224
+    contributions: 1220
     company: 'RideHoop Ltd'
     organizations: 'midgardproject'
 
-  - rank: 184
+  - rank: 165
     name: 'Ivan Gagis'
     login: 'igagis'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/783401?v=4'
@@ -3524,39 +3372,23 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 185
-    name: 'Jerry Pussinen'
-    login: 'jerry-git'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/30327563?v=4'
-    contributions: 1214
-    company: '@woltapp'
-    organizations: ''
-
-  - rank: 186
-    name: 'Sakari Lehtonen'
-    login: 'inDigiNeous'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1212726?v=4'
-    contributions: 1214
-    company: 'OmniGeometry'
-    organizations: ''
-
-  - rank: 187
-    name: 'Max'
-    login: 'maxjvh'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/7894563?v=4'
-    contributions: 1211
-    company: ''
-    organizations: 'Kanttiinit'
-
-  - rank: 188
+  - rank: 166
     name: 'Joachim Viide'
     login: 'jviide'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/19776768?v=4'
-    contributions: 1211
+    contributions: 1216
     company: ''
     organizations: 'HowNetWorks'
 
-  - rank: 189
+  - rank: 167
+    name: 'Max'
+    login: 'maxjvh'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/7894563?v=4'
+    contributions: 1207
+    company: ''
+    organizations: 'Kanttiinit'
+
+  - rank: 168
     name: 'Riku Rouvila'
     login: 'rikukissa'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1206987?v=4'
@@ -3564,7 +3396,15 @@ private_users:
     company: 'Rare'
     organizations: 'treweb,RandomiNetworks,koodiklinikka,webbidevaus,rareagency'
 
-  - rank: 190
+  - rank: 169
+    name: ''
+    login: 'fogfish'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/716093?v=4'
+    contributions: 1195
+    company: ''
+    organizations: ''
+
+  - rank: 170
     name: 'Juuso Mikkonen'
     login: 'juusaw'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/13107558?v=4'
@@ -3572,7 +3412,7 @@ private_users:
     company: '@reaktor'
     organizations: 'reaktor,koodiklinikka,radiodiodi,Mikrobitti,AS-kilta'
 
-  - rank: 191
+  - rank: 171
     name: 'Heikki Rauhala'
     login: 'hvrauhal'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/128113?v=4'
@@ -3580,23 +3420,15 @@ private_users:
     company: 'Reaktor'
     organizations: 'reaktor'
 
-  - rank: 192
-    name: 'Pedro Diaz'
-    login: 'multiservicio'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3716889?v=4'
-    contributions: 1188
-    company: '@mercadona '
+  - rank: 172
+    name: 'Veeti Haapsamo'
+    login: 'Walther'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2943750?v=4'
+    contributions: 1184
+    company: 'Webflow'
     organizations: ''
 
-  - rank: 193
-    name: 'Jarmo Isotalo'
-    login: 'jamo'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1354151?v=4'
-    contributions: 1179
-    company: ''
-    organizations: 'testmycode,UniversityHelsinkiTKTL,friends-of-rails,rage'
-
-  - rank: 194
+  - rank: 173
     name: 'Timo Rantalaiho'
     login: 'timorantalaiho'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/94310?v=4'
@@ -3604,79 +3436,55 @@ private_users:
     company: '@reaktor '
     organizations: 'reaktor,jdave'
 
-  - rank: 195
-    name: 'Kimmo Puputti'
-    login: 'kpuputti'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/53923?v=4'
+  - rank: 174
+    name: 'Iiro Krankka'
+    login: 'roughike'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/13744304?v=4'
     contributions: 1171
-    company: 'Sharetribe'
-    organizations: ''
+    company: '@Reflectly'
+    organizations: 'FlutterRocks'
 
-  - rank: 196
+  - rank: 175
+    name: 'Jari Pääkkö'
+    login: 'jpaakko'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/3939750?v=4'
+    contributions: 1167
+    company: 'Compile Oy'
+    organizations: 'espoon-voltti'
+
+  - rank: 176
     name: 'Ville Skyttä'
     login: 'scop'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/109152?v=4'
-    contributions: 1170
+    contributions: 1166
     company: '@UpCloudLtd '
     organizations: 'libwww-perl,rpm-software-management,UpCloudLtd'
 
-  - rank: 197
-    name: ''
-    login: 'fogfish'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/716093?v=4'
-    contributions: 1169
-    company: ''
-    organizations: ''
+  - rank: 177
+    name: 'Artur'
+    login: 'Artur-'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/260340?v=4'
+    contributions: 1163
+    company: 'Vaadin'
+    organizations: 'vaadin'
 
-  - rank: 198
+  - rank: 178
     name: 'nathan'
     login: 'nathandao'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/6004147?v=4'
-    contributions: 1166
+    contributions: 1163
     company: '@futurice '
     organizations: 'futurice,malloc-fi,project-bobon'
 
-  - rank: 199
-    name: 'Veeti Haapsamo'
-    login: 'Walther'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2943750?v=4'
-    contributions: 1160
-    company: 'Webflow'
-    organizations: ''
-
-  - rank: 200
-    name: 'Pete Nykänen'
-    login: 'petetnt'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7641760?v=4'
-    contributions: 1159
-    company: '@motleyagency '
-    organizations: 'motleyagency,brackets-userland'
-
-  - rank: 201
-    name: 'Iikka Hauhio'
-    login: 'fergusq'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3512480?v=4'
-    contributions: 1159
+  - rank: 179
+    name: 'Tatu Tarvainen'
+    login: 'tatut'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/83725?v=4'
+    contributions: 1162
     company: ''
     organizations: ''
 
-  - rank: 202
-    name: 'Evans Chaba'
-    login: 'evanschaba'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/30877422?v=4'
-    contributions: 1156
-    company: 'integrify.io'
-    organizations: ''
-
-  - rank: 203
-    name: 'Lauri Nevala'
-    login: 'nevalla'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/455844?v=4'
-    contributions: 1155
-    company: ''
-    organizations: 'kontena'
-
-  - rank: 204
+  - rank: 180
     name: 'Samppa Hynninen'
     login: 'Snjoo'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/695578?v=4'
@@ -3684,23 +3492,39 @@ private_users:
     company: '@wunderdogsw '
     organizations: 'wunderdogsw'
 
-  - rank: 205
-    name: 'Artur'
-    login: 'Artur-'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/260340?v=4'
+  - rank: 181
+    name: 'Jarmo Isotalo'
+    login: 'jamo'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1354151?v=4'
+    contributions: 1153
+    company: ''
+    organizations: 'testmycode,UniversityHelsinkiTKTL,friends-of-rails,rage'
+
+  - rank: 182
+    name: 'Lauri Nevala'
+    login: 'nevalla'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/455844?v=4'
     contributions: 1152
-    company: 'Vaadin'
-    organizations: 'vaadin'
+    company: ''
+    organizations: 'kontena'
 
-  - rank: 206
-    name: 'Jari Pääkkö'
-    login: 'jpaakko'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/3939750?v=4'
-    contributions: 1151
-    company: 'Compile Oy'
-    organizations: 'espoon-voltti'
+  - rank: 183
+    name: 'Kimmo Puputti'
+    login: 'kpuputti'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/53923?v=4'
+    contributions: 1150
+    company: 'Sharetribe'
+    organizations: ''
 
-  - rank: 207
+  - rank: 184
+    name: 'Rendall'
+    login: 'rendall'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/293263?v=4'
+    contributions: 1150
+    company: '@disorient '
+    organizations: 'disorient'
+
+  - rank: 185
     name: 'Juhani Pelli'
     login: 'unkhz'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1142706?v=4'
@@ -3708,55 +3532,39 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 208
-    name: 'Iiro Krankka'
-    login: 'roughike'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/13744304?v=4'
-    contributions: 1137
-    company: '@Reflectly'
-    organizations: 'FlutterRocks'
-
-  - rank: 209
-    name: 'Joni Kanerva'
-    login: 'jonikanerva'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/679717?v=4'
-    contributions: 1136
-    company: '@reaktor '
-    organizations: 'reaktor,HBOCodeLabs'
-
-  - rank: 210
+  - rank: 186
     name: 'Vlad Știrbu'
     login: 'vstirbu'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1288047?v=4'
-    contributions: 1135
+    contributions: 1138
     company: '@CompliancePal'
     organizations: ''
 
-  - rank: 211
-    name: 'Petteri'
-    login: 'PetteriM1'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/26197131?v=4'
-    contributions: 1133
-    company: ''
-    organizations: 'BedrockCommunity,Nukkit-coders,SuomiCraftPENetwork,ign-gg'
-
-  - rank: 212
-    name: 'Oscar Coniel'
-    login: 'coniel'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1728027?v=4'
-    contributions: 1130
-    company: 'Coniel'
-    organizations: ''
-
-  - rank: 213
-    name: 'Tatu Tarvainen'
-    login: 'tatut'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/83725?v=4'
-    contributions: 1128
+  - rank: 187
+    name: 'Iikka Hauhio'
+    login: 'fergusq'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3512480?v=4'
+    contributions: 1137
     company: ''
     organizations: ''
 
-  - rank: 214
+  - rank: 188
+    name: 'Pete Nykänen'
+    login: 'petetnt'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7641760?v=4'
+    contributions: 1136
+    company: '@motleyagency '
+    organizations: 'motleyagency,brackets-userland'
+
+  - rank: 189
+    name: 'Sophie Kirschner'
+    login: 'pineapplemachine'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7266412?v=4'
+    contributions: 1126
+    company: ''
+    organizations: ''
+
+  - rank: 190
     name: 'Markku Rontu'
     login: 'Macroz'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/823661?v=4'
@@ -3764,95 +3572,71 @@ private_users:
     company: 'http://www.nitor.com'
     organizations: 'NitorCreations'
 
-  - rank: 215
-    name: 'Sophie Kirschner'
-    login: 'pineapplemachine'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7266412?v=4'
-    contributions: 1125
+  - rank: 191
+    name: 'Petteri'
+    login: 'PetteriM1'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/26197131?v=4'
+    contributions: 1121
     company: ''
-    organizations: ''
+    organizations: 'BedrockCommunity,Nukkit-coders,SuomiCraftPENetwork,ign-gg'
 
-  - rank: 216
-    name: 'Arttu Kaipiainen'
-    login: 'arttuka'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4964022?v=4'
-    contributions: 1117
-    company: '@wunderdogsw'
-    organizations: 'wunderdogsw'
-
-  - rank: 217
-    name: 'Juha Kovanen'
-    login: 'xludx'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/213489?v=4'
-    contributions: 1113
-    company: '@particl  '
-    organizations: 'particl'
-
-  - rank: 218
+  - rank: 192
     name: 'Koray Dündar'
     login: 'DundarKoray'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/41788843?v=4'
-    contributions: 1112
+    contributions: 1116
     company: 'integrify.io'
     organizations: ''
 
-  - rank: 219
-    name: 'Fabrizio Ferrai'
-    login: 'f-f'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5480361?v=4'
-    contributions: 1111
-    company: 'functional.pizza'
-    organizations: 'Politecnico-Open-unix-Labs,KSF-Media,dhall-lang,spacchetti'
-
-  - rank: 220
+  - rank: 193
     name: 'Paul-Christian Bürkner'
     login: 'paul-buerkner'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/12938496?v=4'
-    contributions: 1110
+    contributions: 1113
     company: ''
     organizations: ''
 
-  - rank: 221
+  - rank: 194
+    name: 'Arttu Kaipiainen'
+    login: 'arttuka'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/4964022?v=4'
+    contributions: 1112
+    company: '@wunderdogsw'
+    organizations: 'wunderdogsw'
+
+  - rank: 195
+    name: 'Fabrizio Ferrai'
+    login: 'f-f'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5480361?v=4'
+    contributions: 1101
+    company: 'functional.pizza'
+    organizations: 'Politecnico-Open-unix-Labs,KSF-Media,dhall-lang,spacchetti'
+
+  - rank: 196
     name: 'Kirill Nikitin'
     login: 'Locke23rus'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/25555?v=4'
-    contributions: 1108
+    contributions: 1095
     company: 'heiaheia.com'
     organizations: 'rubinius,KubanRB,smartlyio'
 
-  - rank: 222
-    name: 'Daniel Riissanen'
-    login: 'doc97'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4580546?v=4'
-    contributions: 1102
+  - rank: 197
+    name: 'Joni Kanerva'
+    login: 'jonikanerva'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/679717?v=4'
+    contributions: 1092
+    company: '@reaktor '
+    organizations: 'reaktor,HBOCodeLabs'
+
+  - rank: 198
+    name: 'Dalibor Menkovic'
+    login: 'dalibor91'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1749771?v=4'
+    contributions: 1091
     company: ''
-    organizations: ''
+    organizations: 'smartlyio'
 
-  - rank: 223
-    name: 'Inan Evin'
-    login: 'inanevin'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3519379?v=4'
-    contributions: 1098
-    company: ''
-    organizations: ''
-
-  - rank: 224
-    name: 'Emil Laine'
-    login: 'emlai'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/7543552?v=4'
-    contributions: 1097
-    company: '@Reaktor'
-    organizations: 'reaktor,Attnam,delta-lang,kanbahn,ts-llvm,suomipelit'
-
-  - rank: 225
-    name: 'Simo Tukiainen'
-    login: 'tukiains'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/18035491?v=4'
-    contributions: 1094
-    company: 'Finnish Meteorological Institute'
-    organizations: ''
-
-  - rank: 226
+  - rank: 199
     name: 'Antti Hukkanen'
     login: 'ahukkanen'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/864340?v=4'
@@ -3860,63 +3644,63 @@ private_users:
     company: 'Mainio Tech Ltd.'
     organizations: ''
 
-  - rank: 227
-    name: 'Rendall'
-    login: 'rendall'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/293263?v=4'
-    contributions: 1087
-    company: '@disorient '
-    organizations: 'disorient'
-
-  - rank: 228
-    name: 'Stefan Rimaila'
-    login: 'stuf'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/363320?v=4'
+  - rank: 200
+    name: 'Juha Kovanen'
+    login: 'xludx'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/213489?v=4'
     contributions: 1084
-    company: 'Siili Solutions'
-    organizations: ''
+    company: '@particl  '
+    organizations: 'particl'
 
-  - rank: 229
-    name: 'Dalibor Menkovic'
-    login: 'dalibor91'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1749771?v=4'
-    contributions: 1081
-    company: ''
-    organizations: 'smartlyio'
-
-  - rank: 230
+  - rank: 201
     name: 'Mikael Roos'
     login: 'livedo'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/12403?v=4'
-    contributions: 1079
+    contributions: 1080
     company: 'Selma Finance'
     organizations: 'nodeta'
 
-  - rank: 231
+  - rank: 202
+    name: 'Eralp Karaduman'
+    login: 'eralpkaraduman'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1270272?v=4'
+    contributions: 1079
+    company: '@nicework-company '
+    organizations: 'Yleisradio,superdamage,procrastinating,hypeserver,nicework-company'
+
+  - rank: 203
+    name: 'Stefan Rimaila'
+    login: 'stuf'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/363320?v=4'
+    contributions: 1077
+    company: 'Siili Solutions'
+    organizations: ''
+
+  - rank: 204
+    name: 'Inan Evin'
+    login: 'inanevin'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3519379?v=4'
+    contributions: 1073
+    company: ''
+    organizations: ''
+
+  - rank: 205
     name: 'Boyan Tabakov'
     login: 'bladealslayer'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/790743?v=4'
-    contributions: 1078
+    contributions: 1070
     company: 'Sharetribe'
     organizations: 'sharetribe'
 
-  - rank: 232
-    name: 'Krister Kari'
-    login: 'kristerkari'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/993108?v=4'
-    contributions: 1063
-    company: 'Unicorn Codes'
-    organizations: ''
-
-  - rank: 233
-    name: 'Antti Rautanen'
-    login: 'anttirautanen'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/572227?v=4'
+  - rank: 206
+    name: ''
+    login: 'jonaskay'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/34066517?v=4'
     contributions: 1062
-    company: '@reaktor '
-    organizations: ''
+    company: ''
+    organizations: 'wunderdogsw'
 
-  - rank: 234
+  - rank: 207
     name: 'Taavi Väänänen'
     login: 'supertassu'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/9721638?v=4'
@@ -3924,39 +3708,39 @@ private_users:
     company: ''
     organizations: 'tassu-issues,tryrulla,HelSec'
 
-  - rank: 235
+  - rank: 208
     name: 'Philip Dexter'
     login: 'philipdexter'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1494216?v=4'
-    contributions: 1044
+    contributions: 1049
     company: ''
     organizations: 'xtfc'
 
-  - rank: 236
+  - rank: 209
+    name: 'Krister Kari'
+    login: 'kristerkari'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/993108?v=4'
+    contributions: 1047
+    company: 'Unicorn Codes'
+    organizations: ''
+
+  - rank: 210
     name: 'Santeri Hiltunen'
     login: 'Hilzu'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/969840?v=4'
-    contributions: 1043
+    contributions: 1044
     company: '@reaktor '
     organizations: 'reaktor,JProffa,kcsry,tracon'
 
-  - rank: 237
-    name: ''
-    login: 'jonaskay'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/34066517?v=4'
-    contributions: 1039
-    company: ''
-    organizations: 'wunderdogsw'
-
-  - rank: 238
+  - rank: 211
     name: 'Tommi Reiman'
     login: 'ikitommi'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/567532?v=4'
-    contributions: 1034
+    contributions: 1035
     company: 'Metosin'
     organizations: 'metosin'
 
-  - rank: 239
+  - rank: 212
     name: 'Oiva Eskola'
     login: 'oiva'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/504591?v=4'
@@ -3964,87 +3748,63 @@ private_users:
     company: 'Suomen Vahinkovakuutus'
     organizations: ''
 
-  - rank: 240
-    name: 'Jani Kaarela'
-    login: 'jakaarl'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2392827?v=4'
-    contributions: 1019
-    company: '@wunderdogsw '
-    organizations: ''
-
-  - rank: 241
-    name: 'Eralp Karaduman'
-    login: 'eralpkaraduman'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1270272?v=4'
-    contributions: 1018
-    company: '@nicework-company '
-    organizations: 'Yleisradio,superdamage,procrastinating,hypeserver,nicework-company'
-
-  - rank: 242
-    name: 'Markus Kauppila'
-    login: 'mkauppila'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/130797?v=4'
-    contributions: 1016
-    company: 'Futurice'
-    organizations: 'futurice,objcio,Quick'
-
-  - rank: 243
-    name: 'Ujjwal Mairh'
-    login: 'mairh'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4072250?v=4'
-    contributions: 1015
-    company: ''
-    organizations: 'sysgears,Moodwonder,hackjunction'
-
-  - rank: 244
-    name: 'Sasha (Alejandro Vicente Grabovetsky)'
-    login: 'alexvicegrab'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1575642?v=4'
-    contributions: 1013
-    company: '@CuriousAI @aidtechnology '
-    organizations: ''
-
-  - rank: 245
-    name: 'Hugo Cárdenas'
-    login: 'hugo-cardenas'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1535759?v=4'
-    contributions: 1011
-    company: ''
-    organizations: ''
-
-  - rank: 246
-    name: 'Antonio Macías Ojeda'
-    login: 'antoniomo'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/285759?v=4'
-    contributions: 1007
-    company: ''
-    organizations: ''
-
-  - rank: 247
+  - rank: 213
     name: 'Jesse Rosenberger'
     login: 'abernix'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/841294?v=4'
-    contributions: 1001
+    contributions: 1021
     company: '@apollographql, @meteor'
     organizations: 'meteor,apollographql'
 
-  - rank: 248
-    name: 'Roope Merikukka'
-    login: 'roopemerikukka'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1453463?v=4'
-    contributions: 1000
-    company: '@ColumbiaRoad '
-    organizations: 'asteriskiry,bond-agency'
+  - rank: 214
+    name: 'Otso Jousimaa'
+    login: 'ojousima'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2360368?v=4'
+    contributions: 1020
+    company: ''
+    organizations: 'ruuvi'
 
-  - rank: 249
+  - rank: 215
+    name: 'Sasha (Alejandro Vicente Grabovetsky)'
+    login: 'alexvicegrab'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1575642?v=4'
+    contributions: 1015
+    company: '@CuriousAI @aidtechnology '
+    organizations: ''
+
+  - rank: 216
+    name: 'Markus Kauppila'
+    login: 'mkauppila'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/130797?v=4'
+    contributions: 1014
+    company: 'Futurice'
+    organizations: 'futurice,objcio,Quick'
+
+  - rank: 217
+    name: 'Emil Laine'
+    login: 'emlai'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/7543552?v=4'
+    contributions: 1011
+    company: '@Reaktor'
+    organizations: 'reaktor,Attnam,delta-lang,kanbahn,ts-llvm,suomipelit'
+
+  - rank: 218
     name: 'Tero Tapio'
     login: 'Granigan'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/28741135?v=4'
-    contributions: 996
+    contributions: 995
     company: 'University of Helsinki'
     organizations: 'UniversityOfHelsinkiCS'
 
-  - rank: 250
+  - rank: 219
+    name: 'Timo Aho'
+    login: 'Zeukkari'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3033037?v=4'
+    contributions: 992
+    company: '@phzfi '
+    organizations: ''
+
+  - rank: 220
     name: 'Juha Viljanen'
     login: 'thejov'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1055324?v=4'
@@ -4052,39 +3812,31 @@ private_users:
     company: '@smartlyio'
     organizations: 'WiRCA,smartlyio'
 
-  - rank: 251
-    name: 'Mridang Agarwalla'
-    login: 'mridang'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/327432?v=4'
-    contributions: 985
-    company: '@Nosto '
-    organizations: 'Nosto,SalesforceCommerceCloud,PrestaShop'
-
-  - rank: 252
-    name: 'Atte Lainejoki'
-    login: 'attelainejoki'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/25614?v=4'
-    contributions: 980
-    company: 'Siili'
-    organizations: 'demoniry'
-
-  - rank: 253
-    name: 'Huong Ngo'
-    login: 'misacorn'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/35432501?v=4'
-    contributions: 978
+  - rank: 221
+    name: 'Antonio Macías Ojeda'
+    login: 'antoniomo'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/285759?v=4'
+    contributions: 987
     company: ''
-    organizations: 'learn-co-students,dwyl,gatsbyjs'
+    organizations: ''
 
-  - rank: 254
-    name: 'Paul Stewart'
-    login: 'onefastsnail'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/472595?v=4'
-    contributions: 974
-    company: '@futurice '
-    organizations: 'TheQtCompany'
+  - rank: 222
+    name: 'Steve Phuc'
+    login: 'StevePhuc'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/27769175?v=4'
+    contributions: 986
+    company: ''
+    organizations: 'integrify-class2019'
 
-  - rank: 255
+  - rank: 223
+    name: 'Denis Demchenko'
+    login: 'lancedikson'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1955931?v=4'
+    contributions: 981
+    company: '@videoly '
+    organizations: 'videoly'
+
+  - rank: 224
     name: 'Tom Eklöf'
     login: 'ORBAT'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/198324?v=4'
@@ -4092,13 +3844,261 @@ private_users:
     company: 'Positive Learning'
     organizations: ''
 
-  - rank: 256
+  - rank: 225
+    name: 'Hugo Holmqvist'
+    login: 'MergHQ'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5868954?v=4'
+    contributions: 970
+    company: '@reaktor'
+    organizations: ''
+
+  - rank: 226
     name: 'Marko Mäkelä'
     login: 'dr-m'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/20552695?v=4'
-    contributions: 972
+    contributions: 969
     company: 'Lead Developer InnoDB @MariaDB'
     organizations: ''
+
+  - rank: 227
+    name: 'Aapo Talvensaari'
+    login: 'bungle'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/983257?v=4'
+    contributions: 967
+    company: '@Kong '
+    organizations: 'Kong'
+
+  - rank: 228
+    name: 'Xurxe Toivo García'
+    login: 'xurxe'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/46743267?v=4'
+    contributions: 966
+    company: '@wunderio'
+    organizations: ''
+
+  - rank: 229
+    name: 'Mridang Agarwalla'
+    login: 'mridang'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/327432?v=4'
+    contributions: 962
+    company: '@Nosto '
+    organizations: 'Nosto,SalesforceCommerceCloud,PrestaShop'
+
+  - rank: 230
+    name: 'Asko Soukka'
+    login: 'datakurre'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/160447?v=4'
+    contributions: 940
+    company: 'University of Jyväskylä'
+    organizations: 'plone'
+
+  - rank: 231
+    name: 'Jarkko Moilanen'
+    login: 'kyyberi'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1927158?v=4'
+    contributions: 939
+    company: '@PlatformOfTrust '
+    organizations: 'educloudalliance,digikopo,APIOps,zenofapi,PlatformOfTrust'
+
+  - rank: 232
+    name: 'Huong Ngo'
+    login: 'misacorn'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/35432501?v=4'
+    contributions: 938
+    company: ''
+    organizations: 'learn-co-students,dwyl,gatsbyjs'
+
+  - rank: 233
+    name: 'Varya Stepanova'
+    login: 'varya'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/27215?v=4'
+    contributions: 936
+    company: '@SC5'
+    organizations: 'bem,getbem'
+
+  - rank: 234
+    name: 'Johannes Neumeier'
+    login: 'kontur'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1893577?v=4'
+    contributions: 933
+    company: '@underscoretype '
+    organizations: ''
+
+  - rank: 235
+    name: 'Atte Juvonen'
+    login: 'baobabKoodaa'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/10188072?v=4'
+    contributions: 922
+    company: ''
+    organizations: ''
+
+  - rank: 236
+    name: 'Sami Niiranen'
+    login: 'saminiir'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2574493?v=4'
+    contributions: 921
+    company: ''
+    organizations: ''
+
+  - rank: 237
+    name: 'Martino Pilia'
+    login: 'm-pilia'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8300317?v=4'
+    contributions: 918
+    company: 'Tampere University'
+    organizations: ''
+
+  - rank: 238
+    name: 'Ossi Hanhinen'
+    login: 'ohanhi'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8436403?v=4'
+    contributions: 914
+    company: '@futurice'
+    organizations: 'futurice,elm-native-ui'
+
+  - rank: 239
+    name: 'Nizar Rahme'
+    login: 'Nizar-Rahme'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/23040926?v=4'
+    contributions: 912
+    company: 'Digia'
+    organizations: ''
+
+  - rank: 240
+    name: 'Teemu Taskula'
+    login: 'Temzasse'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/6152032?v=4'
+    contributions: 912
+    company: 'Taito United Oy'
+    organizations: 'teamglados'
+
+  - rank: 241
+    name: 'Teppo Kurki'
+    login: 'tkurki'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1049678?v=4'
+    contributions: 903
+    company: ''
+    organizations: 'SignalK'
+
+  - rank: 242
+    name: 'Sasu Mäkinen'
+    login: 'sasumaki'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/10545809?v=4'
+    contributions: 903
+    company: ''
+    organizations: 'UniversityOfHelsinkiCS'
+
+  - rank: 243
+    name: 'Jani Niemelä'
+    login: 'siquel'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2921307?v=4'
+    contributions: 903
+    company: '@SwappieHQ'
+    organizations: ''
+
+  - rank: 244
+    name: ''
+    login: 'Erkkapyy'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/22435059?v=4'
+    contributions: 900
+    company: 'Smartly.io'
+    organizations: 'smartlyio'
+
+  - rank: 245
+    name: 'Vinh Le'
+    login: 'vinhlee95'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/31971259?v=4'
+    contributions: 894
+    company: 'Vertics'
+    organizations: ''
+
+  - rank: 246
+    name: 'Andy Shevchenko'
+    login: 'andy-shev'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/78496?v=4'
+    contributions: 892
+    company: 'Intel Finland Oy'
+    organizations: ''
+
+  - rank: 247
+    name: 'Fran'
+    login: 'flpelluz'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/18736834?v=4'
+    contributions: 890
+    company: 'Smartly.io'
+    organizations: 'smartlyio'
+
+  - rank: 248
+    name: 'Mikko Lehtinen'
+    login: 'kosmikko'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/359651?v=4'
+    contributions: 885
+    company: 'Applifier'
+    organizations: ''
+
+  - rank: 249
+    name: 'Simo Ahava'
+    login: 'sahava'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/8957531?v=4'
+    contributions: 884
+    company: '@8-bit-sheep '
+    organizations: ''
+
+  - rank: 250
+    name: 'Henry J. Barton'
+    login: 'henryjuho'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/16376128?v=4'
+    contributions: 877
+    company: 'The University of Helsinki'
+    organizations: ''
+
+  - rank: 251
+    name: 'Ilkka Seppälä'
+    login: 'iluwatar'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/582346?v=4'
+    contributions: 876
+    company: '@gofore '
+    organizations: 'gofore'
+
+  - rank: 252
+    name: 'Zoltán Tudlik'
+    login: 'Oltier'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/7483011?v=4'
+    contributions: 873
+    company: '@smartlyio '
+    organizations: 'smartlyio'
+
+  - rank: 253
+    name: 'Leo Lahti'
+    login: 'antagomir'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1228382?v=4'
+    contributions: 866
+    company: 'Academic'
+    organizations: 'louhos,avoindata,microbiome,okffi-science,rOpenGov,COMHIS'
+
+  - rank: 254
+    name: 'Matti Ruohonen'
+    login: 'maruohon'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2331050?v=4'
+    contributions: 861
+    company: ''
+    organizations: ''
+
+  - rank: 255
+    name: 'Erik S. V. Jansson'
+    login: 'CaffeineViking'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5418661?v=4'
+    contributions: 857
+    company: 'Remedy Entertainment Plc'
+    organizations: ''
+
+  - rank: 256
+    name: 'Lauri Kovanen'
+    login: 'lkovanen'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1552040?v=4'
+    contributions: 857
+    company: 'Smartly.io'
+    organizations: 'smartlyio'
 
 organizations:
 
@@ -4108,81 +4108,81 @@ organizations:
 
   - rank: 2
     name: 'reaktor'
-    membercount: 9
+    membercount: 8
 
   - rank: 3
-    name: 'vaadin'
+    name: 'futurice'
     membercount: 7
 
   - rank: 4
-    name: 'futurice'
+    name: 'koodiklinikka'
     membercount: 6
 
   - rank: 5
-    name: 'koodiklinikka'
-    membercount: 5
+    name: 'vaadin'
+    membercount: 6
 
   - rank: 6
     name: 'gatsbyjs'
     membercount: 4
 
   - rank: 7
-    name: 'nitorcreations'
-    membercount: 4
+    name: 'epicgames'
+    membercount: 3
 
   - rank: 8
     name: 'vincit'
     membercount: 3
 
   - rank: 9
-    name: 'avoindata'
+    name: 'smartlyio'
     membercount: 3
 
   - rank: 10
-    name: 'gofore'
+    name: 'avoindata'
     membercount: 3
 
 private_organizations:
 
   - rank: 1
     name: 'smartlyio'
-    membercount: 27
+    membercount: 30
 
   - rank: 2
     name: 'reaktor'
-    membercount: 14
+    membercount: 13
 
   - rank: 3
     name: 'woltapp'
-    membercount: 12
+    membercount: 10
 
   - rank: 4
     name: 'koodiklinikka'
-    membercount: 10
+    membercount: 8
 
   - rank: 5
-    name: 'futurice'
-    membercount: 9
+    name: 'universityofhelsinkics'
+    membercount: 8
 
   - rank: 6
+    name: 'futurice'
+    membercount: 8
+
+  - rank: 7
     name: 'applifier'
     membercount: 7
 
-  - rank: 7
-    name: 'universityofhelsinkics'
-    membercount: 7
-
   - rank: 8
-    name: 'wunderdogsw'
-    membercount: 6
+    name: 'unitytech'
+    membercount: 5
 
   - rank: 9
     name: 'maasglobal'
     membercount: 5
 
   - rank: 10
-    name: 'unitytech'
+    name: 'wunderdogsw'
     membercount: 5
-generated: 2019-12-23 00:07:49.98880704 +0000 UTC
-min_followers_required: 12
-total_user_count: 16453
+generated: 2019-12-30 00:06:30.097610089 +0000 UTC
+min_followers_required: 15
+total_user_count: 16470

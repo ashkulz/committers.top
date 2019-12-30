@@ -6,31 +6,31 @@ users:
     name: 'Codacy Badger'
     login: 'codacy-badger'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/23704769?v=4'
-    contributions: 7021
+    contributions: 6834
     company: 'Codacy'
     organizations: ''
 
   - rank: 2
-    name: 'Luís Ferreira'
-    login: 'ljmf00'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5050669?v=4'
-    contributions: 6447
-    company: '@aurorafossorg '
-    organizations: 'codacy,EpicGames,dlang-tour,aurorafossorg,ipleiria-labrob'
-
-  - rank: 3
     name: 'João Magalhães'
     login: 'joamag'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/25441?v=4'
-    contributions: 4491
+    contributions: 4498
     company: 'Hive Solutions'
     organizations: ''
+
+  - rank: 3
+    name: 'Luís Ferreira'
+    login: 'ljmf00'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5050669?v=4'
+    contributions: 3673
+    company: '@aurorafossorg '
+    organizations: 'codacy,EpicGames,dlang-tour,aurorafossorg,ipleiria-labrob'
 
   - rank: 4
     name: 'Pedro Algarvio'
     login: 's0undt3ch'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/300048?v=4'
-    contributions: 3010
+    contributions: 2990
     company: '@saltstack '
     organizations: 'saltstack'
 
@@ -38,7 +38,7 @@ users:
     name: 'Eder Soares'
     login: 'edersoares'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/957395?v=4'
-    contributions: 2588
+    contributions: 2510
     company: 'Portabilis'
     organizations: 'portabilis'
 
@@ -46,7 +46,7 @@ users:
     name: 'Henrique Dias'
     login: 'hacdias'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5447088?v=4'
-    contributions: 2237
+    contributions: 2149
     company: '@protocol '
     organizations: 'protocol,pplware,ipfs,refactors,libp2p,ipld,multiformats,upframe,filecoin-project,ipfs-shipyard,filebrowser,ProtoSchool'
 
@@ -54,7 +54,7 @@ users:
     name: 'Paulo Moura'
     login: 'pmoura'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/294478?v=4'
-    contributions: 1985
+    contributions: 2000
     company: ''
     organizations: 'LogtalkDotOrg,VivoMind,clp-sets'
 
@@ -62,7 +62,7 @@ users:
     name: 'Pedro Gomes'
     login: 'pedrouid'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/10136079?v=4'
-    contributions: 1982
+    contributions: 1955
     company: '@WalletConnect '
     organizations: 'ConnextProject,WalletConnect,web3connect,UCRegistry,ChainAgnostic'
 
@@ -70,25 +70,25 @@ users:
     name: 'Mario Gil'
     login: 'GambuzX'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/32744387?v=4'
-    contributions: 1694
+    contributions: 1696
     company: '@FEUP'
     organizations: ''
 
   - rank: 10
-    name: 'Joaquim'
-    login: 'joa-quim'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/537321?v=4'
-    contributions: 1650
-    company: 'University Algarve'
-    organizations: ''
-
-  - rank: 11
     name: 'Filipe Coelho'
     login: 'falkTX'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1334853?v=4'
-    contributions: 1639
+    contributions: 1644
     company: ''
     organizations: 'jackaudio'
+
+  - rank: 11
+    name: 'Joaquim'
+    login: 'joa-quim'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/537321?v=4'
+    contributions: 1640
+    company: 'University Algarve'
+    organizations: ''
 
   - rank: 12
     name: 'Rafael Baldasso Audibert'
@@ -102,83 +102,99 @@ users:
     name: 'Simão Belchior'
     login: 'simaob'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/10764?v=4'
-    contributions: 1491
+    contributions: 1506
     company: '@Vizzuality '
     organizations: 'Vizzuality,alumniei,gfw-api,resource-watch,ClimateWatch-Vizzuality,forest-watcher'
 
   - rank: 14
+    name: 'Daniel Franco'
+    login: 'DanielFran'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3706415?v=4'
+    contributions: 1504
+    company: 'La Redoute'
+    organizations: 'jhipster'
+
+  - rank: 15
     name: 'Bernardo Vieira'
     login: 'obernardovieira'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/19441097?v=4'
-    contributions: 1462
+    contributions: 1455
     company: '@HQ20 '
     organizations: 'HQ20,dlx-lisbon'
-
-  - rank: 15
-    name: 'Ricardo Mendes'
-    login: 'locks'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/32344?v=4'
-    contributions: 1405
-    company: '@simplabs'
-    organizations: 'mustache,rubinius,portocodes,self-ml,cyberscore,fzerocentral,EmberTown'
 
   - rank: 16
     name: 'André Cruz'
     login: 'satazor'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1017236?v=4'
-    contributions: 1403
+    contributions: 1402
     company: '@moxystudio'
     organizations: 'IndigoUnited,mout,bower,LXJS,opojs,ipfs,yargs,npms-io,pinojs,ipfs-shipyard'
 
   - rank: 17
-    name: 'Sérgio Flores'
-    login: 'Relfos'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6756286?v=4'
-    contributions: 1343
-    company: ''
-    organizations: 'CityOfZion,phantasma-io'
+    name: 'Ricardo Mendes'
+    login: 'locks'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/32344?v=4'
+    contributions: 1380
+    company: '@simplabs'
+    organizations: 'mustache,rubinius,portocodes,self-ml,cyberscore,fzerocentral,EmberTown'
 
   - rank: 18
-    name: 'Pedro Mendes'
-    login: 'Mendess2526'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/19352680?v=4'
-    contributions: 1337
-    company: ''
-    organizations: ''
-
-  - rank: 19
     name: 'Hisham Muhammad'
     login: 'hishamhm'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/245621?v=4'
-    contributions: 1321
+    contributions: 1338
     company: '@Kong '
     organizations: 'keplerproject,Kong,gobolinux,luarocks,lua-users-foundation,titan-lang'
 
+  - rank: 19
+    name: 'Pedro Mendes'
+    login: 'Mendess2526'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/19352680?v=4'
+    contributions: 1282
+    company: ''
+    organizations: ''
+
   - rank: 20
-    name: 'Steven Roose'
-    login: 'stevenroose'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/853468?v=4'
-    contributions: 1186
-    company: '@Blockstream'
-    organizations: 'dartcoin,ElementsProject,PointyCastle'
+    name: 'Sérgio Flores'
+    login: 'Relfos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6756286?v=4'
+    contributions: 1279
+    company: ''
+    organizations: 'CityOfZion,phantasma-io'
 
   - rank: 21
+    name: 'Gonçalo Cabrita'
+    login: 'gmcabrita'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/957820?v=4'
+    contributions: 1258
+    company: 'Amplemarket'
+    organizations: '676d63'
+
+  - rank: 22
     name: 'Nuno Fachada'
     login: 'fakenmc'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/3018963?v=4'
-    contributions: 1168
+    contributions: 1215
     company: 'Universidade Lusófona de Humanidades e Tecnologias'
     organizations: 'LaSEEB,VideojogosLusofona'
 
-  - rank: 22
+  - rank: 23
+    name: 'Steven Roose'
+    login: 'stevenroose'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/853468?v=4'
+    contributions: 1184
+    company: '@Blockstream'
+    organizations: 'dartcoin,ElementsProject,PointyCastle'
+
+  - rank: 24
     name: 'Leonardo Cesca'
     login: 'LeonardoCesca'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/22780548?v=4'
-    contributions: 1128
+    contributions: 1170
     company: '@ilegra'
     organizations: ''
 
-  - rank: 23
+  - rank: 25
     name: 'José Bonnet'
     login: 'jbonnet'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/11843?v=4'
@@ -186,127 +202,143 @@ users:
     company: '@alticelabs'
     organizations: 'sonata-nfv'
 
-  - rank: 24
+  - rank: 26
     name: 'Vasco Lavos'
     login: 'Vazkii'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1794735?v=4'
-    contributions: 1104
+    contributions: 1103
     company: ''
-    organizations: ''
-
-  - rank: 25
-    name: 'Andre Goncalves'
-    login: 'andregoncalves'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1074?v=4'
-    contributions: 1098
-    company: ''
-    organizations: 'webmadeira'
-
-  - rank: 26
-    name: 'Bruno Ramires'
-    login: 'brunormferreira'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/35575092?v=4'
-    contributions: 1047
-    company: '@ilegra'
     organizations: ''
 
   - rank: 27
+    name: 'Andre Goncalves'
+    login: 'andregoncalves'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1074?v=4'
+    contributions: 1093
+    company: ''
+    organizations: 'webmadeira'
+
+  - rank: 28
     name: 'Tom Forbes'
     login: 'orf'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1027207?v=4'
-    contributions: 1037
+    contributions: 1092
     company: '@onfido'
     organizations: 'onfido'
 
-  - rank: 28
-    name: 'Tasso Evangelista'
-    login: 'tassoevan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2263066?v=4'
-    contributions: 1035
-    company: '@RocketChat '
-    organizations: ''
-
   - rank: 29
-    name: 'Pedro Esteves'
-    login: 'pemesteves'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/36743339?v=4'
-    contributions: 986
-    company: ''
+    name: 'Bruno Ramires'
+    login: 'brunormferreira'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/35575092?v=4'
+    contributions: 1053
+    company: '@ilegra'
     organizations: ''
 
   - rank: 30
-    name: 'David Dias'
-    login: 'daviddias'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1211152?v=4'
-    contributions: 982
-    company: 'Protocol Labs @protocol '
-    organizations: 'nko4,livebots,nodecopterlx,tableflip,nodeschool,ISTecnico,gdglisbon,LXJS,dockerlisbon,KairosPortugal,protocol,ipfs,zmq-fosdem,libp2p,unimos,adventure-js,inesc-id,ipld,multiformats,orbitdb,spdy-http2,ipfs-shipyard,arewedistributedyet'
+    name: 'Tasso Evangelista'
+    login: 'tassoevan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2263066?v=4'
+    contributions: 1029
+    company: '@RocketChat '
+    organizations: ''
 
   - rank: 31
     name: 'Emerson Rocha'
     login: 'fititnt'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/812299?v=4'
-    contributions: 981
+    contributions: 1006
     company: '@EticaAI @alligo'
     organizations: 'thacker,JCBR,alligo,teampuppy,hacklabufrgs,pokemongovet,webiwg,EticaAI'
 
   - rank: 32
-    name: 'Mauro Reis Vieira'
-    login: 'mauroreisvieira'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3084774?v=4'
-    contributions: 980
-    company: '@namecheap'
-    organizations: 'redom,meetio-theme'
+    name: 'David Dias'
+    login: 'daviddias'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1211152?v=4'
+    contributions: 985
+    company: 'Protocol Labs @protocol '
+    organizations: 'nko4,livebots,nodecopterlx,tableflip,nodeschool,ISTecnico,gdglisbon,LXJS,dockerlisbon,KairosPortugal,protocol,ipfs,zmq-fosdem,libp2p,unimos,adventure-js,inesc-id,ipld,multiformats,orbitdb,spdy-http2,ipfs-shipyard,arewedistributedyet'
 
   - rank: 33
-    name: 'Tentone'
-    login: 'tentone'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/9158354?v=4'
-    contributions: 966
-    company: '@UNOMeansYouKnow'
+    name: 'Pedro Esteves'
+    login: 'pemesteves'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/36743339?v=4'
+    contributions: 973
+    company: ''
     organizations: ''
 
   - rank: 34
+    name: 'Mauro Reis Vieira'
+    login: 'mauroreisvieira'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3084774?v=4'
+    contributions: 965
+    company: '@namecheap'
+    organizations: 'redom,meetio-theme'
+
+  - rank: 35
     name: 'Adrien Denat'
     login: 'Grsmto'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/527559?v=4'
-    contributions: 960
+    contributions: 962
     company: ''
     organizations: 'poa-tech-beer'
 
-  - rank: 35
+  - rank: 36
+    name: 'Tentone'
+    login: 'tentone'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/9158354?v=4'
+    contributions: 943
+    company: '@UNOMeansYouKnow'
+    organizations: ''
+
+  - rank: 37
     name: 'Rui Lopes'
     login: 'rgl'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/43356?v=4'
-    contributions: 944
+    contributions: 940
     company: ''
     organizations: ''
 
-  - rank: 36
-    name: 'Guilherme Gazzo'
-    login: 'ggazzo'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5263975?v=4'
-    contributions: 921
-    company: 'Rocket.Chat'
-    organizations: 'RocketChat'
-
-  - rank: 37
+  - rank: 38
     name: 'Pedro Carrasco'
     login: 'pedrommcarrasco'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/26525777?v=4'
-    contributions: 914
+    contributions: 934
     company: 'Farfetch'
     organizations: 'RxSwiftCommunity,SwiftAveiro'
 
-  - rank: 38
+  - rank: 39
+    name: 'Guilherme Gazzo'
+    login: 'ggazzo'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5263975?v=4'
+    contributions: 932
+    company: 'Rocket.Chat'
+    organizations: 'RocketChat'
+
+  - rank: 40
     name: ''
     login: 'JoseFilipeFerreira'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/36403066?v=4'
+    contributions: 902
+    company: ''
+    organizations: ''
+
+  - rank: 41
+    name: 'Victor Domingos'
+    login: 'victordomingos'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/18650184?v=4'
     contributions: 901
     company: ''
     organizations: ''
 
-  - rank: 39
+  - rank: 42
+    name: 'Rui Alves'
+    login: 'xRuiAlves'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/25830462?v=4'
+    contributions: 895
+    company: ''
+    organizations: ''
+
+  - rank: 43
     name: 'Ricardo Ribeiro'
     login: 'UmSenhorQualquer'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4881743?v=4'
@@ -314,31 +346,15 @@ users:
     company: 'Champalimaud Foundation'
     organizations: ''
 
-  - rank: 40
-    name: 'Victor Domingos'
-    login: 'victordomingos'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/18650184?v=4'
-    contributions: 887
-    company: ''
-    organizations: ''
-
-  - rank: 41
-    name: 'Dmytro Striletskyi'
-    login: 'dmytrostriletskyi'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/22666467?v=4'
-    contributions: 868
-    company: ''
-    organizations: 'Remmeauth'
-
-  - rank: 42
+  - rank: 44
     name: 'Amos Bastian'
     login: 'amosbastian'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/9199433?v=4'
-    contributions: 863
+    contributions: 862
     company: '@advertio'
     organizations: ''
 
-  - rank: 43
+  - rank: 45
     name: 'David S. Batista'
     login: 'davidsbatista'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/7937824?v=4'
@@ -346,7 +362,15 @@ users:
     company: '@comtravo '
     organizations: 'comtravo,openviglet,insecurity-insight'
 
-  - rank: 44
+  - rank: 46
+    name: 'Dmytro Striletskyi'
+    login: 'dmytrostriletskyi'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/22666467?v=4'
+    contributions: 859
+    company: ''
+    organizations: 'Remmeauth'
+
+  - rank: 47
     name: 'Cássia Gomes'
     login: 'cassia11'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/43010445?v=4'
@@ -354,71 +378,55 @@ users:
     company: '4all Tecnologia'
     organizations: ''
 
-  - rank: 45
+  - rank: 48
     name: 'Hugo Dias'
     login: 'hugomrdias'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/314190?v=4'
-    contributions: 857
+    contributions: 856
     company: '@moxystudio '
     organizations: 'moxystudio'
 
-  - rank: 46
-    name: 'Jorge Costa'
-    login: 'jorgefilipecosta'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11271197?v=4'
-    contributions: 850
-    company: '@Automattic '
-    organizations: 'WordPress,Automattic'
-
-  - rank: 47
+  - rank: 49
     name: 'Luís Rodrigues'
     login: 'goblindegook'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/285497?v=4'
-    contributions: 847
+    contributions: 852
     company: '@EqualExperts '
     organizations: 'EqualExperts,B3ST,PacoteJS'
 
-  - rank: 48
-    name: 'André Rocha'
-    login: 'andrefmrocha'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/33755974?v=4'
+  - rank: 50
+    name: 'Jorge Costa'
+    login: 'jorgefilipecosta'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/11271197?v=4'
     contributions: 847
-    company: ''
-    organizations: ''
+    company: '@Automattic '
+    organizations: 'WordPress,Automattic'
 
-  - rank: 49
+  - rank: 51
     name: 'Maurício Mutte'
     login: 'mauriciomutte'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/20569339?v=4'
-    contributions: 842
+    contributions: 844
     company: ''
     organizations: ''
 
-  - rank: 50
+  - rank: 52
     name: 'André Silva'
     login: 'andresilva'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/123550?v=4'
-    contributions: 839
+    contributions: 831
     company: '@paritytech'
     organizations: 'paritytech,FoundersFounders'
 
-  - rank: 51
-    name: 'Nuno Marques'
-    login: 'TSC21'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5048656?v=4'
-    contributions: 805
-    company: 'dronesolutions.io'
-    organizations: 'mavlink,PX4,Dronecode,dronecrew,dronecore'
-
-  - rank: 52
-    name: 'Ulisses Ferreira'
-    login: 'ulissesferreira'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15613644?v=4'
-    contributions: 803
-    company: '@upframe '
-    organizations: 'upframe,noobies-io'
-
   - rank: 53
+    name: 'André Rocha'
+    login: 'andrefmrocha'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/33755974?v=4'
+    contributions: 829
+    company: ''
+    organizations: ''
+
+  - rank: 54
     name: 'Lucas M. Schnorr'
     login: 'schnorr'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/69578?v=4'
@@ -426,7 +434,15 @@ users:
     company: 'UFRGS'
     organizations: ''
 
-  - rank: 54
+  - rank: 55
+    name: 'Patrick Cason'
+    login: 'cereallarceny'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1297930?v=4'
+    contributions: 796
+    company: ''
+    organizations: 'polianainc,OpenMined,scholarraise'
+
+  - rank: 56
     name: 'Francisco Sousa'
     login: 'jfranciscosousa'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/9119466?v=4'
@@ -434,55 +450,55 @@ users:
     company: '@aurora-digital'
     organizations: 'includebraga,aurora-digital,cooperativa-tech'
 
-  - rank: 55
-    name: 'Rui Carmo'
-    login: 'rcarmo'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/392683?v=4'
-    contributions: 786
-    company: '@Microsoft'
-    organizations: 'oneoverzero,pysimplesoap,Azure,azure-csa-pt,insightfulsystems,piku'
-
-  - rank: 56
-    name: 'Bruno Paz'
-    login: 'brpaz'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/184563?v=4'
-    contributions: 770
-    company: ''
-    organizations: 'exodia-labs'
-
   - rank: 57
+    name: 'Nuno Marques'
+    login: 'TSC21'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5048656?v=4'
+    contributions: 783
+    company: 'dronesolutions.io'
+    organizations: 'mavlink,PX4,Dronecode,dronecrew,dronecore'
+
+  - rank: 58
     name: 'Marcos Spessatto Defendi'
     login: 'MarcosSpessatto'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/15324204?v=4'
-    contributions: 767
+    contributions: 771
     company: '@RocketChat '
     organizations: 'RocketChat'
 
-  - rank: 58
-    name: 'Patrick Cason'
-    login: 'cereallarceny'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1297930?v=4'
-    contributions: 758
-    company: ''
-    organizations: 'polianainc,OpenMined,scholarraise'
-
   - rank: 59
+    name: 'Rui Carmo'
+    login: 'rcarmo'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/392683?v=4'
+    contributions: 759
+    company: '@Microsoft'
+    organizations: 'oneoverzero,pysimplesoap,Azure,azure-csa-pt,insightfulsystems,piku'
+
+  - rank: 60
+    name: 'Bruno Paz'
+    login: 'brpaz'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/184563?v=4'
+    contributions: 756
+    company: ''
+    organizations: 'exodia-labs'
+
+  - rank: 61
     name: 'Diogo Pratas'
     login: 'pratas'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/6882743?v=4'
-    contributions: 755
+    contributions: 754
     company: 'University of { Aveiro, Helsinki }'
     organizations: 'cobilab,asilab,othersoft'
 
-  - rank: 60
-    name: 'Rui Alves'
-    login: 'xRuiAlves'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/25830462?v=4'
-    contributions: 746
-    company: ''
-    organizations: ''
+  - rank: 62
+    name: 'Ulisses Ferreira'
+    login: 'ulissesferreira'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15613644?v=4'
+    contributions: 747
+    company: '@upframe '
+    organizations: 'upframe,noobies-io'
 
-  - rank: 61
+  - rank: 63
     name: 'Yasser Rachid'
     login: 'yrachid'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4705127?v=4'
@@ -490,7 +506,7 @@ users:
     company: 'ThoughtWorks Brasil'
     organizations: 'ThoughtWorksInc,aceleradora6-tw,aceleradora7,aceleradora-TW,atomic-todos'
 
-  - rank: 62
+  - rank: 64
     name: 'Melquisedeque Pereira'
     login: 'melquip'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/9201063?v=4'
@@ -498,15 +514,23 @@ users:
     company: 'Student at Lambda School'
     organizations: ''
 
-  - rank: 63
-    name: 'Raul Ferreira'
-    login: 'Zialus'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/184437?v=4'
-    contributions: 721
-    company: 'FCUP'
-    organizations: ''
+  - rank: 65
+    name: 'Afonso Pinto'
+    login: 'afonsobspinto'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/19196034?v=4'
+    contributions: 734
+    company: '@MetaCell @feup'
+    organizations: 'openworm,MetaCell'
 
-  - rank: 64
+  - rank: 66
+    name: 'Ricardo Pereira'
+    login: 'ricardopereira'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3541185?v=4'
+    contributions: 715
+    company: '@whitesmith '
+    organizations: 'ably-forks,whitesmith,apdip,optimizehq,thefreerideinc'
+
+  - rank: 67
     name: 'Fidalgo'
     login: 'fidalgodev'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/41859298?v=4'
@@ -514,55 +538,47 @@ users:
     company: 'Mindera'
     organizations: ''
 
-  - rank: 65
-    name: 'Tiago Costa'
-    login: 'mistic'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4440734?v=4'
-    contributions: 711
-    company: '@elastic '
-    organizations: 'elastic,apollographql'
-
-  - rank: 66
-    name: 'Nelson Estevão'
-    login: 'nelsonmestevao'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/19409687?v=4'
-    contributions: 705
-    company: ''
-    organizations: 'cesium,coderdojobraga,includebraga,eneiconf,cubingpt'
-
-  - rank: 67
-    name: 'Bruno Martins'
-    login: 'bgcngm'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1696148?v=4'
-    contributions: 703
-    company: ''
-    organizations: 'CyanogenMod,LineageOS'
-
   - rank: 68
-    name: 'Rodrigo Nascimento'
-    login: 'rodrigok'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/234261?v=4'
-    contributions: 697
-    company: 'Rocket.Chat'
-    organizations: 'techparty,caife,Carddi,nTIFACCAT,Konecty,RocketChat'
-
-  - rank: 69
     name: 'Daniel da Silva'
     login: 'danielfdsilva'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1090606?v=4'
-    contributions: 696
+    contributions: 711
     company: 'Development Seed'
     organizations: 'developmentseed,flipside-org'
 
+  - rank: 69
+    name: 'Tiago Costa'
+    login: 'mistic'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4440734?v=4'
+    contributions: 710
+    company: '@elastic '
+    organizations: 'elastic,apollographql'
+
   - rank: 70
-    name: 'Rui'
-    login: 'user-cube'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/33549232?v=4'
-    contributions: 693
+    name: 'Nelson Estevão'
+    login: 'nelsonmestevao'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/19409687?v=4'
+    contributions: 702
     company: ''
-    organizations: 'detiuaveiro,NEI-AAUAV'
+    organizations: 'cesium,coderdojobraga,includebraga,eneiconf,cubingpt'
 
   - rank: 71
+    name: 'Danilo Woznica'
+    login: 'danilowoz'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/4838076?v=4'
+    contributions: 694
+    company: ''
+    organizations: 'airtimemedia,gatsbyjs,Significa,dayjs,VueFloripa'
+
+  - rank: 72
+    name: 'Raul Ferreira'
+    login: 'Zialus'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/184437?v=4'
+    contributions: 692
+    company: 'FCUP'
+    organizations: ''
+
+  - rank: 73
     name: 'João Duarte'
     login: 'jsvd'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/31809?v=4'
@@ -570,23 +586,39 @@ users:
     company: '@elastic'
     organizations: 'elastic'
 
-  - rank: 72
-    name: 'Ricardo Pereira'
-    login: 'ricardopereira'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3541185?v=4'
-    contributions: 688
-    company: '@whitesmith '
-    organizations: 'ably-forks,whitesmith,apdip,optimizehq,thefreerideinc'
-
-  - rank: 73
-    name: 'Samuel SIlva'
-    login: 'samuelsilvadev'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/13966565?v=4'
-    contributions: 672
-    company: '@aubay'
-    organizations: ''
-
   - rank: 74
+    name: 'Bruno Martins'
+    login: 'bgcngm'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1696148?v=4'
+    contributions: 684
+    company: ''
+    organizations: 'CyanogenMod,LineageOS'
+
+  - rank: 75
+    name: 'Rui'
+    login: 'user-cube'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/33549232?v=4'
+    contributions: 677
+    company: ''
+    organizations: 'detiuaveiro,NEI-AAUAV'
+
+  - rank: 76
+    name: 'Rodrigo Nascimento'
+    login: 'rodrigok'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/234261?v=4'
+    contributions: 676
+    company: 'Rocket.Chat'
+    organizations: 'techparty,caife,Carddi,nTIFACCAT,Konecty,RocketChat'
+
+  - rank: 77
+    name: 'Waldir Pimenta'
+    login: 'waldyrious'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/478237?v=4'
+    contributions: 672
+    company: '@uphold '
+    organizations: 'mwclient,opencompany,improvebraga,uphold,browserpad,JuliaLangPt,TeamOfOne,Julia-i18n,wikimedia-portugal'
+
+  - rank: 78
     name: 'Flávio J. Saraiva'
     login: 'flaviojs'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1009600?v=4'
@@ -594,23 +626,23 @@ users:
     company: ''
     organizations: 'eathena'
 
-  - rank: 75
-    name: 'Danilo Woznica'
-    login: 'danilowoz'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4838076?v=4'
-    contributions: 667
-    company: ''
-    organizations: 'airtimemedia,gatsbyjs,Significa,dayjs,VueFloripa'
-
-  - rank: 76
-    name: 'Waldir Pimenta'
-    login: 'waldyrious'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/478237?v=4'
+  - rank: 79
+    name: 'Samuel SIlva'
+    login: 'samuelsilvadev'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/13966565?v=4'
     contributions: 662
-    company: '@uphold '
-    organizations: 'mwclient,opencompany,improvebraga,uphold,browserpad,JuliaLangPt,TeamOfOne,Julia-i18n,wikimedia-portugal'
+    company: '@aubay'
+    organizations: ''
 
-  - rank: 77
+  - rank: 80
+    name: 'Juliane Marubayashi'
+    login: 'Jumaruba'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/33182421?v=4'
+    contributions: 660
+    company: ''
+    organizations: ''
+
+  - rank: 81
     name: 'Gabriel'
     login: 'gbl08ma'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/984584?v=4'
@@ -618,7 +650,7 @@ users:
     company: '@underlx '
     organizations: 'tnyim'
 
-  - rank: 78
+  - rank: 82
     name: 'Antão Almada'
     login: 'aalmada'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/534533?v=4'
@@ -626,15 +658,15 @@ users:
     company: '@Farfetch - Store of the Future'
     organizations: ''
 
-  - rank: 79
-    name: 'André Filipe Esteves'
-    login: 'EstevesAndre'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/22922971?v=4'
-    contributions: 656
-    company: ''
-    organizations: ''
+  - rank: 83
+    name: 'Filipe Laíns'
+    login: 'FFY00'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/11718923?v=4'
+    contributions: 657
+    company: '@archlinux @libratbag  '
+    organizations: 'Tribler,archlinux,libratbag,dlang-tour,aurorafossorg,pwr-Solaar,pulseaudio-equalizer-ladspa'
 
-  - rank: 80
+  - rank: 84
     name: 'Rui Marinho'
     login: 'rmarinho'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1235097?v=4'
@@ -642,31 +674,23 @@ users:
     company: '@Microsoft  , @xamarin '
     organizations: 'xamarin,microsoft,XLabs'
 
-  - rank: 81
-    name: 'Filipe Laíns'
-    login: 'FFY00'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/11718923?v=4'
-    contributions: 645
-    company: '@archlinux @libratbag  '
-    organizations: 'Tribler,archlinux,libratbag,dlang-tour,aurorafossorg,pwr-Solaar,pulseaudio-equalizer-ladspa'
-
-  - rank: 82
+  - rank: 85
     name: 'Fabricio Nogueira'
     login: 'nogsantos'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/570926?v=4'
-    contributions: 641
+    contributions: 632
     company: 'nogsantos'
     organizations: 'instruct-br,senaigo-desenvolvimento-mobile-2015,my-class-room'
 
-  - rank: 83
-    name: 'Afonso Pinto'
-    login: 'afonsobspinto'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/19196034?v=4'
-    contributions: 635
-    company: '@MetaCell @feup'
-    organizations: 'openworm,MetaCell'
+  - rank: 86
+    name: 'André Filipe Esteves'
+    login: 'EstevesAndre'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/22922971?v=4'
+    contributions: 629
+    company: ''
+    organizations: ''
 
-  - rank: 84
+  - rank: 87
     name: 'Daniel Vaz Gaspar'
     login: 'dpgaspar'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4025227?v=4'
@@ -674,23 +698,7 @@ users:
     company: ''
     organizations: 'preset-io'
 
-  - rank: 85
-    name: 'Francisco Oliveira'
-    login: 'Tibblue'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/28302063?v=4'
-    contributions: 628
-    company: ''
-    organizations: ''
-
-  - rank: 86
-    name: 'Eduardo Pinho'
-    login: 'Enet4'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4738426?v=4'
-    contributions: 615
-    company: '@BMDSoftware'
-    organizations: 'bioinformatics-ua'
-
-  - rank: 87
+  - rank: 88
     name: 'Romeu Gomes'
     login: 'RomeuG'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/2325589?v=4'
@@ -698,7 +706,7 @@ users:
     company: 'AlticeLabs'
     organizations: ''
 
-  - rank: 88
+  - rank: 89
     name: 'João Faria'
     login: 'j-faria'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1958991?v=4'
@@ -706,103 +714,127 @@ users:
     company: '@iastro-pt '
     organizations: 'iastro-pt'
 
-  - rank: 89
-    name: 'Diogo Sobral'
-    login: 'Dakrs'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/28464071?v=4'
-    contributions: 607
-    company: ''
-    organizations: ''
-
   - rank: 90
-    name: 'Tiago Castro'
-    login: 'tiagoacastro'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/28093927?v=4'
-    contributions: 603
-    company: ''
-    organizations: ''
+    name: 'Eduardo Pinho'
+    login: 'Enet4'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/4738426?v=4'
+    contributions: 606
+    company: '@BMDSoftware'
+    organizations: 'bioinformatics-ua'
 
   - rank: 91
-    name: 'Juliane Marubayashi'
-    login: 'Jumaruba'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/33182421?v=4'
-    contributions: 602
-    company: ''
-    organizations: ''
-
-  - rank: 92
-    name: 'António Rito Silva'
-    login: 'ritosilva'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/937388?v=4'
-    contributions: 597
-    company: 'INESC-ID / Department of Computer Science and Engineering / University of Lisbon'
-    organizations: ''
-
-  - rank: 93
     name: 'João Barbosa'
     login: 'promag'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3534524?v=4'
-    contributions: 596
+    contributions: 601
     company: ''
     organizations: 'bitcoin'
 
-  - rank: 94
-    name: 'Benjamim Sonntag'
-    login: 'bsonntag'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6205451?v=4'
-    contributions: 590
-    company: 'Seegno'
-    organizations: 'seegno,gatsbyjs'
-
-  - rank: 95
-    name: 'Gonçalo Marques'
-    login: 'goncasmage1'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/15253176?v=4'
-    contributions: 588
+  - rank: 92
+    name: 'Francisco Oliveira'
+    login: 'Tibblue'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/28302063?v=4'
+    contributions: 599
     company: ''
     organizations: ''
 
-  - rank: 96
-    name: 'Catarina Machado'
-    login: 'catarinamachado'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/30869645?v=4'
-    contributions: 580
-    company: '@cesium'
-    organizations: 'cesium,eneiconf'
+  - rank: 93
+    name: 'Pedro Escaleira'
+    login: 'oEscal'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/40316784?v=4'
+    contributions: 595
+    company: 'University of Aveiro'
+    organizations: 'NEI-AAUAV'
 
-  - rank: 97
-    name: 'Marcos Marado'
-    login: 'marado'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/33163?v=4'
-    contributions: 579
-    company: 'BSP.ninja'
+  - rank: 94
+    name: 'António Rito Silva'
+    login: 'ritosilva'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/937388?v=4'
+    contributions: 594
+    company: 'INESC-ID / Department of Computer Science and Engineering / University of Lisbon'
     organizations: ''
 
+  - rank: 95
+    name: 'João Rocha da Silva'
+    login: 'silvae86'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2529555?v=4'
+    contributions: 592
+    company: 'FEUP InfoLab @feup-infolab-rdm'
+    organizations: 'feup-infolab'
+
+  - rank: 96
+    name: 'Tiago Castro'
+    login: 'tiagoacastro'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/28093927?v=4'
+    contributions: 589
+    company: ''
+    organizations: ''
+
+  - rank: 97
+    name: 'Nuno Lopes'
+    login: 'nunoplopes'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2998477?v=4'
+    contributions: 589
+    company: ''
+    organizations: 'Z3Prover,llvm,AliveToolkit'
+
   - rank: 98
-    name: 'Rodrigo Fernandes'
-    login: 'rtfpessoa'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/902384?v=4'
-    contributions: 572
-    company: 'Codacy'
-    organizations: 'codacy'
+    name: 'Gonçalo Marques'
+    login: 'goncasmage1'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/15253176?v=4'
+    contributions: 586
+    company: ''
+    organizations: ''
 
   - rank: 99
-    name: 'Gonçalo Marantes'
-    login: 'Marantesss'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/36729905?v=4'
-    contributions: 571
-    company: '@ieeeupsb @feup'
-    organizations: 'ieeeupsb'
-
-  - rank: 100
     name: 'filipe oliveira'
     login: 'filipecosta90'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5832149?v=4'
-    contributions: 570
+    contributions: 584
     company: 'Performance Engineer @RedisLabs'
     organizations: ''
 
+  - rank: 100
+    name: 'Benjamim Sonntag'
+    login: 'bsonntag'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6205451?v=4'
+    contributions: 583
+    company: 'Seegno'
+    organizations: 'seegno,gatsbyjs'
+
   - rank: 101
+    name: 'Rodrigo Fernandes'
+    login: 'rtfpessoa'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/902384?v=4'
+    contributions: 576
+    company: 'Codacy'
+    organizations: 'codacy'
+
+  - rank: 102
+    name: 'Diogo Cordeiro'
+    login: 'diogogithub'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/10812507?v=4'
+    contributions: 576
+    company: ''
+    organizations: ''
+
+  - rank: 103
+    name: 'Marcos Marado'
+    login: 'marado'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/33163?v=4'
+    contributions: 575
+    company: 'BSP.ninja'
+    organizations: ''
+
+  - rank: 104
+    name: 'Gonçalo Marantes'
+    login: 'Marantesss'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/36729905?v=4'
+    contributions: 570
+    company: '@ieeeupsb @feup'
+    organizations: 'ieeeupsb'
+
+  - rank: 105
     name: 'Carlos Corrêa da Silva'
     login: 'caiobzen'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/997521?v=4'
@@ -810,15 +842,15 @@ users:
     company: 'ThoughtWorks, Inc.'
     organizations: ''
 
-  - rank: 102
-    name: 'Nuno Lopes'
-    login: 'nunoplopes'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2998477?v=4'
-    contributions: 558
-    company: ''
-    organizations: 'Z3Prover,llvm,AliveToolkit'
+  - rank: 106
+    name: 'Catarina Machado'
+    login: 'catarinamachado'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/30869645?v=4'
+    contributions: 557
+    company: '@cesium'
+    organizations: 'cesium,eneiconf'
 
-  - rank: 103
+  - rank: 107
     name: 'Nathan Campos'
     login: 'nathanpc'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/805678?v=4'
@@ -826,55 +858,55 @@ users:
     company: '@innoveworkshop'
     organizations: ''
 
-  - rank: 104
-    name: 'Diogo Cordeiro'
-    login: 'diogogithub'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/10812507?v=4'
-    contributions: 551
-    company: ''
-    organizations: ''
-
-  - rank: 105
+  - rank: 108
     name: 'enen92'
     login: 'enen92'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/7375276?v=4'
-    contributions: 551
+    contributions: 555
     company: ''
     organizations: 'xbmc'
 
-  - rank: 106
-    name: 'Sérgio Gomes'
-    login: 'sgomes'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/409615?v=4'
-    contributions: 534
-    company: ''
-    organizations: ''
+  - rank: 109
+    name: 'Diogo Nunes'
+    login: 'dialex'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2140450?v=4'
+    contributions: 542
+    company: '@EqualExperts '
+    organizations: 'code4pt'
 
-  - rank: 107
+  - rank: 110
     name: 'Gabriel Candal'
     login: 'gcandal'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3048875?v=4'
-    contributions: 526
+    contributions: 539
     company: '@ripe-tech '
     organizations: ''
 
-  - rank: 108
-    name: 'João Dias Conde Azevedo'
-    login: 'joao-conde'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/16060539?v=4'
-    contributions: 525
+  - rank: 111
+    name: 'Diogo Sobral'
+    login: 'Dakrs'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/28464071?v=4'
+    contributions: 539
     company: ''
     organizations: ''
 
-  - rank: 109
-    name: 'Rui Freitas'
-    login: 'rodloboz'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/23458442?v=4'
-    contributions: 516
+  - rank: 112
+    name: 'Sérgio Gomes'
+    login: 'sgomes'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/409615?v=4'
+    contributions: 531
     company: ''
     organizations: ''
 
-  - rank: 110
+  - rank: 113
+    name: 'Stéphane Roche'
+    login: 'Janaka-Steph'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/4022128?v=4'
+    contributions: 517
+    company: '@bitcoin-studio '
+    organizations: ''
+
+  - rank: 114
     name: 'Ruben Branco'
     login: 'RubenBranco'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/26976462?v=4'
@@ -882,31 +914,23 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 111
-    name: 'Diogo Gomes'
-    login: 'dgomes'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/137684?v=4'
-    contributions: 510
-    company: 'University of Aveiro'
-    organizations: 'ATNoG,HackAveiro,detiuaveiro,5GinFIRE,github-campus-advisors'
-
-  - rank: 112
-    name: 'Diego Pacheco'
-    login: 'diegopacheco'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/121278?v=4'
-    contributions: 505
-    company: 'Crom Microsystems'
+  - rank: 115
+    name: 'Rui Freitas'
+    login: 'rodloboz'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/23458442?v=4'
+    contributions: 512
+    company: ''
     organizations: ''
 
-  - rank: 113
-    name: 'João Antunes'
-    login: 'joaofbantunes'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3763454?v=4'
-    contributions: 502
+  - rank: 116
+    name: 'João Dias Conde Azevedo'
+    login: 'joao-conde'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/16060539?v=4'
+    contributions: 510
     company: ''
-    organizations: 'CodingMilitia,AspNetCoreFromZeroToOverkill'
+    organizations: ''
 
-  - rank: 114
+  - rank: 117
     name: 'Eliseu Daroit'
     login: 'edaroit'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/13070410?v=4'
@@ -914,15 +938,15 @@ users:
     company: '@GetAmbush '
     organizations: 'GetAmbush'
 
-  - rank: 115
-    name: 'Stéphane Roche'
-    login: 'Janaka-Steph'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4022128?v=4'
+  - rank: 118
+    name: 'João Antunes'
+    login: 'joaofbantunes'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3763454?v=4'
     contributions: 494
-    company: '@bitcoin-studio '
-    organizations: ''
+    company: ''
+    organizations: 'CodingMilitia,AspNetCoreFromZeroToOverkill'
 
-  - rank: 116
+  - rank: 119
     name: 'João Rafael Varela'
     login: 'Revuj'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/41621540?v=4'
@@ -930,39 +954,47 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 117
-    name: 'Diogo Nunes'
-    login: 'dialex'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/2140450?v=4'
-    contributions: 486
-    company: '@EqualExperts '
-    organizations: 'code4pt'
-
-  - rank: 118
-    name: 'Eduardo Vedes'
-    login: 'evedes'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/956832?v=4'
-    contributions: 483
-    company: '*'
-    organizations: 'vuejs-pt'
-
-  - rank: 119
-    name: 'Bruno Krebs'
-    login: 'brunokrebs'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/15347252?v=4'
-    contributions: 469
-    company: ''
-    organizations: ''
-
   - rank: 120
     name: 'Bruno Macabeus'
     login: 'macabeus'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/9501115?v=4'
-    contributions: 467
+    contributions: 491
     company: ''
     organizations: 'apple-developer-academy,zetaresearch'
 
   - rank: 121
+    name: 'André Oliveira'
+    login: 'oliveira-andre'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/30729516?v=4'
+    contributions: 487
+    company: ''
+    organizations: ''
+
+  - rank: 122
+    name: 'Eduardo Vedes'
+    login: 'evedes'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/956832?v=4'
+    contributions: 478
+    company: '*'
+    organizations: 'vuejs-pt'
+
+  - rank: 123
+    name: 'Diogo Gomes'
+    login: 'dgomes'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/137684?v=4'
+    contributions: 474
+    company: 'University of Aveiro'
+    organizations: 'ATNoG,HackAveiro,detiuaveiro,5GinFIRE,github-campus-advisors'
+
+  - rank: 124
+    name: 'Bruno Krebs'
+    login: 'brunokrebs'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/15347252?v=4'
+    contributions: 470
+    company: ''
+    organizations: ''
+
+  - rank: 125
     name: 'Tiago Alves'
     login: 'alvesjtiago'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/407470?v=4'
@@ -970,23 +1002,47 @@ users:
     company: ''
     organizations: 'sketch-hq,recall-photos,donesunday,pokettocash'
 
-  - rank: 122
-    name: 'Miguel Mano'
-    login: 'aquelemiguel'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5618493?v=4'
-    contributions: 455
-    company: '@feup'
-    organizations: 'ieeeupsb'
-
-  - rank: 123
+  - rank: 126
     name: 'Gonçalo Camelo Neves Pereira'
     login: 'G-Pereira'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/15521303?v=4'
-    contributions: 451
+    contributions: 458
     company: 'Universidade do Porto'
     organizations: 'ieeeupsb,EpicGames,NVIDIAGameWorks,F1Invictus,FEUP-MIEEC,lcdporto,TSense'
 
-  - rank: 124
+  - rank: 127
+    name: 'André Mazayev'
+    login: 'AndreMaz'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/9802754?v=4'
+    contributions: 456
+    company: ''
+    organizations: 'moleculerjs,moleculer-framework'
+
+  - rank: 128
+    name: 'Miguel Mano'
+    login: 'aquelemiguel'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5618493?v=4'
+    contributions: 453
+    company: '@feup'
+    organizations: 'ieeeupsb'
+
+  - rank: 129
+    name: 'Rafael Jeffman'
+    login: 'rafasgj'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1592349?v=4'
+    contributions: 452
+    company: ''
+    organizations: ''
+
+  - rank: 130
+    name: 'Tomás Batista'
+    login: 'tomas99batista'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/34144094?v=4'
+    contributions: 451
+    company: ''
+    organizations: ''
+
+  - rank: 131
     name: 'Emanoel Vianna'
     login: 'emanoelvianna'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/4459681?v=4'
@@ -994,31 +1050,7 @@ users:
     company: 'CCEM Development'
     organizations: 'ccem-dev,adventure-code'
 
-  - rank: 125
-    name: 'Fábio Santos'
-    login: 'fabiosantoscode'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1611595?v=4'
-    contributions: 445
-    company: ''
-    organizations: ''
-
-  - rank: 126
-    name: 'Rafael Jeffman'
-    login: 'rafasgj'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1592349?v=4'
-    contributions: 442
-    company: ''
-    organizations: ''
-
-  - rank: 127
-    name: 'Eduardo Silva'
-    login: 'Eduardo-LP-Silva'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/32617691?v=4'
-    contributions: 442
-    company: ''
-    organizations: ''
-
-  - rank: 128
+  - rank: 132
     name: 'Nelson Silva'
     login: 'nelsonsilva'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/6028?v=4'
@@ -1026,31 +1058,39 @@ users:
     company: 'Nuxeo'
     organizations: 'inevo,nuxeo,threeDart,cali-reco,encontra,diorama'
 
-  - rank: 129
-    name: 'Pedro Fernandes'
-    login: 'pedromsfernandes'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/26689768?v=4'
-    contributions: 426
-    company: ''
-    organizations: ''
-
-  - rank: 130
+  - rank: 133
     name: 'Guilherme Andrade'
     login: 'g-andrade'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/7349502?v=4'
-    contributions: 423
+    contributions: 439
     company: '@miniclip '
     organizations: 'miniclip'
 
-  - rank: 131
-    name: 'Ruben Mateus'
-    login: 'RubenMateus'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/24896825?v=4'
-    contributions: 422
-    company: '@hexis-hub '
-    organizations: 'hexis-hub,HypeStudios'
+  - rank: 134
+    name: 'Eduardo Silva'
+    login: 'Eduardo-LP-Silva'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/32617691?v=4'
+    contributions: 431
+    company: ''
+    organizations: ''
 
-  - rank: 132
+  - rank: 135
+    name: 'Fábio Santos'
+    login: 'fabiosantoscode'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1611595?v=4'
+    contributions: 429
+    company: ''
+    organizations: ''
+
+  - rank: 136
+    name: 'Diego Pacheco'
+    login: 'diegopacheco'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/121278?v=4'
+    contributions: 423
+    company: 'Crom Microsystems'
+    organizations: ''
+
+  - rank: 137
     name: 'Rodrigo Graça'
     login: 'rodrigograca31'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1134310?v=4'
@@ -1058,23 +1098,31 @@ users:
     company: ''
     organizations: 'HackAveiro,Build-Week-Sleep-Tracker-App'
 
-  - rank: 133
-    name: 'Tomás Batista'
-    login: 'tomas99batista'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/34144094?v=4'
-    contributions: 419
-    company: ''
+  - rank: 138
+    name: 'Miguel Andrade'
+    login: 'miguelcobain'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/631691?v=4'
+    contributions: 421
+    company: '@CoachLogix '
     organizations: ''
 
-  - rank: 134
+  - rank: 139
+    name: 'David Paiva'
+    login: 'dpaiv0'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/32089154?v=4'
+    contributions: 420
+    company: '@SwitchbladeBot'
+    organizations: 'SwitchbladeBot'
+
+  - rank: 140
     name: 'Pierre Martin'
     login: 'hickscorp'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/822933?v=4'
-    contributions: 418
+    contributions: 419
     company: 'Consilience Ventures'
     organizations: 'wid-la,sudoerslda,tableturn'
 
-  - rank: 135
+  - rank: 141
     name: 'Ricardo Lafuente'
     login: 'rlafuente'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/159868?v=4'
@@ -1082,7 +1130,7 @@ users:
     company: 'Journalism++'
     organizations: 'transparenciahackday'
 
-  - rank: 136
+  - rank: 142
     name: 'Ricardo Lopes'
     login: 'Raicuparta'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3955124?v=4'
@@ -1090,39 +1138,47 @@ users:
     company: ''
     organizations: 'livebots,bravebunny'
 
-  - rank: 137
-    name: 'Miguel Andrade'
-    login: 'miguelcobain'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/631691?v=4'
+  - rank: 143
+    name: 'Miguel Riem de Oliveira'
+    login: 'miguelriemoliveira'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/11350998?v=4'
     contributions: 404
-    company: '@CoachLogix '
-    organizations: ''
+    company: 'University of Aveiro'
+    organizations: 'lardemua'
 
-  - rank: 138
-    name: 'Alexandre Catarino'
-    login: 'AlexCatarino'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6889033?v=4'
-    contributions: 401
-    company: '@QuantConnect '
-    organizations: 'QuantConnect'
+  - rank: 144
+    name: 'Ruben Mateus'
+    login: 'RubenMateus'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/24896825?v=4'
+    contributions: 404
+    company: '@hexis-hub '
+    organizations: 'hexis-hub,HypeStudios'
 
-  - rank: 139
-    name: 'Cajo Albuquerque'
-    login: 'CajoAlbuquerque'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/38107736?v=4'
-    contributions: 400
+  - rank: 145
+    name: 'Pedro Fernandes'
+    login: 'pedromsfernandes'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/26689768?v=4'
+    contributions: 403
     company: ''
     organizations: ''
 
-  - rank: 140
-    name: 'Michel Anderson Lütz Teixeira'
-    login: 'micheltlutz'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/536630?v=4'
-    contributions: 395
-    company: '@warrenbrasil'
-    organizations: 'MobiTalks'
+  - rank: 146
+    name: 'Alexandre Catarino'
+    login: 'AlexCatarino'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6889033?v=4'
+    contributions: 400
+    company: '@QuantConnect '
+    organizations: 'QuantConnect'
 
-  - rank: 141
+  - rank: 147
+    name: 'Cajo Albuquerque'
+    login: 'CajoAlbuquerque'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/38107736?v=4'
+    contributions: 397
+    company: ''
+    organizations: ''
+
+  - rank: 148
     name: 'Daniel Andrade'
     login: 'dansku'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/590207?v=4'
@@ -1130,7 +1186,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 142
+  - rank: 149
     name: 'Nuno'
     login: 'nunoh'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1161423?v=4'
@@ -1138,47 +1194,31 @@ users:
     company: ''
     organizations: 'Digitopia'
 
-  - rank: 143
-    name: 'João Ferreira'
-    login: 'joaopedrodcf'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/11476152?v=4'
-    contributions: 391
-    company: '@farfetch'
-    organizations: ''
-
-  - rank: 144
-    name: 'Miguel Riem de Oliveira'
-    login: 'miguelriemoliveira'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11350998?v=4'
-    contributions: 391
-    company: 'University of Aveiro'
-    organizations: 'lardemua'
-
-  - rank: 145
-    name: 'Duarte Oliveira'
-    login: 'DuarteOliveira8'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/28369510?v=4'
-    contributions: 390
-    company: ''
-    organizations: ''
-
-  - rank: 146
+  - rank: 150
     name: 'Isa Giongo'
     login: 'isagiongo'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/18104134?v=4'
-    contributions: 387
+    contributions: 389
     company: ''
     organizations: ''
 
-  - rank: 147
-    name: 'Vicente Marçal'
-    login: 'Riverfount'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/26264782?v=4'
+  - rank: 151
+    name: 'Michel Anderson Lütz Teixeira'
+    login: 'micheltlutz'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/536630?v=4'
+    contributions: 389
+    company: '@warrenbrasil'
+    organizations: 'MobiTalks'
+
+  - rank: 152
+    name: 'João Ferreira'
+    login: 'joaopedrodcf'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/11476152?v=4'
     contributions: 387
-    company: 'Fundação Universidade Federal de Rondônia'
+    company: '@farfetch'
     organizations: ''
 
-  - rank: 148
+  - rank: 153
     name: 'Francisco Maria Calisto'
     login: 'FMCalisto'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1298239?v=4'
@@ -1186,39 +1226,55 @@ users:
     company: 'Interactive Technologies Institute'
     organizations: 'collective,beerjs,EpicGames,Quora-Users,opprDev,opprEdu,opprGroup,MIMBCD-UI,ETIST,mida-project,BreastScreening,sipg-isr'
 
-  - rank: 149
-    name: 'Joao Azevedo'
-    login: 'jcazevedo'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/143188?v=4'
-    contributions: 381
-    company: '@velocidi'
-    organizations: 'ShiftForward,velocidi,FoundersFounders,pureconfig'
-
-  - rank: 150
-    name: 'Eduardo Jorge'
-    login: 'herulume'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/9318723?v=4'
-    contributions: 375
-    company: '@cesium '
-    organizations: 'cesium,eneiconf'
-
-  - rank: 151
-    name: 'Gabriel Poça'
-    login: 'gabrielpoca'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/934580?v=4'
-    contributions: 371
+  - rank: 154
+    name: 'Duarte Oliveira'
+    login: 'DuarteOliveira8'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/28369510?v=4'
+    contributions: 382
     company: ''
-    organizations: 'subvisual,Plazr,U-Play,utrustdev'
+    organizations: ''
 
-  - rank: 152
+  - rank: 155
+    name: 'Vicente Marçal'
+    login: 'Riverfount'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/26264782?v=4'
+    contributions: 374
+    company: 'Fundação Universidade Federal de Rondônia'
+    organizations: ''
+
+  - rank: 156
     name: 'Eduardo Correia'
     login: 'Educorreia932'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/44172778?v=4'
-    contributions: 369
+    contributions: 371
     company: 'FEUP'
     organizations: ''
 
-  - rank: 153
+  - rank: 157
+    name: 'José Postiga'
+    login: 'josepostiga'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5563554?v=4'
+    contributions: 371
+    company: '@Infraspeak '
+    organizations: 'laravel-portugal,vostpt,Infraspeak,speakhub'
+
+  - rank: 158
+    name: 'Gabriel Poça'
+    login: 'gabrielpoca'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/934580?v=4'
+    contributions: 370
+    company: ''
+    organizations: 'subvisual,Plazr,U-Play,utrustdev'
+
+  - rank: 159
+    name: 'Pedro Mendonça'
+    login: 'pedro-mendonca'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/7371591?v=4'
+    contributions: 368
+    company: ''
+    organizations: 'WP-Translations,AdvancedCustomFields'
+
+  - rank: 160
     name: 'Björn Johansson'
     login: 'BjornFJohansson'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/9726401?v=4'
@@ -1226,7 +1282,7 @@ users:
     company: 'Universidade do Minho'
     organizations: 'MetabolicEngineeringGroupCBMA'
 
-  - rank: 154
+  - rank: 161
     name: 'Rodrigo Tamura'
     login: 'rodrigotamura'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/19500519?v=4'
@@ -1234,7 +1290,7 @@ users:
     company: 'Self'
     organizations: ''
 
-  - rank: 155
+  - rank: 162
     name: 'João Leite'
     login: 'joaogsleite'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6785689?v=4'
@@ -1242,119 +1298,111 @@ users:
     company: 'blue-infinity Linked by Isobar'
     organizations: 'require-lx,dockerlisbon,n1zes,saloiatv'
 
-  - rank: 156
-    name: 'Duarte Manuel Ribeiro Pinto'
-    login: 'duartepinto'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/7612420?v=4'
-    contributions: 362
-    company: '@velocidi '
-    organizations: 'velocidi,alumniei'
+  - rank: 163
+    name: 'Eduardo Jorge'
+    login: 'herulume'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/9318723?v=4'
+    contributions: 364
+    company: '@cesium '
+    organizations: 'cesium,eneiconf'
 
-  - rank: 157
+  - rank: 164
     name: 'Fernando Mendes'
     login: 'frm'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4325027?v=4'
-    contributions: 361
+    contributions: 359
     company: '@subvisual'
     organizations: 'subvisual,railsgirls,cesium,coderdojobraga,includebraga,geometry-zsh,cooperativa-tech'
 
-  - rank: 158
+  - rank: 165
+    name: 'Duarte Manuel Ribeiro Pinto'
+    login: 'duartepinto'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/7612420?v=4'
+    contributions: 357
+    company: '@velocidi '
+    organizations: 'velocidi,alumniei'
+
+  - rank: 166
+    name: 'Joao Azevedo'
+    login: 'jcazevedo'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/143188?v=4'
+    contributions: 356
+    company: '@velocidi'
+    organizations: 'ShiftForward,velocidi,FoundersFounders,pureconfig'
+
+  - rank: 167
     name: 'João Antunes'
     login: 'JGAntunes'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/5799039?v=4'
-    contributions: 358
+    contributions: 352
     company: '@yldio'
     organizations: 'require-lx,dockerlisbon,sinfo,yldio,ipfs'
 
-  - rank: 159
-    name: 'Pedro Mendonça'
-    login: 'pedro-mendonca'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/7371591?v=4'
-    contributions: 358
-    company: ''
-    organizations: 'WP-Translations,AdvancedCustomFields'
-
-  - rank: 160
+  - rank: 168
     name: 'Alexandre Neto'
     login: 'SrNetoChan'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3607161?v=4'
-    contributions: 353
+    contributions: 351
     company: ''
     organizations: 'qgis,qgispt'
 
-  - rank: 161
+  - rank: 169
     name: 'Ivandro Ismael'
     login: 'ivandrofly'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/6579818?v=4'
-    contributions: 350
+    contributions: 349
     company: '@SubtitleEdit @nibblesoft @design-patterns-for-humans '
     organizations: 'SubtitleEdit,nibblesoft,design-patterns-for-humans,bigtechnologies-gw'
 
-  - rank: 162
+  - rank: 170
     name: 'Ricardo Amaral'
     login: 'rfgamaral'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/96476?v=4'
-    contributions: 347
+    contributions: 348
     company: '@PaddyPowerBetfair'
     organizations: ''
 
-  - rank: 163
-    name: 'Francisco Franco'
-    login: 'franciscofranco'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/792248?v=4'
-    contributions: 345
-    company: 'Self-employed & consultor'
-    organizations: ''
-
-  - rank: 164
-    name: 'J Guerreiro'
-    login: 'Jguer'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/8071073?v=4'
-    contributions: 343
-    company: ''
-    organizations: 'HackerSchool'
-
-  - rank: 165
-    name: 'Edgar Carneiro'
-    login: 'EdgarACarneiro'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/22712373?v=4'
-    contributions: 339
-    company: '@FEUP'
-    organizations: ''
-
-  - rank: 166
-    name: 'Lucas Valandro'
-    login: 'valandro'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15777348?v=4'
-    contributions: 338
-    company: ''
-    organizations: 'IDEjr'
-
-  - rank: 167
+  - rank: 171
     name: 'Rafael Caferati'
     login: 'rcaferati'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/8358797?v=4'
-    contributions: 336
+    contributions: 346
     company: ''
     organizations: ''
 
-  - rank: 168
-    name: 'Olavio Lacerda '
-    login: 'olaviolacerda'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/18356605?v=4'
-    contributions: 335
-    company: '@somosphi'
-    organizations: ''
+  - rank: 172
+    name: 'Bruno Gaspar'
+    login: 'brunogaspar'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/2285372?v=4'
+    contributions: 344
+    company: ''
+    organizations: 'cartalyst,werxe,hypefactors,omniship'
 
-  - rank: 169
+  - rank: 173
     name: 'Daniel Serrano'
     login: 'dnlserrano'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/5096953?v=4'
-    contributions: 335
+    contributions: 338
     company: '@Onfido'
     organizations: ''
 
-  - rank: 170
+  - rank: 174
+    name: 'Olavio Lacerda '
+    login: 'olaviolacerda'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/18356605?v=4'
+    contributions: 336
+    company: '@somosphi'
+    organizations: ''
+
+  - rank: 175
+    name: 'Francisco Sousa'
+    login: 'TheMrKiko'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/24362958?v=4'
+    contributions: 335
+    company: '@QueerIST '
+    organizations: 'QueerIST'
+
+  - rank: 176
     name: ''
     login: 'diogotorres97'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/19807377?v=4'
@@ -1362,39 +1410,87 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 171
+  - rank: 177
+    name: 'Lucas Valandro'
+    login: 'valandro'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15777348?v=4'
+    contributions: 334
+    company: ''
+    organizations: 'IDEjr'
+
+  - rank: 178
+    name: 'João Carlos Maduro'
+    login: 'Raidenkyu'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/25936327?v=4'
+    contributions: 333
+    company: '@Feup'
+    organizations: ''
+
+  - rank: 179
     name: 'André Mourato'
     login: 'andremourato'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/23279460?v=4'
-    contributions: 331
+    contributions: 332
     company: 'University of Aveiro'
     organizations: ''
 
-  - rank: 172
-    name: 'Bruno Gaspar'
-    login: 'brunogaspar'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/2285372?v=4'
-    contributions: 329
+  - rank: 180
+    name: 'Hélio Guilherme'
+    login: 'HelioGuilherme66'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2866630?v=4'
+    contributions: 331
     company: ''
-    organizations: 'cartalyst,werxe,hypefactors,omniship'
+    organizations: ''
 
-  - rank: 173
+  - rank: 181
+    name: 'Daniel Amarante'
+    login: 'amarantedaniel'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7462237?v=4'
+    contributions: 327
+    company: '@GetAmbush '
+    organizations: 'GetAmbush,TigerhoodInc,PUCRSOpenSource,wakeful-pigs,GoatLabsInc'
+
+  - rank: 182
+    name: 'João Esteves'
+    login: 'Joao611'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/17863203?v=4'
+    contributions: 324
+    company: ''
+    organizations: ''
+
+  - rank: 183
+    name: 'Edgar Carneiro'
+    login: 'EdgarACarneiro'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/22712373?v=4'
+    contributions: 324
+    company: '@FEUP'
+    organizations: ''
+
+  - rank: 184
+    name: 'Francisco Franco'
+    login: 'franciscofranco'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/792248?v=4'
+    contributions: 324
+    company: 'Self-employed & consultor'
+    organizations: ''
+
+  - rank: 185
+    name: 'José Pedro Dias'
+    login: 'JosePedroDias'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/525733?v=4'
+    contributions: 324
+    company: 'Sky (Portuguese Office)'
+    organizations: ''
+
+  - rank: 186
     name: 'Lucas Inocente'
     login: 'lucasinocente'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2191020?v=4'
-    contributions: 325
+    contributions: 324
     company: ''
     organizations: 'fightanalytics,ValorizeVidas,Tech-ee-Beer,5minutosde'
 
-  - rank: 174
-    name: 'Pedro Teixeira'
-    login: 'pedrovt'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/23028986?v=4'
-    contributions: 323
-    company: '@detiuaveiro - University of Aveiro, Portugal '
-    organizations: ''
-
-  - rank: 175
+  - rank: 187
     name: 'Michael Brown'
     login: 'mluisbrown'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4175766?v=4'
@@ -1402,23 +1498,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 176
-    name: 'Francisco Knebel'
-    login: 'FranciscoKnebel'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/10299622?v=4'
-    contributions: 322
-    company: '@IDEjr'
-    organizations: 'ComputerNetworks-UFRGS,IDEjr,Desenfila'
-
-  - rank: 177
-    name: 'João Esteves'
-    login: 'Joao611'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/17863203?v=4'
-    contributions: 321
-    company: ''
-    organizations: ''
-
-  - rank: 178
+  - rank: 188
     name: 'Diogo Silva'
     login: 'fsdiogo'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/33324750?v=4'
@@ -1426,15 +1506,15 @@ users:
     company: '@moxystudio'
     organizations: 'libp2p,moxystudio,multiformats'
 
-  - rank: 179
-    name: 'José Pedro Pinto'
-    login: '62random'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/22844109?v=4'
+  - rank: 189
+    name: 'Pedro Rijo'
+    login: 'pedrorijo91'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1999050?v=4'
     contributions: 320
-    company: 'University of Minho'
-    organizations: ''
+    company: '@TripAdvisor'
+    organizations: 'git,github-beta'
 
-  - rank: 180
+  - rank: 190
     name: 'Tiago Noronha'
     login: 'tiagonoronha'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1177726?v=4'
@@ -1442,7 +1522,23 @@ users:
     company: '@Automattic '
     organizations: ''
 
-  - rank: 181
+  - rank: 191
+    name: 'Francisco Knebel'
+    login: 'FranciscoKnebel'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/10299622?v=4'
+    contributions: 319
+    company: '@IDEjr'
+    organizations: 'ComputerNetworks-UFRGS,IDEjr,Desenfila'
+
+  - rank: 192
+    name: 'José Pedro Pinto'
+    login: '62random'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/22844109?v=4'
+    contributions: 318
+    company: 'University of Minho'
+    organizations: ''
+
+  - rank: 193
     name: 'Pires'
     login: 'pires'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1752631?v=4'
@@ -1450,23 +1546,15 @@ users:
     company: ''
     organizations: 'kubernetes,virtual-kubelet'
 
-  - rank: 182
-    name: 'Pedro Costa'
-    login: 'pedroduartecosta'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/9059178?v=4'
+  - rank: 194
+    name: 'João Reis'
+    login: 'joaocgreis'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/134460?v=4'
     contributions: 317
-    company: ''
-    organizations: 'alumniei'
+    company: '@janeasystems'
+    organizations: 'microsoft,JaneaSystems,nodejs'
 
-  - rank: 183
-    name: 'Ricardo Constantino'
-    login: 'wiiaboo'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/111605?v=4'
-    contributions: 315
-    company: ''
-    organizations: 'mpv-player,m-ab-s'
-
-  - rank: 184
+  - rank: 195
     name: 'Diogo Pacheco'
     login: 'Dpac99'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/31493590?v=4'
@@ -1474,39 +1562,47 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 185
+  - rank: 196
+    name: 'Andrea Peruffo'
+    login: 'andreaTP'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5792097?v=4'
+    contributions: 313
+    company: ''
+    organizations: 'akka-js'
+
+  - rank: 197
     name: 'Mauricio David'
     login: 'mbdavid'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1137197?v=4'
-    contributions: 314
+    contributions: 309
     company: ''
     organizations: ''
 
-  - rank: 186
-    name: 'João Reis'
-    login: 'joaocgreis'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/134460?v=4'
-    contributions: 312
-    company: '@janeasystems'
-    organizations: 'microsoft,JaneaSystems,nodejs'
-
-  - rank: 187
-    name: 'Hélio Guilherme'
-    login: 'HelioGuilherme66'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2866630?v=4'
-    contributions: 311
-    company: ''
+  - rank: 198
+    name: 'Pedro Teixeira'
+    login: 'pedrovt'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/23028986?v=4'
+    contributions: 309
+    company: '@detiuaveiro - University of Aveiro, Portugal '
     organizations: ''
 
-  - rank: 188
-    name: 'Pedro Rijo'
-    login: 'pedrorijo91'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1999050?v=4'
+  - rank: 199
+    name: 'Pedro Costa'
+    login: 'pedroduartecosta'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/9059178?v=4'
+    contributions: 308
+    company: ''
+    organizations: 'alumniei'
+
+  - rank: 200
+    name: 'J Guerreiro'
+    login: 'Jguer'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8071073?v=4'
     contributions: 307
-    company: '@TripAdvisor'
-    organizations: 'git,github-beta'
+    company: ''
+    organizations: 'HackerSchool'
 
-  - rank: 189
+  - rank: 201
     name: 'Icaro Motta'
     login: 'ilmotta'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/46027?v=4'
@@ -1514,7 +1610,7 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 190
+  - rank: 202
     name: 'JD Costa'
     login: 'joaodiogocosta'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1585289?v=4'
@@ -1522,23 +1618,23 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 191
+  - rank: 203
+    name: 'Ricardo Constantino'
+    login: 'wiiaboo'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/111605?v=4'
+    contributions: 303
+    company: ''
+    organizations: 'mpv-player,m-ab-s'
+
+  - rank: 204
     name: 'Thiago Galvani'
     login: 'thiagopaiva99'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/20430611?v=4'
-    contributions: 303
+    contributions: 302
     company: '@ilegra '
     organizations: 'GoogleWebMobileCertification'
 
-  - rank: 192
-    name: 'João Carlos Maduro'
-    login: 'Raidenkyu'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/25936327?v=4'
-    contributions: 302
-    company: '@Feup'
-    organizations: ''
-
-  - rank: 193
+  - rank: 205
     name: 'Pedro Costa'
     login: 'pfac'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1141870?v=4'
@@ -1546,23 +1642,31 @@ users:
     company: '@subvisual '
     organizations: 'subvisual,cesium,fossasia,utrustdev'
 
-  - rank: 194
+  - rank: 206
+    name: 'Sandrina Pereira'
+    login: 'sandrina-p'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/14869087?v=4'
+    contributions: 298
+    company: ''
+    organizations: ''
+
+  - rank: 207
+    name: 'Ana Phi Sancho'
+    login: 'anasancho'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/4641280?v=4'
+    contributions: 291
+    company: 'https://www.behance.net/anasancho'
+    organizations: ''
+
+  - rank: 208
     name: 'Gabriele Canepa'
     login: 'gabrielecanepa'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/24722181?v=4'
-    contributions: 295
+    contributions: 290
     company: '@trendiamo, @lewagon'
     organizations: 'opensourcedesign,lewagon,trendiamo'
 
-  - rank: 195
-    name: 'Andrea Peruffo'
-    login: 'andreaTP'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5792097?v=4'
-    contributions: 293
-    company: ''
-    organizations: 'akka-js'
-
-  - rank: 196
+  - rank: 209
     name: 'Marcelo Chaves'
     login: 'marcelochaves95'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/30784247?v=4'
@@ -1570,7 +1674,7 @@ users:
     company: '@aquiris'
     organizations: 'dormirnaodaxpstudio'
 
-  - rank: 197
+  - rank: 210
     name: 'Rafael Belchior'
     login: 'RafaelAPB'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/11261236?v=4'
@@ -1578,39 +1682,23 @@ users:
     company: ''
     organizations: 'GCE-NEIIST'
 
-  - rank: 198
-    name: 'Gonçalo Santos'
-    login: 'weirdNox'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/3155049?v=4'
-    contributions: 284
-    company: ''
-    organizations: ''
-
-  - rank: 199
-    name: 'Francisco Sousa'
-    login: 'TheMrKiko'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/24362958?v=4'
-    contributions: 284
-    company: '@QueerIST '
-    organizations: 'QueerIST'
-
-  - rank: 200
+  - rank: 211
     name: 'Vitor Peixoto'
     login: 'VitorPeixoto97'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/25623378?v=4'
-    contributions: 280
+    contributions: 278
     company: 'MIEI@UM'
     organizations: ''
 
-  - rank: 201
-    name: 'Daniel Amarante'
-    login: 'amarantedaniel'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7462237?v=4'
-    contributions: 277
-    company: '@GetAmbush '
-    organizations: 'GetAmbush,TigerhoodInc,PUCRSOpenSource,wakeful-pigs,GoatLabsInc'
+  - rank: 212
+    name: 'Gonçalo Santos'
+    login: 'weirdNox'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/3155049?v=4'
+    contributions: 276
+    company: ''
+    organizations: ''
 
-  - rank: 202
+  - rank: 213
     name: 'Vasco Ramos'
     login: 'vascoalramos'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/38591616?v=4'
@@ -1618,39 +1706,23 @@ users:
     company: 'University of Aveiro '
     organizations: ''
 
-  - rank: 203
-    name: 'Duarte Dias'
-    login: 'DuarteDx'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/24175831?v=4'
-    contributions: 274
-    company: 'Engineering Student'
-    organizations: 'JUNITEC'
-
-  - rank: 204
-    name: 'André'
-    login: 'AndreVarandas'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11405075?v=4'
-    contributions: 274
-    company: ''
-    organizations: ''
-
-  - rank: 205
+  - rank: 214
     name: 'Bernardo Santos'
     login: 'bernas670'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/36735337?v=4'
-    contributions: 270
+    contributions: 275
     company: '@FEUP'
     organizations: ''
 
-  - rank: 206
-    name: 'Rogério Vicente'
-    login: 'rogeriopvl'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/38240?v=4'
-    contributions: 268
-    company: '@StudentFinance'
-    organizations: 'require-lx,LXJS,nodejs,fullstacklx,terser,httpcats,StudentFinance'
+  - rank: 215
+    name: 'André'
+    login: 'AndreVarandas'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/11405075?v=4'
+    contributions: 273
+    company: ''
+    organizations: ''
 
-  - rank: 207
+  - rank: 216
     name: 'Levindo Gabriel Taschetto Neto'
     login: 'levindoneto'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/12832687?v=4'
@@ -1658,23 +1730,15 @@ users:
     company: 'Realize CFI, Swabian Instruments GmbH'
     organizations: 'Verites,Jachei,IPVS-AS'
 
-  - rank: 208
-    name: 'Sandrina Pereira'
-    login: 'sandrina-p'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/14869087?v=4'
+  - rank: 217
+    name: 'Rogério Vicente'
+    login: 'rogeriopvl'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/38240?v=4'
     contributions: 268
-    company: ''
-    organizations: ''
+    company: '@StudentFinance'
+    organizations: 'require-lx,LXJS,nodejs,fullstacklx,terser,httpcats,StudentFinance'
 
-  - rank: 209
-    name: 'Miguel Palhas'
-    login: 'naps62'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/283819?v=4'
-    contributions: 268
-    company: '@subvisual'
-    organizations: 'subvisual,cesium,utrustdev'
-
-  - rank: 210
+  - rank: 218
     name: 'Paulo Morgado'
     login: 'paulomorgado'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/470455?v=4'
@@ -1682,23 +1746,7 @@ users:
     company: '@Microsoft'
     organizations: 'pontonetpt,msmvppt'
 
-  - rank: 211
-    name: 'Sérgio Jorge'
-    login: 'sergiotj'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/17478701?v=4'
-    contributions: 266
-    company: ''
-    organizations: ''
-
-  - rank: 212
-    name: 'Sérgio Silva'
-    login: 'sergiofbsilva'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1778577?v=4'
-    contributions: 265
-    company: '@Talkdesk'
-    organizations: 'fenix-framework,ist-dsi,dsi-dev-sessions'
-
-  - rank: 213
+  - rank: 219
     name: 'Francisco Ferreira'
     login: 'OXINARF'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1778527?v=4'
@@ -1706,23 +1754,39 @@ users:
     company: ''
     organizations: 'ArduPilot'
 
-  - rank: 214
+  - rank: 220
+    name: 'Sérgio Jorge'
+    login: 'sergiotj'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/17478701?v=4'
+    contributions: 265
+    company: ''
+    organizations: ''
+
+  - rank: 221
+    name: 'Rui Santos'
+    login: 'RuiSantosdotme'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6280520?v=4'
+    contributions: 264
+    company: ''
+    organizations: ''
+
+  - rank: 222
     name: 'Romulo Cintra'
     login: 'romulocintra'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1572026?v=4'
-    contributions: 265
+    contributions: 261
     company: ''
     organizations: 'tc39,Maps4HTML,o-rango,xlayers'
 
-  - rank: 215
-    name: 'Daniel'
-    login: 'SupSuper'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/603444?v=4'
-    contributions: 260
-    company: '@OpenXcom '
-    organizations: 'OpenXcom'
+  - rank: 223
+    name: 'Duarte Dias'
+    login: 'DuarteDx'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/24175831?v=4'
+    contributions: 258
+    company: 'Engineering Student'
+    organizations: 'JUNITEC'
 
-  - rank: 216
+  - rank: 224
     name: 'Ricardo Duplos'
     login: 'ricardoduplos'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1016701?v=4'
@@ -1730,55 +1794,23 @@ users:
     company: 'Development Seed'
     organizations: 'developmentseed,hotosm,flipside-org,WorldBank-Transport,lisbon-opendata,openimagerynetwork,procurement-analytics,satsummit'
 
-  - rank: 217
+  - rank: 225
+    name: 'Daniel'
+    login: 'SupSuper'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/603444?v=4'
+    contributions: 253
+    company: '@OpenXcom '
+    organizations: 'OpenXcom'
+
+  - rank: 226
     name: 'Jaime Marques'
     login: 'MrTheSoulz'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5899335?v=4'
-    contributions: 254
-    company: ''
-    organizations: ''
-
-  - rank: 218
-    name: 'Miguel Ruivo'
-    login: 'miguelpruivo'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/27860743?v=4'
-    contributions: 254
-    company: ''
-    organizations: 'isec-aet,vostpt,FlutterPortugal'
-
-  - rank: 219
-    name: 'António Ramadas'
-    login: 'antonio-ramadas'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/9095073?v=4'
-    contributions: 253
-    company: '@PaddyPowerBetfair'
-    organizations: 'softeng-feup,FoundersFounders'
-
-  - rank: 220
-    name: 'Rui Santos'
-    login: 'RuiSantosdotme'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6280520?v=4'
     contributions: 253
     company: ''
     organizations: ''
 
-  - rank: 221
-    name: 'Renan'
-    login: 'renancaraujo'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6718144?v=4'
-    contributions: 253
-    company: '@dashdash '
-    organizations: 'dashdash,fireslime,flame-engine'
-
-  - rank: 222
-    name: 'Bruno Moura'
-    login: 'brunotm'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6328334?v=4'
-    contributions: 253
-    company: ''
-    organizations: ''
-
-  - rank: 223
+  - rank: 227
     name: 'José Neto'
     login: 'netojose'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/134008?v=4'
@@ -1786,47 +1818,63 @@ users:
     company: 'Clevertech'
     organizations: 'pernambucojs,wpbrasil,Planedia'
 
-  - rank: 224
-    name: 'Daniel Reis'
-    login: 'dreispt'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1246629?v=4'
-    contributions: 252
-    company: 'Open Source Integrators'
-    organizations: 'OCA'
-
-  - rank: 225
-    name: 'Resende'
-    login: 'ZePedroResende'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/17102689?v=4'
-    contributions: 250
-    company: ''
-    organizations: 'cesium,coderdojobraga,esnminho'
-
-  - rank: 226
-    name: 'Lucio Paiva'
-    login: 'luciopaiva'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6631859?v=4'
-    contributions: 250
-    company: 'Zwift'
-    organizations: 'hypermindr'
-
-  - rank: 227
-    name: 'Marco Afonso'
-    login: 'taviroquai'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/498409?v=4'
-    contributions: 248
-    company: ''
-    organizations: ''
-
   - rank: 228
     name: 'Marcus Pimenta'
     login: 'marcuspimenta'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1819132?v=4'
-    contributions: 247
+    contributions: 252
     company: '@hostelworld'
     organizations: ''
 
   - rank: 229
+    name: 'Miguel Palhas'
+    login: 'naps62'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/283819?v=4'
+    contributions: 251
+    company: '@subvisual'
+    organizations: 'subvisual,cesium,utrustdev'
+
+  - rank: 230
+    name: 'Bruno Moura'
+    login: 'brunotm'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/6328334?v=4'
+    contributions: 251
+    company: ''
+    organizations: ''
+
+  - rank: 231
+    name: 'Miguel Ruivo'
+    login: 'miguelpruivo'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/27860743?v=4'
+    contributions: 248
+    company: ''
+    organizations: 'isec-aet,vostpt,FlutterPortugal'
+
+  - rank: 232
+    name: 'Sérgio Silva'
+    login: 'sergiofbsilva'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1778577?v=4'
+    contributions: 247
+    company: '@Talkdesk'
+    organizations: 'fenix-framework,ist-dsi,dsi-dev-sessions'
+
+  - rank: 233
+    name: 'Marco Afonso'
+    login: 'taviroquai'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/498409?v=4'
+    contributions: 247
+    company: ''
+    organizations: ''
+
+  - rank: 234
+    name: 'Manuel Goulão'
+    login: 'mgoulao'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/14279775?v=4'
+    contributions: 246
+    company: ''
+    organizations: ''
+
+  - rank: 235
     name: 'Marco'
     login: 'masmangan'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/595430?v=4'
@@ -1834,15 +1882,15 @@ users:
     company: ''
     organizations: ''
 
-  - rank: 230
-    name: 'Mathias Falci de Castro'
-    login: 'mathiasfc'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11564356?v=4'
-    contributions: 243
-    company: '@unbox-plus'
-    organizations: ''
+  - rank: 236
+    name: 'António Ramadas'
+    login: 'antonio-ramadas'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/9095073?v=4'
+    contributions: 245
+    company: '@PaddyPowerBetfair'
+    organizations: 'softeng-feup,FoundersFounders'
 
-  - rank: 231
+  - rank: 237
     name: 'José Carneiro'
     login: 'josecarneiro'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/7128083?v=4'
@@ -1850,55 +1898,71 @@ users:
     company: '@Ironhack'
     organizations: ''
 
-  - rank: 232
-    name: 'Tiago Temporin'
-    login: 'tiaguinho'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/961553?v=4'
-    contributions: 241
-    company: '@E-goi '
+  - rank: 238
+    name: 'Manuel Tiago Pereira'
+    login: 'mtpereira'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1542464?v=4'
+    contributions: 242
+    company: ''
+    organizations: 'BackshopCollege,assemblyline'
+
+  - rank: 239
+    name: 'Stefan Wold'
+    login: 'Ratler'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/429113?v=4'
+    contributions: 242
+    company: '@olx-global'
+    organizations: 'UnitedID,lunar-linux,SUNET,UndernetIRC'
+
+  - rank: 240
+    name: 'Renan'
+    login: 'renancaraujo'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6718144?v=4'
+    contributions: 240
+    company: '@dashdash '
+    organizations: 'dashdash,fireslime,flame-engine'
+
+  - rank: 241
+    name: 'Lucio Paiva'
+    login: 'luciopaiva'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6631859?v=4'
+    contributions: 240
+    company: 'Zwift'
+    organizations: 'hypermindr'
+
+  - rank: 242
+    name: 'Giovanni Manghi'
+    login: 'gioman'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1951107?v=4'
+    contributions: 240
+    company: '@NaturalGIS '
     organizations: ''
 
-  - rank: 233
-    name: 'Guilherme Graça'
-    login: 'ggraca'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2984831?v=4'
+  - rank: 243
+    name: 'Resende'
+    login: 'ZePedroResende'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/17102689?v=4'
     contributions: 239
     company: ''
-    organizations: ''
+    organizations: 'cesium,coderdojobraga,esnminho'
 
-  - rank: 234
-    name: 'Ademílson F. Tonato'
-    login: 'ftonato'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5417662?v=4'
+  - rank: 244
+    name: 'Bruno Martins'
+    login: 'heroslender'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/16785313?v=4'
     contributions: 238
-    company: ''
-    organizations: 'braziljs,socialpullrequest,admcode,openschoolbr'
+    company: 'Zentry Network'
+    organizations: 'ZentryOrg,PanelMc'
 
-  - rank: 235
-    name: 'Manuel Goulão'
-    login: 'mgoulao'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/14279775?v=4'
-    contributions: 238
-    company: ''
-    organizations: ''
-
-  - rank: 236
-    name: 'Gilvan Ritter'
-    login: 'gritt'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/6766519?v=4'
+  - rank: 245
+    name: 'Marcelo M. Rocha'
+    login: 'mmaiarocha'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/15997932?v=4'
     contributions: 237
-    company: '@thoughtworks'
+    company: 'UFRGS'
     organizations: ''
 
-  - rank: 237
-    name: 'Bruno Ferreira'
-    login: 'bmbferreira'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/626180?v=4'
-    contributions: 237
-    company: ''
-    organizations: ''
-
-  - rank: 238
+  - rank: 246
     name: 'Diogo Rodrigues'
     login: 'dmfrodrigues'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/43684166?v=4'
@@ -1906,39 +1970,31 @@ users:
     company: '@FEUP'
     organizations: 'FEUP-SWERC'
 
-  - rank: 239
-    name: 'Afonso Jorge Ramos'
-    login: 'afonsojramos'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/19473034?v=4'
-    contributions: 236
-    company: 'FEUP'
-    organizations: 'ieeeupsb'
+  - rank: 247
+    name: 'Gilvan Ritter'
+    login: 'gritt'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/6766519?v=4'
+    contributions: 237
+    company: '@thoughtworks'
+    organizations: ''
 
-  - rank: 240
-    name: 'Roberto Cortez'
-    login: 'radcortez'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5796305?v=4'
+  - rank: 248
+    name: 'Bruno Ferreira'
+    login: 'bmbferreira'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/626180?v=4'
     contributions: 236
     company: ''
     organizations: ''
 
-  - rank: 241
-    name: 'Bruno Martins'
-    login: 'heroslender'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/16785313?v=4'
-    contributions: 234
-    company: 'Zentry Network'
-    organizations: 'ZentryOrg,PanelMc'
+  - rank: 249
+    name: 'Daniel Reis'
+    login: 'dreispt'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1246629?v=4'
+    contributions: 233
+    company: 'Open Source Integrators'
+    organizations: 'OCA'
 
-  - rank: 242
-    name: 'Stefan Wold'
-    login: 'Ratler'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/429113?v=4'
-    contributions: 234
-    company: '@olx-global'
-    organizations: 'UnitedID,lunar-linux,SUNET,UndernetIRC'
-
-  - rank: 243
+  - rank: 250
     name: 'Maycon Cardoso'
     login: 'MayconCardoso'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/7943594?v=4'
@@ -1946,7 +2002,31 @@ users:
     company: '@accera-tech '
     organizations: ''
 
-  - rank: 244
+  - rank: 251
+    name: 'Hugo Peixoto'
+    login: 'hugopeixoto'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/111554?v=4'
+    contributions: 232
+    company: ''
+    organizations: 'portocodes,NDrive,lifeonmarspt'
+
+  - rank: 252
+    name: 'Tiago Temporin'
+    login: 'tiaguinho'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/961553?v=4'
+    contributions: 232
+    company: '@E-goi '
+    organizations: ''
+
+  - rank: 253
+    name: 'Guilherme Graça'
+    login: 'ggraca'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2984831?v=4'
+    contributions: 232
+    company: ''
+    organizations: ''
+
+  - rank: 254
     name: 'César Matias'
     login: 'dragonpt'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4494183?v=4'
@@ -1954,101 +2034,21 @@ users:
     company: 'In a mobile telecom, OEM'
     organizations: 'MediatekAndroidDevelopers'
 
-  - rank: 245
-    name: 'Hugo Peixoto'
-    login: 'hugopeixoto'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/111554?v=4'
-    contributions: 232
+  - rank: 255
+    name: 'Filipe Cruz'
+    login: 'psenough'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/808571?v=4'
+    contributions: 226
     company: ''
-    organizations: 'portocodes,NDrive,lifeonmarspt'
+    organizations: 'xDAtelier,TPOLM,artica,no-ninjas,in4k'
 
-  - rank: 246
-    name: 'José Postiga'
-    login: 'josepostiga'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5563554?v=4'
-    contributions: 228
-    company: '@Infraspeak '
-    organizations: 'laravel-portugal,vostpt,Infraspeak,speakhub'
-
-  - rank: 247
-    name: 'Paul Michalet'
-    login: 'Paulmicha'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1526964?v=4'
-    contributions: 226
-    company: 'Part-time freelancer, part-time househusband'
-    organizations: ''
-
-  - rank: 248
-    name: 'Lucas Besen'
-    login: 'lucasbesen'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/13984388?v=4'
-    contributions: 226
-    company: '@Astrocoders'
-    organizations: 'Astrocoders,react-brasil'
-
-  - rank: 249
+  - rank: 256
     name: 'Luís Dalmolin'
     login: 'luisdalmolin'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/403446?v=4'
     contributions: 226
     company: '@kirschbaum-development '
     organizations: 'EscapeWork,kirschbaum-development'
-
-  - rank: 250
-    name: ''
-    login: 'Pastilhas'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/43891019?v=4'
-    contributions: 225
-    company: ''
-    organizations: ''
-
-  - rank: 251
-    name: 'Manuel Tiago Pereira'
-    login: 'mtpereira'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1542464?v=4'
-    contributions: 225
-    company: ''
-    organizations: 'BackshopCollege,assemblyline'
-
-  - rank: 252
-    name: 'Wagner Andrade'
-    login: '19WAS85'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5842?v=4'
-    contributions: 224
-    company: '@mecasei '
-    organizations: ''
-
-  - rank: 253
-    name: 'Bruno Oliveira'
-    login: 'bmoliveira'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1921410?v=4'
-    contributions: 223
-    company: 'Chippd'
-    organizations: 'RxSwiftCommunity'
-
-  - rank: 254
-    name: 'Giovanni Manghi'
-    login: 'gioman'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1951107?v=4'
-    contributions: 222
-    company: '@NaturalGIS '
-    organizations: ''
-
-  - rank: 255
-    name: 'Filipe Cruz'
-    login: 'psenough'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/808571?v=4'
-    contributions: 222
-    company: ''
-    organizations: 'xDAtelier,TPOLM,artica,no-ninjas,in4k'
-
-  - rank: 256
-    name: 'Octávio Maia'
-    login: 'OctavioMaia'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/11216766?v=4'
-    contributions: 221
-    company: 'Universidade Minho'
-    organizations: ''
 
 private_users:
 
@@ -2056,7 +2056,7 @@ private_users:
     name: 'João Magalhães'
     login: 'joamag'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/25441?v=4'
-    contributions: 12360
+    contributions: 12323
     company: 'Hive Solutions'
     organizations: ''
 
@@ -2064,7 +2064,7 @@ private_users:
     name: 'Codacy Badger'
     login: 'codacy-badger'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/23704769?v=4'
-    contributions: 7211
+    contributions: 7013
     company: 'Codacy'
     organizations: ''
 
@@ -2072,63 +2072,63 @@ private_users:
     name: 'Diogo Gomes'
     login: 'dgomes'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/137684?v=4'
-    contributions: 6562
+    contributions: 6528
     company: 'University of Aveiro'
     organizations: 'ATNoG,HackAveiro,detiuaveiro,5GinFIRE,github-campus-advisors'
 
   - rank: 4
-    name: 'Luís Ferreira'
-    login: 'ljmf00'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5050669?v=4'
-    contributions: 6532
-    company: '@aurorafossorg '
-    organizations: 'codacy,EpicGames,dlang-tour,aurorafossorg,ipleiria-labrob'
-
-  - rank: 5
     name: 'Eder Soares'
     login: 'edersoares'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/957395?v=4'
-    contributions: 6392
+    contributions: 6239
     company: 'Portabilis'
     organizations: 'portabilis'
 
-  - rank: 6
+  - rank: 5
     name: 'Daniel Amarante'
     login: 'amarantedaniel'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/7462237?v=4'
-    contributions: 5609
+    contributions: 5663
     company: '@GetAmbush '
     organizations: 'GetAmbush,TigerhoodInc,PUCRSOpenSource,wakeful-pigs,GoatLabsInc'
 
-  - rank: 7
+  - rank: 6
     name: 'João Mourato'
     login: 'JARMourato'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/7236944?v=4'
-    contributions: 5302
+    contributions: 5341
     company: ''
     organizations: 'Swiftification'
 
-  - rank: 8
+  - rank: 7
     name: 'Luís Dalmolin'
     login: 'luisdalmolin'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/403446?v=4'
-    contributions: 4828
+    contributions: 4852
     company: '@kirschbaum-development '
     organizations: 'EscapeWork,kirschbaum-development'
 
-  - rank: 9
+  - rank: 8
     name: 'Eliseu Daroit'
     login: 'edaroit'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/13070410?v=4'
-    contributions: 4045
+    contributions: 4038
     company: '@GetAmbush '
     organizations: 'GetAmbush'
+
+  - rank: 9
+    name: 'Gonçalo Cabrita'
+    login: 'gmcabrita'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/957820?v=4'
+    contributions: 3933
+    company: 'Amplemarket'
+    organizations: '676d63'
 
   - rank: 10
     name: 'Grzegorz Pawlik'
     login: 'gpawlik'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6296883?v=4'
-    contributions: 3910
+    contributions: 3871
     company: '@Purepoint '
     organizations: ''
 
@@ -2136,67 +2136,75 @@ private_users:
     name: 'Thiago Galvani'
     login: 'thiagopaiva99'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/20430611?v=4'
-    contributions: 3866
+    contributions: 3855
     company: '@ilegra '
     organizations: 'GoogleWebMobileCertification'
 
   - rank: 12
+    name: 'Luís Ferreira'
+    login: 'ljmf00'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5050669?v=4'
+    contributions: 3758
+    company: '@aurorafossorg '
+    organizations: 'codacy,EpicGames,dlang-tour,aurorafossorg,ipleiria-labrob'
+
+  - rank: 13
     name: 'Pedro Algarvio'
     login: 's0undt3ch'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/300048?v=4'
-    contributions: 3743
+    contributions: 3723
     company: '@saltstack '
     organizations: 'saltstack'
 
-  - rank: 13
+  - rank: 14
     name: 'Diogo Serrano'
     login: 'diogopms'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/2445019?v=4'
-    contributions: 3704
+    contributions: 3721
     company: '@genesiscloud'
     organizations: 'genesiscloud'
 
-  - rank: 14
+  - rank: 15
     name: 'Leonardo Santos'
     login: 'lcdsantos'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/910974?v=4'
-    contributions: 3629
+    contributions: 3593
     company: '@plingbr '
     organizations: 'plingbr'
 
-  - rank: 15
+  - rank: 16
     name: 'Miguel Palhas'
     login: 'naps62'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/283819?v=4'
-    contributions: 3433
+    contributions: 3442
     company: '@subvisual'
     organizations: 'subvisual,cesium,utrustdev'
-
-  - rank: 16
-    name: 'Gabriel Alves'
-    login: 'goalves'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4577260?v=4'
-    contributions: 3380
-    company: '@GetAmbush '
-    organizations: 'GetAmbush,GoatLabsInc'
 
   - rank: 17
     name: 'Rúben Sousa'
     login: 'rubensousa'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/10662096?v=4'
-    contributions: 3368
+    contributions: 3405
     company: ''
     organizations: ''
 
   - rank: 18
+    name: 'Gabriel Alves'
+    login: 'goalves'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/4577260?v=4'
+    contributions: 3378
+    company: '@GetAmbush '
+    organizations: 'GetAmbush,GoatLabsInc'
+
+  - rank: 19
     name: 'felipekm'
     login: 'felipekm'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/205932?v=4'
-    contributions: 3120
+    contributions: 3092
     company: '@plingbr '
     organizations: 'plingbr,dracula'
 
-  - rank: 19
+  - rank: 20
     name: 'Hugo Peixoto'
     login: 'hugopeixoto'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/111554?v=4'
@@ -2204,15 +2212,15 @@ private_users:
     company: ''
     organizations: 'portocodes,NDrive,lifeonmarspt'
 
-  - rank: 20
+  - rank: 21
     name: 'Joao Azevedo'
     login: 'jcazevedo'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/143188?v=4'
-    contributions: 3008
+    contributions: 2947
     company: '@velocidi'
     organizations: 'ShiftForward,velocidi,FoundersFounders,pureconfig'
 
-  - rank: 21
+  - rank: 22
     name: 'Lucas Besen'
     login: 'lucasbesen'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/13984388?v=4'
@@ -2220,39 +2228,55 @@ private_users:
     company: '@Astrocoders'
     organizations: 'Astrocoders,react-brasil'
 
-  - rank: 22
+  - rank: 23
     name: 'Stéfano Stypulkowski Zanata'
     login: 'szanata'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/221676?v=4'
-    contributions: 2610
+    contributions: 2572
     company: 'Meltwater Group'
     organizations: ''
 
-  - rank: 23
+  - rank: 24
+    name: 'Henrique Dias'
+    login: 'hacdias'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5447088?v=4'
+    contributions: 2565
+    company: '@protocol '
+    organizations: 'protocol,pplware,ipfs,refactors,libp2p,ipld,multiformats,upframe,filecoin-project,ipfs-shipyard,filebrowser,ProtoSchool'
+
+  - rank: 25
     name: 'Alexandre Machado'
     login: 'Alexandre-Machado'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1766903?v=4'
-    contributions: 2552
+    contributions: 2556
     company: '@warrenbrasil '
     organizations: 'CWISoftware,CWIInnovation,warrenbrasil'
 
-  - rank: 24
+  - rank: 26
     name: 'William Martins'
     login: 'wmartins'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1560801?v=4'
-    contributions: 2452
+    contributions: 2471
     company: '@warrenbrasil'
     organizations: 'famw,awapps'
 
-  - rank: 25
+  - rank: 27
+    name: 'Mario Gil'
+    login: 'GambuzX'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/32744387?v=4'
+    contributions: 2439
+    company: '@FEUP'
+    organizations: ''
+
+  - rank: 28
     name: 'Daniel Gomes'
     login: 'dcsg'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/744921?v=4'
-    contributions: 2439
+    contributions: 2419
     company: '3cket'
     organizations: 'symfony,phplx,require-lx,nodecopterlx,SymfonyDayPT,dockerlisbon'
 
-  - rank: 26
+  - rank: 29
     name: 'Roman Imankulov'
     login: 'imankulov'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/75075?v=4'
@@ -2260,31 +2284,23 @@ private_users:
     company: '@Doist '
     organizations: 'Doist,minskpython,pyporto'
 
-  - rank: 27
-    name: 'Mario Gil'
-    login: 'GambuzX'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/32744387?v=4'
-    contributions: 2411
-    company: '@FEUP'
-    organizations: ''
-
-  - rank: 28
+  - rank: 30
     name: 'Francisco Marques'
     login: 'tofran'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5692603?v=4'
-    contributions: 2393
+    contributions: 2360
     company: '@advertio'
     organizations: 'Octocommunity,advertio'
 
-  - rank: 29
-    name: 'Pedro Gomes'
-    login: 'pedrouid'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/10136079?v=4'
-    contributions: 2356
-    company: '@WalletConnect '
-    organizations: 'ConnextProject,WalletConnect,web3connect,UCRegistry,ChainAgnostic'
+  - rank: 31
+    name: 'Filipe Coelho'
+    login: 'falkTX'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1334853?v=4'
+    contributions: 2331
+    company: ''
+    organizations: 'jackaudio'
 
-  - rank: 30
+  - rank: 32
     name: 'João Ramos'
     login: 'poor666'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/5715?v=4'
@@ -2292,63 +2308,55 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 31
-    name: 'Filipe Coelho'
-    login: 'falkTX'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1334853?v=4'
-    contributions: 2326
-    company: ''
-    organizations: 'jackaudio'
-
-  - rank: 32
-    name: 'Niko Roberts'
-    login: 'NikoRoberts'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/697418?v=4'
-    contributions: 2312
-    company: 'Eventfuel.io'
-    organizations: 'eventfuel'
-
   - rank: 33
-    name: 'Henrique Dias'
-    login: 'hacdias'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5447088?v=4'
-    contributions: 2292
-    company: '@protocol '
-    organizations: 'protocol,pplware,ipfs,refactors,libp2p,ipld,multiformats,upframe,filecoin-project,ipfs-shipyard,filebrowser,ProtoSchool'
+    name: 'Pedro Gomes'
+    login: 'pedrouid'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/10136079?v=4'
+    contributions: 2329
+    company: '@WalletConnect '
+    organizations: 'ConnextProject,WalletConnect,web3connect,UCRegistry,ChainAgnostic'
 
   - rank: 34
     name: 'Danilo Woznica'
     login: 'danilowoz'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4838076?v=4'
-    contributions: 2282
+    contributions: 2311
     company: ''
     organizations: 'airtimemedia,gatsbyjs,Significa,dayjs,VueFloripa'
 
   - rank: 35
+    name: 'Niko Roberts'
+    login: 'NikoRoberts'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/697418?v=4'
+    contributions: 2311
+    company: 'Eventfuel.io'
+    organizations: 'eventfuel'
+
+  - rank: 36
     name: 'Bruno Gaspar'
     login: 'brunogaspar'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2285372?v=4'
-    contributions: 2272
+    contributions: 2307
     company: ''
     organizations: 'cartalyst,werxe,hypefactors,omniship'
-
-  - rank: 36
-    name: 'Ricardo Canastro'
-    login: 'canastro'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1267623?v=4'
-    contributions: 2271
-    company: '@dashdash '
-    organizations: ''
 
   - rank: 37
     name: 'Gabriel Candal'
     login: 'gcandal'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3048875?v=4'
-    contributions: 2269
+    contributions: 2289
     company: '@ripe-tech '
     organizations: ''
 
   - rank: 38
+    name: 'Ricardo Canastro'
+    login: 'canastro'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1267623?v=4'
+    contributions: 2289
+    company: '@dashdash '
+    organizations: ''
+
+  - rank: 39
     name: 'Pedro Coelho'
     login: 'punnie'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/224565?v=4'
@@ -2356,19 +2364,11 @@ private_users:
     company: ''
     organizations: 'ethereal-softworks'
 
-  - rank: 39
-    name: 'Davi Busanello'
-    login: 'davibusanello'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/160360?v=4'
-    contributions: 2216
-    company: '@toptal & @undertakehq'
-    organizations: 'justo-justiceiro'
-
   - rank: 40
     name: 'Lukas'
     login: 'lukesmmr'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/4427047?v=4'
-    contributions: 2204
+    contributions: 2194
     company: '@nuevomundo '
     organizations: ''
 
@@ -2376,51 +2376,43 @@ private_users:
     name: 'Bernardo Vieira'
     login: 'obernardovieira'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/19441097?v=4'
-    contributions: 2161
+    contributions: 2150
     company: '@HQ20 '
     organizations: 'HQ20,dlx-lisbon'
 
   - rank: 42
-    name: 'Bruno Scherer'
-    login: 'brscherer'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/23034493?v=4'
-    contributions: 2141
-    company: '@ilegra'
-    organizations: ''
-
-  - rank: 43
-    name: 'Carlos Rodrigues'
-    login: 'carlosefr'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/937276?v=4'
-    contributions: 2133
-    company: ''
-    organizations: 'brpx,PixelsCamp'
-
-  - rank: 44
     name: 'Raphael Cruzeiro'
     login: 'raphaelcruzeiro'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/425640?v=4'
-    contributions: 2122
+    contributions: 2145
     company: 'Bitdreams OÜ'
     organizations: ''
 
-  - rank: 45
-    name: 'Bruno Krebs'
-    login: 'brunokrebs'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/15347252?v=4'
-    contributions: 2114
-    company: ''
-    organizations: ''
-
-  - rank: 46
+  - rank: 43
     name: 'Frederico Silva'
     login: 'fredericojssilva'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/3028172?v=4'
-    contributions: 2110
+    contributions: 2133
     company: 'Fuze'
     organizations: ''
 
-  - rank: 47
+  - rank: 44
+    name: 'Bruno Scherer'
+    login: 'brscherer'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/23034493?v=4'
+    contributions: 2129
+    company: '@ilegra'
+    organizations: ''
+
+  - rank: 45
+    name: 'Davi Busanello'
+    login: 'davibusanello'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/160360?v=4'
+    contributions: 2126
+    company: '@toptal & @undertakehq'
+    organizations: 'justo-justiceiro'
+
+  - rank: 46
     name: 'Francisco Sousa'
     login: 'jfranciscosousa'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/9119466?v=4'
@@ -2428,21 +2420,29 @@ private_users:
     company: '@aurora-digital'
     organizations: 'includebraga,aurora-digital,cooperativa-tech'
 
+  - rank: 47
+    name: 'Carlos Rodrigues'
+    login: 'carlosefr'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/937276?v=4'
+    contributions: 2072
+    company: ''
+    organizations: 'brpx,PixelsCamp'
+
   - rank: 48
-    name: 'Rogério Moreira'
-    login: 'rgllm'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/9056941?v=4'
-    contributions: 2080
-    company: '@Pixelmatters '
-    organizations: 'Pixelmatters'
+    name: 'Bruno Krebs'
+    login: 'brunokrebs'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/15347252?v=4'
+    contributions: 2068
+    company: ''
+    organizations: ''
 
   - rank: 49
-    name: 'Bruno Bernardino'
-    login: 'BrunoBernardino'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1239616?v=4'
-    contributions: 2065
-    company: 'Sunsama'
-    organizations: 'zapier,emotionLoop,sunsama'
+    name: 'Ricardo Pereira'
+    login: 'ricardopereira'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/3541185?v=4'
+    contributions: 2067
+    company: '@whitesmith '
+    organizations: 'ably-forks,whitesmith,apdip,optimizehq,thefreerideinc'
 
   - rank: 50
     name: 'Fernando Bunn'
@@ -2453,26 +2453,26 @@ private_users:
     organizations: 'CocoaHeadsBrasil'
 
   - rank: 51
-    name: 'David Francisco'
-    login: 'dmfrancisco'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/212106?v=4'
-    contributions: 2027
-    company: ''
-    organizations: 'dmfrancisco-josecapela,OneStopTransport,discordiapt,madebyform,robo54,jscoach,listcommunity,browserslist'
+    name: 'Bruno Bernardino'
+    login: 'BrunoBernardino'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1239616?v=4'
+    contributions: 2053
+    company: 'Sunsama'
+    organizations: 'zapier,emotionLoop,sunsama'
 
   - rank: 52
-    name: 'Ricardo Pereira'
-    login: 'ricardopereira'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/3541185?v=4'
-    contributions: 2025
-    company: '@whitesmith '
-    organizations: 'ably-forks,whitesmith,apdip,optimizehq,thefreerideinc'
+    name: 'Rogério Moreira'
+    login: 'rgllm'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/9056941?v=4'
+    contributions: 2036
+    company: '@Pixelmatters '
+    organizations: 'Pixelmatters'
 
   - rank: 53
     name: 'Mário Carneiro'
     login: 'ticklemynausea'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/278460?v=4'
-    contributions: 2021
+    contributions: 2014
     company: '@trustfractal'
     organizations: 'Musikki,makeorbreak-io,lifeonmarspt,trustfractal,minecraftportugal'
 
@@ -2480,55 +2480,55 @@ private_users:
     name: 'Paulo Köch'
     login: 'pkoch'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/9627?v=4'
-    contributions: 2006
+    contributions: 2011
     company: ''
     organizations: 'makeorbreak-io,trustfractal'
 
   - rank: 55
-    name: 'Wagner Andrade'
-    login: '19WAS85'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5842?v=4'
-    contributions: 1994
-    company: '@mecasei '
-    organizations: ''
-
-  - rank: 56
-    name: 'Paulo Moura'
-    login: 'pmoura'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/294478?v=4'
-    contributions: 1985
-    company: ''
-    organizations: 'LogtalkDotOrg,VivoMind,clp-sets'
-
-  - rank: 57
-    name: 'Bruno Mota'
-    login: 'bruno12mota'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/4086031?v=4'
-    contributions: 1978
-    company: 'Relax'
-    organizations: 'relax'
-
-  - rank: 58
     name: 'Rafael Ferreira'
     login: 'rafaelferreirapt'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4203171?v=4'
-    contributions: 1977
+    contributions: 2006
     company: ''
     organizations: 'muvext'
 
-  - rank: 59
-    name: 'Bruno Amaral'
-    login: 'brunoamaral'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/543344?v=4'
-    contributions: 1944
+  - rank: 56
+    name: 'David Francisco'
+    login: 'dmfrancisco'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/212106?v=4'
+    contributions: 2003
     company: ''
+    organizations: 'dmfrancisco-josecapela,OneStopTransport,discordiapt,madebyform,robo54,jscoach,listcommunity,browserslist'
+
+  - rank: 57
+    name: 'Paulo Moura'
+    login: 'pmoura'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/294478?v=4'
+    contributions: 2000
+    company: ''
+    organizations: 'LogtalkDotOrg,VivoMind,clp-sets'
+
+  - rank: 58
+    name: 'Bruno Mota'
+    login: 'bruno12mota'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/4086031?v=4'
+    contributions: 1973
+    company: 'Relax'
+    organizations: 'relax'
+
+  - rank: 59
+    name: 'Wagner Andrade'
+    login: '19WAS85'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5842?v=4'
+    contributions: 1943
+    company: '@mecasei '
     organizations: ''
 
   - rank: 60
     name: 'Anderson de Oliveira'
     login: 'andersonba'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1501013?v=4'
-    contributions: 1936
+    contributions: 1940
     company: '@Jusbrasil'
     organizations: 'jusbrasil'
 
@@ -2536,59 +2536,67 @@ private_users:
     name: 'Daniel da Silva'
     login: 'danielfdsilva'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/1090606?v=4'
-    contributions: 1918
+    contributions: 1933
     company: 'Development Seed'
     organizations: 'developmentseed,flipside-org'
 
   - rank: 62
-    name: 'Joaquim Ley'
-    login: 'JoaquimLey'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/6922748?v=4'
-    contributions: 1860
+    name: 'Bruno Amaral'
+    login: 'brunoamaral'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/543344?v=4'
+    contributions: 1884
     company: ''
     organizations: ''
 
   - rank: 63
-    name: 'Tiago Alves'
-    login: 'alvesjtiago'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/407470?v=4'
-    contributions: 1852
-    company: ''
-    organizations: 'sketch-hq,recall-photos,donesunday,pokettocash'
-
-  - rank: 64
     name: 'Rui Freitas'
     login: 'rodloboz'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/23458442?v=4'
-    contributions: 1847
+    contributions: 1872
+    company: ''
+    organizations: ''
+
+  - rank: 64
+    name: 'Joaquim Ley'
+    login: 'JoaquimLey'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/6922748?v=4'
+    contributions: 1866
     company: ''
     organizations: ''
 
   - rank: 65
-    name: 'Marlon Furtado'
-    login: 'marlonfurtado'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/20863186?v=4'
-    contributions: 1847
-    company: '@warrenbrasil '
-    organizations: 'aceleradora-TW,warrenbrasil'
+    name: 'Tiago Alves'
+    login: 'alvesjtiago'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/407470?v=4'
+    contributions: 1843
+    company: ''
+    organizations: 'sketch-hq,recall-photos,donesunday,pokettocash'
 
   - rank: 66
+    name: 'Daniel Vaz Gaspar'
+    login: 'dpgaspar'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/4025227?v=4'
+    contributions: 1832
+    company: ''
+    organizations: 'preset-io'
+
+  - rank: 67
     name: 'Dmytro Striletskyi'
     login: 'dmytrostriletskyi'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/22666467?v=4'
-    contributions: 1831
+    contributions: 1830
     company: ''
     organizations: 'Remmeauth'
 
-  - rank: 67
-    name: 'João Gradim'
-    login: 'jgradim'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/102879?v=4'
-    contributions: 1829
-    company: ''
-    organizations: 'Obsorb'
-
   - rank: 68
+    name: 'Marlon Furtado'
+    login: 'marlonfurtado'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/20863186?v=4'
+    contributions: 1830
+    company: '@warrenbrasil '
+    organizations: 'aceleradora-TW,warrenbrasil'
+
+  - rank: 69
     name: 'Jonathan Barber'
     login: 'jbarber'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/174241?v=4'
@@ -2596,51 +2604,43 @@ private_users:
     company: '@rainforestapp '
     organizations: 'rainforestapp'
 
-  - rank: 69
-    name: 'Daniel Vaz Gaspar'
-    login: 'dpgaspar'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/4025227?v=4'
-    contributions: 1827
-    company: ''
-    organizations: 'preset-io'
-
   - rank: 70
-    name: 'Maycon Cardoso'
-    login: 'MayconCardoso'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/7943594?v=4'
-    contributions: 1814
-    company: '@accera-tech '
-    organizations: ''
-
-  - rank: 71
     name: 'Rafael Baldasso Audibert'
     login: 'rafaeelaudibert'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/32079912?v=4'
-    contributions: 1783
+    contributions: 1815
     company: 'UFRGS'
     organizations: ''
 
+  - rank: 71
+    name: 'João Gradim'
+    login: 'jgradim'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/102879?v=4'
+    contributions: 1814
+    company: ''
+    organizations: 'Obsorb'
+
   - rank: 72
+    name: 'Maycon Cardoso'
+    login: 'MayconCardoso'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/7943594?v=4'
+    contributions: 1785
+    company: '@accera-tech '
+    organizations: ''
+
+  - rank: 73
     name: 'Eduardo Nunes'
     login: 'emmnunes'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1738958?v=4'
-    contributions: 1775
+    contributions: 1765
     company: 'Kollegorna'
     organizations: 'kollegorna'
-
-  - rank: 73
-    name: 'Flavio Martins'
-    login: 'flaviomartins'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/970514?v=4'
-    contributions: 1756
-    company: 'Universidade NOVA de Lisboa'
-    organizations: ''
 
   - rank: 74
     name: 'Lourens Naudé'
     login: 'methodmissing'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/379?v=4'
-    contributions: 1750
+    contributions: 1761
     company: '@bear-metal @Shopify @TuneMyGC '
     organizations: 'zeromq,postrank-labs,bear-metal'
 
@@ -2648,31 +2648,31 @@ private_users:
     name: 'Renan Vaz'
     login: 'renanpvaz'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/14297772?v=4'
-    contributions: 1743
+    contributions: 1736
     company: ''
     organizations: ''
 
   - rank: 76
-    name: 'Glauber Ramos'
-    login: 'glauberramos'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/559434?v=4'
-    contributions: 1704
-    company: 'Indie Maker @funretro'
-    organizations: 'openmrs,outspree,opensourcedesign,TWtablero,CaronaBoard,Exus-tw,fotosturvo'
-
-  - rank: 77
     name: 'João Carvalho'
     login: 'jcarvalho'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/849596?v=4'
-    contributions: 1703
+    contributions: 1698
     company: 'Talkdesk'
     organizations: 'Talkdesk,fenix-framework,github-beta'
 
+  - rank: 77
+    name: 'Glauber Ramos'
+    login: 'glauberramos'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/559434?v=4'
+    contributions: 1696
+    company: 'Indie Maker @funretro'
+    organizations: 'openmrs,outspree,opensourcedesign,TWtablero,CaronaBoard,Exus-tw,fotosturvo'
+
   - rank: 78
-    name: 'Pedro Mendes'
-    login: 'Mendess2526'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/19352680?v=4'
-    contributions: 1700
+    name: 'Rui Alves'
+    login: 'xRuiAlves'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/25830462?v=4'
+    contributions: 1680
     company: ''
     organizations: ''
 
@@ -2680,97 +2680,97 @@ private_users:
     name: 'Gabriel Poça'
     login: 'gabrielpoca'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/934580?v=4'
-    contributions: 1668
+    contributions: 1674
     company: ''
     organizations: 'subvisual,Plazr,U-Play,utrustdev'
 
   - rank: 80
-    name: 'Carlos Corrêa da Silva'
-    login: 'caiobzen'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/997521?v=4'
-    contributions: 1666
-    company: 'ThoughtWorks, Inc.'
-    organizations: ''
+    name: 'Tomaz Martins'
+    login: 'TomazMartins'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5108327?v=4'
+    contributions: 1662
+    company: '@TodoCartoes '
+    organizations: 'VisualizeMobile,Multiagente,TodoCartoes'
 
   - rank: 81
     name: 'Pierre Martin'
     login: 'hickscorp'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/822933?v=4'
-    contributions: 1654
+    contributions: 1652
     company: 'Consilience Ventures'
     organizations: 'wid-la,sudoerslda,tableturn'
 
   - rank: 82
-    name: 'Emerson Rocha'
-    login: 'fititnt'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/812299?v=4'
-    contributions: 1651
-    company: '@EticaAI @alligo'
-    organizations: 'thacker,JCBR,alligo,teampuppy,hacklabufrgs,pokemongovet,webiwg,EticaAI'
-
-  - rank: 83
-    name: 'Joaquim'
-    login: 'joa-quim'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/537321?v=4'
-    contributions: 1650
-    company: 'University Algarve'
-    organizations: ''
-
-  - rank: 84
-    name: 'Tomaz Martins'
-    login: 'TomazMartins'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5108327?v=4'
-    contributions: 1638
-    company: '@TodoCartoes '
-    organizations: 'VisualizeMobile,Multiagente,TodoCartoes'
-
-  - rank: 85
-    name: 'Tiago Bastos'
-    login: 'tiagoalexbastos'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/13312485?v=4'
-    contributions: 1629
-    company: '@Mindera '
-    organizations: ''
-
-  - rank: 86
-    name: 'Christopher Moura'
-    login: 'christophermoura'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/14416?v=4'
-    contributions: 1616
-    company: ''
-    organizations: ''
-
-  - rank: 87
     name: 'Patrick Cason'
     login: 'cereallarceny'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1297930?v=4'
-    contributions: 1612
+    contributions: 1650
     company: ''
     organizations: 'polianainc,OpenMined,scholarraise'
 
+  - rank: 83
+    name: 'Pedro Mendes'
+    login: 'Mendess2526'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/19352680?v=4'
+    contributions: 1646
+    company: ''
+    organizations: ''
+
+  - rank: 84
+    name: 'Carlos Corrêa da Silva'
+    login: 'caiobzen'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/997521?v=4'
+    contributions: 1646
+    company: 'ThoughtWorks, Inc.'
+    organizations: ''
+
+  - rank: 85
+    name: 'Joaquim'
+    login: 'joa-quim'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/537321?v=4'
+    contributions: 1640
+    company: 'University Algarve'
+    organizations: ''
+
+  - rank: 86
+    name: 'Bruno Oliveira'
+    login: 'bmoliveira'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1921410?v=4'
+    contributions: 1639
+    company: 'Chippd'
+    organizations: 'RxSwiftCommunity'
+
+  - rank: 87
+    name: 'Emerson Rocha'
+    login: 'fititnt'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/812299?v=4'
+    contributions: 1631
+    company: '@EticaAI @alligo'
+    organizations: 'thacker,JCBR,alligo,teampuppy,hacklabufrgs,pokemongovet,webiwg,EticaAI'
+
   - rank: 88
+    name: 'Tiago Bastos'
+    login: 'tiagoalexbastos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/13312485?v=4'
+    contributions: 1623
+    company: '@Mindera '
+    organizations: ''
+
+  - rank: 89
     name: 'Philip Nuzhnyi'
     login: 'callmephilip'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/492025?v=4'
-    contributions: 1610
+    contributions: 1614
     company: 'The Bakery'
     organizations: 'Remotes,bakery'
 
-  - rank: 89
+  - rank: 90
     name: 'Hugo Sousa'
     login: 'hsousa'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/2064882?v=4'
     contributions: 1609
     company: 'Plex'
     organizations: ''
-
-  - rank: 90
-    name: 'Tiago Jesus'
-    login: 'tiagofilipe12'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6191251?v=4'
-    contributions: 1606
-    company: ''
-    organizations: 'bionode,B-UMMI'
 
   - rank: 91
     name: 'Bruno Trecenti'
@@ -2781,54 +2781,62 @@ private_users:
     organizations: ''
 
   - rank: 92
+    name: 'Tiago Jesus'
+    login: 'tiagofilipe12'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6191251?v=4'
+    contributions: 1605
+    company: ''
+    organizations: 'bionode,B-UMMI'
+
+  - rank: 93
     name: 'André Rocha'
     login: 'andrefmrocha'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/33755974?v=4'
-    contributions: 1589
+    contributions: 1604
     company: ''
     organizations: ''
 
-  - rank: 93
-    name: 'Bruno Oliveira'
-    login: 'bmoliveira'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1921410?v=4'
-    contributions: 1585
-    company: 'Chippd'
-    organizations: 'RxSwiftCommunity'
-
   - rank: 94
-    name: 'Kevin Chappell'
-    login: 'kevinchappell'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1457540?v=4'
-    contributions: 1572
-    company: '@FortressIQ'
-    organizations: ''
+    name: 'Miguel Duarte'
+    login: 'miguelduarte42'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1619310?v=4'
+    contributions: 1567
+    company: '@toptal'
+    organizations: 'nodecopterlx'
 
   - rank: 95
-    name: 'Duarte Manuel Ribeiro Pinto'
-    login: 'duartepinto'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/7612420?v=4'
-    contributions: 1563
-    company: '@velocidi '
-    organizations: 'velocidi,alumniei'
-
-  - rank: 96
     name: 'Pedro Esteves'
     login: 'pemesteves'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/36743339?v=4'
-    contributions: 1560
+    contributions: 1561
     company: ''
     organizations: ''
 
+  - rank: 96
+    name: 'Kevin Chappell'
+    login: 'kevinchappell'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1457540?v=4'
+    contributions: 1559
+    company: '@FortressIQ'
+    organizations: ''
+
   - rank: 97
-    name: 'Lucio Paiva'
-    login: 'luciopaiva'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6631859?v=4'
-    contributions: 1549
-    company: 'Zwift'
-    organizations: 'hypermindr'
+    name: 'Duarte Manuel Ribeiro Pinto'
+    login: 'duartepinto'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/7612420?v=4'
+    contributions: 1545
+    company: '@velocidi '
+    organizations: 'velocidi,alumniei'
 
   - rank: 98
+    name: 'Rui'
+    login: 'user-cube'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/33549232?v=4'
+    contributions: 1543
+    company: ''
+    organizations: 'detiuaveiro,NEI-AAUAV'
+
+  - rank: 99
     name: 'André Cruz'
     login: 'edevil'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/12426?v=4'
@@ -2836,79 +2844,95 @@ private_users:
     company: 'Bright Pixel'
     organizations: ''
 
-  - rank: 99
-    name: 'Rui Alves'
-    login: 'xRuiAlves'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/25830462?v=4'
-    contributions: 1533
-    company: ''
-    organizations: ''
-
   - rank: 100
-    name: 'Marcus Sá'
-    login: 'marcusvmsa'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/371302?v=4'
-    contributions: 1526
-    company: 'Vakinha'
-    organizations: 'git-na-pratica'
-
-  - rank: 101
-    name: 'Rui'
-    login: 'user-cube'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/33549232?v=4'
-    contributions: 1526
-    company: ''
-    organizations: 'detiuaveiro,NEI-AAUAV'
-
-  - rank: 102
     name: 'Ricardo Martins'
     login: 'meqif'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1706?v=4'
-    contributions: 1518
+    contributions: 1519
     company: ''
     organizations: ''
 
+  - rank: 101
+    name: 'Daniel Franco'
+    login: 'DanielFran'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3706415?v=4'
+    contributions: 1517
+    company: 'La Redoute'
+    organizations: 'jhipster'
+
+  - rank: 102
+    name: 'Marcus Sá'
+    login: 'marcusvmsa'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/371302?v=4'
+    contributions: 1516
+    company: 'Vakinha'
+    organizations: 'git-na-pratica'
+
   - rank: 103
-    name: 'Sérgio Flores'
-    login: 'Relfos'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6756286?v=4'
-    contributions: 1500
-    company: ''
-    organizations: 'CityOfZion,phantasma-io'
+    name: 'Lucio Paiva'
+    login: 'luciopaiva'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6631859?v=4'
+    contributions: 1514
+    company: 'Zwift'
+    organizations: 'hypermindr'
 
   - rank: 104
     name: 'Simão Belchior'
     login: 'simaob'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/10764?v=4'
-    contributions: 1491
+    contributions: 1506
     company: '@Vizzuality '
     organizations: 'Vizzuality,alumniei,gfw-api,resource-watch,ClimateWatch-Vizzuality,forest-watcher'
 
   - rank: 105
-    name: 'João Ribeiro'
-    login: 'JonnyBGod'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/405206?v=4'
-    contributions: 1448
-    company: ''
-    organizations: 'strongloop,Cloudtasks,AngularClass,altario,mean-expert-official'
+    name: 'vicente'
+    login: 'antedeguemon'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5060004?v=4'
+    contributions: 1442
+    company: '@GetAmbush'
+    organizations: 'GetAmbush,clojufrgs'
 
   - rank: 106
     name: 'José Bonnet'
     login: 'jbonnet'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/11843?v=4'
-    contributions: 1438
+    contributions: 1441
     company: '@alticelabs'
     organizations: 'sonata-nfv'
 
   - rank: 107
+    name: 'Leonardo Cesca'
+    login: 'LeonardoCesca'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/22780548?v=4'
+    contributions: 1438
+    company: '@ilegra'
+    organizations: ''
+
+  - rank: 108
+    name: 'Sérgio Flores'
+    login: 'Relfos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/6756286?v=4'
+    contributions: 1436
+    company: ''
+    organizations: 'CityOfZion,phantasma-io'
+
+  - rank: 109
     name: 'Rafael Belchior'
     login: 'RafaelAPB'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/11261236?v=4'
-    contributions: 1433
+    contributions: 1435
     company: ''
     organizations: 'GCE-NEIIST'
 
-  - rank: 108
+  - rank: 110
+    name: 'João Ribeiro'
+    login: 'JonnyBGod'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/405206?v=4'
+    contributions: 1434
+    company: ''
+    organizations: 'strongloop,Cloudtasks,AngularClass,altario,mean-expert-official'
+
+  - rank: 111
     name: 'Dario'
     login: 'dfreire'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/126072?v=4'
@@ -2916,43 +2940,19 @@ private_users:
     company: ''
     organizations: 'frontendnow,backendnow'
 
-  - rank: 109
+  - rank: 112
     name: 'David Dias'
     login: 'daviddias'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1211152?v=4'
-    contributions: 1417
+    contributions: 1427
     company: 'Protocol Labs @protocol '
     organizations: 'nko4,livebots,nodecopterlx,tableflip,nodeschool,ISTecnico,gdglisbon,LXJS,dockerlisbon,KairosPortugal,protocol,ipfs,zmq-fosdem,libp2p,unimos,adventure-js,inesc-id,ipld,multiformats,orbitdb,spdy-http2,ipfs-shipyard,arewedistributedyet'
-
-  - rank: 110
-    name: 'Leonardo Cesca'
-    login: 'LeonardoCesca'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/22780548?v=4'
-    contributions: 1413
-    company: '@ilegra'
-    organizations: ''
-
-  - rank: 111
-    name: 'André Cruz'
-    login: 'satazor'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1017236?v=4'
-    contributions: 1406
-    company: '@moxystudio'
-    organizations: 'IndigoUnited,mout,bower,LXJS,opojs,ipfs,yargs,npms-io,pinojs,ipfs-shipyard'
-
-  - rank: 112
-    name: 'Ricardo Mendes'
-    login: 'locks'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/32344?v=4'
-    contributions: 1405
-    company: '@simplabs'
-    organizations: 'mustache,rubinius,portocodes,self-ml,cyberscore,fzerocentral,EmberTown'
 
   - rank: 113
     name: 'Sandro Machado'
     login: 'SandroMachado'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/631739?v=4'
-    contributions: 1402
+    contributions: 1417
     company: 'Uphold Inc.'
     organizations: 'uphold'
 
@@ -2960,43 +2960,75 @@ private_users:
     name: 'Luís Miguel'
     login: 'Quicksaver'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/802086?v=4'
-    contributions: 1396
+    contributions: 1414
     company: ''
     organizations: 'marzeelabs,ArteGEIE'
 
   - rank: 115
-    name: 'vicente'
-    login: 'antedeguemon'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5060004?v=4'
-    contributions: 1392
-    company: '@GetAmbush'
-    organizations: 'GetAmbush,clojufrgs'
+    name: 'Flavio Martins'
+    login: 'flaviomartins'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/970514?v=4'
+    contributions: 1413
+    company: 'Universidade NOVA de Lisboa'
+    organizations: ''
 
   - rank: 116
+    name: 'André Cruz'
+    login: 'satazor'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1017236?v=4'
+    contributions: 1405
+    company: '@moxystudio'
+    organizations: 'IndigoUnited,mout,bower,LXJS,opojs,ipfs,yargs,npms-io,pinojs,ipfs-shipyard'
+
+  - rank: 117
     name: 'Michael Brown'
     login: 'mluisbrown'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/4175766?v=4'
-    contributions: 1379
+    contributions: 1385
     company: ''
     organizations: ''
 
-  - rank: 117
+  - rank: 118
+    name: 'Ricardo Mendes'
+    login: 'locks'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/32344?v=4'
+    contributions: 1380
+    company: '@simplabs'
+    organizations: 'mustache,rubinius,portocodes,self-ml,cyberscore,fzerocentral,EmberTown'
+
+  - rank: 119
     name: 'Andre Goncalves'
     login: 'andregoncalves'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1074?v=4'
-    contributions: 1370
+    contributions: 1369
     company: ''
     organizations: 'webmadeira'
 
-  - rank: 118
+  - rank: 120
     name: 'Adrien Denat'
     login: 'Grsmto'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/527559?v=4'
-    contributions: 1343
+    contributions: 1345
     company: ''
     organizations: 'poa-tech-beer'
 
-  - rank: 119
+  - rank: 121
+    name: 'Hisham Muhammad'
+    login: 'hishamhm'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/245621?v=4'
+    contributions: 1338
+    company: '@Kong '
+    organizations: 'keplerproject,Kong,gobolinux,luarocks,lua-users-foundation,titan-lang'
+
+  - rank: 122
+    name: 'Fred Oliveira'
+    login: 'fredoliveira'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4189?v=4'
+    contributions: 1337
+    company: '@unionvc'
+    organizations: 'wbs,unionvc,madebyform'
+
+  - rank: 123
     name: 'Marco Pereirinha'
     login: 'pereirinha'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/2189187?v=4'
@@ -3004,15 +3036,7 @@ private_users:
     company: '10up '
     organizations: 'wp-portugal'
 
-  - rank: 120
-    name: 'Fred Oliveira'
-    login: 'fredoliveira'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4189?v=4'
-    contributions: 1333
-    company: '@unionvc'
-    organizations: 'wbs,unionvc,madebyform'
-
-  - rank: 121
+  - rank: 124
     name: 'Henrique Alves'
     login: 'henriquea'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/123278?v=4'
@@ -3020,123 +3044,99 @@ private_users:
     company: ''
     organizations: ''
 
-  - rank: 122
-    name: 'Hisham Muhammad'
-    login: 'hishamhm'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/245621?v=4'
-    contributions: 1321
-    company: '@Kong '
-    organizations: 'keplerproject,Kong,gobolinux,luarocks,lua-users-foundation,titan-lang'
-
-  - rank: 123
-    name: '~Le~ Andro'
-    login: 'leandronsp'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/385640?v=4'
-    contributions: 1311
-    company: ''
-    organizations: ''
-
-  - rank: 124
-    name: 'Daniel Röhers Moura'
-    login: 'danielrohers'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1844447?v=4'
-    contributions: 1307
-    company: ''
-    organizations: 'techparty,nTIFACCAT,memory-leak,ffos-team,Sedentary,apogeu'
-
   - rank: 125
-    name: ''
-    login: 'JoseFilipeFerreira'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/36403066?v=4'
-    contributions: 1305
+    name: 'Christopher Moura'
+    login: 'christophermoura'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/14416?v=4'
+    contributions: 1323
     company: ''
     organizations: ''
 
   - rank: 126
-    name: 'Edgar Carneiro'
-    login: 'EdgarACarneiro'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/22712373?v=4'
-    contributions: 1295
-    company: '@FEUP'
+    name: '~Le~ Andro'
+    login: 'leandronsp'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/385640?v=4'
+    contributions: 1321
+    company: ''
     organizations: ''
 
   - rank: 127
-    name: 'Bruno Lourenço'
-    login: 'brunnolou'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/2729225?v=4'
-    contributions: 1291
-    company: 'ginetta.net'
+    name: ''
+    login: 'JoseFilipeFerreira'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/36403066?v=4'
+    contributions: 1313
+    company: ''
     organizations: ''
 
   - rank: 128
-    name: 'Ricardo Barata'
-    login: 'rsbarata'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/4720285?v=4'
-    contributions: 1290
+    name: 'Daniel Röhers Moura'
+    login: 'danielrohers'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1844447?v=4'
+    contributions: 1311
     company: ''
-    organizations: ''
+    organizations: 'techparty,nTIFACCAT,memory-leak,ffos-team,Sedentary,apogeu'
 
   - rank: 129
     name: 'Pedro Caseiro'
     login: 'pedrocaseiro'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/8680198?v=4'
-    contributions: 1289
+    contributions: 1299
     company: '@DroverLtd '
     organizations: 'ImproveCoimbra'
 
   - rank: 130
-    name: 'Diogo Moura'
-    login: 'dimamo5'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/7342443?v=4'
-    contributions: 1288
-    company: '@velocidi '
-    organizations: 'velocidi'
-
-  - rank: 131
-    name: 'Lorival Smolski Chapuis'
-    login: 'lorival'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1085116?v=4'
-    contributions: 1280
-    company: '@Talkdesk '
-    organizations: 'joinville-gophers,machine-learning-experiments'
-
-  - rank: 132
-    name: 'Juraci de Lima Vieira Neto'
-    login: 'Juraci'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2266929?v=4'
-    contributions: 1274
+    name: 'Ricardo Barata'
+    login: 'rsbarata'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/4720285?v=4'
+    contributions: 1296
     company: ''
     organizations: ''
 
+  - rank: 131
+    name: 'Bruno Lourenço'
+    login: 'brunnolou'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2729225?v=4'
+    contributions: 1286
+    company: 'ginetta.net'
+    organizations: ''
+
+  - rank: 132
+    name: 'Edgar Carneiro'
+    login: 'EdgarACarneiro'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/22712373?v=4'
+    contributions: 1281
+    company: '@FEUP'
+    organizations: ''
+
   - rank: 133
-    name: 'Luís Rodrigues'
-    login: 'goblindegook'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/285497?v=4'
-    contributions: 1257
-    company: '@EqualExperts '
-    organizations: 'EqualExperts,B3ST,PacoteJS'
+    name: 'Diogo Moura'
+    login: 'dimamo5'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/7342443?v=4'
+    contributions: 1271
+    company: '@velocidi '
+    organizations: 'velocidi'
 
   - rank: 134
-    name: 'Rui Carmo'
-    login: 'rcarmo'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/392683?v=4'
-    contributions: 1251
-    company: '@Microsoft'
-    organizations: 'oneoverzero,pysimplesoap,Azure,azure-csa-pt,insightfulsystems,piku'
+    name: 'Tom Forbes'
+    login: 'orf'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1027207?v=4'
+    contributions: 1259
+    company: '@onfido'
+    organizations: 'onfido'
 
   - rank: 135
-    name: 'pedro ivo'
-    login: 'x1s'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/868660?v=4'
-    contributions: 1240
-    company: '@Streetbees '
-    organizations: 'mosma,BackshopCollege,Streetbees,not-in-california,All4Coaches'
+    name: 'Lorival Smolski Chapuis'
+    login: 'lorival'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1085116?v=4'
+    contributions: 1256
+    company: '@Talkdesk '
+    organizations: 'joinville-gophers,machine-learning-experiments'
 
   - rank: 136
-    name: 'André Rodrigues'
-    login: 'fury252'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1846632?v=4'
-    contributions: 1231
+    name: 'Juraci de Lima Vieira Neto'
+    login: 'Juraci'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2266929?v=4'
+    contributions: 1256
     company: ''
     organizations: ''
 
@@ -3144,11 +3144,43 @@ private_users:
     name: ''
     login: 'bee-keeper'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1985097?v=4'
-    contributions: 1231
+    contributions: 1250
     company: ''
     organizations: 'jazzband'
 
   - rank: 138
+    name: 'Henrique Mouta'
+    login: 'vaurdan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5804923?v=4'
+    contributions: 1248
+    company: 'Automattic'
+    organizations: 'Automattic,revolucaodosbytes'
+
+  - rank: 139
+    name: 'André Rodrigues'
+    login: 'fury252'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1846632?v=4'
+    contributions: 1241
+    company: ''
+    organizations: ''
+
+  - rank: 140
+    name: 'pedro ivo'
+    login: 'x1s'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/868660?v=4'
+    contributions: 1240
+    company: '@Streetbees '
+    organizations: 'mosma,BackshopCollege,Streetbees,not-in-california,All4Coaches'
+
+  - rank: 141
+    name: 'Luís Rodrigues'
+    login: 'goblindegook'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/285497?v=4'
+    contributions: 1238
+    company: '@EqualExperts '
+    organizations: 'EqualExperts,B3ST,PacoteJS'
+
+  - rank: 142
     name: 'Vasco Ramos'
     login: 'vascoalramos'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/38591616?v=4'
@@ -3156,31 +3188,31 @@ private_users:
     company: 'University of Aveiro '
     organizations: ''
 
-  - rank: 139
-    name: 'Henrique Mouta'
-    login: 'vaurdan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5804923?v=4'
-    contributions: 1229
-    company: 'Automattic'
-    organizations: 'Automattic,revolucaodosbytes'
+  - rank: 143
+    name: 'Rui Carmo'
+    login: 'rcarmo'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/392683?v=4'
+    contributions: 1225
+    company: '@Microsoft'
+    organizations: 'oneoverzero,pysimplesoap,Azure,azure-csa-pt,insightfulsystems,piku'
 
-  - rank: 140
-    name: 'Angelo Castelan'
-    login: 'castelanjr'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/445829?v=4'
-    contributions: 1227
-    company: 'We Heart It'
-    organizations: 'weheartit'
+  - rank: 144
+    name: 'Nuno Fachada'
+    login: 'fakenmc'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3018963?v=4'
+    contributions: 1215
+    company: 'Universidade Lusófona de Humanidades e Tecnologias'
+    organizations: 'LaSEEB,VideojogosLusofona'
 
-  - rank: 141
+  - rank: 145
     name: 'Pedro Gaspar'
     login: 'pgaspar'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/31735?v=4'
-    contributions: 1225
+    contributions: 1214
     company: '@unionvc '
     organizations: 'ConnectCoimbra,unionvc,ImproveCoimbra,exercism,madebyform'
 
-  - rank: 142
+  - rank: 146
     name: 'Lucas M. Schnorr'
     login: 'schnorr'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/69578?v=4'
@@ -3188,63 +3220,79 @@ private_users:
     company: 'UFRGS'
     organizations: ''
 
-  - rank: 143
-    name: 'Duarte Oliveira'
-    login: 'DuarteOliveira8'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/28369510?v=4'
-    contributions: 1212
-    company: ''
-    organizations: ''
+  - rank: 147
+    name: 'Angelo Castelan'
+    login: 'castelanjr'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/445829?v=4'
+    contributions: 1211
+    company: 'We Heart It'
+    organizations: 'weheartit'
 
-  - rank: 144
+  - rank: 148
     name: 'Steven Roose'
     login: 'stevenroose'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/853468?v=4'
-    contributions: 1211
+    contributions: 1209
     company: '@Blockstream'
     organizations: 'dartcoin,ElementsProject,PointyCastle'
 
-  - rank: 145
-    name: 'Tiago Oliveira'
-    login: 'tiago'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1663066?v=4'
-    contributions: 1202
-    company: '@kununu '
-    organizations: ''
-
-  - rank: 146
+  - rank: 149
     name: 'Amos Bastian'
     login: 'amosbastian'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/9199433?v=4'
-    contributions: 1192
+    contributions: 1198
     company: '@advertio'
     organizations: ''
 
-  - rank: 147
-    name: 'João Ferreira Loff'
-    login: 'jfloff'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1867656?v=4'
+  - rank: 150
+    name: 'Paulo Coelho Alves'
+    login: 'pcalves'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/919534?v=4'
+    contributions: 1195
+    company: '@plexinc '
+    organizations: ''
+
+  - rank: 151
+    name: 'Bruno Macabeus'
+    login: 'macabeus'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/9501115?v=4'
+    contributions: 1194
+    company: ''
+    organizations: 'apple-developer-academy,zetaresearch'
+
+  - rank: 152
+    name: 'Pedro Escaleira'
+    login: 'oEscal'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/40316784?v=4'
+    contributions: 1193
+    company: 'University of Aveiro'
+    organizations: 'NEI-AAUAV'
+
+  - rank: 153
+    name: 'Tiago Oliveira'
+    login: 'tiago'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1663066?v=4'
+    contributions: 1187
+    company: '@kununu '
+    organizations: ''
+
+  - rank: 154
+    name: 'Duarte Oliveira'
+    login: 'DuarteOliveira8'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/28369510?v=4'
     contributions: 1175
     company: ''
     organizations: ''
 
-  - rank: 148
-    name: 'Bruno Macabeus'
-    login: 'macabeus'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/9501115?v=4'
-    contributions: 1172
+  - rank: 155
+    name: 'João Ferreira Loff'
+    login: 'jfloff'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1867656?v=4'
+    contributions: 1171
     company: ''
-    organizations: 'apple-developer-academy,zetaresearch'
+    organizations: ''
 
-  - rank: 149
-    name: 'Nuno Fachada'
-    login: 'fakenmc'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3018963?v=4'
-    contributions: 1168
-    company: 'Universidade Lusófona de Humanidades e Tecnologias'
-    organizations: 'LaSEEB,VideojogosLusofona'
-
-  - rank: 150
+  - rank: 156
     name: 'Olavio Lacerda '
     login: 'olaviolacerda'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/18356605?v=4'
@@ -3252,15 +3300,7 @@ private_users:
     company: '@somosphi'
     organizations: ''
 
-  - rank: 151
-    name: 'Diogo Silva'
-    login: 'iamdiogo'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/17580577?v=4'
-    contributions: 1149
-    company: 'Bondlayer'
-    organizations: 'ieeeupsb'
-
-  - rank: 152
+  - rank: 157
     name: 'Josh Smith'
     login: 'joshsmith'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/321667?v=4'
@@ -3268,111 +3308,79 @@ private_users:
     company: '@hellosift @coderly @code-corps'
     organizations: 'coderly,cookacademy,national-voter-file'
 
-  - rank: 153
-    name: 'Tentone'
-    login: 'tentone'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/9158354?v=4'
-    contributions: 1145
-    company: '@UNOMeansYouKnow'
-    organizations: ''
-
-  - rank: 154
-    name: 'Tom Forbes'
-    login: 'orf'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1027207?v=4'
-    contributions: 1139
-    company: '@onfido'
-    organizations: 'onfido'
-
-  - rank: 155
-    name: 'Roberto Cortez'
-    login: 'radcortez'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5796305?v=4'
-    contributions: 1128
-    company: ''
-    organizations: ''
-
-  - rank: 156
-    name: 'Gonçalo Marques'
-    login: 'goncasmage1'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/15253176?v=4'
-    contributions: 1123
-    company: ''
-    organizations: ''
-
-  - rank: 157
-    name: 'Nuno Marques'
-    login: 'TSC21'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5048656?v=4'
-    contributions: 1116
-    company: 'dronesolutions.io'
-    organizations: 'mavlink,PX4,Dronecode,dronecrew,dronecore'
-
   - rank: 158
-    name: 'Fernando Mendes'
-    login: 'frm'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4325027?v=4'
-    contributions: 1111
-    company: '@subvisual'
-    organizations: 'subvisual,railsgirls,cesium,coderdojobraga,includebraga,geometry-zsh,cooperativa-tech'
-
-  - rank: 159
-    name: 'Rafael Caferati'
-    login: 'rcaferati'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/8358797?v=4'
-    contributions: 1106
-    company: ''
-    organizations: ''
-
-  - rank: 160
     name: 'Pedro Carrasco'
     login: 'pedrommcarrasco'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/26525777?v=4'
-    contributions: 1105
+    contributions: 1137
     company: 'Farfetch'
     organizations: 'RxSwiftCommunity,SwiftAveiro'
 
+  - rank: 159
+    name: 'Tentone'
+    login: 'tentone'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/9158354?v=4'
+    contributions: 1135
+    company: '@UNOMeansYouKnow'
+    organizations: ''
+
+  - rank: 160
+    name: 'Nuno Marques'
+    login: 'TSC21'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5048656?v=4'
+    contributions: 1134
+    company: 'dronesolutions.io'
+    organizations: 'mavlink,PX4,Dronecode,dronecrew,dronecore'
+
   - rank: 161
-    name: 'Vasco Lavos'
-    login: 'Vazkii'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1794735?v=4'
-    contributions: 1104
+    name: 'Rafael Caferati'
+    login: 'rcaferati'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/8358797?v=4'
+    contributions: 1125
     company: ''
     organizations: ''
 
   - rank: 162
-    name: 'Octavio Carpes'
-    login: 'octaviocarpes'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/14338946?v=4'
-    contributions: 1095
-    company: 'https://github.com/ilegra'
-    organizations: ''
+    name: 'Diogo Silva'
+    login: 'iamdiogo'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/17580577?v=4'
+    contributions: 1107
+    company: 'Bondlayer'
+    organizations: 'ieeeupsb'
 
   - rank: 163
-    name: 'Joel Costa'
-    login: 'joelrfcosta'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1642586?v=4'
-    contributions: 1094
-    company: '@X-Team'
-    organizations: 'x-team,foxbroadcasting'
+    name: 'Fernando Mendes'
+    login: 'frm'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/4325027?v=4'
+    contributions: 1106
+    company: '@subvisual'
+    organizations: 'subvisual,railsgirls,cesium,coderdojobraga,includebraga,geometry-zsh,cooperativa-tech'
 
   - rank: 164
-    name: 'André Filipe Esteves'
-    login: 'EstevesAndre'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/22922971?v=4'
-    contributions: 1094
+    name: 'Gonçalo Marques'
+    login: 'goncasmage1'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/15253176?v=4'
+    contributions: 1103
     company: ''
     organizations: ''
 
   - rank: 165
-    name: 'João Barbosa'
-    login: 'jpgbarbosa'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/255686?v=4'
-    contributions: 1088
-    company: 'Whitesmith'
-    organizations: 'unplugg,whitesmith'
+    name: 'Vasco Lavos'
+    login: 'Vazkii'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1794735?v=4'
+    contributions: 1103
+    company: ''
+    organizations: ''
 
   - rank: 166
+    name: 'Roberto Cortez'
+    login: 'radcortez'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5796305?v=4'
+    contributions: 1096
+    company: ''
+    organizations: ''
+
+  - rank: 167
     name: 'César Costa'
     login: 'cesarcosta99'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/10233985?v=4'
@@ -3380,39 +3388,55 @@ private_users:
     company: '@gronda-team'
     organizations: 'deviofoundation,dewayinc,gronda-team'
 
-  - rank: 167
+  - rank: 168
+    name: 'Joel Costa'
+    login: 'joelrfcosta'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1642586?v=4'
+    contributions: 1087
+    company: '@X-Team'
+    organizations: 'x-team,foxbroadcasting'
+
+  - rank: 169
     name: 'goncalvesjoao'
     login: 'goncalvesjoao'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/932177?v=4'
-    contributions: 1084
+    contributions: 1081
     company: ''
     organizations: ''
 
-  - rank: 168
-    name: 'Alan'
-    login: 'hoarf'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1839564?v=4'
-    contributions: 1083
-    company: ''
-    organizations: 'matehackers'
-
-  - rank: 169
-    name: 'Bruno Torrinha'
-    login: 'akazorg'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/34574?v=4'
-    contributions: 1066
-    company: 'Freelancer'
-    organizations: 'larapack,Laravel-Backpack,launcher-host'
-
   - rank: 170
-    name: 'Tasso Evangelista'
-    login: 'tassoevan'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2263066?v=4'
-    contributions: 1064
-    company: '@RocketChat '
+    name: 'André Filipe Esteves'
+    login: 'EstevesAndre'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/22922971?v=4'
+    contributions: 1071
+    company: ''
     organizations: ''
 
   - rank: 171
+    name: 'Bruno Torrinha'
+    login: 'akazorg'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/34574?v=4'
+    contributions: 1069
+    company: 'Freelancer'
+    organizations: 'larapack,Laravel-Backpack,launcher-host'
+
+  - rank: 172
+    name: 'João Barbosa'
+    login: 'jpgbarbosa'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/255686?v=4'
+    contributions: 1069
+    company: 'Whitesmith'
+    organizations: 'unplugg,whitesmith'
+
+  - rank: 173
+    name: 'Tasso Evangelista'
+    login: 'tassoevan'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2263066?v=4'
+    contributions: 1059
+    company: '@RocketChat '
+    organizations: ''
+
+  - rank: 174
     name: 'Rui Marinho'
     login: 'rmarinho'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/1235097?v=4'
@@ -3420,15 +3444,39 @@ private_users:
     company: '@Microsoft  , @xamarin '
     organizations: 'xamarin,microsoft,XLabs'
 
-  - rank: 172
+  - rank: 175
     name: 'Bruno Ramires'
     login: 'brunormferreira'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/35575092?v=4'
-    contributions: 1047
+    contributions: 1053
     company: '@ilegra'
     organizations: ''
 
-  - rank: 173
+  - rank: 176
+    name: 'Octavio Carpes'
+    login: 'octaviocarpes'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/14338946?v=4'
+    contributions: 1053
+    company: 'https://github.com/ilegra'
+    organizations: ''
+
+  - rank: 177
+    name: 'José Carneiro'
+    login: 'josecarneiro'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/7128083?v=4'
+    contributions: 1051
+    company: '@Ironhack'
+    organizations: ''
+
+  - rank: 178
+    name: 'Alan'
+    login: 'hoarf'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1839564?v=4'
+    contributions: 1047
+    company: ''
+    organizations: 'matehackers'
+
+  - rank: 179
     name: 'Thiago Bueno'
     login: 'tbueno'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/7570?v=4'
@@ -3436,23 +3484,39 @@ private_users:
     company: 'door2door'
     organizations: 'dataviz,door2door-io'
 
-  - rank: 174
-    name: 'Ricardo Lopes'
-    login: 'rplopes'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/760760?v=4'
-    contributions: 1041
-    company: ''
-    organizations: 'Genssiz,uphold'
+  - rank: 180
+    name: 'Gil Mendes'
+    login: 'gil0mendes'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/860364?v=4'
+    contributions: 1037
+    company: '@Pixelmatters '
+    organizations: 'Designture,Infinity-OS'
 
-  - rank: 175
-    name: 'José Carneiro'
-    login: 'josecarneiro'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/7128083?v=4'
-    contributions: 1040
-    company: '@Ironhack'
-    organizations: ''
+  - rank: 181
+    name: 'José Neto'
+    login: 'netojose'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/134008?v=4'
+    contributions: 1034
+    company: 'Clevertech'
+    organizations: 'pernambucojs,wpbrasil,Planedia'
 
-  - rank: 176
+  - rank: 182
+    name: 'David Rodrigues'
+    login: 'dmcrodrigues'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/1098602?v=4'
+    contributions: 1031
+    company: '@Babylonpartners '
+    organizations: 'babylonhealth,NSCoimbra,Velhotes'
+
+  - rank: 183
+    name: 'Guilherme Gazzo'
+    login: 'ggazzo'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5263975?v=4'
+    contributions: 1030
+    company: 'Rocket.Chat'
+    organizations: 'RocketChat'
+
+  - rank: 184
     name: 'David S. Batista'
     login: 'davidsbatista'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/7937824?v=4'
@@ -3460,23 +3524,15 @@ private_users:
     company: '@comtravo '
     organizations: 'comtravo,openviglet,insecurity-insight'
 
-  - rank: 177
-    name: 'Gil Mendes'
-    login: 'gil0mendes'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/860364?v=4'
-    contributions: 1030
-    company: '@Pixelmatters '
-    organizations: 'Designture,Infinity-OS'
+  - rank: 185
+    name: 'Ricardo Lopes'
+    login: 'rplopes'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/760760?v=4'
+    contributions: 1029
+    company: ''
+    organizations: 'Genssiz,uphold'
 
-  - rank: 178
-    name: 'David Rodrigues'
-    login: 'dmcrodrigues'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/1098602?v=4'
-    contributions: 1024
-    company: '@Babylonpartners '
-    organizations: 'babylonhealth,NSCoimbra,Velhotes'
-
-  - rank: 179
+  - rank: 186
     name: 'Erick Pintor'
     login: 'erickpintor'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/813042?v=4'
@@ -3484,55 +3540,31 @@ private_users:
     company: '@fauna '
     organizations: ''
 
-  - rank: 180
-    name: 'Guilherme Gazzo'
-    login: 'ggazzo'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5263975?v=4'
-    contributions: 1019
-    company: 'Rocket.Chat'
-    organizations: 'RocketChat'
+  - rank: 187
+    name: 'Emanuele Tozzato'
+    login: 'etozzato'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/37674?v=4'
+    contributions: 1011
+    company: '@websummit '
+    organizations: 'OpenSourceCannabis'
 
-  - rank: 181
-    name: 'José Neto'
-    login: 'netojose'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/134008?v=4'
-    contributions: 1018
-    company: 'Clevertech'
-    organizations: 'pernambucojs,wpbrasil,Planedia'
-
-  - rank: 182
-    name: 'Diego Borges'
-    login: 'drborges'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/508128?v=4'
-    contributions: 1008
-    company: 'Power Home Remodeling Group'
-    organizations: 'powerhome'
-
-  - rank: 183
-    name: 'Alan Sikora'
-    login: 'alansikora'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/575138?v=4'
-    contributions: 999
-    company: 'Clevertech'
-    organizations: ''
-
-  - rank: 184
+  - rank: 188
     name: 'Marcos Spessatto Defendi'
     login: 'MarcosSpessatto'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/15324204?v=4'
-    contributions: 999
+    contributions: 1003
     company: '@RocketChat '
     organizations: 'RocketChat'
 
-  - rank: 185
-    name: 'Paulo Monteiro'
-    login: 'montoias'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1915774?v=4'
-    contributions: 998
-    company: 'Trouva'
-    organizations: 'Trouva'
+  - rank: 189
+    name: 'Diego Borges'
+    login: 'drborges'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/508128?v=4'
+    contributions: 1001
+    company: 'Power Home Remodeling Group'
+    organizations: 'powerhome'
 
-  - rank: 186
+  - rank: 190
     name: 'Marcelo Chaves'
     login: 'marcelochaves95'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/30784247?v=4'
@@ -3540,39 +3572,39 @@ private_users:
     company: '@aquiris'
     organizations: 'dormirnaodaxpstudio'
 
-  - rank: 187
+  - rank: 191
+    name: 'Alan Sikora'
+    login: 'alansikora'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/575138?v=4'
+    contributions: 994
+    company: 'Clevertech'
+    organizations: ''
+
+  - rank: 192
+    name: 'Paulo Monteiro'
+    login: 'montoias'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1915774?v=4'
+    contributions: 989
+    company: 'Trouva'
+    organizations: 'Trouva'
+
+  - rank: 193
     name: 'Gustavo Lopes'
     login: 'cataphract'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/496394?v=4'
-    contributions: 986
+    contributions: 983
     company: '@toptal'
     organizations: 'transmart,sqreen,chic-by-choice'
 
-  - rank: 188
-    name: 'Fábio Santos'
-    login: 'fabiosantoscode'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1611595?v=4'
-    contributions: 984
-    company: ''
-    organizations: ''
-
-  - rank: 189
+  - rank: 194
     name: 'João Pereira'
     login: 'NSMyself'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/3126462?v=4'
-    contributions: 980
+    contributions: 982
     company: '@Babylonpartners'
     organizations: ''
 
-  - rank: 190
-    name: 'Mauro Reis Vieira'
-    login: 'mauroreisvieira'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/3084774?v=4'
-    contributions: 980
-    company: '@namecheap'
-    organizations: 'redom,meetio-theme'
-
-  - rank: 191
+  - rank: 195
     name: 'Ghilherme Ghidorsi'
     login: 'ghidorsi'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/15145105?v=4'
@@ -3580,63 +3612,47 @@ private_users:
     company: 'ThoughtWorks'
     organizations: 'aceleradora-TW'
 
-  - rank: 192
-    name: 'Diego Pacheco'
-    login: 'diegopacheco'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/121278?v=4'
-    contributions: 963
-    company: 'Crom Microsystems'
-    organizations: ''
+  - rank: 196
+    name: 'Mauro Reis Vieira'
+    login: 'mauroreisvieira'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/3084774?v=4'
+    contributions: 965
+    company: '@namecheap'
+    organizations: 'redom,meetio-theme'
 
-  - rank: 193
+  - rank: 197
     name: 'Tiago Pires'
     login: 'tpires'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1906333?v=4'
-    contributions: 960
+    contributions: 961
     company: '@Mindera'
     organizations: 'redjayapp,Mindera,DockerPortoCommunity'
 
-  - rank: 194
-    name: 'Pedro Janeiro'
-    login: 'pjaneiro'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/4594879?v=4'
-    contributions: 954
-    company: '@whitesmith'
-    organizations: 'whitesmith'
-
-  - rank: 195
-    name: 'Francisco Maria Calisto'
-    login: 'FMCalisto'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/1298239?v=4'
-    contributions: 950
-    company: 'Interactive Technologies Institute'
-    organizations: 'collective,beerjs,EpicGames,Quora-Users,opprDev,opprEdu,opprGroup,MIMBCD-UI,ETIST,mida-project,BreastScreening,sipg-isr'
-
-  - rank: 196
-    name: 'Henrique Macedo'
-    login: 'henriquemacedo'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/2805206?v=4'
-    contributions: 949
-    company: '@taikai'
-    organizations: 'GDGCoimbra'
-
-  - rank: 197
-    name: 'Rui Lopes'
-    login: 'rgl'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/43356?v=4'
-    contributions: 944
+  - rank: 198
+    name: 'Fábio Santos'
+    login: 'fabiosantoscode'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1611595?v=4'
+    contributions: 956
     company: ''
     organizations: ''
 
-  - rank: 198
-    name: 'Pedro Pereira Santos'
-    login: 'donbonifacio'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/483669?v=4'
-    contributions: 942
-    company: '@salsify'
-    organizations: 'salsify'
-
   - rank: 199
+    name: 'Pedro Janeiro'
+    login: 'pjaneiro'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/4594879?v=4'
+    contributions: 952
+    company: '@whitesmith'
+    organizations: 'whitesmith'
+
+  - rank: 200
+    name: 'Rui Lopes'
+    login: 'rgl'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/43356?v=4'
+    contributions: 940
+    company: ''
+    organizations: ''
+
+  - rank: 201
     name: 'Gabriel'
     login: 'gbl08ma'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/984584?v=4'
@@ -3644,7 +3660,7 @@ private_users:
     company: '@underlx '
     organizations: 'tnyim'
 
-  - rank: 200
+  - rank: 202
     name: 'Zé'
     login: 'zedejose'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1371600?v=4'
@@ -3652,7 +3668,23 @@ private_users:
     company: ''
     organizations: 'coderwall-charity,coderwall-nephilaKomaci,wp-portugal'
 
-  - rank: 201
+  - rank: 203
+    name: 'Francisco Maria Calisto'
+    login: 'FMCalisto'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/1298239?v=4'
+    contributions: 938
+    company: 'Interactive Technologies Institute'
+    organizations: 'collective,beerjs,EpicGames,Quora-Users,opprDev,opprEdu,opprGroup,MIMBCD-UI,ETIST,mida-project,BreastScreening,sipg-isr'
+
+  - rank: 204
+    name: 'Pedro Pereira Santos'
+    login: 'donbonifacio'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/483669?v=4'
+    contributions: 937
+    company: '@salsify'
+    organizations: 'salsify'
+
+  - rank: 205
     name: 'Ricardo Lopes'
     login: 'Raicuparta'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/3955124?v=4'
@@ -3660,23 +3692,15 @@ private_users:
     company: ''
     organizations: 'livebots,bravebunny'
 
-  - rank: 202
-    name: 'Miguel Botelho'
-    login: 'miguel-botelho'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/9268166?v=4'
-    contributions: 919
-    company: 'Talkdesk'
-    organizations: ''
-
-  - rank: 203
+  - rank: 206
     name: 'André Neves'
     login: 'andrefgneves'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/3869532?v=4'
-    contributions: 918
+    contributions: 912
     company: ''
     organizations: ''
 
-  - rank: 204
+  - rank: 207
     name: 'João Faria'
     login: 'j-faria'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1958991?v=4'
@@ -3684,15 +3708,7 @@ private_users:
     company: '@iastro-pt '
     organizations: 'iastro-pt'
 
-  - rank: 205
-    name: 'Miguel Sandim'
-    login: 'msandim'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/5846459?v=4'
-    contributions: 902
-    company: ''
-    organizations: ''
-
-  - rank: 206
+  - rank: 208
     name: 'Nuno'
     login: 'nunoh'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1161423?v=4'
@@ -3700,7 +3716,23 @@ private_users:
     company: ''
     organizations: 'Digitopia'
 
-  - rank: 207
+  - rank: 209
+    name: 'Victor Domingos'
+    login: 'victordomingos'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/18650184?v=4'
+    contributions: 901
+    company: ''
+    organizations: ''
+
+  - rank: 210
+    name: 'Miguel Botelho'
+    login: 'miguel-botelho'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/9268166?v=4'
+    contributions: 898
+    company: 'Talkdesk'
+    organizations: ''
+
+  - rank: 211
     name: 'Henrique Lauro Bagio de Souza'
     login: 'henriquelbsouza'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1070818?v=4'
@@ -3708,7 +3740,7 @@ private_users:
     company: '@Meltwater'
     organizations: 'ThoughtWorksInc,meltwater,DojoTuba'
 
-  - rank: 208
+  - rank: 212
     name: 'Ricardo Ribeiro'
     login: 'UmSenhorQualquer'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4881743?v=4'
@@ -3716,15 +3748,31 @@ private_users:
     company: 'Champalimaud Foundation'
     organizations: ''
 
-  - rank: 209
-    name: 'Victor Domingos'
-    login: 'victordomingos'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/18650184?v=4'
-    contributions: 887
+  - rank: 213
+    name: 'Henrique Macedo'
+    login: 'henriquemacedo'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/2805206?v=4'
+    contributions: 888
+    company: '@taikai'
+    organizations: 'GDGCoimbra'
+
+  - rank: 214
+    name: 'Diego Pacheco'
+    login: 'diegopacheco'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/121278?v=4'
+    contributions: 880
+    company: 'Crom Microsystems'
+    organizations: ''
+
+  - rank: 215
+    name: 'Miguel Sandim'
+    login: 'msandim'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/5846459?v=4'
+    contributions: 876
     company: ''
     organizations: ''
 
-  - rank: 210
+  - rank: 216
     name: 'Pedro Costa'
     login: 'pfac'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/1141870?v=4'
@@ -3732,39 +3780,39 @@ private_users:
     company: '@subvisual '
     organizations: 'subvisual,cesium,fossasia,utrustdev'
 
-  - rank: 211
+  - rank: 217
     name: 'Dmitriy Mazurin'
     login: 'dmzmk'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/504968?v=4'
-    contributions: 872
+    contributions: 869
     company: ''
     organizations: ''
 
-  - rank: 212
+  - rank: 218
     name: 'Nelson Estevão'
     login: 'nelsonmestevao'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/19409687?v=4'
-    contributions: 867
+    contributions: 864
     company: ''
     organizations: 'cesium,coderdojobraga,includebraga,eneiconf,cubingpt'
 
-  - rank: 213
+  - rank: 219
+    name: 'enen92'
+    login: 'enen92'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/7375276?v=4'
+    contributions: 863
+    company: ''
+    organizations: 'xbmc'
+
+  - rank: 220
     name: 'Hugo Dias'
     login: 'hugomrdias'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/314190?v=4'
-    contributions: 863
+    contributions: 862
     company: '@moxystudio '
     organizations: 'moxystudio'
 
-  - rank: 214
-    name: 'Ulisses Ferreira'
-    login: 'ulissesferreira'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15613644?v=4'
-    contributions: 861
-    company: '@upframe '
-    organizations: 'upframe,noobies-io'
-
-  - rank: 215
+  - rank: 221
     name: 'Cássia Gomes'
     login: 'cassia11'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/43010445?v=4'
@@ -3772,31 +3820,55 @@ private_users:
     company: '4all Tecnologia'
     organizations: ''
 
-  - rank: 216
-    name: 'enen92'
-    login: 'enen92'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/7375276?v=4'
-    contributions: 859
+  - rank: 222
+    name: 'Diogo Cordeiro'
+    login: 'diogogithub'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/10812507?v=4'
+    contributions: 855
     company: ''
-    organizations: 'xbmc'
+    organizations: ''
 
-  - rank: 217
+  - rank: 223
+    name: 'Tiago Quintela'
+    login: 'quintela'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/913367?v=4'
+    contributions: 854
+    company: '@optionq '
+    organizations: ''
+
+  - rank: 224
+    name: 'Sergio Crisostomo'
+    login: 'SergioCrisostomo'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/5614559?v=4'
+    contributions: 854
+    company: ''
+    organizations: 'mootools,iview'
+
+  - rank: 225
     name: 'Jorge Costa'
     login: 'jorgefilipecosta'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/11271197?v=4'
-    contributions: 855
+    contributions: 852
     company: '@Automattic '
     organizations: 'WordPress,Automattic'
 
-  - rank: 218
+  - rank: 226
     name: 'Guilherme Fabrizio'
     login: 'gfabricio'
     avatarUrl: 'https://avatars2.githubusercontent.com/u/252133?v=4'
-    contributions: 851
+    contributions: 850
     company: ''
     organizations: 'bjorcompany'
 
-  - rank: 219
+  - rank: 227
+    name: 'Romeu Gomes'
+    login: 'RomeuG'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/2325589?v=4'
+    contributions: 847
+    company: 'AlticeLabs'
+    organizations: ''
+
+  - rank: 228
     name: 'João Rodrigues'
     login: 'JoRod94'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/6796936?v=4'
@@ -3804,31 +3876,15 @@ private_users:
     company: '@ginetta '
     organizations: 'cesium,flarecast'
 
-  - rank: 220
-    name: 'Lucas Valandro'
-    login: 'valandro'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/15777348?v=4'
-    contributions: 844
-    company: ''
-    organizations: 'IDEjr'
-
-  - rank: 221
+  - rank: 229
     name: 'Maurício Mutte'
     login: 'mauriciomutte'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/20569339?v=4'
-    contributions: 842
+    contributions: 844
     company: ''
     organizations: ''
 
-  - rank: 222
-    name: 'Romeu Gomes'
-    login: 'RomeuG'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/2325589?v=4'
-    contributions: 841
-    company: 'AlticeLabs'
-    organizations: ''
-
-  - rank: 223
+  - rank: 230
     name: 'Sérgio Ramos'
     login: 'sergioramos'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/501018?v=4'
@@ -3836,39 +3892,39 @@ private_users:
     company: '@yldio '
     organizations: 'yldio'
 
-  - rank: 224
+  - rank: 231
     name: 'André Silva'
     login: 'andresilva'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/123550?v=4'
-    contributions: 839
+    contributions: 831
     company: '@paritytech'
     organizations: 'paritytech,FoundersFounders'
 
-  - rank: 225
+  - rank: 232
     name: 'Renato Machado'
     login: 'renatofmachado'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/4793869?v=4'
-    contributions: 839
+    contributions: 829
     company: 'Talkdesk'
     organizations: 'Talkdesk'
 
-  - rank: 226
-    name: 'Diogo Cordeiro'
-    login: 'diogogithub'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/10812507?v=4'
-    contributions: 830
+  - rank: 233
+    name: 'Lucas Valandro'
+    login: 'valandro'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15777348?v=4'
+    contributions: 828
     company: ''
+    organizations: 'IDEjr'
+
+  - rank: 234
+    name: 'Jerome Faria'
+    login: 'jeromefaria'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/2834077?v=4'
+    contributions: 823
+    company: '@getlinkfire'
     organizations: ''
 
-  - rank: 227
-    name: 'Erick Maeda Lopes'
-    login: 'ErickMaeda'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/12499837?v=4'
-    contributions: 825
-    company: 'Integer Consulting'
-    organizations: ''
-
-  - rank: 228
+  - rank: 235
     name: 'Leonardo C. Daronco'
     login: 'daronco'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/498566?v=4'
@@ -3876,229 +3932,173 @@ private_users:
     company: 'Mconf'
     organizations: 'bigbluebutton,mconf,mconf-ufrgs,mconf-cookbooks,mconf-rnp'
 
-  - rank: 229
-    name: 'Jerome Faria'
-    login: 'jeromefaria'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/2834077?v=4'
-    contributions: 820
-    company: '@getlinkfire'
-    organizations: ''
-
-  - rank: 230
-    name: 'Rodrigo Nascimento'
-    login: 'rodrigok'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/234261?v=4'
-    contributions: 819
-    company: 'Rocket.Chat'
-    organizations: 'techparty,caife,Carddi,nTIFACCAT,Konecty,RocketChat'
-
-  - rank: 231
+  - rank: 236
     name: 'Thiago Souza'
     login: 'tsouza'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/122435?v=4'
-    contributions: 818
+    contributions: 817
     company: '@elastic'
     organizations: 'elastic'
 
-  - rank: 232
-    name: 'Francisco Knebel'
-    login: 'FranciscoKnebel'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/10299622?v=4'
-    contributions: 815
-    company: '@IDEjr'
-    organizations: 'ComputerNetworks-UFRGS,IDEjr,Desenfila'
-
-  - rank: 233
-    name: 'Sergio Crisostomo'
-    login: 'SergioCrisostomo'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/5614559?v=4'
-    contributions: 813
-    company: ''
-    organizations: 'mootools,iview'
-
-  - rank: 234
-    name: 'Fábio Gaspar'
-    login: 'fabiodrg666'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/5472505?v=4'
-    contributions: 811
-    company: '@FEUP @ieeeupsb '
-    organizations: 'FEUP-MIEEC'
-
-  - rank: 235
-    name: 'Michel Anderson Lütz Teixeira'
-    login: 'micheltlutz'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/536630?v=4'
-    contributions: 808
-    company: '@warrenbrasil'
-    organizations: 'MobiTalks'
-
-  - rank: 236
-    name: 'Jøao Henriques'
-    login: 'johnnyghost'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/1117330?v=4'
-    contributions: 807
-    company: 'I know a ghost'
-    organizations: 'mobilabsolutions,iknowaghost,beardnest,dwyl'
-
   - rank: 237
+    name: 'Afonso Pinto'
+    login: 'afonsobspinto'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/19196034?v=4'
+    contributions: 813
+    company: '@MetaCell @feup'
+    organizations: 'openworm,MetaCell'
+
+  - rank: 238
     name: 'Douglas Ritter'
     login: 'dougritter'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/6066883?v=4'
-    contributions: 807
+    contributions: 810
     company: '@Talkdesk '
     organizations: ''
 
-  - rank: 238
+  - rank: 239
+    name: 'Francisco Knebel'
+    login: 'FranciscoKnebel'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/10299622?v=4'
+    contributions: 810
+    company: '@IDEjr'
+    organizations: 'ComputerNetworks-UFRGS,IDEjr,Desenfila'
+
+  - rank: 240
+    name: 'Michel Anderson Lütz Teixeira'
+    login: 'micheltlutz'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/536630?v=4'
+    contributions: 807
+    company: '@warrenbrasil'
+    organizations: 'MobiTalks'
+
+  - rank: 241
     name: 'Samuel SIlva'
     login: 'samuelsilvadev'
     avatarUrl: 'https://avatars3.githubusercontent.com/u/13966565?v=4'
-    contributions: 803
+    contributions: 805
     company: '@aubay'
     organizations: ''
 
-  - rank: 239
+  - rank: 242
+    name: 'Jøao Henriques'
+    login: 'johnnyghost'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/1117330?v=4'
+    contributions: 805
+    company: 'I know a ghost'
+    organizations: 'mobilabsolutions,iknowaghost,beardnest,dwyl'
+
+  - rank: 243
+    name: 'Ulisses Ferreira'
+    login: 'ulissesferreira'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/15613644?v=4'
+    contributions: 805
+    company: '@upframe '
+    organizations: 'upframe,noobies-io'
+
+  - rank: 244
     name: 'Vlad Niculae'
     login: 'vene'
     avatarUrl: 'https://avatars0.githubusercontent.com/u/241745?v=4'
-    contributions: 797
+    contributions: 800
     company: 'Instituto de Telecomunicações'
     organizations: 'scikit-learn,nlp-unibuc'
 
-  - rank: 240
-    name: 'Ricardo Duplos'
-    login: 'ricardoduplos'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/1016701?v=4'
-    contributions: 789
-    company: 'Development Seed'
-    organizations: 'developmentseed,hotosm,flipside-org,WorldBank-Transport,lisbon-opendata,openimagerynetwork,procurement-analytics,satsummit'
-
-  - rank: 241
-    name: 'Johalf Farina'
-    login: 'no-donut-for-you'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/16459?v=4'
-    contributions: 787
-    company: ''
-    organizations: 'nko3,nko4,nko5'
-
-  - rank: 242
-    name: 'Eduardo Jorge'
-    login: 'herulume'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/9318723?v=4'
-    contributions: 782
-    company: '@cesium '
-    organizations: 'cesium,eneiconf'
-
-  - rank: 243
-    name: 'Fábio Bernardo'
-    login: 'fbernardo'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/177740?v=4'
-    contributions: 781
-    company: 'Mokriya '
-    organizations: ''
-
-  - rank: 244
-    name: 'Rui Gomes'
-    login: 'ruigomeseu'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/5658301?v=4'
-    contributions: 777
-    company: ''
-    organizations: 'opennodedev'
-
   - rank: 245
-    name: 'Bernardo Santos'
-    login: 'bernas670'
-    avatarUrl: 'https://avatars0.githubusercontent.com/u/36735337?v=4'
-    contributions: 775
-    company: '@FEUP'
-    organizations: ''
+    name: 'Rodrigo Nascimento'
+    login: 'rodrigok'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/234261?v=4'
+    contributions: 798
+    company: 'Rocket.Chat'
+    organizations: 'techparty,caife,Carddi,nTIFACCAT,Konecty,RocketChat'
 
   - rank: 246
-    name: 'Tiago Quintela'
-    login: 'quintela'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/913367?v=4'
-    contributions: 774
-    company: '@optionq '
+    name: 'Erick Maeda Lopes'
+    login: 'ErickMaeda'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/12499837?v=4'
+    contributions: 797
+    company: 'Integer Consulting'
     organizations: ''
 
   - rank: 247
-    name: 'Fabricio Nogueira'
-    login: 'nogsantos'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/570926?v=4'
-    contributions: 770
-    company: 'nogsantos'
-    organizations: 'instruct-br,senaigo-desenvolvimento-mobile-2015,my-class-room'
+    name: 'Fábio Gaspar'
+    login: 'fabiodrg666'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/5472505?v=4'
+    contributions: 794
+    company: '@FEUP @ieeeupsb '
+    organizations: 'FEUP-MIEEC'
 
   - rank: 248
-    name: 'Bruno Paz'
-    login: 'brpaz'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/184563?v=4'
-    contributions: 770
-    company: ''
-    organizations: 'exodia-labs'
+    name: 'Ricardo Duplos'
+    login: 'ricardoduplos'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/1016701?v=4'
+    contributions: 790
+    company: 'Development Seed'
+    organizations: 'developmentseed,hotosm,flipside-org,WorldBank-Transport,lisbon-opendata,openimagerynetwork,procurement-analytics,satsummit'
 
   - rank: 249
-    name: 'João Anes'
-    login: 'joaoanes'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/240720?v=4'
-    contributions: 765
-    company: '@trustfractal '
+    name: 'Bernardo Santos'
+    login: 'bernas670'
+    avatarUrl: 'https://avatars0.githubusercontent.com/u/36735337?v=4'
+    contributions: 790
+    company: '@FEUP'
     organizations: ''
 
   - rank: 250
-    name: 'Renan'
-    login: 'renancaraujo'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6718144?v=4'
-    contributions: 765
-    company: '@dashdash '
-    organizations: 'dashdash,fireslime,flame-engine'
+    name: 'Johalf Farina'
+    login: 'no-donut-for-you'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/16459?v=4'
+    contributions: 782
+    company: ''
+    organizations: 'nko3,nko4,nko5'
 
   - rank: 251
-    name: 'Yasser Rachid'
-    login: 'yrachid'
-    avatarUrl: 'https://avatars3.githubusercontent.com/u/4705127?v=4'
-    contributions: 764
-    company: 'ThoughtWorks Brasil'
-    organizations: 'ThoughtWorksInc,aceleradora6-tw,aceleradora7,aceleradora-TW,atomic-todos'
+    name: 'Fábio Bernardo'
+    login: 'fbernardo'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/177740?v=4'
+    contributions: 782
+    company: 'Mokriya '
+    organizations: ''
 
   - rank: 252
     name: 'João Rafael Varela'
     login: 'Revuj'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/41621540?v=4'
-    contributions: 764
+    contributions: 773
     company: ''
     organizations: ''
 
   - rank: 253
-    name: 'Anderson Pierre Cardoso'
-    login: 'andersoncardoso'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/597026?v=4'
-    contributions: 757
-    company: ''
-    organizations: 'it3s'
+    name: 'João Anes'
+    login: 'joaoanes'
+    avatarUrl: 'https://avatars3.githubusercontent.com/u/240720?v=4'
+    contributions: 769
+    company: '@trustfractal '
+    organizations: ''
 
   - rank: 254
-    name: 'Diogo Pratas'
-    login: 'pratas'
-    avatarUrl: 'https://avatars1.githubusercontent.com/u/6882743?v=4'
-    contributions: 755
-    company: 'University of { Aveiro, Helsinki }'
-    organizations: 'cobilab,asilab,othersoft'
+    name: 'Ruben Branco'
+    login: 'RubenBranco'
+    avatarUrl: 'https://avatars2.githubusercontent.com/u/26976462?v=4'
+    contributions: 769
+    company: ''
+    organizations: ''
 
   - rank: 255
     name: 'Pedro Moreira'
     login: 'pmor'
     avatarUrl: 'https://avatars1.githubusercontent.com/u/1417255?v=4'
-    contributions: 755
+    contributions: 766
     company: ''
     organizations: 'coderwall-charity'
 
   - rank: 256
-    name: 'Ruben Branco'
-    login: 'RubenBranco'
-    avatarUrl: 'https://avatars2.githubusercontent.com/u/26976462?v=4'
-    contributions: 754
+    name: 'Rui Gomes'
+    login: 'ruigomeseu'
+    avatarUrl: 'https://avatars1.githubusercontent.com/u/5658301?v=4'
+    contributions: 765
     company: ''
-    organizations: ''
+    organizations: 'opennodedev'
 
 organizations:
 
@@ -4111,15 +4111,15 @@ organizations:
     membercount: 6
 
   - rank: 3
-    name: 'subvisual'
+    name: 'microsoft'
     membercount: 4
 
   - rank: 4
-    name: 'ipfs'
+    name: 'subvisual'
     membercount: 4
 
   - rank: 5
-    name: 'ieeeupsb'
+    name: 'ipfs'
     membercount: 4
 
   - rank: 6
@@ -4127,29 +4127,29 @@ organizations:
     membercount: 4
 
   - rank: 7
-    name: 'microsoft'
-    membercount: 4
+    name: 'ilegra'
+    membercount: 3
 
   - rank: 8
-    name: 'dockerlisbon'
+    name: 'includebraga'
     membercount: 3
 
   - rank: 9
-    name: 'alumniei'
+    name: 'coderdojobraga'
     membercount: 3
 
   - rank: 10
-    name: 'moxystudio'
+    name: 'utrustdev'
     membercount: 3
 
 private_organizations:
 
   - rank: 1
     name: 'cesium'
-    membercount: 6
+    membercount: 5
 
   - rank: 2
-    name: 'warrenbrasil'
+    name: 'rocketchat'
     membercount: 4
 
   - rank: 3
@@ -4157,19 +4157,19 @@ private_organizations:
     membercount: 4
 
   - rank: 4
-    name: 'ilegra'
+    name: 'talkdesk'
     membercount: 4
 
   - rank: 5
-    name: 'subvisual'
+    name: 'warrenbrasil'
     membercount: 4
 
   - rank: 6
-    name: 'rocketchat'
+    name: 'ilegra'
     membercount: 4
 
   - rank: 7
-    name: 'talkdesk'
+    name: 'subvisual'
     membercount: 4
 
   - rank: 8
@@ -4177,12 +4177,12 @@ private_organizations:
     membercount: 3
 
   - rank: 9
-    name: 'ipfs-shipyard'
+    name: 'includebraga'
     membercount: 3
 
   - rank: 10
-    name: 'includebraga'
+    name: 'whitesmith'
     membercount: 3
-generated: 2019-12-23 02:14:36.152237769 +0000 UTC
-min_followers_required: 21
-total_user_count: 21635
+generated: 2019-12-30 02:01:46.403160271 +0000 UTC
+min_followers_required: 20
+total_user_count: 21616
