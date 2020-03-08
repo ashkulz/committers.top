@@ -132,6 +132,21 @@ sleep 1800
 ./generate.sh $1 togo Togo
 ./generate.sh $1 "sierra leone" "Sierra Leone"
 ./generate.sh $1 "hong kong" "Hong Kong"
+./generate.sh $1 "el salvador" "El Salvador"
+./generate.sh $1 kyrgyzstan Kyrgyzstan
+./generate.sh $1 nicaragua Nicaragua
+./generate.sh $1 turkmenistan Turkmenistan
+./generate.sh $1 paraguay Paraguay
+
+sleep 1800
+
+./generate.sh $1 laos Laos
+./generate.sh $1 bulgaria Bulgaria
+./generate.sh $1 lebanon Lebanon
+./generate.sh $1 libya Libya
+./generate.sh $1 slovakia Slovakia
+./generate.sh $1 lithuania Lithuania
+./generate.sh $1 ireland Ireland
 
 
 git add _data
