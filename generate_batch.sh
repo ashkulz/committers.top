@@ -119,7 +119,7 @@ sleep 1800
 ./generate.sh $1 tunisia Tunisia
 ./generate.sh $1 "south sudan" "South Sudan"
 ./generate.sh $1 burundi Burundi
-./generate.sh $1 "dominican republic "Dominican Republic
+./generate.sh $1 "dominican republic" "Dominican Republic"
 ./generate.sh $1 "czech republic" "Czech Republic"
 ./generate.sh $1 jordan Jordan
 ./generate.sh $1 azerbaijan Azerbaijan
