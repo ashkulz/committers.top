@@ -147,7 +147,7 @@ sleep 1800
 ./generate.sh $1 slovakia Slovakia
 ./generate.sh $1 lithuania Lithuania
 ./generate.sh $1 ireland Ireland
-
+./generate.sh $1 "united states" "United States"
 
 git add _data
 git add *.md
