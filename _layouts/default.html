@@ -105,12 +105,15 @@
           </p>
           <p>
           <table class="users-list">
-            <tr>
-              <th>Rank</th>
-              <th>User</th>
-              <th>Contribs</th>
-              <th>Picture</th>
-            </tr>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>User</th>
+                <th>Contribs</th>
+                <th>Picture</th>
+              </tr>
+            </thead>
+            <tbody>
 
           {% if page.private %}
             {% assign users = location.private_users %}
@@ -121,11 +124,12 @@
           {% for user in users %}
             <tr>
               <td>{{user.rank}}.</td>
-              <td><a href="https://github.com/{{user.login}}">{{user.login}}</a> ({{user.name}})</td>
+              <td><a href="https://github.com/{{user.login}}">{{user.login}}</a><br>({{user.name}})</td>
               <td>{{user.contributions}}</td>
-	      <td><img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload" alt="Avatar for {{user.login}}" /></td>
+	      <td class="photo"><img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload" alt="Avatar for {{user.login}}" /></td>
             </tr>
           {% endfor %}
+          </tbody>
           </table>
         </p>
         <h3 id="organizations">Organizations</h3>

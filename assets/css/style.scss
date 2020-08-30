@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family: Roboto, sans-serif;
+}
+
 header {
   li:first-child a, ul {
     border-radius: 0;
@@ -32,6 +36,23 @@ ul.share-buttons {
   }
 }
 
+ul.country-list {
+  list-style-type: none;
+  padding: 0px;
+
+  > li {
+    padding: 5px;
+    border: #eee 1px solid;
+    margin: 5px 0px;
+    
+    > a {
+      display: inline-block;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
 th, td {
   padding: inherit;
 }
@@ -42,6 +63,13 @@ table.users-list {
     img {
       vertical-align: middle;
     }
+  }
+
+  thead th {
+    text-align: center;
+  }
+  tbody td.photo {
+    text-align: center;
   }
 }
 
