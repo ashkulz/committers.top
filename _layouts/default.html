@@ -88,12 +88,8 @@
            .sort(_.contributions)
            .take(256)</code></pre>
           </p>
-          {% if page.public == true or location.private_users.size > 0 %}
-            <p>This list only contains public contributions of each user.
-            {% if page.public == true %}
-              You can also view this list with <a href="{{page.location}}_private.html">private contributions</a> included.
-	    {% endif %}
-            </p>
+          {% if page.public == true %}
+            <p>This list only contains public contributions of each user. You can also view this list with <a href="{{page.location}}_private.html">private contributions</a> included.</p>
           {% else %}
             <p>This list contains both private and public contributions of each user. Private contributions are included only if the user has selected that option in their profile settings.
               {% if page.private == true %}
