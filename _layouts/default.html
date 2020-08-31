@@ -86,22 +86,23 @@
            .sort(_.contributions)
            .take(256)</code></pre>
           </p>
-          {% if page.public == true %}
-            <p>This list only contains public contributions of each user. You can also view this list with <a href="{{page.location}}_private.html">private contributions</a> included.</p>
-          {% else %}
-            <p>This list contains both private and public contributions of each user. Private contributions are included only if the user has selected that option in their profile settings.
-              {% if page.private == true %}
-                You can also view this list with <a href="{{page.location}}.html">only public contributions</a> included.
-              {% endif %}
-            </p>
-          {% endif %}
-          {% if location.min_followers_required > 0 %}
-            <p>You need at least <b>{{location.min_followers_required}}</b> followers to be on this list.</p>
-          {% endif %}
           <p>
-
+          {% if page.mode == "commits" %}
+            This list contains all public commits for each user.
+          {% elsif page.mode == "contributions" %}
+            This list contains all public contributions for each user.
+          {% else %}
+            This list contains all contributions for each user (public & private).
+          {% endif %}
+          There are <b>{{location.total_user_count}}</b> total users in the region and you need at least <b>{{location.min_followers_required}}</b> followers to be on this list.
           </p>
           <p>
+            <ul class="mode-selector">
+              <li {% if page.mode == "commits" %} class="active"{% endif %}><a href="{{page.location}}.html">Commits</a></li>
+              <li {% if page.mode == "contributions" %} class="active"{% endif %}><a href="{{page.location}}_public.html">Contributions</a></li>
+              <li {% if page.mode == "all" %} class="active"{% endif %}><a href="{{page.location}}_private.html">All</a></li>
+            </ul>
+          </p>
           <table class="users-list">
             <thead>
               <tr>
@@ -113,10 +114,12 @@
             </thead>
             <tbody>
 
-          {% if page.private %}
+          {% if page.mode == "commits" %}
+            {% assign users = location.users %}
+          {% elsif page.mode == "all" %}
             {% assign users = location.private_users %}
           {% else %}
-            {% assign users = location.users %}
+            {% assign users = location.users_public_contributions %}
           {% endif %}
 
           {% for user in users %}
@@ -138,10 +141,13 @@
             <th>Organization</th>
             <th>Members</th>
           </tr>
-        {% if page.private %}
+
+        {% if page.mode == "commits" %}
+          {% assign organizations = location.organizations %}
+        {% elsif page.mode == "all" %}
           {% assign organizations = location.private_organizations %}
         {% else %}
-          {% assign organizations = location.organizations %}
+          {% assign organizations = location.public_contributions_organizations %}
         {% endif %}
         {% for org in organizations %}
           <tr>

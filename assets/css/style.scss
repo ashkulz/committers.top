@@ -76,3 +76,20 @@ table.users-list {
 table.organizations-list td {
   padding: 5px 0;
 }
+
+ul.mode-selector {
+  display: flex;
+  padding: 0;
+  list-style-type: none;
+
+  li {
+    flex: 1;
+    text-align: center;
+    padding: 1ex;
+
+    &.active {
+      font-weight: bold;
+      background-color: #eee;
+    }
+  }
+}
