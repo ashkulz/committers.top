@@ -1,5 +1,5 @@
 ---
 type: location
 location: belarus
-public: true
+mode: commits
 ---

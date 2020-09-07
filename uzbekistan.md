@@ -1,5 +1,5 @@
 ---
 type: location
 location: uzbekistan
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: australia
-public: true
+mode: commits
 ---

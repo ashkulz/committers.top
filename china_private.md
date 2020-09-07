@@ -1,5 +1,5 @@
 ---
 type: location
 location: china
-private: true
+mode: all
 ---

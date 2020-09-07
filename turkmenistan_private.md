@@ -1,5 +1,5 @@
 ---
 type: location
 location: turkmenistan
-private: true
+mode: all
 ---

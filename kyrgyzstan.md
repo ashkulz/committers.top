@@ -1,5 +1,5 @@
 ---
 type: location
 location: kyrgyzstan
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: myanmar
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: bangladesh
-private: true
+mode: all
 ---

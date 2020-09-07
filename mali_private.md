@@ -1,5 +1,5 @@
 ---
 type: location
 location: mali
-private: true
+mode: all
 ---

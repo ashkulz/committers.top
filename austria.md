@@ -1,5 +1,5 @@
 ---
 type: location
 location: austria
-public: true
+mode: commits
 ---

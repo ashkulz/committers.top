@@ -1,5 +1,5 @@
 ---
 type: location
 location: ukraine
-public: true
+mode: commits
 ---

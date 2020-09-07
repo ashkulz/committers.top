@@ -1,5 +1,5 @@
 ---
 type: location
 location: guinea
-private: true
+mode: all
 ---

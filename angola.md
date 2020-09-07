@@ -1,5 +1,5 @@
 ---
 type: location
 location: angola
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: cambodia
-private: true
+mode: all
 ---

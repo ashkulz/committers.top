@@ -1,5 +1,5 @@
 ---
 type: location
 location: uzbekistan
-private: true
+mode: all
 ---

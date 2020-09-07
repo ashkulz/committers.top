@@ -1,5 +1,5 @@
 ---
 type: location
 location: slovakia
-private: true
+mode: all
 ---

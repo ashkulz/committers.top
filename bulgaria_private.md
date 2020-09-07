@@ -1,5 +1,5 @@
 ---
 type: location
 location: bulgaria
-private: true
+mode: all
 ---

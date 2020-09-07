@@ -1,5 +1,5 @@
 ---
 type: location
 location: paraguay
-private: true
+mode: all
 ---

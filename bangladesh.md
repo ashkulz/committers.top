@@ -1,5 +1,5 @@
 ---
 type: location
 location: bangladesh
-public: true
+mode: commits
 ---

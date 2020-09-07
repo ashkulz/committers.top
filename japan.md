@@ -1,5 +1,5 @@
 ---
 type: location
 location: japan
-public: true
+mode: commits
 ---

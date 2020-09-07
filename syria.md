@@ -1,5 +1,5 @@
 ---
 type: location
 location: syria
-public: true
+mode: commits
 ---

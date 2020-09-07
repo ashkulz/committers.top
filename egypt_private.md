@@ -1,5 +1,5 @@
 ---
 type: location
 location: egypt
-private: true
+mode: all
 ---

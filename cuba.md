@@ -1,5 +1,5 @@
 ---
 type: location
 location: cuba
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: brazil
-public: true
+mode: commits
 ---

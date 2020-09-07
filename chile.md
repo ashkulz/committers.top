@@ -1,5 +1,5 @@
 ---
 type: location
 location: chile
-public: true
+mode: commits
 ---

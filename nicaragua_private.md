@@ -1,5 +1,5 @@
 ---
 type: location
 location: nicaragua
-private: true
+mode: all
 ---

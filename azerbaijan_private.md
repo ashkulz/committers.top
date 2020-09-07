@@ -1,5 +1,5 @@
 ---
 type: location
 location: azerbaijan
-private: true
+mode: all
 ---

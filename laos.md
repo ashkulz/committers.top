@@ -1,5 +1,5 @@
 ---
 type: location
 location: laos
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: vietnam
-public: true
+mode: commits
 ---

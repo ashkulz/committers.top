@@ -1,5 +1,5 @@
 ---
 type: location
 location: mexico
-public: true
+mode: commits
 ---

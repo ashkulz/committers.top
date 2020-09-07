@@ -1,5 +1,5 @@
 ---
 type: location
 location: somalia
-private: true
+mode: all
 ---

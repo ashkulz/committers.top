@@ -1,5 +1,5 @@
 ---
 type: location
 location: russia
-private: true
+mode: all
 ---

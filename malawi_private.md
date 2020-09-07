@@ -1,5 +1,5 @@
 ---
 type: location
 location: malawi
-private: true
+mode: all
 ---

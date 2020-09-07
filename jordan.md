@@ -1,5 +1,5 @@
 ---
 type: location
 location: jordan
-public: true
+mode: commits
 ---

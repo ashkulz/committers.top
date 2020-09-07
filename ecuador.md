@@ -1,5 +1,5 @@
 ---
 type: location
 location: ecuador
-public: true
+mode: commits
 ---

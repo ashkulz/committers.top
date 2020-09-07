@@ -1,5 +1,5 @@
 ---
 type: location
 location: peru
-public: true
+mode: commits
 ---

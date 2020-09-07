@@ -1,5 +1,5 @@
 ---
 type: location
 location: australia
-private: true
+mode: all
 ---

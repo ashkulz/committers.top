@@ -1,5 +1,5 @@
 ---
 type: location
 location: niger
-private: true
+mode: all
 ---

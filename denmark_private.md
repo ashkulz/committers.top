@@ -1,5 +1,5 @@
 ---
 type: location
 location: denmark
-private: true
+mode: all
 ---

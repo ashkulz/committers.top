@@ -1,5 +1,5 @@
 ---
 type: location
 location: belarus
-private: true
+mode: all
 ---

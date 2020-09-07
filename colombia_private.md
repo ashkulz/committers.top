@@ -1,5 +1,5 @@
 ---
 type: location
 location: colombia
-private: true
+mode: all
 ---

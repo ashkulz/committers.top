@@ -1,5 +1,5 @@
 ---
 type: location
 location: bolivia
-public: true
+mode: commits
 ---

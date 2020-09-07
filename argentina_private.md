@@ -1,5 +1,5 @@
 ---
 type: location
 location: argentina
-private: true
+mode: all
 ---

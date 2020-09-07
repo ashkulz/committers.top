@@ -1,5 +1,5 @@
 ---
 type: location
 location: cuba
-private: true
+mode: all
 ---

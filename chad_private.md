@@ -1,5 +1,5 @@
 ---
 type: location
 location: chad
-private: true
+mode: all
 ---

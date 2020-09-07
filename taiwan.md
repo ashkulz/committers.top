@@ -1,5 +1,5 @@
 ---
 type: location
 location: taiwan
-public: true
+mode: commits
 ---

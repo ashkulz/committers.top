@@ -1,5 +1,5 @@
 ---
 type: location
 location: ecuador
-private: true
+mode: all
 ---

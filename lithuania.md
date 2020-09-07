@@ -1,5 +1,5 @@
 ---
 type: location
 location: lithuania
-public: true
+mode: commits
 ---

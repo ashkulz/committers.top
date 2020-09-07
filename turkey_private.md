@@ -1,5 +1,5 @@
 ---
 type: location
 location: turkey
-private: true
+mode: all
 ---

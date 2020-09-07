@@ -1,5 +1,5 @@
 ---
 type: location
 location: tunisia
-private: true
+mode: all
 ---

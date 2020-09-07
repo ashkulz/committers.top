@@ -1,5 +1,5 @@
 ---
 type: location
 location: hungary
-private: true
+mode: all
 ---

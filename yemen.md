@@ -1,5 +1,5 @@
 ---
 type: location
 location: yemen
-public: true
+mode: commits
 ---

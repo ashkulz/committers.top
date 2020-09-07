@@ -1,5 +1,5 @@
 ---
 type: location
 location: zimbabwe
-private: true
+mode: all
 ---

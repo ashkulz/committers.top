@@ -1,5 +1,5 @@
 ---
 type: location
 location: south_korea
-private: true
+mode: all
 ---

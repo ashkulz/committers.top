@@ -1,5 +1,5 @@
 ---
 type: location
 location: tanzania
-public: true
+mode: commits
 ---

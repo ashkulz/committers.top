@@ -1,5 +1,5 @@
 ---
 type: location
 location: algeria
-public: true
+mode: commits
 ---

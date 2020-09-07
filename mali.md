@@ -1,5 +1,5 @@
 ---
 type: location
 location: mali
-public: true
+mode: commits
 ---

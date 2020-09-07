@@ -1,5 +1,5 @@
 ---
 type: location
 location: new_zealand
-private: true
+mode: all
 ---

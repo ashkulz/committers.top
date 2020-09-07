@@ -1,5 +1,5 @@
 ---
 type: location
 location: iran
-private: true
+mode: all
 ---

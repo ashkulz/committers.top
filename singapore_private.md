@@ -1,5 +1,5 @@
 ---
 type: location
 location: singapore
-private: true
+mode: all
 ---

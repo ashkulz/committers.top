@@ -1,5 +1,5 @@
 ---
 type: location
 location: venezuela
-private: true
+mode: all
 ---

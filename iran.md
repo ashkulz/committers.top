@@ -1,5 +1,5 @@
 ---
 type: location
 location: iran
-public: true
+mode: commits
 ---

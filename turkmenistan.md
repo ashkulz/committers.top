@@ -1,5 +1,5 @@
 ---
 type: location
 location: turkmenistan
-public: true
+mode: commits
 ---

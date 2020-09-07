@@ -1,5 +1,5 @@
 ---
 type: location
 location: lithuania
-private: true
+mode: all
 ---

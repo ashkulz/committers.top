@@ -1,5 +1,5 @@
 ---
 type: location
 location: finland
-private: true
+mode: all
 ---

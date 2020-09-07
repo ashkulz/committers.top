@@ -1,5 +1,5 @@
 ---
 type: location
 location: luxembourg
-private: true
+mode: all
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: canada
-public: true
+mode: commits
 ---

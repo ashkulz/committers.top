@@ -1,5 +1,5 @@
 ---
 type: location
 location: nigeria
-private: true
+mode: all
 ---

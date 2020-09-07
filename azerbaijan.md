@@ -1,5 +1,5 @@
 ---
 type: location
 location: azerbaijan
-public: true
+mode: commits
 ---

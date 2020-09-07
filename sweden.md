@@ -1,5 +1,5 @@
 ---
 type: location
 location: sweden
-public: true
+mode: commits
 ---

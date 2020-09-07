@@ -1,5 +1,5 @@
 ---
 type: location
 location: tajikistan
-private: true
+mode: all
 ---

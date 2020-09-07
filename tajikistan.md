@@ -1,5 +1,5 @@
 ---
 type: location
 location: tajikistan
-public: true
+mode: commits
 ---

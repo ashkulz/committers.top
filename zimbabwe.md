@@ -1,5 +1,5 @@
 ---
 type: location
 location: zimbabwe
-public: true
+mode: commits
 ---

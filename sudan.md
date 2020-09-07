@@ -1,5 +1,5 @@
 ---
 type: location
 location: sudan
-public: true
+mode: commits
 ---

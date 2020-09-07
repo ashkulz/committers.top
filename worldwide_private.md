@@ -1,5 +1,5 @@
 ---
 type: location
 location: worldwide
-private: true
+mode: all
 ---

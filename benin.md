@@ -1,5 +1,5 @@
 ---
 type: location
 location: benin
-public: true
+mode: commits
 ---

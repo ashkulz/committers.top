@@ -1,5 +1,5 @@
 ---
 type: location
 location: turkey
-public: true
+mode: commits
 ---

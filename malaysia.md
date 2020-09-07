@@ -1,5 +1,5 @@
 ---
 type: location
 location: malaysia
-public: true
+mode: commits
 ---

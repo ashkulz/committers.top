@@ -1,5 +1,5 @@
 ---
 type: location
 location: libya
-private: true
+mode: all
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: nicaragua
-public: true
+mode: commits
 ---

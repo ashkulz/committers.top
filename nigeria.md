@@ -1,5 +1,5 @@
 ---
 type: location
 location: nigeria
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: albania
-private: true
+mode: all
 ---

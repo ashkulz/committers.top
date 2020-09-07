@@ -1,5 +1,5 @@
 ---
 type: location
 location: guatemala
-private: true
+mode: all
 ---

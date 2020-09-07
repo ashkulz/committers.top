@@ -1,5 +1,5 @@
 ---
 type: location
 location: uae
-private: true
+mode: all
 ---

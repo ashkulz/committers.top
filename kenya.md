@@ -1,5 +1,5 @@
 ---
 type: location
 location: kenya
-public: true
+mode: commits
 ---

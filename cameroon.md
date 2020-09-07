@@ -1,5 +1,5 @@
 ---
 type: location
 location: cameroon
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: congo
-public: true
+mode: commits
 ---

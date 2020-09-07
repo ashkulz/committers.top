@@ -1,5 +1,5 @@
 ---
 type: location
 location: angola
-private: true
+mode: all
 ---

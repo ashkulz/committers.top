@@ -1,5 +1,5 @@
 ---
 type: location
 location: cambodia
-public: true
+mode: commits
 ---

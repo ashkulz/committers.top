@@ -1,5 +1,5 @@
 ---
 type: location
 location: greece
-public: true
+mode: commits
 ---

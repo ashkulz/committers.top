@@ -1,5 +1,5 @@
 ---
 type: location
 location: canada
-private: true
+mode: all
 ---

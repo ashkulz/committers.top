@@ -1,5 +1,5 @@
 ---
 type: location
 location: philippines
-private: true
+mode: all
 ---

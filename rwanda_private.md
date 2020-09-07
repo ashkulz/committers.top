@@ -1,5 +1,5 @@
 ---
 type: location
 location: rwanda
-private: true
+mode: all
 ---

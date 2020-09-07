@@ -1,5 +1,5 @@
 ---
 type: location
 location: ireland
-public: true
+mode: commits
 ---

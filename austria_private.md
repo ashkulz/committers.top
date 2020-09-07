@@ -1,5 +1,5 @@
 ---
 type: location
 location: austria
-private: true
+mode: all
 ---

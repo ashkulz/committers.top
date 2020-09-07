@@ -1,5 +1,5 @@
 ---
 type: location
 location: chile
-private: true
+mode: all
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: lebanon
-public: true
+mode: commits
 ---

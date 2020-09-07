@@ -1,5 +1,5 @@
 ---
 type: location
 location: singapore
-public: true
+mode: commits
 ---

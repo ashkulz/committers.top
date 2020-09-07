@@ -1,5 +1,5 @@
 ---
 type: location
 location: israel
-public: true
+mode: commits
 ---

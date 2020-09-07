@@ -1,5 +1,5 @@
 ---
 type: location
 location: serbia
-private: true
+mode: all
 ---

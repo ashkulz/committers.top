@@ -1,5 +1,5 @@
 ---
 type: location
 location: indonesia
-private: true
+mode: all
 ---

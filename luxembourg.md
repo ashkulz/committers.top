@@ -1,5 +1,5 @@
 ---
 type: location
 location: luxembourg
-public: true
+mode: commits
 ---

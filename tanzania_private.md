@@ -1,5 +1,5 @@
 ---
 type: location
 location: tanzania
-private: true
+mode: all
 ---

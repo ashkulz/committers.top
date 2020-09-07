@@ -1,5 +1,5 @@
 ---
 type: location
 location: rwanda
-public: true
+mode: commits
 ---

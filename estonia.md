@@ -1,5 +1,5 @@
 ---
 type: location
 location: estonia
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: poland
-private: true
+mode: all
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: kenya
-private: true
+mode: all
 ---

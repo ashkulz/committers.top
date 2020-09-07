@@ -1,5 +1,5 @@
 ---
 type: location
 location: thailand
-private: true
+mode: all
 ---

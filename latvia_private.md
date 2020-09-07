@@ -1,5 +1,5 @@
 ---
 type: location
 location: latvia
-private: true
+mode: all
 ---

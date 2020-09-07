@@ -1,5 +1,5 @@
 ---
 type: location
 location: greece
-private: true
+mode: all
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: malta
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: netherlands
-public: true
+mode: commits
 ---

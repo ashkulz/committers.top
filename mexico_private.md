@@ -1,5 +1,5 @@
 ---
 type: location
 location: mexico
-private: true
+mode: all
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: netherlands
-private: true
+mode: all
 ---

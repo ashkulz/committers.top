@@ -1,5 +1,5 @@
 ---
 type: location
 location: burundi
-private: true
+mode: all
 ---

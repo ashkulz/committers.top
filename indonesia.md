@@ -1,5 +1,5 @@
 ---
 type: location
 location: indonesia
-public: true
+mode: commits
 ---

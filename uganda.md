@@ -1,5 +1,5 @@
 ---
 type: location
 location: uganda
-public: true
+mode: commits
 ---

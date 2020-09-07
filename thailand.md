@@ -1,5 +1,5 @@
 ---
 type: location
 location: thailand
-public: true
+mode: commits
 ---

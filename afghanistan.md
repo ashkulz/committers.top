@@ -1,5 +1,5 @@
 ---
 type: location
 location: afghanistan
-public: true
+mode: commits
 ---

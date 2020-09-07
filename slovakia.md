@@ -1,5 +1,5 @@
 ---
 type: location
 location: slovakia
-public: true
+mode: commits
 ---

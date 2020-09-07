@@ -1,5 +1,5 @@
 ---
 type: location
 location: hungary
-public: true
+mode: commits
 ---

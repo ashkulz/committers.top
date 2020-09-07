@@ -1,5 +1,5 @@
 ---
 type: location
 location: algeria
-private: true
+mode: all
 ---

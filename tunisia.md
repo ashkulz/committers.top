@@ -1,5 +1,5 @@
 ---
 type: location
 location: tunisia
-public: true
+mode: commits
 ---

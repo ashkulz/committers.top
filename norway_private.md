@@ -1,5 +1,5 @@
 ---
 type: location
 location: norway
-private: true
+mode: all
 ---

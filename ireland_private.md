@@ -1,5 +1,5 @@
 ---
 type: location
 location: ireland
-private: true
+mode: all
 ---

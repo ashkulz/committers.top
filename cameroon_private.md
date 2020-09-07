@@ -1,5 +1,5 @@
 ---
 type: location
 location: cameroon
-private: true
+mode: all
 ---

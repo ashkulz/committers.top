@@ -1,5 +1,5 @@
 ---
 type: location
 location: uganda
-private: true
+mode: all
 ---

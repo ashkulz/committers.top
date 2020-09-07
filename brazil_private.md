@@ -1,5 +1,5 @@
 ---
 type: location
 location: brazil
-private: true
+mode: all
 ---

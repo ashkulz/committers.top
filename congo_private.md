@@ -1,5 +1,5 @@
 ---
 type: location
 location: congo
-private: true
+mode: all
 ---

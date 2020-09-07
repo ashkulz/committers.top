@@ -1,5 +1,5 @@
 ---
 type: location
 location: malta
-private: true
+mode: all
 ---

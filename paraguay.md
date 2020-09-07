@@ -1,5 +1,5 @@
 ---
 type: location
 location: paraguay
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: romania
-public: true
+mode: commits
 ---

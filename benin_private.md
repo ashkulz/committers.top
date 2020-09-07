@@ -1,5 +1,5 @@
 ---
 type: location
 location: benin
-private: true
+mode: all
 ---

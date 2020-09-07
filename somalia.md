@@ -1,5 +1,5 @@
 ---
 type: location
 location: somalia
-public: true
+mode: commits
 ---

@@ -1,5 +1,5 @@
 ---
 type: location
 location: argentina
-public: true
+mode: commits
 ---

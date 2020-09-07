@@ -1,5 +1,5 @@
 ---
 type: location
 location: portugal
-private: true
+mode: all
 ---

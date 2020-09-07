@@ -1,5 +1,5 @@
 ---
 type: location
 location: denmark
-public: true
+mode: commits
 ---

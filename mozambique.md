@@ -1,5 +1,5 @@
 ---
 type: location
 location: mozambique
-public: true
+mode: commits
 ---

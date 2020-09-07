@@ -1,5 +1,5 @@
 ---
 type: location
 location: serbia
-public: true
+mode: commits
 ---

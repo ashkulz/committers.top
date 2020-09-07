@@ -1,5 +1,5 @@
 ---
 type: location
 location: romania
-private: true
+mode: all
 ---
