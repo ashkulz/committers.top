@@ -123,7 +123,7 @@
           {% endif %}
 
           {% for user in users %}
-            <tr>
+            <tr id="{{user.login}}">
               <td>{{user.rank}}.</td>
               <td><a href="https://github.com/{{user.login}}">{{user.login}}</a><br>({{user.name}})</td>
               <td>{{user.contributions}}</td>
@@ -150,7 +150,7 @@
           {% assign organizations = location.public_contributions_organizations %}
         {% endif %}
         {% for org in organizations %}
-          <tr>
+          <tr id="{{org.name}}">
             <td>{{org.rank}}.</td>
             <td><a href="https://github.com/{{org.name}}">{{org.name}}</a></td>
             <td>{{org.membercount}}</td>
