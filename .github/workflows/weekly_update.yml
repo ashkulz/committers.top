@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5,25,45 * * * 5,6'
+    - cron: '0 * * * 5,6'
 
 name: weekly update
 jobs:
@@ -29,8 +29,9 @@ jobs:
         run: |
           import datetime, glob, os, subprocess, sys
 
-          STALEDATA = 5
-          GENERATED = {
+          MAX_IN_RUN = 4
+          STALE_DAYS = 5
+          GENERATED  = {
             "%s.md":         "---\ntype: location\nlocation: %s\nmode: commits\n---\n",
             "%s_private.md": "---\ntype: location\nlocation: %s\nmode: all\n---\n",
             "%s_public.md":  "---\ntype: location\nlocation: %s\nmode: contributions\n---\n",
@@ -38,9 +39,10 @@ jobs:
 
           preset_list = subprocess.run(["most-active-github-users-counter", "--list-presets"], capture_output=True, text=True).stdout
           regenerated = False
+          to_process  = []
 
           # generate markdown files for each preset
-          expected = ["index.md"]
+          expected = ["index.md", "README.md"] # shouldn't be deleted!
           flookup  = {}
           for preset, title in sorted(line.split(" = ") for line in preset_list.strip().split("\n")):
             filename = preset.replace(" ", "_")
@@ -49,6 +51,7 @@ jobs:
             for name, content in GENERATED.items():
               expected.append(name % filename)
               if not os.path.exists(expected[-1]):
+                to_process.append(filename)
                 regenerated = True
               with open(expected[-1], "w") as f:
                 f.write(content % filename)
@@ -60,28 +63,26 @@ jobs:
               regenerated = True
 
           # find if any location data is stale
-          get_mtime  = lambda n: datetime.date.fromisoformat(subprocess.run(["git", "log", "-1", "--pretty=%as", n], capture_output=True, text=True).stdout.strip())
-          locations  = sorted([get_mtime(n), os.path.basename(n)] for n in glob.glob("_data/locations/*.yml"))
-          today      = datetime.date.today()
-          to_process = None
+          get_mtime = lambda n: datetime.date.fromisoformat(subprocess.run(["git", "log", "-1", "--pretty=%as", n], capture_output=True, text=True).stdout.strip())
+          locations = sorted([get_mtime(n), os.path.basename(n)] for n in glob.glob("_data/locations/*.yml"))
+          today     = datetime.date.today()
           for mtime, filename in locations:
-            if (today - mtime).days >= STALEDATA:
-              to_process = os.path.splitext(filename)[0]
-              break
+            if (today - mtime).days >= STALE_DAYS:
+              to_process.append(os.path.splitext(filename)[0])
 
-          if not regenerated and to_process is None:
+          if not regenerated and len(to_process) == 0:
             sys.exit(0)
 
           if regenerated:
             subprocess.run('git add *.md _data/locations/*.yml && git commit -am "regenerate location pages"', shell=True, check=True)
 
-          if to_process:
-            preset = flookup[to_process]["preset"]
+          for key in to_process[0:MAX_IN_RUN]:
+            preset = flookup[key]["preset"]
             status = subprocess.run(["most-active-github-users-counter", "--token", os.environ["GITHUB_TOKEN"], "--preset", preset, "--output", "yaml"], capture_output=True, text=True)
             if status.returncode == 0:
-              with open("_data/locations/%s.yml" % to_process, "w") as f:
-                f.write("page: %s.html\ntitle: %s\n%s" % (to_process, flookup[to_process]["title"], status.stdout))
-              subprocess.run('git add _data/locations/%s.yml && git commit -m "%s: updates for %s"' % (to_process, preset, today.isoformat()), shell=True, check=True)
+              with open("_data/locations/%s.yml" % key, "w") as f:
+                f.write("page: %s.html\ntitle: %s\n%s" % (key, flookup[key]["title"], status.stdout))
+              subprocess.run('git add _data/locations/%s.yml && git commit -m "%s: updates for %s"' % (key, preset, today.isoformat()), shell=True, check=True)
             else:
               print("FAILED with exit code %d\n--- stdout ---\n%s\n--- stderr ---\n%s" % (status.returncode, status.stdout, status.stderr))
               sys.exit(1)
