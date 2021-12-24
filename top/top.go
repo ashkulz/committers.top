@@ -37,4 +37,5 @@ type Options struct {
 	ExcludeLocations []string
 	Amount           int
 	ConsiderNum      int
+	PresetTitle      string
 }

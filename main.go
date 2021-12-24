@@ -3,8 +3,10 @@ package main
 import (
 	"bufio"
 	"flag"
+	"fmt"
 	"log"
 	"os"
+	"strings"
 
 	"most-active-github-users-counter/output"
 	"most-active-github-users-counter/top"
@@ -23,6 +25,7 @@ func (i *arrayFlags) Set(value string) error {
 
 var locations arrayFlags
 var excludeLocations arrayFlags
+var presetTitle string
 
 func main() {
 	token := flag.String("token", LookupEnvOrString("GITHUB_TOKEN", ""), "Github auth token")
@@ -31,14 +34,31 @@ func main() {
 	outputOpt := flag.String("output", "plain", "Output format: plain, csv")
 	fileName := flag.String("file", "", "Output file (optional, defaults to stdout)")
 	presetName := flag.String("preset", "", "Preset (optional)")
+	listPresets := flag.Bool("list-presets", false, "List all available presets and exit immediately")
 
 	flag.Var(&locations, "location", "Location to query")
 	flag.Parse()
+
+	if *listPresets {
+		for name, options := range PRESETS {
+			title := options.title
+			if title == "" {
+				title = strings.Title(name)
+			}
+			fmt.Println(name, "=", title)
+		}
+		return
+	}
 
 	if *presetName != "" {
 		preset := Preset(*presetName)
 		locations = preset.include
 		excludeLocations = preset.exclude
+		if preset.title == "" {
+			presetTitle = strings.Title(*presetName)
+		} else {
+			presetTitle = preset.title
+		}
 	}
 
 	var format output.Format
@@ -53,7 +73,7 @@ func main() {
 		log.Fatal("Unrecognized output format: ", *outputOpt)
 	}
 
-	opts := top.Options{Token: *token, Locations: locations, ExcludeLocations: excludeLocations, Amount: *amount, ConsiderNum: *considerNum}
+	opts := top.Options{Token: *token, Locations: locations, ExcludeLocations: excludeLocations, Amount: *amount, ConsiderNum: *considerNum, PresetTitle: presetTitle}
 	data, err := top.GithubTop(opts)
 
 	if err != nil {

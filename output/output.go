@@ -129,6 +129,10 @@ func YamlOutput(results github.GithubSearchResults, writer io.Writer, options to
 	fmt.Fprintf(writer, "min_followers_required: %+v\n", results.MinimumFollowerCount)
 	fmt.Fprintf(writer, "total_user_count: %+v\n", results.TotalUserCount)
 
+	if options.PresetTitle != "" {
+		fmt.Fprintf(writer, "title: %+v\n", options.PresetTitle)
+	}
+
 	return nil
 }
 

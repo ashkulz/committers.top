@@ -1,6 +1,7 @@
 package main
 
 type QueryPreset struct {
+	title     string
 	include []string
 	exclude []string
 }
@@ -52,6 +53,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"italy", "italia", "rome", "roma", "milan", "naples", "napoli", "turin", "torino", "palermo", "genoa", "genova", "bologna", "florence", "firenze", "bari", "catania", "venice", "verona"},
 	},
 	"uk": QueryPreset{
+		title:   "UK",
 		include: []string{"uk", "england", "scotland", "wales", "northern+ireland", "london", "birmingham", "leeds", "glasgow", "sheffield", "bradford", "manchester", "edinburgh", "liverpool", "bristol", "cardiff", "belfast", "leicester", "wakefield", "coventry", "nottingham", "newcastle"},
 	},
 	"croatia": QueryPreset{
@@ -125,6 +127,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"tanzania", "dar+es+salaam", "mwanza", "arusha", "dodoma", "mbeya", "morogoro", "tanga", "kilimanjaro"},
 	},
 	"south korea": QueryPreset{
+		title:   "Republic of Korea",
 		include: []string{"south+korea", "ROK", "korea", "seoul", "busan", "incheon", "daegu", "daejeon", "gwangju", "대한민국", "서울", "서울시"},
 	},
 	"colombia": QueryPreset{
@@ -318,6 +321,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"azerbaijan", "baku", "sumqayit", "ganja", "lankaran"},
 	},
 	"uae": QueryPreset{
+		title:   "UAE",
 		include: []string{"uae", "emirates", "dubai", "abu+dhabi", "sharjah", "al+ain", "ajman"},
 	},
 	"honduras": QueryPreset{
