@@ -1,0 +1,9 @@
+{% assign location = site.data.locations[page.location] %}{
+  "user": [{% for user in location.users %}{{user.login | jsonify}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "user_public": [{% for user in location.users_public_contributions %}{{user.login | jsonify}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "user_private": [{% for user in location.private_users %}{{user.login | jsonify}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "org": [{% for org in location.organizations %}{{org.name | jsonify}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "org_public": [{% for org in location.organizations %}{{org.name | jsonify}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "org_private": [{% for org in location.organizations %}{{org.name | jsonify}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "data_asof": {{location.generated | jsonify}}
+}
