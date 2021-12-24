@@ -1,5 +1,5 @@
 ---
 type: location
-location: papua_new guinea
+location: papua_new_guinea
 mode: contributions
 ---
