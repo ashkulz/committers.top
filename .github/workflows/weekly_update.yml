@@ -1,0 +1,89 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '5,25,45 * * * 5,6'
+
+name: weekly update
+jobs:
+  weekly_update:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: setup Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.17
+      - name: build latest binary
+        run: go get -d -v . && CGO_ENABLED=0 go install -v .
+      - name: switch to website branch
+        run: |
+          git checkout -b website origin/website
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: perform update and push commits (if applicable)
+        shell: python
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          import datetime, glob, os, subprocess, sys
+
+          STALEDATA = 5
+          GENERATED = {
+            "%s.md":         "---\ntype: location\nlocation: %s\nmode: commits\n---\n",
+            "%s_private.md": "---\ntype: location\nlocation: %s\nmode: all\n---\n",
+            "%s_public.md":  "---\ntype: location\nlocation: %s\nmode: contributions\n---\n",
+          }
+
+          preset_list = subprocess.run(["most-active-github-users-counter", "--list-presets"], capture_output=True, text=True).stdout
+          regenerated = False
+
+          # generate markdown files for each preset
+          expected = ["index.md"]
+          flookup  = {}
+          for preset, title in sorted(line.split(" = ") for line in preset_list.strip().split("\n")):
+            filename = preset.replace(" ", "_")
+            flookup[filename] = { "preset": preset, "title": title }
+            expected.append("_data/locations/%s.yml" % filename)
+            for name, content in GENERATED.items():
+              expected.append(name % filename)
+              if not os.path.exists(expected[-1]):
+                regenerated = True
+              with open(expected[-1], "w") as f:
+                f.write(content % filename)
+
+          # remove files for presets no longer supported (if any)
+          for filename in sorted(glob.glob("*.md") + glob.glob("_data/locations/*.yml")):
+            if filename not in expected:
+              os.remove(filename)
+              regenerated = True
+
+          # find if any location data is stale
+          get_mtime  = lambda n: datetime.date.fromisoformat(subprocess.run(["git", "log", "-1", "--pretty=%as", n], capture_output=True, text=True).stdout.strip())
+          locations  = sorted([get_mtime(n), os.path.basename(n)] for n in glob.glob("_data/locations/*.yml"))
+          today      = datetime.date.today()
+          to_process = None
+          for mtime, filename in locations:
+            if (today - mtime).days >= STALEDATA:
+              to_process = os.path.splitext(filename)[0]
+              break
+
+          if not regenerated and to_process is None:
+            sys.exit(0)
+
+          if regenerated:
+            subprocess.run('git add *.md _data/locations/*.yml && git commit -am "regenerate location pages"', shell=True, check=True)
+
+          if to_process:
+            preset = flookup[to_process]["preset"]
+            status = subprocess.run(["most-active-github-users-counter", "--token", os.environ["GITHUB_TOKEN"], "--preset", preset, "--output", "yaml"], capture_output=True, text=True)
+            if status.returncode == 0:
+              with open("_data/locations/%s.yml" % to_process, "w") as f:
+                f.write("page: %s.html\ntitle: %s\n%s" % (to_process, flookup[to_process]["title"], status.stdout))
+              subprocess.run('git add _data/locations/%s.yml && git commit -m "%s: updates for %s"' % (to_process, preset, today.isoformat()), shell=True, check=True)
+            else:
+              print("FAILED with exit code %d\n--- stdout ---\n%s\n--- stderr ---\n%s" % (status.returncode, status.stdout, status.stderr))
+              sys.exit(1)
+
+          subprocess.run("git push origin website", shell=True, check=True)
