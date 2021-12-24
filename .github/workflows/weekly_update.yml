@@ -81,7 +81,7 @@ jobs:
             status = subprocess.run(["most-active-github-users-counter", "--token", os.environ["GITHUB_TOKEN"], "--preset", preset, "--output", "yaml"], capture_output=True, text=True)
             if status.returncode == 0:
               with open("_data/locations/%s.yml" % key, "w") as f:
-                f.write("page: %s.html\ntitle: %s\n%s" % (key, flookup[key]["title"], status.stdout))
+                f.write("page: %s.html\n%s" % (key, status.stdout))
               subprocess.run('git add _data/locations/%s.yml && git commit -m "%s: updates for %s"' % (key, preset, today.isoformat()), shell=True, check=True)
             else:
               print("FAILED with exit code %d\n--- stdout ---\n%s\n--- stderr ---\n%s" % (status.returncode, status.stdout, status.stderr))
