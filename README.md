@@ -1,5 +1,3 @@
-[Project homepage](https://commits.top/)
-
 # Most Active GitHub Users Counter
 
 This CLI tool queries the GitHub GraphQL API for users and ranks them according to number of contributions. Several preset locations are provided.
@@ -22,11 +20,17 @@ go run *.go \
 
 ## Contribution
 
-Contributions are accepted. Please provide any input as pull request. As a hobby project, my time is limited, but PRs and issues are addressed regularly.
+Contributions are accepted. Please report issues or make pull requests against either `master` or [branch for the website](https://github.com/ashkulz/committers.top/tree/website) as appropriate.
 
 *Please use the provided precommit hooks and run `go fmt`, `go vet` and `go lint` liberally.*
 
 ## FAQ
+
+### Why is this running on a different domain?
+
+The original project by [@lauripiispanen](https://github.com/lauripiispanen) seems to have stopped updating and PRs have been open for quite a while. I ([@ashkulz](https://github.com/ashkulz)) wanted to automate the data update process using GitHub Actions, and plan to aggressively merge PRs/fix issues created on this and the [original repository](https://github.com/lauripiispanen/most-active-github-users-counter).
+
+I also thought that `committers.top` was a more appropriate domain name and quickly grabbed it for this friendly fork :grinning:
 
 ### Why am I not on this list?
 
