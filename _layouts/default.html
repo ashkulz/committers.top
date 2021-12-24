@@ -53,7 +53,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>committers.top</h1>
+        <h1><a href=".">committers.top</a></h1>
         <p>A list of the most active GitHub users</p>
 
         <p class="view"><a href="https://github.com/ashkulz/committers.top.git"><img src="https://img.shields.io/github/stars/ashkulz/committers.top?style=social" /></a></p>
@@ -70,7 +70,7 @@
         {% if location %}
           <h1>Most active GitHub users in {{location.title}}</h1>
           <p>
-            This is a list of most active GitHub users in {{location.title}} over the past year. Other countries/cities can be found <a href=".">here</a>.
+            This is a list of most active GitHub users in {{location.title}} over the past year. Other countries/regions can be found <a href=".">here</a>.
             This list was generated at <code>{{location.generated}}</code>.
           </p>
           <p>
@@ -95,9 +95,9 @@
           </p>
           <p>
             <ul class="mode-selector">
-              <li {% if page.mode == "commits" %} class="active"{% endif %}><a href="{{page.location}}.html">Commits</a></li>
-              <li {% if page.mode == "contributions" %} class="active"{% endif %}><a href="{{page.location}}_public.html">Contributions</a></li>
-              <li {% if page.mode == "all" %} class="active"{% endif %}><a href="{{page.location}}_private.html">All</a></li>
+              <li {% if page.mode == "commits" %} class="active"{% endif %}><a href="{{page.location}}">Commits</a></li>
+              <li {% if page.mode == "contributions" %} class="active"{% endif %}><a href="{{page.location}}_public">Contributions</a></li>
+              <li {% if page.mode == "all" %} class="active"{% endif %}><a href="{{page.location}}_private">All</a></li>
             </ul>
           </p>
           <table class="users-list">
@@ -124,7 +124,7 @@
               <td>{{user.rank}}.</td>
               <td><a href="https://github.com/{{user.login}}">{{user.login}}</a><br>({{user.name}})</td>
               <td>{{user.contributions}}</td>
-	      <td class="photo"><img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload" alt="Avatar for {{user.login}}" /></td>
+              <td class="photo"><img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload" alt="Avatar for {{user.login}}" /></td>
             </tr>
           {% endfor %}
           </tbody>
