@@ -29,14 +29,16 @@ jobs:
         run: |
           import datetime, glob, os, subprocess, sys
 
-          MAX_IN_RUN = 4
+          MAX_IN_RUN = 3
           STALE_DAYS = 5
           GENERATED  = {
-            "%s.md":         "---\ntype: location\nlocation: %s\nmode: commits\n---\n",
-            "%s_private.md": "---\ntype: location\nlocation: %s\nmode: all\n---\n",
-            "%s_public.md":  "---\ntype: location\nlocation: %s\nmode: contributions\n---\n",
+            "%s.md":                "---\ntype: location\nlocation: %s\nmode: commits\n---\n",
+            "%s_private.md":        "---\ntype: location\nlocation: %s\nmode: all\n---\n",
+            "%s_public.md":         "---\ntype: location\nlocation: %s\nmode: contributions\n---\n",
+            "rank_only/%s.json":    "---\nlayout: rank_only\nlocation: %s\n---\n",
           }
 
+          subprocess.run("mkdir -p rank_only", shell=True, check=True)
           preset_list = subprocess.run(["most-active-github-users-counter", "--list-presets"], capture_output=True, text=True).stdout
           regenerated = False
           to_process  = []
@@ -57,7 +59,7 @@ jobs:
                 f.write(content % filename)
 
           # remove files for presets no longer supported (if any)
-          for filename in sorted(glob.glob("*.md") + glob.glob("_data/locations/*.yml")):
+          for filename in sorted(glob.glob("*.md") + glob.glob("_data/locations/*.yml") + glob.glob("rank_only/*.json")):
             if filename not in expected:
               os.remove(filename)
               regenerated = True
@@ -74,7 +76,7 @@ jobs:
             sys.exit(0)
 
           if regenerated:
-            subprocess.run('git add *.md _data/locations/*.yml && git commit -am "regenerate location pages"', shell=True, check=True)
+            subprocess.run('git add *.md _data/locations/*.yml rank_only/*.json && git commit -am "regenerate location pages"', shell=True, check=True)
 
           for key in to_process[0:MAX_IN_RUN]:
             preset = flookup[key]["preset"]
