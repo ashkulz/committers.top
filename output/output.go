@@ -125,7 +125,7 @@ func YamlOutput(results github.GithubSearchResults, writer io.Writer, options to
 	fmt.Fprintln(writer, "\nprivate_organizations:")
 	outputOrganizations(topPrivate.TopOrgs(10))
 
-	fmt.Fprintf(writer, "generated: %+v\n", time.Now())
+	fmt.Fprintf(writer, "generated: %+v\n", time.Now().Format(time.RFC3339))
 	fmt.Fprintf(writer, "min_followers_required: %+v\n", results.MinimumFollowerCount)
 	fmt.Fprintf(writer, "total_user_count: %+v\n", results.TotalUserCount)
 
