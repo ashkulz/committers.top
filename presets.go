@@ -393,6 +393,9 @@ var PRESETS = map[string]QueryPreset{
 	"macedonia": QueryPreset{
 		include: []string{"macedonia", "fyrom", "north+macedonia", "mk", "mkd", "ohd", "skp", "skopje", "bitola", "kumanovo", "prilep", "tetovo", "veles", "shtip", "ohrid", "gostivar", "strumica"},
 	},
+	"palestine": QueryPreset{
+		include: []string{"jerusalem", "gaza", "hebron", "jenin", "nablus", "ramallah", "rafah"},
+	},
 }
 
 func Preset(name string) QueryPreset {
