@@ -1,7 +1,7 @@
 package main
 
 type QueryPreset struct {
-	title     string
+	title   string
 	include []string
 	exclude []string
 }
