@@ -1,0 +1,43 @@
+#!/usr/bin/env python3
+
+# Please check README.md on how to call this script!
+
+import json, os, sys, subprocess, tempfile
+
+def main(baseurl):
+  base_script = open('cloudflare_worker.js').read()
+  with tempfile.NamedTemporaryFile(mode='w+', suffix='.json') as i:
+    subprocess.run(['curl', '-sf', '%s/rank_only.json' % baseurl.rstrip('/'), '-o', i.name], check=True)
+    i.seek(0)
+    data = json.loads(i.read())
+    user_data, org_data = {}, {}
+    for location, hash in data.items():
+      user_data[location] = hash.get('user', [])
+      user_data[location+'_public'] = hash.get('user_public', [])
+      user_data[location+'_private'] = hash.get('user_private', [])
+      org_data[location] = hash.get('org', [])
+      org_data[location+'_public'] = hash.get('org_public', [])
+      org_data[location+'_private'] = hash.get('org_private', [])
+
+    with tempfile.NamedTemporaryFile(mode='w+', suffix='.js') as o:
+      for name, data in { 'user-badge': user_data, 'org-badge': org_data }.items():
+        print("uploading %s worker ..." % name)
+        o.seek(0)
+        o.truncate()
+        o.write(base_script+'\nconst BASE_URL = "%s"\nconst DATA = %s\n' % (baseurl, json.dumps(data)))
+        o.flush()
+        status = subprocess.run(['curl', '-sX', 'PUT',
+          'https://api.cloudflare.com/client/v4/accounts/%s/workers/scripts/%s' % (os.environ['CLOUDFLARE_ACCOUNT_ID'], name),
+          '-H', 'Authorization: Bearer %s' % os.environ['CLOUDFLARE_API_TOKEN'],
+          '-H', 'Content-Type: application/javascript', '--data-binary', '@'+o.name
+        ], capture_output=True, text=True)
+        if status.returncode == 0:
+          output = json.loads(status.stdout)
+          del output['result']['script']
+          print(json.dumps(output, indent=2), flush=True)
+        else:
+          print("FAILED with exit code %d\n--- stdout ---\n%s\n--- stderr ---\n%s" % (status.returncode, status.stdout, status.stderr))
+          sys.exit(1)
+
+if __name__ == '__main__':
+  main(sys.argv[1])
