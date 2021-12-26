@@ -88,14 +88,21 @@
            .take(256)</code></pre>
           </p>
           <p>
-          {% if page.mode == "commits" %}
+          {% if page.mode == "commits" %}{% assign page_name = page.location %}
             This list contains all public commits for each user.
-          {% elsif page.mode == "contributions" %}
+          {% elsif page.mode == "contributions" %}{% assign page_name = page.location | append: "_public" %}
             This list contains all public contributions for each user.
-          {% else %}
+          {% else %}{% assign page_name = page.location | append: "_private" %}
             This list contains all contributions for each user (public & private).
           {% endif %}
           There are <b>{{location.total_user_count}}</b> total users in the region and you need at least <b>{{location.min_followers_required}}</b> followers to be on this list.
+          </p>
+          <p>
+            Badges are also available, which you can include on your profile pages. Simply include the following markdown for users:
+            <pre><code>[![committers.top badge](https://user-badge.committers.top/{{page_name}}/USERNAME.svg)](https://user-badge.committers.top/{{page_name}}/USERNAME)</code></pre>
+            For organizations, you need to use a slightly different markup:
+            <pre><code>[![committers.top badge](https://org-badge.committers.top/{{page_name}}/ORGNAME.svg)](https://org-badge.committers.top/{{page_name}}/ORGNAME)</code></pre>
+            In case you aren't currently ranked on this page, you'll simply receive an "unranked" badge.
           </p>
           <p>
             <ul class="mode-selector">

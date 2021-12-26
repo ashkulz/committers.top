@@ -14,3 +14,15 @@ You can get a combined machine-readable JSON for:
 <li><a href="rank_only.json">rank-only with categories</a></li>
 </ul>
 A subset specific to each country/region is available on the individual page linked above.
+
+### Badges
+
+Badges are also available, which you can include on your profile pages. Simply include the following markdown for users:
+```markdown
+[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/REGION/USERNAME)
+```
+For organizations, you need to use a slightly different markup:
+```markdown
+[![committers.top badge](https://org-badge.committers.top/REGION/ORGNAME.svg)](https://org-badge.committers.top/REGION/ORGNAME)
+```
+In case you aren't currently ranked for a given region, you'll simply receive an "unranked" badge.
