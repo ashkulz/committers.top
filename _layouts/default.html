@@ -22,8 +22,8 @@
       <meta property="og:site_name" content="committers.top - Most active GitHub users in {{location.title}}"/>
       <meta property="og:title" content="committers.top - Most active GitHub users in {{location.title}}"/>
       <meta name="twitter:title" content="committers.top - Most active GitHub users in {{location.title}}"/>
-      <meta property="og:url" content="http://committers.top/{{location.page}}"/>
-      <link rel="canonical" href="http://committers.top/{{location.page}}">
+      <meta property="og:url" content="https://committers.top/{{location.page}}"/>
+      <link rel="canonical" href="https://committers.top/{{location.page}}">
 
     {% else %}
       <title>Most active GitHub users</title>
@@ -34,8 +34,8 @@
       <meta property="og:site_name" content="committers.top - Most active GitHub users"/>
       <meta property="og:title" content="committers.top - Most active GitHub users"/>
       <meta name="twitter:title" content="committers.top - Most active GitHub users"/>
-      <meta property="og:url" content="http://committers.top/"/>
-      <link rel="canonical" href="http://committers.top/">
+      <meta property="og:url" content="https://committers.top/"/>
+      <link rel="canonical" href="https://committers.top/">
 
     {% endif %}
     <meta name="rating" content="Safe For Kids"/>
@@ -123,7 +123,7 @@
           {% endif %}
 
           {% for user in users %}
-            <tr>
+            <tr id="{{user.login}}">
               <td>{{user.rank}}.</td>
               <td><a href="https://github.com/{{user.login}}">{{user.login}}</a><br>({{user.name}})</td>
               <td>{{user.contributions}}</td>
@@ -150,7 +150,7 @@
           {% assign organizations = location.public_contributions_organizations %}
         {% endif %}
         {% for org in organizations %}
-          <tr>
+          <tr id="{{org.name}}">
             <td>{{org.rank}}.</td>
             <td><a href="https://github.com/{{org.name}}">{{org.name}}</a></td>
             <td>{{org.membercount}}</td>
