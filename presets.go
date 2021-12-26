@@ -357,6 +357,9 @@ var PRESETS = map[string]QueryPreset{
 	"hong kong": QueryPreset{
 		include: []string{"hong+kong", "kowloon"},
 	},
+	"macau": QueryPreset{
+		include: []string{"macau", "macao"},
+	},
 	"el salvador": QueryPreset{
 		include: []string{"el+salvador"},
 	},
