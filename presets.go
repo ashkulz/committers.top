@@ -204,7 +204,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"malta", "birgu", "bormla", "mdina", "qormi", "senglea", "siġġiewi", "valletta", "zabbar", "zebbuġ", "zejtun"},
 	},
 	"rwanda": QueryPreset{
-		include: []string{"rwanda", "kigali", "butare", "muhanga", "ruhengeri", "gisenyi"},
+		include: []string{"rwanda", "kigali", "butare", "muhanga", "ruhengeri", "gisenyi", "nyarugenge", "huye", "musanze", "rubavu", "rwamagana", "kirehe", "kibungo", "ngoma", "nyagatare", "gicumbi", "nyabihu", "kibuye", "karongi", "rusizi", "nyamasheke", "ruhango", "nyanza", "kamonyi", "kicukiro", "gasabo"},
 	},
 	"saudi arabia": QueryPreset{
 		include: []string{"Saudi", "KSA", "Riyadh", "Mecca", "Jeddah", "Dammam"},
