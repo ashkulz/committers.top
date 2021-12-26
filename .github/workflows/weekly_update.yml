@@ -50,10 +50,11 @@ jobs:
             filename = preset.replace(" ", "_")
             flookup[filename] = { "preset": preset, "title": title }
             expected.append("_data/locations/%s.yml" % filename)
+            if not os.path.exists(expected[-1]):
+              to_process.append(filename)
             for name, content in GENERATED.items():
               expected.append(name % filename)
               if not os.path.exists(expected[-1]):
-                to_process.append(filename)
                 regenerated = True
               with open(expected[-1], "w") as f:
                 f.write(content % filename)
