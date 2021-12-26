@@ -405,6 +405,9 @@ var PRESETS = map[string]QueryPreset{
 	"mauritania": QueryPreset{
 		include: []string{"mauritania", "mauritanie", "nouakchott", "nouadhibou"},
 	},
+	"botswana": QueryPreset{
+		include: []string{"botswana", "gaborone", "francistown"},
+	},
 }
 
 func Preset(name string) QueryPreset {
