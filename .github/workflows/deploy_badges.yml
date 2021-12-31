@@ -1,15 +1,17 @@
 on:
   workflow_dispatch:
+  push:
+    branches: [ website ]
   schedule:
-    - cron: '0 * * * *'
+    - cron: 0 0 * * *
 
-name: update badges
+name: deploy updated script/data for badges
 jobs:
-  update_badges:
+  deploy_badges:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
-      - name: update badges
+      - name: deploy updated script/data for badges
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

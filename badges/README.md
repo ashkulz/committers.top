@@ -22,3 +22,21 @@ NOTE: two worker scripts are created (`user-badge`) and (`org-badge`) with diffe
 4. Configure each of the worker scripts [as described here](https://developers.cloudflare.com/workers/platform/routes#custom-routes):
     * Create an AAAA record for `100::` which is proxied by CloudFlare (orange-cloud)
     * Ensure that a route is added which maps to the worker, as no routes are added by default
+
+NOTE: I use [DNSControl](https://stackexchange.github.io/dnscontrol/) for managing DNS, and this is the configuration I use:
+
+```js
+var REGISTRAR  = NewRegistrar('none', 'NONE');
+var CLOUDFLARE = NewDnsProvider('cloudflare', 'CLOUDFLAREAPI', { manage_workers: true });
+
+D('committers.top', REGISTRAR, DnsProvider(CLOUDFLARE),
+  ALIAS('@',          'ashkulz.github.io.'),
+  CNAME('www',        'ashkulz.github.io.'),
+  AAAA ('user-badge', '100::', CF_PROXY_ON),
+  AAAA ('org-badge',  '100::', CF_PROXY_ON),
+
+  CF_WORKER_ROUTE("user-badge.committers.top/*", "user-badge"),
+  CF_WORKER_ROUTE("org-badge.committers.top/*", "org-badge")
+)
+
+```
