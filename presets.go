@@ -1,5 +1,9 @@
 package main
 
+import (
+	"strings"
+)
+
 type QueryPreset struct {
 	title   string
 	include []string
@@ -421,4 +425,12 @@ var PRESETS = map[string]QueryPreset{
 
 func Preset(name string) QueryPreset {
 	return PRESETS[name]
+}
+
+func PresetTitle(name string) string {
+	title := Preset(name).title
+	if title == "" {
+		title = strings.Title(name)
+	}
+	return title
 }

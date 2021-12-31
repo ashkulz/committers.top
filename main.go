@@ -6,7 +6,6 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"strings"
 
 	"most-active-github-users-counter/output"
 	"most-active-github-users-counter/top"
@@ -40,12 +39,8 @@ func main() {
 	flag.Parse()
 
 	if *listPresets {
-		for name, options := range PRESETS {
-			title := options.title
-			if title == "" {
-				title = strings.Title(name)
-			}
-			fmt.Println(name, "=", title)
+		for name, _ := range PRESETS {
+			fmt.Println(name, "=", PresetTitle(name))
 		}
 		return
 	}
@@ -54,11 +49,7 @@ func main() {
 		preset := Preset(*presetName)
 		locations = preset.include
 		excludeLocations = preset.exclude
-		if preset.title == "" {
-			presetTitle = strings.Title(*presetName)
-		} else {
-			presetTitle = preset.title
-		}
+		presetTitle = PresetTitle(*presetName)
 	}
 
 	var format output.Format
