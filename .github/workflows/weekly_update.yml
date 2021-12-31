@@ -27,7 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          import datetime, glob, os, subprocess, sys
+          import csv, datetime, glob, os, re, subprocess, sys
 
           MAX_IN_RUN = 3
           STALE_DAYS = 5
@@ -39,19 +39,24 @@ jobs:
           }
 
           subprocess.run("mkdir -p rank_only", shell=True, check=True)
-          preset_list = subprocess.run(["most-active-github-users-counter", "--list-presets"], capture_output=True, text=True).stdout
+          preset_data = subprocess.run(["most-active-github-users-counter", "--list-presets"], capture_output=True, text=True).stdout
+          all_presets = dict([row.pop('preset'), row] for row in csv.DictReader(preset_data.split('\n')))
           regenerated = False
           to_process  = []
 
           # generate markdown files for each preset
           expected = ["index.md", "README.md"] # shouldn't be deleted!
           flookup  = {}
-          for preset, title in sorted(line.split(" = ") for line in preset_list.strip().split("\n")):
+          for preset in sorted(all_presets.keys()):
             filename = preset.replace(" ", "_")
-            flookup[filename] = { "preset": preset, "title": title }
+            flookup[filename] = preset
             expected.append("_data/locations/%s.yml" % filename)
             if not os.path.exists(expected[-1]):
               to_process.append(filename)
+            else:
+              match = re.search("^definition_checksum: (\w+)$", open(expected[-1]).read(), re.M)
+              if not match or match.group(1) != all_presets[preset]['definition_checksum']:
+                to_process.append(filename)
             for name, content in GENERATED.items():
               expected.append(name % filename)
               if not os.path.exists(expected[-1]):
@@ -80,7 +85,7 @@ jobs:
             subprocess.run('git add *.md _data/locations/*.yml rank_only/*.json && git commit -am "regenerate location pages"', shell=True, check=True)
 
           for key in to_process[0:MAX_IN_RUN]:
-            preset = flookup[key]["preset"]
+            preset = flookup[key]
             status = subprocess.run(["most-active-github-users-counter", "--token", os.environ["GITHUB_TOKEN"], "--preset", preset, "--output", "yaml"], capture_output=True, text=True)
             if status.returncode == 0:
               with open("_data/locations/%s.yml" % key, "w") as f:

@@ -129,8 +129,9 @@ func YamlOutput(results github.GithubSearchResults, writer io.Writer, options to
 	fmt.Fprintf(writer, "min_followers_required: %+v\n", results.MinimumFollowerCount)
 	fmt.Fprintf(writer, "total_user_count: %+v\n", results.TotalUserCount)
 
-	if options.PresetTitle != "" {
+	if options.PresetTitle != "" && options.PresetChecksum != "" {
 		fmt.Fprintf(writer, "title: %+v\n", options.PresetTitle)
+		fmt.Fprintf(writer, "definition_checksum: %+v\n", options.PresetChecksum)
 	}
 
 	return nil

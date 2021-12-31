@@ -1,6 +1,9 @@
 package main
 
 import (
+	"crypto/sha256"
+	"fmt"
+	"io"
 	"strings"
 )
 
@@ -433,4 +436,10 @@ func PresetTitle(name string) string {
 		title = strings.Title(name)
 	}
 	return title
+}
+
+func PresetChecksum(name string) string {
+	hash := sha256.New()
+	io.WriteString(hash, fmt.Sprintf("%+v", Preset(name)))
+	return fmt.Sprintf("%x", hash.Sum(nil))
 }

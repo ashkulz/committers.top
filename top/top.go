@@ -38,4 +38,5 @@ type Options struct {
 	Amount           int
 	ConsiderNum      int
 	PresetTitle      string
+	PresetChecksum   string
 }
