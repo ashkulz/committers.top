@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * 6,0'
+    - cron: '0 * * * 6,0,1'
 
 name: weekly update
 jobs:
@@ -92,6 +92,7 @@ jobs:
                 f.write("page: %s.html\n%s" % (key, status.stdout))
               subprocess.run('git add _data/locations/%s.yml && git commit -m "%s: updates for %s"' % (key, preset, today.isoformat()), shell=True, check=True)
             else:
+              subprocess.run("git push origin website", shell=True) # push successful commits, if any
               print("FAILED with exit code %d\n--- stdout ---\n%s\n--- stderr ---\n%s" % (status.returncode, status.stdout, status.stderr))
               sys.exit(1)
 
