@@ -20,6 +20,9 @@ var PRESETS = map[string]QueryPreset{
 	"austria": QueryPreset{
 		include: []string{"austria", "österreich", "vienna", "wien", "linz", "salzburg", "graz", "innsbruck", "klagenfurt", "wels", "dornbirn"},
 	},
+	"armenia": QueryPreset{
+		include: []string{"armenia", "yerevan", "gyumri", "vanadzor", "vagharshapat", "abovyan", "kapan", "hrazdan", "armavir", "artashat", "ijevan", "gavar", "goris", "dilijan", "stepanakert", "martuni", "sisian", "alaverdi", "stepanavan", "berd"},
+	},
 	"oman": QueryPreset{
 		include: []string{"oman", "ad+dakhiliyah", "ad+dhahirah", "batinah+north", "batinah+south", "al+buraymi", "al+wusta", "ash+sharqiyah+north", "ash+sharqiyah+south", "dhofar", "muscat", "musandam"},
 	},
