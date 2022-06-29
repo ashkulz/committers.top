@@ -431,7 +431,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"Qatar", "Doha"},
 	},
 	"the bahamas": QueryPreset{
-		include: []string{"Bahamas", "Abaco", "Acklins", "Andros", "Berry+Islands", "Bimini", "Cat+Island", "Crooked+Island", "Eleuthera", "Exuma", "Grand+Bahama", "Inagua", "Long+Island", "Mayaguana", "New+Providence", "Nassau", "Ragged+Island", "Rum+Cay", "San+Salvador"},
+		include: []string{"Bahamas"},
 	},
 }
 
