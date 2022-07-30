@@ -17,9 +17,9 @@ jobs:
           go-version: 1.17
       - name: build latest binary
         run: go get -d -v . && CGO_ENABLED=0 go install -v .
-      - name: switch to website branch
+      - name: switch to gh-pages branch
         run: |
-          git checkout -b website origin/website
+          git checkout -b gh-pages origin/gh-pages
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: perform update and push commits (if applicable)
@@ -94,8 +94,8 @@ jobs:
                 f.write("page: %s.html\n%s" % (key, status.stdout))
               subprocess.run('git add _data/locations/%s.yml && git commit -m "%s: updates for %s"' % (key, preset, today.isoformat()), shell=True, check=True)
             else:
-              subprocess.run("git push origin website", shell=True) # push successful commits, if any
+              subprocess.run("git push origin gh-pages", shell=True) # push successful commits, if any
               print("FAILED with exit code %d\n--- stdout ---\n%s\n--- stderr ---\n%s" % (status.returncode, status.stdout, status.stderr))
               sys.exit(1)
 
-          subprocess.run("git push origin website", shell=True, check=True)
+          subprocess.run("git push origin gh-pages", shell=True, check=True)

@@ -20,7 +20,7 @@ go run *.go \
 
 ## Contribution
 
-Contributions are accepted. Please report issues or make pull requests against either `master` or [branch for the website](https://github.com/ashkulz/committers.top/tree/website) as appropriate.
+Contributions are accepted. Please report issues or make pull requests against either `master` or [branch for the website](https://github.com/ashkulz/committers.top/tree/gh-pages) as appropriate.
 
 *Please use the provided precommit hooks and run `go fmt`, `go vet` and `go lint` liberally.*
 
