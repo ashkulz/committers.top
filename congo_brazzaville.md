@@ -1,5 +1,5 @@
 ---
 type: location
-location: congo_kinshasa
+location: congo_brazzaville
 mode: commits
 ---
