@@ -51,7 +51,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"russia", "moscow", "saint+petersburg", "novosibirsk", "yekaterinburg", "nizhny+novgorod", "samara", "omsk", "kazan", "chelyabinsk", "rostov-on-don", "ufa", "volgograd"},
 	},
 	"estonia": QueryPreset{
-		include: []string{"estonia", "eesti", "tallinn", "tartu", "narva", "pärnu"},
+		include: []string{"estonia", "eesti", "tallinn", "tartu", "narva", "pärnu", "rakvere", "kohtla-järve", "viljandi", "maardu", "sillamäe"},
 	},
 	"denmark": QueryPreset{
 		include: []string{"denmark", "danmark", "copenhagen", "aarhus", "odense", "aalborg"},
@@ -125,7 +125,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"iran", "tehran", "mashhad", "isfahan", "esfahan", "karaj", "shiraz", "tabriz", "qom", "ahvaz", "ahwaz", "kermanshah", "urmia", "rasht", "kerman"},
 	},
 	"congo kinshasa": QueryPreset{
-		include: []string{"congo+kinshasa","drc", "cod", "kinshasa", "lubumbashi", "bukavu", "kananga", "goma", "mbuji+mayi", "likasi", "kolwezi","kalemie","uvira","matadi","moba","kamina","kabalo","fungurume"},
+		include: []string{"congo+kinshasa", "drc", "cod", "kinshasa", "lubumbashi", "bukavu", "kananga", "goma", "mbuji+mayi", "likasi", "kolwezi", "kalemie", "uvira", "matadi", "moba", "kamina", "kabalo", "fungurume"},
 	},
 	"congo brazzaville": QueryPreset{
 		include: []string{"congo+brazza", "cog", "brazzaville", "djambala", "pointe+noire", "sibiti", "owando", "madingou", "loango", "kinkala", "impfondo", "dolisie"},
