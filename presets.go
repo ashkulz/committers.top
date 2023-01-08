@@ -210,6 +210,9 @@ var PRESETS = map[string]QueryPreset{
 	"romania": QueryPreset{
 		include: []string{"romania", "bucharest", "cluj", "iasi", "timisoara", "craiova", "brasov", "sibiu", "constanta", "oradea", "galati", "ploesti", "pitesti", "arad", "bacau"},
 	},
+	"moldova": QueryPreset{
+		include: []string{"moldova", "chisinau", "tiraspol", "balti", "bender", "ribnita", "cahul", "ungheni", "soroca", "orhei", "dubasari"},
+	},
 	"belarus": QueryPreset{
 		include: []string{"belarus", "minsk", "brest,belarus", "grodno", "gomel", "vitebsk", "mogilev", "slutsk", "borisov", "pinsk", "baranovichi", "bobruisk", "soligorsk"},
 	},
