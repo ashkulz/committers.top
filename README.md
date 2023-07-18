@@ -28,9 +28,7 @@ Contributions are accepted. Please report issues or make pull requests against e
 
 ### Why is this running on a different domain?
 
-The original project by [@lauripiispanen](https://github.com/lauripiispanen) seems to have stopped updating and PRs have been open for quite a while. I ([@ashkulz](https://github.com/ashkulz)) wanted to automate the data update process using GitHub Actions, and plan to aggressively merge PRs/fix issues created on this and the [original repository](https://github.com/lauripiispanen/most-active-github-users-counter).
-
-I also thought that `committers.top` was a more appropriate domain name and quickly grabbed it for this friendly fork :grinning:
+The [original project](https://github.com/lauripiispanen/most-active-github-users-counter) by [@lauripiispanen](https://github.com/lauripiispanen) seems to have been archived. I also thought that `committers.top` was a more appropriate domain name and quickly grabbed it :grinning:
 
 ### Why am I not on this list?
 
