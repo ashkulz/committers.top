@@ -1,11 +1,11 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * 6,0,1,2'
+    - cron: '0 * * * *'
 
-name: weekly update
+name: daily update
 jobs:
-  weekly_update:
+  daily_update:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
