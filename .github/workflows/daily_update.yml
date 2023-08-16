@@ -84,7 +84,6 @@ jobs:
           if regenerated:
             subprocess.run('git add *.md _data/locations/*.yml rank_only/*.json && git commit -am "regenerate location pages"', shell=True, check=True)
 
-          to_process.sort()
           for key in to_process[0:MAX_IN_RUN]:
             print("Running: %s" % key)
             preset = flookup[key]
