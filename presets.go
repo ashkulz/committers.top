@@ -27,7 +27,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"oman", "ad+dakhiliyah", "ad+dhahirah", "batinah+north", "batinah+south", "al+buraymi", "al+wusta", "ash+sharqiyah+north", "ash+sharqiyah+south", "dhofar", "muscat", "musandam"},
 	},
 	"bahrain": QueryPreset{
-		include: []string{"Manama", "muharraq", "riffa", "hamad+town", "isa+town"},
+		include: []string{"manama", "muharraq", "riffa", "hamad+town", "isa+town"},
 	},
 	"finland": QueryPreset{
 		include: []string{"finland", "suomi", "helsinki", "tampere", "oulu", "espoo", "vantaa", "turku", "rovaniemi", "jyväskylä", "lahti", "kuopio", "pori", "lappeenranta", "vaasa"},
