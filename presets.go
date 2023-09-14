@@ -162,7 +162,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"argentina", "buenos+aires", "cordoba", "rosario", "mendoza", "la+plata", "tucuman", "mar+del+plata", "salta", "resistencia"},
 	},
 	"algeria": QueryPreset{
-		include: []string{"algiers", "oran", "constantine", "annaba", "batna", "blida", "setif", "chlef", "djelfa", "biskra", "tébessa", "el oued", "sétif", "béjaïa","tlemcen","skikda","tiaret","béchar","mostaganem","el eulma","bordj bou arreridj","aïn beïda","khenchela","souk ahras","mila","ghardaia","tizi ouzou","guelma","ouargla","saïda","tindouf","tamanrasset","relizane"},
+		include: []string{"algeria", "algiers", "oran", "constantine", "annaba", "blida", "batna", "djelfa", "setif", "sidi+bel+abbes", "biskra", "tiaret", "relizane", "mostaganem", "tlemcen", "chlef", "jijel"},
 	},
 	"sudan": QueryPreset{
 		include: []string{"sudan", "khartoum", "omdurman"},
