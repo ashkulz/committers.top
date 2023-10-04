@@ -292,7 +292,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"ecuador", "Guayaquil", "Quito", "Cuenca", "Machala"},
 	},
 	"syria": QueryPreset{
-		include: []string{"syria", "aleppo", "homs", "latakia", "hama", "raqqa"},
+		include: []string{"syria", "سوريا", "damascus", "hama", "aleppo", "homs", "rif+dimashq", "tartus", "latakia", "idlib", "raqqa", "daraa", "alhasakah", "dierezzor", "quneitra", "alsuwayda"},
 	},
 	"cambodia": QueryPreset{
 		include: []string{"cambodia", "phnom", "battambang", "siem+reap", "kampong"},
