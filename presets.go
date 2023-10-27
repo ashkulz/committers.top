@@ -97,7 +97,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"pakistan", "karachi", "lahore", "faisalabad", "rawalpindi", "peshawar", "islamabad"},
 	},
 	"brazil": QueryPreset{
-		include: []string{"brazil", "brasil", "são+paulo", "brasília", "salvador", "fortaleza", "belém", "belo+horizonte", "manaus", "curitiba", "recife", "rio+de+janeiro", "maceió", "aracaju", "porto+alegre", "florianópolis", "acre", "alagoas", "amapá", "amazonas", "bahia", "ceará", "distrito+federal", "espírito+santo", "goiás", "maranhão", "mato+grosso", "mato+grosso+do+sul", "minas+gerais", "pará", "paraíba", "paraná", "pernambuco", "piauí", "rio+grande+do+norte", "rio+grande+do+sul", "rondônia", "roraima", "santa+catarina", "sergipe", "tocantins"
+		include: []string{"brazil", "brasil", "são+paulo", "brasília", "salvador", "fortaleza", "belém", "belo+horizonte", "manaus", "curitiba", "recife", "rio+de+janeiro", "maceió", "aracaju", "porto+alegre", "florianópolis", "acre", "alagoas", "amapá", "amazonas", "bahia", "ceará", "distrito+federal", "espírito+santo", "goiás", "maranhão", "mato+grosso", "mato+grosso+do+sul", "minas+gerais", "pará", "paraíba", "paraná", "pernambuco", "piauí", "rio+grande+do+norte", "rio+grande+do+sul", "rondônia", "roraima", "santa+catarina", "sergipe", "tocantins"},
 	},
 	"nigeria": QueryPreset{
 		include: []string{"nigeria", "lagos", "kano", "ibadan", "benin+city", "port+harcourt", "jos", "ilorin", "kaduna"},
