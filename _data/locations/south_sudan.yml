@@ -139,19 +139,19 @@ users:
 users_public_contributions:
 
   - rank: 1
-    name: "Chol Peter"
-    login: "cholbol"
-    avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
-    contributions: 4
-    company: "charly rio "
-    organizations: ""
-
-  - rank: 2
     name: "Arop Mathew Daniel"
     login: "Aropmathewdaniel"
     avatarUrl: https://avatars.githubusercontent.com/u/62935079?u=b4516bffe3c6725008e69cb70d2419c9b46f891b&v=4
     contributions: 4
     company: "GAN MEDIA & TECH COMPANY LIMITED"
+    organizations: ""
+
+  - rank: 2
+    name: "Chol Peter"
+    login: "cholbol"
+    avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
+    contributions: 4
+    company: "charly rio "
     organizations: ""
 
   - rank: 3
@@ -163,14 +163,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 4
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?v=4
-    contributions: 3
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 5
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
@@ -178,12 +170,20 @@ users_public_contributions:
     company: "@konetahub "
     organizations: ""
 
-  - rank: 6
+  - rank: 5
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 3
     company: "Media news company "
+    organizations: ""
+
+  - rank: 6
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?v=4
+    contributions: 2
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 7
@@ -301,14 +301,6 @@ private_users:
     organizations: ""
 
   - rank: 4
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?v=4
-    contributions: 3
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 5
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
@@ -316,12 +308,20 @@ private_users:
     company: "@konetahub "
     organizations: ""
 
-  - rank: 6
+  - rank: 5
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 3
     company: "Media news company "
+    organizations: ""
+
+  - rank: 6
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?v=4
+    contributions: 2
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 7
@@ -429,7 +429,7 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2023-11-10T13:04:27Z
+generated: 2023-11-15T13:10:56Z
 min_followers_required: 0
 total_user_count: 17
 title: South Sudan
