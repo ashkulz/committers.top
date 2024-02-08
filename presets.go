@@ -15,7 +15,7 @@ type QueryPreset struct {
 
 var PRESETS = map[string]QueryPreset{
 	"panama": QueryPreset{
-		include: []string{"panama", "panamá", "panama+city", "tocumen", "david"},
+		include: []string{"panama", "panamá", "tocumen"},
 	},
 	"cyprus": QueryPreset{
 		include: []string{"cyprus", "nicosia", "lefkosia", "limassol", "lemessos", "larnaka", "paphos"},
