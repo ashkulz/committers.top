@@ -54,8 +54,10 @@ jobs:
             if not os.path.exists(expected[-1]):
               to_process.append(filename)
             else:
-              match = re.search("^definition_checksum: (\w+)$", open(expected[-1]).read(), re.M)
-              if not match or match.group(1) != all_presets[preset]['definition_checksum']:
+              file_content = open(expected[-1]).read()
+              checksum_match = re.search("^definition_checksum: (\w+)$", file_content, re.M)
+              usercount_match = re.search("^total_user_count: (\d+)$", file_content, re.M)
+              if not checksum_match or checksum_match.group(1) != all_presets[preset]['definition_checksum'] or not usercount_match or usercount_match.group(1) == '0':
                 to_process.append(filename)
             for name, content in GENERATED.items():
               expected.append(name % filename)
