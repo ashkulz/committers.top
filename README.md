@@ -1,4 +1,4 @@
-# Most Active GitHub Users Counter
+# Most Active GitHub Users Counter Sri Lanka
 
 This CLI tool queries the GitHub GraphQL API for users and ranks them according to number of contributions. Several preset locations are provided.
 
