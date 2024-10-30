@@ -451,6 +451,9 @@ var PRESETS = map[string]QueryPreset{
 	"georgia": QueryPreset{
 		include: []string{"Tbilisi", "Batumi", "Kutaisi", "Rustavi", "Zugdidi", "Gori", "Poti", "Telavi", "Akhaltsikhe", "Mtskheta", "Ozurgeti", "Sukhumi", "Samtredia", "Marneuli"},
 	},
+	"kosovo": QueryPreset{
+		include: []string{"kosovo", "kosove", "prishtine"},
+	},
 }
 
 func Preset(name string) QueryPreset {
