@@ -24,6 +24,15 @@ Contributions are accepted. Please report issues or make pull requests against e
 
 *Please use the provided precommit hooks and run `go fmt`, `go vet` and `go lint` liberally.*
 
+### Preset Changes
+
+When sending PRs for changes to just `presets.go`, please ensure that you do the following (_replace `ashkulz` with your username in the links below_):
+
+* Make sure that both your PR branch and the `gh-pages` branch on your fork are up-to-date with upstream (_be sure **not** to use "Copy the `master` branch only" option when forking_).
+* Go to your fork's [daily update workflow](https://github.com/ashkulz/committers.top/actions/workflows/daily_update.yml) and trigger the workflow via "Run workflow" with your PR branch.
+* A commit should get pushed to the [`gh-pages` branch](https://github.com/ashkulz/committers.top/tree/gh-pages) and verify that the changes look good.
+* Reference the commit when making the PR, so that it's clear what the impact of merging the PR would be.
+
 ## FAQ
 
 ### Why is this running on a different domain?
