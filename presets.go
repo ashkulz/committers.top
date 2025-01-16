@@ -429,7 +429,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"macedonia", "fyrom", "north+macedonia", "mk", "mkd", "ohd", "skp", "skopje", "bitola", "kumanovo", "prilep", "tetovo", "veles", "shtip", "ohrid", "gostivar", "strumica", "kavadarci", "negotino", "berovo", "kratovo", "struga", "valandovo", "demir+kapija", "demir+hisar", "krusheve", "gevgelija"},
 	},
 	"palestine": QueryPreset{
-		include: []string{"jerusalem", "gaza", "hebron", "jenin", "nablus", "ramallah", "rafah"},
+		include: []string{"palestine","jerusalem", "gaza", "hebron", "jenin", "nablus", "ramallah", "rafah"},
 	},
 	"mauritania": QueryPreset{
 		include: []string{"mauritania", "mauritanie", "nouakchott", "nouadhibou"},
