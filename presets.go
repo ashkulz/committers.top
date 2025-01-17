@@ -158,6 +158,9 @@ var PRESETS = map[string]QueryPreset{
 	"colombia": QueryPreset{
 		include: []string{"colombia", "bogota", "medellin", "cali", "barranquilla", "cartagena", "cucuta", "bucaramanga", "ibague", "soledad", "pereira", "santa+marta"},
 	},
+	"costa rica": QueryPreset{
+		include: []string{"costa+rica", "san+jose", "alajuela", "cartago", "heredia", "puntarenas", "limon", "guanacaste"},
+	},
 	"kenya": QueryPreset{
 		include: []string{"kenya", "nairobi", "mombasa", "kisumu", "nakuru", "eldoret", "kisii", "nyeri", "machakos", "Embu"},
 	},
