@@ -38,6 +38,9 @@ var PRESETS = map[string]QueryPreset{
 	"sweden": QueryPreset{
 		include: []string{"sweden", "sverige", "stockholm", "malmö", "uppsala", "göteborg", "gothenburg"},
 	},
+	"suriname": QueryPreset{
+		include: []string{"suriname", "paramaribo"},
+	},
 	"norway": QueryPreset{
 		include: []string{"norway", "norge", "oslo", "bergen", "trondheim"},
 	},
@@ -429,7 +432,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"macedonia", "fyrom", "north+macedonia", "mk", "mkd", "ohd", "skp", "skopje", "bitola", "kumanovo", "prilep", "tetovo", "veles", "shtip", "ohrid", "gostivar", "strumica", "kavadarci", "negotino", "berovo", "kratovo", "struga", "valandovo", "demir+kapija", "demir+hisar", "krusheve", "gevgelija"},
 	},
 	"palestine": QueryPreset{
-		include: []string{"palestine","jerusalem", "gaza", "hebron", "jenin", "nablus", "ramallah", "rafah"},
+		include: []string{"palestine", "jerusalem", "gaza", "hebron", "jenin", "nablus", "ramallah", "rafah"},
 	},
 	"mauritania": QueryPreset{
 		include: []string{"mauritania", "mauritanie", "nouakchott", "nouadhibou"},
