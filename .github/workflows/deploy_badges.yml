@@ -6,9 +6,9 @@ on:
 name: deploy updated script/data for badges
 jobs:
   deploy_badges:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: deploy updated script/data for badges
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
