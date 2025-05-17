@@ -42,7 +42,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"suriname", "paramaribo"},
 	},
 	"norway": QueryPreset{
-		include: []string{"norway", "norge", "oslo", "bergen", "trondheim"},
+		include: []string{"norway", "norge", "oslo", "bergen", "trondheim", "stavanger", "drammen", "fredrikstad", "kristiansand", "tromsø", "sandnes", "ålesund", "bodø", "skien", "haugesund", "tønsberg", "arendal", "porsgrunn", "hamar", "larvik", "moss", "sandefjord", "halden", "harstad", "lillehammer", "molde", "gjøvik", "mo i rana", "steinkjer", "alta", "lommedalen"},
 	},
 	"germany": QueryPreset{
 		include: []string{"germany", "deutschland", "berlin", "frankfurt", "munich", "münchen", "hamburg", "cologne", "köln"},
