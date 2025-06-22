@@ -91,7 +91,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"china", "中国", "guangzhou", "shanghai", "beijing", "hangzhou"},
 	},
 	"india": QueryPreset{
-		include: []string{"india", "mumbai", "delhi", "bangalore", "hyderabad", "ahmedabad", "chennai", "kolkata", "jaipur"},
+		include: []string{"india", "mumbai", "delhi", "bangalore", "hyderabad", "ahmedabad", "chennai", "kolkata", "jaipur", "pune", "gurgaon", "noida"},
 	},
 	"israel": QueryPreset{
 		include: []string{"israel", "tel+aviv", "jerusalem", "beer+sheva", "beersheva", "netanya", "ramat+gan", "haifa", "herzliya", "rishon"},
