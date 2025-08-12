@@ -127,15 +127,15 @@ private_users:
 organizations:
 
   - rank: 1
-    name: "rocketseat"
-    membercount: 2
-
-  - rank: 2
     name: "getomni"
     membercount: 2
 
+  - rank: 2
+    name: "rocketseat"
+    membercount: 2
+
   - rank: 3
-    name: "caelum"
+    name: "brasilapi"
     membercount: 1
 
   - rank: 4
@@ -143,69 +143,69 @@ organizations:
     membercount: 1
 
   - rank: 5
-    name: "ballerini-server"
-    membercount: 1
-
-  - rank: 6
     name: "ballerini-theme"
     membercount: 1
 
-  - rank: 7
-    name: "brasilapi"
-    membercount: 1
-
-  - rank: 8
+  - rank: 6
     name: "rocketseat-content"
     membercount: 1
 
-  - rank: 9
+  - rank: 7
     name: "rocketseat-education"
     membercount: 1
 
-  - rank: 10
+  - rank: 8
+    name: "caelum"
+    membercount: 1
+
+  - rank: 9
     name: "casadocodigo"
+    membercount: 1
+
+  - rank: 10
+    name: "ballerini-server"
     membercount: 1
 
 public_contributions_organizations:
 
   - rank: 1
-    name: "rocketseat"
-    membercount: 2
-
-  - rank: 2
     name: "getomni"
     membercount: 2
 
+  - rank: 2
+    name: "rocketseat"
+    membercount: 2
+
   - rank: 3
-    name: "caelum"
-    membercount: 1
-
-  - rank: 4
-    name: "alura-challenges"
-    membercount: 1
-
-  - rank: 5
-    name: "rocketseat-education"
-    membercount: 1
-
-  - rank: 6
     name: "rocketseat-content"
     membercount: 1
 
-  - rank: 7
-    name: "casadocodigo"
+  - rank: 4
+    name: "rocketseat-education"
     membercount: 1
 
-  - rank: 8
-    name: "ballerini-theme"
+  - rank: 5
+    name: "alura-challenges"
     membercount: 1
 
-  - rank: 9
+  - rank: 6
     name: "ballerini-server"
     membercount: 1
 
-  - rank: 10
+  - rank: 7
+    name: "ballerini-theme"
+    membercount: 1
+
+  - rank: 8
     name: "brasilapi"
+    membercount: 1
+
+  - rank: 9
+    name: "caelum"
+    membercount: 1
+
+  - rank: 10
+    name: "casadocodigo"
     membercount: 1
 
 private_organizations:
@@ -219,19 +219,19 @@ private_organizations:
     membercount: 2
 
   - rank: 3
-    name: "caelum"
+    name: "brasilapi"
     membercount: 1
 
   - rank: 4
-    name: "ballerini-server"
+    name: "caelum"
     membercount: 1
 
   - rank: 5
-    name: "rocketseat-content"
+    name: "casadocodigo"
     membercount: 1
 
   - rank: 6
-    name: "brasilapi"
+    name: "ballerini-server"
     membercount: 1
 
   - rank: 7
@@ -239,7 +239,7 @@ private_organizations:
     membercount: 1
 
   - rank: 8
-    name: "casadocodigo"
+    name: "rocketseat-content"
     membercount: 1
 
   - rank: 9
@@ -249,7 +249,7 @@ private_organizations:
   - rank: 10
     name: "alura-challenges"
     membercount: 1
-generated: 2025-08-12T14:04:35Z
+generated: 2025-08-12T15:04:19Z
 min_followers_required: 16435
 total_user_count: 0
 title: Brazil
