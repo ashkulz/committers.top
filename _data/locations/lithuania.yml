@@ -1,16 +1,616 @@
 page: lithuania.html
 users:
+
+  - rank: 1
+    name: "Povilas Kanapickas"
+    login: "p12tic"
+    avatarUrl: https://avatars.githubusercontent.com/u/1056711?u=cc9106cb4622f22c43e0fc493a9b6259c8e2d24e&v=4
+    contributions: 1686
+    company: ""
+    organizations: "buildbot,debauchee"
+
+  - rank: 2
+    name: "Rimantas"
+    login: "belauzas"
+    avatarUrl: https://avatars.githubusercontent.com/u/7464725?u=c01021418172605e54c27c83bcf0c8e3dd9d7c4c&v=4
+    contributions: 788
+    company: "front-end-by-rimantas"
+    organizations: "front-end-by-rimantas"
+
+  - rank: 3
+    name: "Karolis Strazdas"
+    login: "Eoic"
+    avatarUrl: https://avatars.githubusercontent.com/u/18404082?u=a8bd2d18840dd3592bdc45d94c3ba9c46662824f&v=4
+    contributions: 640
+    company: "@Indeform"
+    organizations: ""
+
+  - rank: 4
+    name: "Mantas Mikul\u0117nas"
+    login: "grawity"
+    avatarUrl: https://avatars.githubusercontent.com/u/31021?v=4
+    contributions: 563
+    company: ""
+    organizations: ""
+
+  - rank: 5
+    name: "Marius Gedminas"
+    login: "mgedmin"
+    avatarUrl: https://avatars.githubusercontent.com/u/159967?v=4
+    contributions: 505
+    company: "Programmers of Vilnius"
+    organizations: "jenkinsci,zopefoundation,buildout,ProgrammersOfVilnius,gtimelog,akllt,neomutt"
+
+  - rank: 6
+    name: "Mikael Korpela"
+    login: "simison"
+    avatarUrl: https://avatars.githubusercontent.com/u/87168?v=4
+    contributions: 428
+    company: "@Automattic"
+    organizations: "WordPress,Hitchwiki,Automattic,BeWelcome,opensourcedesign,meanjs,Nomadwiki,hackercouch,nextcloud,agenda"
+
+  - rank: 7
+    name: "Igor Savin"
+    login: "kibertoad"
+    avatarUrl: https://avatars.githubusercontent.com/u/1847934?u=c2b2f6633e0a92681474680c64cda1bf7d0500de&v=4
+    contributions: 419
+    company: ""
+    organizations: "fastify"
+
+  - rank: 8
+    name: "Aras Pranckevi\u010dius"
+    login: "aras-p"
+    avatarUrl: https://avatars.githubusercontent.com/u/348087?u=41311731f3f004fab8817c14c0440e09a29caa48&v=4
+    contributions: 353
+    company: ""
+    organizations: ""
+
+  - rank: 9
+    name: ""
+    login: "PovilasKorop"
+    avatarUrl: https://avatars.githubusercontent.com/u/1510147?v=4
+    contributions: 257
+    company: "Laravel Course Creator"
+    organizations: ""
+
+  - rank: 10
+    name: "Mangirdas Kazlauskas"
+    login: "mkobuolys"
+    avatarUrl: https://avatars.githubusercontent.com/u/17415795?u=17d4ac3b8ad4bb9d21695177411b2b04fb6e1824&v=4
+    contributions: 194
+    company: "Billo"
+    organizations: ""
+
+  - rank: 11
+    name: "Tomas Varaneckas"
+    login: "spajus"
+    avatarUrl: https://avatars.githubusercontent.com/u/70706?u=e518cdd328659e37a9eadb02d4008744a6bde825&v=4
+    contributions: 174
+    company: "@kodolinija "
+    organizations: "hubot-archive,EpicGames,kodolinija"
+
+  - rank: 12
+    name: "Justinas Stankevi\u010dius"
+    login: "justinas"
+    avatarUrl: https://avatars.githubusercontent.com/u/662666?u=e8fe927ead3c8e9fcf30b6884190de182335495c&v=4
+    contributions: 30
+    company: ""
+    organizations: "NixOS,fwd-lt"
+
+  - rank: 13
+    name: "Mindaugas Moz\u016bras"
+    login: "mmozuras"
+    avatarUrl: https://avatars.githubusercontent.com/u/54526?u=c1541ce686a6077cd610afbaef17b8c58b7fd21f&v=4
+    contributions: 23
+    company: "@Vinted"
+    organizations: "VilniusJS,prontolabs,techleadslt"
+
+  - rank: 14
+    name: "Povilas Brilius"
+    login: "pbrilius"
+    avatarUrl: https://avatars.githubusercontent.com/u/8288767?u=5af000153bde007386a546fb024c0029f445cf19&v=4
+    contributions: 8
+    company: "@XYZ-Synergy "
+    organizations: ""
+
+  - rank: 15
+    name: "Gediminas Morkevicius"
+    login: "l3pp4rd"
+    avatarUrl: https://avatars.githubusercontent.com/u/132389?u=adc0ad07f08fc74dc00ec641d37db4deda88a90b&v=4
+    contributions: 7
+    company: "@Satalia "
+    organizations: "cucumber,Atlantic18,DATA-DOG,golang-lt"
+
+  - rank: 16
+    name: "Remigijus"
+    login: "remrc"
+    avatarUrl: https://avatars.githubusercontent.com/u/92273685?v=4
+    contributions: 3
+    company: ""
+    organizations: ""
+
+  - rank: 17
+    name: "Laravel Daily"
+    login: "LaravelDaily"
+    avatarUrl: https://avatars.githubusercontent.com/u/15341846?u=1124d509eb6cf19f8bb06778424bf20984ddee9b&v=4
+    contributions: 2
+    company: "Laravel Daily"
+    organizations: ""
+
+  - rank: 18
+    name: "Albertas Mick\u0117nas"
+    login: "Miceuz"
+    avatarUrl: https://avatars.githubusercontent.com/u/533263?v=4
+    contributions: 1
+    company: "Technarium"
+    organizations: ""
+
+  - rank: 19
+    name: "Dmitry Nehaychik"
+    login: "nnixaa"
+    avatarUrl: https://avatars.githubusercontent.com/u/230527?u=4a1d92afd5f05ce4a4598a82efd6baecb99920ea&v=4
+    contributions: 1
+    company: "@uibakery  "
+    organizations: ""
+
+  - rank: 20
+    name: "Brandon Defoe"
+    login: "defoebrand"
+    avatarUrl: https://avatars.githubusercontent.com/u/62304892?u=520e6ade14bd590e4948e859917fe3c4f89e8af2&v=4
+    contributions: 0
+    company: "Full-stack Developer"
+    organizations: ""
 users_public_contributions:
+
+  - rank: 1
+    name: "Povilas Kanapickas"
+    login: "p12tic"
+    avatarUrl: https://avatars.githubusercontent.com/u/1056711?u=cc9106cb4622f22c43e0fc493a9b6259c8e2d24e&v=4
+    contributions: 2437
+    company: ""
+    organizations: "buildbot,debauchee"
+
+  - rank: 2
+    name: "Igor Savin"
+    login: "kibertoad"
+    avatarUrl: https://avatars.githubusercontent.com/u/1847934?u=c2b2f6633e0a92681474680c64cda1bf7d0500de&v=4
+    contributions: 1078
+    company: ""
+    organizations: "fastify"
+
+  - rank: 3
+    name: "Rimantas"
+    login: "belauzas"
+    avatarUrl: https://avatars.githubusercontent.com/u/7464725?u=c01021418172605e54c27c83bcf0c8e3dd9d7c4c&v=4
+    contributions: 888
+    company: "front-end-by-rimantas"
+    organizations: "front-end-by-rimantas"
+
+  - rank: 4
+    name: "Mikael Korpela"
+    login: "simison"
+    avatarUrl: https://avatars.githubusercontent.com/u/87168?v=4
+    contributions: 884
+    company: "@Automattic"
+    organizations: "WordPress,Hitchwiki,Automattic,BeWelcome,opensourcedesign,meanjs,Nomadwiki,hackercouch,nextcloud,agenda"
+
+  - rank: 5
+    name: "Karolis Strazdas"
+    login: "Eoic"
+    avatarUrl: https://avatars.githubusercontent.com/u/18404082?u=a8bd2d18840dd3592bdc45d94c3ba9c46662824f&v=4
+    contributions: 702
+    company: "@Indeform"
+    organizations: ""
+
+  - rank: 6
+    name: "Mantas Mikul\u0117nas"
+    login: "grawity"
+    avatarUrl: https://avatars.githubusercontent.com/u/31021?v=4
+    contributions: 584
+    company: ""
+    organizations: ""
+
+  - rank: 7
+    name: "Marius Gedminas"
+    login: "mgedmin"
+    avatarUrl: https://avatars.githubusercontent.com/u/159967?v=4
+    contributions: 568
+    company: "Programmers of Vilnius"
+    organizations: "jenkinsci,zopefoundation,buildout,ProgrammersOfVilnius,gtimelog,akllt,neomutt"
+
+  - rank: 8
+    name: "Aras Pranckevi\u010dius"
+    login: "aras-p"
+    avatarUrl: https://avatars.githubusercontent.com/u/348087?u=41311731f3f004fab8817c14c0440e09a29caa48&v=4
+    contributions: 408
+    company: ""
+    organizations: ""
+
+  - rank: 9
+    name: ""
+    login: "PovilasKorop"
+    avatarUrl: https://avatars.githubusercontent.com/u/1510147?v=4
+    contributions: 265
+    company: "Laravel Course Creator"
+    organizations: ""
+
+  - rank: 10
+    name: "Mangirdas Kazlauskas"
+    login: "mkobuolys"
+    avatarUrl: https://avatars.githubusercontent.com/u/17415795?u=17d4ac3b8ad4bb9d21695177411b2b04fb6e1824&v=4
+    contributions: 221
+    company: "Billo"
+    organizations: ""
+
+  - rank: 11
+    name: "Tomas Varaneckas"
+    login: "spajus"
+    avatarUrl: https://avatars.githubusercontent.com/u/70706?u=e518cdd328659e37a9eadb02d4008744a6bde825&v=4
+    contributions: 184
+    company: "@kodolinija "
+    organizations: "hubot-archive,EpicGames,kodolinija"
+
+  - rank: 12
+    name: "Justinas Stankevi\u010dius"
+    login: "justinas"
+    avatarUrl: https://avatars.githubusercontent.com/u/662666?u=e8fe927ead3c8e9fcf30b6884190de182335495c&v=4
+    contributions: 69
+    company: ""
+    organizations: "NixOS,fwd-lt"
+
+  - rank: 13
+    name: "Laravel Daily"
+    login: "LaravelDaily"
+    avatarUrl: https://avatars.githubusercontent.com/u/15341846?u=1124d509eb6cf19f8bb06778424bf20984ddee9b&v=4
+    contributions: 62
+    company: "Laravel Daily"
+    organizations: ""
+
+  - rank: 14
+    name: "Mindaugas Moz\u016bras"
+    login: "mmozuras"
+    avatarUrl: https://avatars.githubusercontent.com/u/54526?u=c1541ce686a6077cd610afbaef17b8c58b7fd21f&v=4
+    contributions: 23
+    company: "@Vinted"
+    organizations: "VilniusJS,prontolabs,techleadslt"
+
+  - rank: 15
+    name: "Povilas Brilius"
+    login: "pbrilius"
+    avatarUrl: https://avatars.githubusercontent.com/u/8288767?u=5af000153bde007386a546fb024c0029f445cf19&v=4
+    contributions: 11
+    company: "@XYZ-Synergy "
+    organizations: ""
+
+  - rank: 16
+    name: "Gediminas Morkevicius"
+    login: "l3pp4rd"
+    avatarUrl: https://avatars.githubusercontent.com/u/132389?u=adc0ad07f08fc74dc00ec641d37db4deda88a90b&v=4
+    contributions: 9
+    company: "@Satalia "
+    organizations: "cucumber,Atlantic18,DATA-DOG,golang-lt"
+
+  - rank: 17
+    name: "Dmitry Nehaychik"
+    login: "nnixaa"
+    avatarUrl: https://avatars.githubusercontent.com/u/230527?u=4a1d92afd5f05ce4a4598a82efd6baecb99920ea&v=4
+    contributions: 5
+    company: "@uibakery  "
+    organizations: ""
+
+  - rank: 18
+    name: "Remigijus"
+    login: "remrc"
+    avatarUrl: https://avatars.githubusercontent.com/u/92273685?v=4
+    contributions: 4
+    company: ""
+    organizations: ""
+
+  - rank: 19
+    name: "Albertas Mick\u0117nas"
+    login: "Miceuz"
+    avatarUrl: https://avatars.githubusercontent.com/u/533263?v=4
+    contributions: 4
+    company: "Technarium"
+    organizations: ""
+
+  - rank: 20
+    name: "Brandon Defoe"
+    login: "defoebrand"
+    avatarUrl: https://avatars.githubusercontent.com/u/62304892?u=520e6ade14bd590e4948e859917fe3c4f89e8af2&v=4
+    contributions: 0
+    company: "Full-stack Developer"
+    organizations: ""
 
 private_users:
 
+  - rank: 1
+    name: "Tomas Varaneckas"
+    login: "spajus"
+    avatarUrl: https://avatars.githubusercontent.com/u/70706?u=e518cdd328659e37a9eadb02d4008744a6bde825&v=4
+    contributions: 3131
+    company: "@kodolinija "
+    organizations: "hubot-archive,EpicGames,kodolinija"
+
+  - rank: 2
+    name: "Povilas Kanapickas"
+    login: "p12tic"
+    avatarUrl: https://avatars.githubusercontent.com/u/1056711?u=cc9106cb4622f22c43e0fc493a9b6259c8e2d24e&v=4
+    contributions: 2437
+    company: ""
+    organizations: "buildbot,debauchee"
+
+  - rank: 3
+    name: "Mangirdas Kazlauskas"
+    login: "mkobuolys"
+    avatarUrl: https://avatars.githubusercontent.com/u/17415795?u=17d4ac3b8ad4bb9d21695177411b2b04fb6e1824&v=4
+    contributions: 2304
+    company: "Billo"
+    organizations: ""
+
+  - rank: 4
+    name: "Rimantas"
+    login: "belauzas"
+    avatarUrl: https://avatars.githubusercontent.com/u/7464725?u=c01021418172605e54c27c83bcf0c8e3dd9d7c4c&v=4
+    contributions: 1260
+    company: "front-end-by-rimantas"
+    organizations: "front-end-by-rimantas"
+
+  - rank: 5
+    name: "Mikael Korpela"
+    login: "simison"
+    avatarUrl: https://avatars.githubusercontent.com/u/87168?v=4
+    contributions: 1091
+    company: "@Automattic"
+    organizations: "WordPress,Hitchwiki,Automattic,BeWelcome,opensourcedesign,meanjs,Nomadwiki,hackercouch,nextcloud,agenda"
+
+  - rank: 6
+    name: "Igor Savin"
+    login: "kibertoad"
+    avatarUrl: https://avatars.githubusercontent.com/u/1847934?u=c2b2f6633e0a92681474680c64cda1bf7d0500de&v=4
+    contributions: 1078
+    company: ""
+    organizations: "fastify"
+
+  - rank: 7
+    name: "Dmitry Nehaychik"
+    login: "nnixaa"
+    avatarUrl: https://avatars.githubusercontent.com/u/230527?u=4a1d92afd5f05ce4a4598a82efd6baecb99920ea&v=4
+    contributions: 839
+    company: "@uibakery  "
+    organizations: ""
+
+  - rank: 8
+    name: "Karolis Strazdas"
+    login: "Eoic"
+    avatarUrl: https://avatars.githubusercontent.com/u/18404082?u=a8bd2d18840dd3592bdc45d94c3ba9c46662824f&v=4
+    contributions: 782
+    company: "@Indeform"
+    organizations: ""
+
+  - rank: 9
+    name: "Mantas Mikul\u0117nas"
+    login: "grawity"
+    avatarUrl: https://avatars.githubusercontent.com/u/31021?v=4
+    contributions: 584
+    company: ""
+    organizations: ""
+
+  - rank: 10
+    name: "Marius Gedminas"
+    login: "mgedmin"
+    avatarUrl: https://avatars.githubusercontent.com/u/159967?v=4
+    contributions: 568
+    company: "Programmers of Vilnius"
+    organizations: "jenkinsci,zopefoundation,buildout,ProgrammersOfVilnius,gtimelog,akllt,neomutt"
+
+  - rank: 11
+    name: "Aras Pranckevi\u010dius"
+    login: "aras-p"
+    avatarUrl: https://avatars.githubusercontent.com/u/348087?u=41311731f3f004fab8817c14c0440e09a29caa48&v=4
+    contributions: 416
+    company: ""
+    organizations: ""
+
+  - rank: 12
+    name: ""
+    login: "PovilasKorop"
+    avatarUrl: https://avatars.githubusercontent.com/u/1510147?v=4
+    contributions: 265
+    company: "Laravel Course Creator"
+    organizations: ""
+
+  - rank: 13
+    name: "Albertas Mick\u0117nas"
+    login: "Miceuz"
+    avatarUrl: https://avatars.githubusercontent.com/u/533263?v=4
+    contributions: 149
+    company: "Technarium"
+    organizations: ""
+
+  - rank: 14
+    name: "Justinas Stankevi\u010dius"
+    login: "justinas"
+    avatarUrl: https://avatars.githubusercontent.com/u/662666?u=e8fe927ead3c8e9fcf30b6884190de182335495c&v=4
+    contributions: 69
+    company: ""
+    organizations: "NixOS,fwd-lt"
+
+  - rank: 15
+    name: "Laravel Daily"
+    login: "LaravelDaily"
+    avatarUrl: https://avatars.githubusercontent.com/u/15341846?u=1124d509eb6cf19f8bb06778424bf20984ddee9b&v=4
+    contributions: 62
+    company: "Laravel Daily"
+    organizations: ""
+
+  - rank: 16
+    name: "Povilas Brilius"
+    login: "pbrilius"
+    avatarUrl: https://avatars.githubusercontent.com/u/8288767?u=5af000153bde007386a546fb024c0029f445cf19&v=4
+    contributions: 36
+    company: "@XYZ-Synergy "
+    organizations: ""
+
+  - rank: 17
+    name: "Mindaugas Moz\u016bras"
+    login: "mmozuras"
+    avatarUrl: https://avatars.githubusercontent.com/u/54526?u=c1541ce686a6077cd610afbaef17b8c58b7fd21f&v=4
+    contributions: 23
+    company: "@Vinted"
+    organizations: "VilniusJS,prontolabs,techleadslt"
+
+  - rank: 18
+    name: "Gediminas Morkevicius"
+    login: "l3pp4rd"
+    avatarUrl: https://avatars.githubusercontent.com/u/132389?u=adc0ad07f08fc74dc00ec641d37db4deda88a90b&v=4
+    contributions: 9
+    company: "@Satalia "
+    organizations: "cucumber,Atlantic18,DATA-DOG,golang-lt"
+
+  - rank: 19
+    name: "Remigijus"
+    login: "remrc"
+    avatarUrl: https://avatars.githubusercontent.com/u/92273685?v=4
+    contributions: 4
+    company: ""
+    organizations: ""
+
+  - rank: 20
+    name: "Brandon Defoe"
+    login: "defoebrand"
+    avatarUrl: https://avatars.githubusercontent.com/u/62304892?u=520e6ade14bd590e4948e859917fe3c4f89e8af2&v=4
+    contributions: 0
+    company: "Full-stack Developer"
+    organizations: ""
+
 organizations:
+
+  - rank: 1
+    name: "techleadslt"
+    membercount: 1
+
+  - rank: 2
+    name: "jenkinsci"
+    membercount: 1
+
+  - rank: 3
+    name: "akllt"
+    membercount: 1
+
+  - rank: 4
+    name: "hitchwiki"
+    membercount: 1
+
+  - rank: 5
+    name: "opensourcedesign"
+    membercount: 1
+
+  - rank: 6
+    name: "fastify"
+    membercount: 1
+
+  - rank: 7
+    name: "vilniusjs"
+    membercount: 1
+
+  - rank: 8
+    name: "prontolabs"
+    membercount: 1
+
+  - rank: 9
+    name: "satalia"
+    membercount: 1
+
+  - rank: 10
+    name: "neomutt"
+    membercount: 1
 
 public_contributions_organizations:
 
+  - rank: 1
+    name: "front-end-by-rimantas"
+    membercount: 1
+
+  - rank: 2
+    name: "meanjs"
+    membercount: 1
+
+  - rank: 3
+    name: "nomadwiki"
+    membercount: 1
+
+  - rank: 4
+    name: "wordpress"
+    membercount: 1
+
+  - rank: 5
+    name: "akllt"
+    membercount: 1
+
+  - rank: 6
+    name: "neomutt"
+    membercount: 1
+
+  - rank: 7
+    name: "nixos"
+    membercount: 1
+
+  - rank: 8
+    name: "hitchwiki"
+    membercount: 1
+
+  - rank: 9
+    name: "automattic"
+    membercount: 1
+
+  - rank: 10
+    name: "agenda"
+    membercount: 1
+
 private_organizations:
-generated: 2025-08-12T15:04:20Z
-min_followers_required: -1
+
+  - rank: 1
+    name: "hitchwiki"
+    membercount: 1
+
+  - rank: 2
+    name: "bewelcome"
+    membercount: 1
+
+  - rank: 3
+    name: "agenda"
+    membercount: 1
+
+  - rank: 4
+    name: "fastify"
+    membercount: 1
+
+  - rank: 5
+    name: "zopefoundation"
+    membercount: 1
+
+  - rank: 6
+    name: "gtimelog"
+    membercount: 1
+
+  - rank: 7
+    name: "akllt"
+    membercount: 1
+
+  - rank: 8
+    name: "atlantic18"
+    membercount: 1
+
+  - rank: 9
+    name: "golang-lt"
+    membercount: 1
+
+  - rank: 10
+    name: "hubot-archive"
+    membercount: 1
+generated: 2025-08-12T16:06:22Z
+min_followers_required: 169
 total_user_count: 0
 title: Lithuania
 definition_checksum: 494632f420a22120a54e42fdcaff3b2b5bb82f04fa1ed5703ca6727d5dd0f9f8
