@@ -22,7 +22,9 @@ async function handleRequest(request) {
       var badge = "committers.top rank-"+(rank == 0 ? "unranked-red" : "#"+rank+"-brightgreen")
       var request = new Request("https://img.shields.io/badge/"+encodeURIComponent(badge))
       var response = await fetch(request)
-      return new Response(response.body, response)
+      var result = new Response(response.body, response)
+      result.headers.set('Cache-Control', 'private, max-age=600, must-revalidate')
+      return result
     }
   } else {
     return new Response("Country/Region not found: "+route.groups["collection"], { status: 404 })
