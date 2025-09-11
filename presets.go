@@ -407,7 +407,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"bulgaria", "sofia", "plovdiv", "varna", "burgas", "ruse", "stara+zagora", "pleven"},
 	},
 	"lebanon": QueryPreset{
-		include: []string{"lebanon", "beirut", "sidon", "tyre", "tripoli", "byblos", "bekaa", "hermel", "jounieh", "zahle", "baalbek", "nabatieh", "jbeil", "batroun", "achrafieh", "hamra","bent jbeil","jezzine"},
+		include: []string{"lebanon", "beirut", "sidon", "tyre", "tripoli", "byblos", "bekaa", "jounieh", "zahle", "baalbek", "nabatieh", "jbeil", "batroun", "achrafieh", "hamra"},
 	},
 	"libya": QueryPreset{
 		include: []string{"libya", "tripoli", "benghazi", "misrata", "zliten", "bayda"},
