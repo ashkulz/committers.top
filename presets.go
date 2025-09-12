@@ -461,6 +461,9 @@ var PRESETS = map[string]QueryPreset{
 	"madagascar": QueryPreset{
 		include: []string{"madagascar", "antananarivo", "toamasina", "antsiranana", "mahajanga", "fianarantsoa", "toliara", "antsirabe", "ambositra", "ambatondrazaka", "manakara", "sambava", "morondava", "ambanja", "farafangana", "maintirano", "antsalova", "isoa", "mampikony", "ambatolampy", "ambatofinandrahana", "mandritsara", "marovoay", "moramanga", "vangaindrano", "soaindrana", "ikongo", "tamatave", "diego+suarez", "mananjary", "vohemar", "amparafaravola"},
 	},
+	"mauritius": QueryPreset{
+		include: []string{"mauritius", "port+louis", "curepipe", "quatre+bornes", "vacoas-phoenix", "vacoas", "beau-bassin-rose-hill", "beau+bassin", "rose+hill", "mahebourg", "goodlands", "triolet", "bel+air", "flacq", "souillac", "pamplemousses", "grand+baie", "ebene"},
+	},
 }
 
 func Preset(name string) QueryPreset {
