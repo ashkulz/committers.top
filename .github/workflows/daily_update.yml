@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '45 */2 * * *'
+    - cron: '45 * * * *'
 
 name: daily update
 jobs:
