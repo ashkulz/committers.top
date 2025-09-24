@@ -371,7 +371,7 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"switzerland", "zurich", "zürich", "geneva", "basel", "lausanne", "bern", "winterthur", "lucerne", "gallen", "lugano", "biel", "thun"},
 	},
 	"togo": QueryPreset{
-		include: []string{"togo", "lome"},
+		include: []string{"togo", "lome", "sokode", "kara", "aneho", "kpalime", "atakpame"},
 	},
 	"sierra leone": QueryPreset{
 		include: []string{"sierra+leone", "freetown", "makeni", "koidu"},
