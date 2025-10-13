@@ -19,11 +19,21 @@ async function handleRequest(request) {
       return Response.redirect(BASE_URL+"/"+route.groups["collection"]+"#"+route.groups["login"])
     } else {
       var rank = 1 + DATA[route.groups["collection"]].indexOf(route.groups["login"])
-      var badge = "committers.top rank-"+(rank == 0 ? "unranked-red" : "#"+rank+"-brightgreen")
-      var request = new Request("https://img.shields.io/badge/"+encodeURIComponent(badge))
-      var response = await fetch(request)
+      
+      var color = rank == 0 ? "red" : "brightgreen"
+      var message = rank == 0 ? "unranked" : "#"+rank
+
+      var urlObj = new URL(request.url.toString())
+      var customLabel = urlObj.searchParams.get("customLabel")
+      var label = (customLabel !== null && customLabel !== "") ? customLabel : "committers.top rank"
+     
+      var shieldsUrl = "https://img.shields.io/badge/" + encodeURIComponent(label) + "-" + encodeURIComponent(message) + "-" + encodeURIComponent(color)
+     
+      var shieldReq = new Request(shieldsUrl)
+      var response = await fetch(shieldReq)
       var result = new Response(response.body, response)
       result.headers.set('Cache-Control', 'private, max-age=600, must-revalidate')
+     
       return result
     }
   } else {
