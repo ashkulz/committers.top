@@ -6,12 +6,15 @@ import json, os, sys, subprocess, tempfile
 
 def main(baseurl):
   base_script = open('cloudflare_worker.js').read()
+  
   with tempfile.NamedTemporaryFile(mode='w+', suffix='.json') as i:
     subprocess.run(['curl', '-sf', '%s/rank_only.json' % baseurl.rstrip('/'), '-o', i.name], check=True)
     i.seek(0)
     data = json.loads(i.read())
-    user_data, org_data = {}, {}
+
+    user_data, org_data, titles = {}, {}, {}
     for location, hash in data.items():
+      titles[location] = hash.get('title')
       user_data[location] = hash.get('user', [])
       user_data[location+'_public'] = hash.get('user_public', [])
       user_data[location+'_private'] = hash.get('user_private', [])
@@ -24,7 +27,8 @@ def main(baseurl):
         print("uploading %s worker ..." % name)
         o.seek(0)
         o.truncate()
-        o.write(base_script+'\nconst BASE_URL = "%s"\nconst DATA = %s\n' % (baseurl, json.dumps(data)))
+        o.write(base_script+'\nconst BASE_URL = "%s"\nconst DATA = %s\nconst TITLES = %s\n' %
+                (baseurl, json.dumps(data), json.dumps(titles)))
         o.flush()
         status = subprocess.run(['curl', '-sX', 'PUT',
           'https://api.cloudflare.com/client/v4/accounts/%s/workers/scripts/%s' % (os.environ['CLOUDFLARE_ACCOUNT_ID'], name),

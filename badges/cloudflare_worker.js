@@ -22,24 +22,15 @@ async function handleRequest(request) {
       return Response.redirect(BASE_URL + "/" + route.groups["collection"] + "#" + route.groups["login"])
     } else {
       var rank = 1 + DATA[route.groups["collection"]].indexOf(route.groups["login"])
+      var displayName = (typeof TITLES !== "undefined" && TITLES[collectionRaw]) ? TITLES[collectionRaw] : ""
       
       var color = rank == 0 ? "red" : "brightgreen"
 
       var collectionRaw = route.groups["collection"];
-      var baseParts = collectionRaw.split("_");
 
       // descriptor lookup from captured type
       const DESCRIPTOR = { default: "public commits", public: "public contributions", private: "all contributions" }
       var descriptor = DESCRIPTOR[route.groups["type"] || "default"]
-
-      // title-case the base parts and join with spaces
-      for (var i = 0; i < baseParts.length; i++) {
-        if (baseParts[i].length > 0) {
-          baseParts[i] = baseParts[i].charAt(0).toUpperCase() + baseParts[i].slice(1)
-        }
-      }
-
-      var displayName = baseParts.join(" ")
 
       // right-hand message: "#N <DisplayName> (<descriptor>)" or "unranked <DisplayName> (<descriptor>)"
       var message = (rank == 0 ? "unranked " : "#" + rank + " ") + displayName + " (" + descriptor + ")"
