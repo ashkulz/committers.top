@@ -15,18 +15,17 @@ async function handleRequest(request) {
     }
   }
   
-  var collectionKey = route.groups["collection"] + (route.groups["type"] ? "_" + route.groups["type"] : "")
+  var collectionRaw = route.groups["collection"];
+  var collectionKey = collectionRaw + (route.groups["type"] ? "_" + route.groups["type"] : "")
 
   if (collectionKey in DATA) {
     if (typeof route.groups["extension"] === "undefined") {
-      return Response.redirect(BASE_URL + "/" + route.groups["collection"] + "#" + route.groups["login"])
+      return Response.redirect(BASE_URL + "/" + collectionRaw + "#" + route.groups["login"])
     } else {
-      var rank = 1 + DATA[route.groups["collection"]].indexOf(route.groups["login"])
+      var rank = 1 + DATA[collectionRaw].indexOf(route.groups["login"])
       var displayName = (typeof TITLES !== "undefined" && TITLES[collectionRaw]) ? TITLES[collectionRaw] : ""
       
       var color = rank == 0 ? "red" : "brightgreen"
-
-      var collectionRaw = route.groups["collection"];
 
       // descriptor lookup from captured type
       const DESCRIPTOR = { default: "public commits", public: "public contributions", private: "all contributions" }
@@ -47,7 +46,7 @@ async function handleRequest(request) {
       return result
     }
   } else {
-    return new Response("Country/Region not found: "+route.groups["collection"], { status: 404 })
+    return new Response("Country/Region not found: " + collectionRaw, { status: 404 })
   }
 }
 
