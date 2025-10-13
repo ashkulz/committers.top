@@ -5,7 +5,8 @@ addEventListener("fetch", event => {
 
 async function handleRequest(request) {
   var path  = new URL(request.url.toString()).pathname
-  var route = path.match(/^\/(?<collection>[a-z_]+)\/(?<login>[^\/\.]+)(\.(?<extension>(svg)))?$/)
+  var route = path.match(/^\/(?<collection>[a-z_]+?)(?:_(?<type>public|private))?\/(?<login>[^\/\.]+)(\.(?<extension>(svg)))?$/)
+  
   if (route == null) {
     if (path == "/") {
       return Response.redirect(BASE_URL+"/#badges")
@@ -13,8 +14,10 @@ async function handleRequest(request) {
       return new Response("Invalid URL requested: "+path, { status: 400 })
     }
   }
-  if (route.groups["collection"] in DATA) {
-    var collection = DATA[route.groups["collection"]]
+  
+  var collectionKey = route.groups["collection"] + (route.groups["type"] ? "_" + route.groups["type"] : "")
+
+  if (collectionKey in DATA) {
     if (typeof route.groups["extension"] === "undefined") {
       return Response.redirect(BASE_URL + "/" + route.groups["collection"] + "#" + route.groups["login"])
     } else {
@@ -23,25 +26,11 @@ async function handleRequest(request) {
       var color = rank == 0 ? "red" : "brightgreen"
 
       var collectionRaw = route.groups["collection"];
-      var parts = collectionRaw.split("_");
-      var baseParts = parts.slice();
+      var baseParts = collectionRaw.split("_");
 
-      // mapping rules:
-      // - no suffix (single token) => "public commits"
-      // - _public => "public contributions"
-      // - _private => "all contributions"
-      var descriptor = "public commits";
-
-      if (parts.length > 1) {
-        var suffix = parts[parts.length - 1];
-        baseParts = parts.slice(0, parts.length - 1);
-      
-        if (suffix === "public") {
-          descriptor = "public contributions";
-        } else if (suffix === "private") {
-          descriptor = "all contributions";
-        }
-      }
+      // descriptor lookup from captured type
+      const DESCRIPTOR = { default: "public commits", public: "public contributions", private: "all contributions" }
+      var descriptor = DESCRIPTOR[route.groups["type"] || "default"]
 
       // title-case the base parts and join with spaces
       for (var i = 0; i < baseParts.length; i++) {
