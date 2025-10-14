@@ -22,8 +22,8 @@ async function handleRequest(request) {
     if (typeof route.groups["extension"] === "undefined") {
       return Response.redirect(BASE_URL + "/" + collectionRaw + "#" + route.groups["login"])
     } else {
-      var rank = 1 + DATA[collectionRaw].indexOf(route.groups["login"])
-      var displayName = (typeof TITLES !== "undefined" && TITLES[collectionRaw]) ? TITLES[collectionRaw] : ""
+      var rank = 1 + DATA[collectionKey].indexOf(route.groups["login"])
+      var displayName = TITLES[collectionRaw] || ""
       
       var color = rank == 0 ? "red" : "brightgreen"
 
@@ -38,8 +38,7 @@ async function handleRequest(request) {
 
       var shieldsUrl = "https://img.shields.io/badge/" + encodeURIComponent(label) + "-" + encodeURIComponent(message) + "-" + encodeURIComponent(color)
      
-      var shieldReq = new Request(shieldsUrl)
-      var response = await fetch(shieldReq)
+      var response = await fetch(new Request(shieldsUrl))
       var result = new Response(response.body, response)
       result.headers.set('Cache-Control', 'private, max-age=600, must-revalidate')
      
