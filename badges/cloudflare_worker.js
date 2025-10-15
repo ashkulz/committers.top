@@ -20,7 +20,7 @@ async function handleRequest(request) {
 
   if (collectionKey in DATA) {
     if (typeof route.groups["extension"] === "undefined") {
-      return Response.redirect(BASE_URL + "/" + collectionRaw + "#" + route.groups["login"])
+      return Response.redirect(BASE_URL + "/" + collectionKey + "#" + route.groups["login"])
     } else {
       var rank = 1 + DATA[collectionKey].indexOf(route.groups["login"])
       var displayName = TITLES[collectionRaw] || ""
