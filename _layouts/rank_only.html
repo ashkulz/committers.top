@@ -1,4 +1,5 @@
 {% assign location = site.data.locations[page.location] %}{
+  "title": {{ location.title | default: location.page | remove: '.html' | replace: '_', ' ' | capitalize | jsonify }},
   "user": [{% for user in location.users %}{{user.login | jsonify}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
   "user_public": [{% for user in location.users_public_contributions %}{{user.login | jsonify}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
   "user_private": [{% for user in location.private_users %}{{user.login | jsonify}}{% unless forloop.last %}, {% endunless %}{% endfor %}],
