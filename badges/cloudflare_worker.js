@@ -25,18 +25,18 @@ async function handleRequest(request) {
       var rank = 1 + DATA[collectionKey].indexOf(route.groups["login"])
       var displayName = TITLES[collectionRaw] || ""
       
-      var color = rank == 0 ? "red" : "brightgreen"
+      var color = rank == 0 ? "red" : "blue"
 
       // descriptor lookup from captured type
       const DESCRIPTOR = { default: "public commits", public: "public contributions", private: "all contributions" }
       var descriptor = DESCRIPTOR[route.groups["type"] || "default"]
 
       // right-hand message: "#N <DisplayName> (<descriptor>)" or "unranked <DisplayName> (<descriptor>)"
-      var message = (rank == 0 ? "unranked " : "#" + rank + " ") + displayName + " (" + descriptor + ")"
+      var message = displayName + (rank == 0 ? " unranked" : " #" + rank) + " (" + descriptor + ")"
 
       var label = "committers.top rank"
 
-      var shieldsUrl = "https://img.shields.io/badge/" + encodeURIComponent(label) + "-" + encodeURIComponent(message) + "-" + encodeURIComponent(color)
+      var shieldsUrl = "https://img.shields.io/badge/" + encodeURIComponent(label) + "-" + encodeURIComponent(message) + "-" + encodeURIComponent(color) + "?logo=github"
      
       var response = await fetch(new Request(shieldsUrl))
       var result = new Response(response.body, response)
