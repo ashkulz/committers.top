@@ -28,8 +28,8 @@ Download machine-readable JSON data for analysis
 ## Data Export
 
 You can get a combined machine-readable JSON for:
-<ul class="export-links">
-<li><a href="rank_only.json"><i class="fas fa-file-code"></i> rank-only with categories</a></li>
+<ul>
+<li><a href="rank_only.json"> rank-only with categories</a></li>
 </ul>
 A subset specific to each country/region is available on the individual page linked above.
 
