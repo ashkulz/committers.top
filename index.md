@@ -1,6 +1,22 @@
-## Most active GitHub users
+## Most Active GitHub Users
 
-This is a list of most active GitHub users in different countries/regions.
+Discover the most active GitHub contributors from around the world. Our rankings are updated weekly and showcase the top developers, organizations, and contributors across different countries and regions.
+
+
+### Weekly Rankings
+Updated every week with the latest GitHub activity data
+
+### Global Coverage
+Rankings available for countries and regions worldwide
+
+### Multiple Metrics
+View by commits, contributions, or all activity
+
+### Data Export
+Download machine-readable JSON data for analysis
+
+## Browse by Country/Region
+
 <ul class="country-list">
 {% assign locations = site.data.locations | sort %}
 {% for loc_hash in locations %}
@@ -9,9 +25,11 @@ This is a list of most active GitHub users in different countries/regions.
 {% endfor %}
 </ul>
 
+## Data Export
+
 You can get a combined machine-readable JSON for:
-<ul>
-<li><a href="rank_only.json">rank-only with categories</a></li>
+<ul class="export-links">
+<li><a href="rank_only.json"><i class="fas fa-file-code"></i> rank-only with categories</a></li>
 </ul>
 A subset specific to each country/region is available on the individual page linked above.
 
