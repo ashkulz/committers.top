@@ -599,7 +599,7 @@ var PRESETS = map[string]QueryPreset{
 	},
 	"kosovo": QueryPreset{
 		title:   "Kosovo",
-		include: []string{"kosovo", "kosove", "prishtine"},
+		include: []string{"kosovo", "kosove", "prishtine", "prizren", "peja", "gjakova", "ferizaj", "gjilan", "mitrovica", "podujev", "vushtrri", "suhareke", "rahovec", "lipjan", "skenderaj", "kamenice", "malisheve", "decan", "istog", "kline", "fushe+kosove"},
 	},
 	"madagascar": QueryPreset{
 		title:   "Madagascar",
