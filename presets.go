@@ -609,6 +609,10 @@ var PRESETS = map[string]QueryPreset{
 		title:   "Mauritius",
 		include: []string{"mauritius", "port+louis", "curepipe", "quatre+bornes", "vacoas-phoenix", "vacoas", "beau-bassin-rose-hill", "beau+bassin", "rose+hill", "mahebourg", "goodlands", "triolet", "bel+air", "flacq", "souillac", "pamplemousses", "grand+baie", "ebene"},
 	},
+	"bosnia and herzegovina": QueryPreset{
+		title:   "Bosnia and Herzegovina",
+		include: []string{"sarajevo", "banja+luka", "tuzla", "zenica", "bijeljina", "mostar", "prijedor", "brcko", "doboj", "cazin"},
+	},
 }
 
 func Preset(name string) QueryPreset {
