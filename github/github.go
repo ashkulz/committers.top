@@ -224,7 +224,9 @@ Pages:
 				}
 
 				previousCursor = edgeNode["cursor"].(string)
-				minFollowerCount = int(followerCount)
+				if minFollowerCount == -1 || followerCount < minFollowerCount {
+    				minFollowerCount = followerCount
+				}
 			}
 		}
 	}
