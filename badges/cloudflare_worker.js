@@ -26,10 +26,10 @@ async function handleRequest(request) {
       var displayName = TITLES[collectionRaw] || ""
       
       const COLORS = {
-        0: "#FF0000",   // red
-        1: "#FFD700",   // gold
-        2: "#C0C0C0",   // silver
-        3: "#CD7F32"    // bronze
+        0: "FF0000",   // red
+        1: "FFD700",   // gold
+        2: "C0C0C0",   // silver
+        3: "CD7F32"    // bronze
       };
 
       const color = COLORS[rank] || "blue";
