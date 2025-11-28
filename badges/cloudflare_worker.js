@@ -25,25 +25,15 @@ async function handleRequest(request) {
       var rank = 1 + DATA[collectionKey].indexOf(route.groups["login"])
       var displayName = TITLES[collectionRaw] || ""
       
-      let color;
+      const COLORS = {
+        0: "#FF0000",   // red
+        1: "#FFD700",   // gold
+        2: "#C0C0C0",   // silver
+        3: "#CD7F32"    // bronze
+      };
 
-      switch (rank) {
-        case 0:
-          color = "red";
-          break;
-        case 1:
-          color = "gold";
-          break;
-        case 2:
-          color = "silver";
-          break;
-        case 3:
-          color = "bronze";
-          break;
-        default:
-          color = "blue";
-      }
-      
+      const color = COLORS[rank] || "blue";
+
       // descriptor lookup from captured type
       const DESCRIPTOR = { default: "public commits", public: "public contributions", private: "all contributions" }
       var descriptor = DESCRIPTOR[route.groups["type"] || "default"]
