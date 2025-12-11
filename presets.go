@@ -189,7 +189,7 @@ var PRESETS = map[string]QueryPreset{
 	},
 	"south africa": QueryPreset{
 		title:   "South Africa",
-		include: []string{"south+africa", "south+africa", "johannesburg", "cape+town", "rsa", "durban", "port+elizabeth", "pretoria", "nelspruit"},
+		include: []string{"south+africa", "south+africa", "johannesburg", "cape+town", "rsa", "durban", "port+elizabeth", "pretoria", "nelspruit", "knysna"},
 	},
 	"myanmar": QueryPreset{
 		title:   "Myanmar",
