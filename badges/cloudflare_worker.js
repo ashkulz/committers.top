@@ -25,7 +25,14 @@ async function handleRequest(request) {
       var rank = 1 + DATA[collectionKey].indexOf(route.groups["login"])
       var displayName = TITLES[collectionRaw] || ""
       
-      var color = rank == 0 ? "red" : "blue"
+      const COLORS = {
+        0: "FF0000",   // red
+        1: "FFD700",   // gold
+        2: "C0C0C0",   // silver
+        3: "CD7F32"    // bronze
+      };
+
+      const color = COLORS[rank] || "blue";
 
       // descriptor lookup from captured type
       const DESCRIPTOR = { default: "public commits", public: "public contributions", private: "all contributions" }
