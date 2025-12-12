@@ -438,7 +438,7 @@ var PRESETS = map[string]QueryPreset{
 	},
 	"south sudan": QueryPreset{
 		title:   "South Sudan",
-		include: []string{"south sudan", "juba"},
+		include: []string{"south sudan", "south+sudan", "juba", "yei", "wau", "aweil", "jonglei", "maridi"},
 	},
 	"burundi": QueryPreset{
 		title:   "Burundi",
