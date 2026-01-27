@@ -470,7 +470,7 @@ var PRESETS = map[string]QueryPreset{
 	},
 	"tajikistan": QueryPreset{
 		title:   "Tajikistan",
-		include: []string{"tajikistan", "dushanbe", "khujand"},
+		include: []string{"tajikistan", "dushanbe", "khujand", "kulob", "bokhtar", "khorugh", "panjakent", "isfara", "hisor", "ghissar", "rasht"},
 	},
 	"papua new guinea": QueryPreset{
 		title:   "Papua New Guinea",
