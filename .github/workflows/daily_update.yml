@@ -27,7 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          import csv, datetime, glob, os, re, subprocess, sys
+          import csv, datetime, glob, os, random, re, subprocess, sys
 
           MAX_IN_RUN = 3
           STALE_DAYS = 5
@@ -86,6 +86,7 @@ jobs:
           if regenerated:
             subprocess.run('git add *.md _data/locations/*.yml rank_only/*.json && git commit -am "regenerate location pages"', shell=True, check=True)
 
+          random.shuffle(to_process) # in case we're getting failures for a specific preset, this should let others move forward
           for key in to_process[0:MAX_IN_RUN]:
             print("Running: %s" % key)
             preset = flookup[key]
