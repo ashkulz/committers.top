@@ -579,7 +579,7 @@ var PRESETS = map[string]QueryPreset{
 	},
 	"iraq": QueryPreset{
 		title:   "Iraq",
-		include: []string{"baghdad", "mosul", "basra", "kirkuk", "erbil", "najaf", "karbala", "sulaymaniya", "al-nasiriya", "al-amarah"},
+		include: []string{"baghdad", "mosul", "basra", "najaf", "karbala", "al-nasiriya", "al-amarah"},
 	},
 	"qatar": QueryPreset{
 		title:   "Qatar",
