@@ -26,6 +26,7 @@ var locations arrayFlags
 var excludeLocations arrayFlags
 var presetTitle string
 var presetChecksum string
+var minFollowers int
 
 func main() {
 	token := flag.String("token", LookupEnvOrString("GITHUB_TOKEN", ""), "Github auth token")
@@ -51,6 +52,7 @@ func main() {
 		preset := Preset(*presetName)
 		locations = preset.include
 		excludeLocations = preset.exclude
+		minFollowers = preset.minFollowers
 		presetTitle = PresetTitle(*presetName)
 		presetChecksum = PresetChecksum(*presetName)
 	}
@@ -67,7 +69,7 @@ func main() {
 		log.Fatal("Unrecognized output format: ", *outputOpt)
 	}
 
-	opts := top.Options{Token: *token, Locations: locations, ExcludeLocations: excludeLocations, Amount: *amount, ConsiderNum: *considerNum, PresetTitle: presetTitle, PresetChecksum: presetChecksum}
+	opts := top.Options{Token: *token, Locations: locations, ExcludeLocations: excludeLocations, Amount: *amount, ConsiderNum: *considerNum, MinFollowers: minFollowers, PresetTitle: presetTitle, PresetChecksum: presetChecksum}
 	data, err := top.GithubTop(opts)
 
 	if err != nil {

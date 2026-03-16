@@ -8,9 +8,10 @@ import (
 )
 
 type QueryPreset struct {
-	title   string
-	include []string
-	exclude []string
+	title        string
+	include      []string
+	exclude      []string
+	minFollowers int
 }
 
 var PRESETS = map[string]QueryPreset{
@@ -107,8 +108,9 @@ var PRESETS = map[string]QueryPreset{
 		include: []string{"croatia", "hrvatska", "zagreb", "split", "rijeka", "osijek", "zadar", "pula"},
 	},
 	"worldwide": QueryPreset{
-		title:   "Worldwide",
-		include: []string{},
+		title:        "Worldwide",
+		include:      []string{},
+		minFollowers: 1000,
 	},
 	"china": QueryPreset{
 		title:   "China",
