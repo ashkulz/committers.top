@@ -18,7 +18,7 @@ import (
 type Format func(results github.GithubSearchResults, writer io.Writer, options top.Options) error
 
 func PlainOutput(results github.GithubSearchResults, writer io.Writer, options top.Options) error {
-	users := GithubUserList(results.Users)
+	users := GithubUserList(results.Users).TopPrivate(options.Amount)
 	fmt.Fprintln(writer, "USERS\n--------")
 	for i, user := range users {
 		fmt.Fprintf(writer, "#%+v: %+v (%+v):%+v (%+v) %+v\n", i+1, user.Name, user.Login, user.ContributionCount, user.Company, strings.Join(user.Organizations, ","))
@@ -31,7 +31,7 @@ func PlainOutput(results github.GithubSearchResults, writer io.Writer, options t
 }
 
 func CsvOutput(results github.GithubSearchResults, writer io.Writer, options top.Options) error {
-	users := GithubUserList(results.Users)
+	users := GithubUserList(results.Users).TopPrivate(options.Amount)
 	w := csv.NewWriter(writer)
 	if err := w.Write([]string{"rank", "name", "login", "contributions", "company", "organizations"}); err != nil {
 		return err
@@ -195,7 +195,13 @@ func (slice TopCommitsUsers) Len() int {
 }
 
 func (slice TopCommitsUsers) Less(i, j int) bool {
-	return slice[i].CommitsCount > slice[j].CommitsCount
+	if slice[i].CommitsCount != slice[j].CommitsCount {
+		return slice[i].CommitsCount > slice[j].CommitsCount
+	}
+	if slice[i].FollowerCount != slice[j].FollowerCount {
+		return slice[i].FollowerCount > slice[j].FollowerCount
+	}
+	return strings.ToLower(slice[i].Login) < strings.ToLower(slice[j].Login)
 }
 
 func (slice TopCommitsUsers) Swap(i, j int) {
@@ -209,7 +215,13 @@ func (slice TopPublicUsers) Len() int {
 }
 
 func (slice TopPublicUsers) Less(i, j int) bool {
-	return slice[i].PublicContributionCount > slice[j].PublicContributionCount
+	if slice[i].PublicContributionCount != slice[j].PublicContributionCount {
+		return slice[i].PublicContributionCount > slice[j].PublicContributionCount
+	}
+	if slice[i].FollowerCount != slice[j].FollowerCount {
+		return slice[i].FollowerCount > slice[j].FollowerCount
+	}
+	return strings.ToLower(slice[i].Login) < strings.ToLower(slice[j].Login)
 }
 
 func (slice TopPublicUsers) Swap(i, j int) {
@@ -223,7 +235,13 @@ func (slice TopPrivateUsers) Len() int {
 }
 
 func (slice TopPrivateUsers) Less(i, j int) bool {
-	return slice[i].ContributionCount > slice[j].ContributionCount
+	if slice[i].ContributionCount != slice[j].ContributionCount {
+		return slice[i].ContributionCount > slice[j].ContributionCount
+	}
+	if slice[i].FollowerCount != slice[j].FollowerCount {
+		return slice[i].FollowerCount > slice[j].FollowerCount
+	}
+	return strings.ToLower(slice[i].Login) < strings.ToLower(slice[j].Login)
 }
 
 func (slice TopPrivateUsers) Swap(i, j int) {
@@ -242,7 +260,10 @@ func (slice Organizations) Len() int {
 }
 
 func (slice Organizations) Less(i, j int) bool {
-	return slice[i].MemberCount > slice[j].MemberCount
+	if slice[i].MemberCount != slice[j].MemberCount {
+		return slice[i].MemberCount > slice[j].MemberCount
+	}
+	return strings.ToLower(slice[i].Name) < strings.ToLower(slice[j].Name)
 }
 
 func (slice Organizations) Swap(i, j int) {
