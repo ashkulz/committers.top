@@ -8,6 +8,19 @@ import (
 	"most-active-github-users-counter/net"
 )
 
+// FilterBlacklistedUsers removes any users who are marked as known graph abusers.
+func FilterBlacklistedUsers(results github.GithubSearchResults) github.GithubSearchResults {
+	filtered := make([]github.User, 0, len(results.Users))
+	for _, u := range results.Users {
+		if IsBlacklisted(u.Login) {
+			continue
+		}
+		filtered = append(filtered, u)
+	}
+	results.Users = filtered
+	return results
+}
+
 func GithubTop(options Options) (github.GithubSearchResults, error) {
 	var token = options.Token
 	if token == "" {
@@ -28,6 +41,10 @@ func GithubTop(options Options) (github.GithubSearchResults, error) {
 	if err != nil {
 		return github.GithubSearchResults{}, err
 	}
+
+	// Filter out explicitly blacklisted abusive accounts.
+	users = FilterBlacklistedUsers(users)
+
 	return users, nil
 }
 
@@ -40,3 +57,4 @@ type Options struct {
 	PresetTitle      string
 	PresetChecksum   string
 }
+
