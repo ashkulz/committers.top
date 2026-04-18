@@ -1,233 +1,378 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico"/>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision }}">
-    
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<html lang="{{ site.lang | default: " en-US" }}">
 
-    {% if page.sublocation %}
-      {% assign location = site.data.locations[page.location][page.sublocation] %}
-    {% else %}
-      {% assign location = site.data.locations[page.location] %}
-    {% endif %}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% if location %}
-      <title>Most active GitHub users in {{location.title}}</title>
-      <meta name="description" content="A list of most active GitHub users in {{location.title}}."/>
-      <meta property="og:description" content="A list of most active GitHub users in {{location.title}}."/>
-      <meta name="twitter:description" content="A list of most active GitHub users in {{location.title}}."/>
-      <meta property="og:site_name" content="committers.top - Most active GitHub users in {{location.title}}"/>
-      <meta property="og:title" content="committers.top - Most active GitHub users in {{location.title}}"/>
-      <meta name="twitter:title" content="committers.top - Most active GitHub users in {{location.title}}"/>
-      <meta property="og:url" content="https://committers.top/{{location.page}}"/>
-      <link rel="canonical" href="https://committers.top/{{location.page}}">
-    {% else %}
-      <title>Most active GitHub users</title>
-      <meta name="description" content="A list of most active GitHub users in different cities/countries."/>
-      <meta property="og:description" content="A list of most active GitHub users in different cities/countries."/>
-      <meta name="twitter:description" content="A list of most active GitHub users in different cities/countries."/>
-      <meta property="og:site_name" content="committers.top - Most active GitHub users"/>
-      <meta property="og:title" content="committers.top - Most active GitHub users"/>
-      <meta name="twitter:title" content="committers.top - Most active GitHub users"/>
-      <meta property="og:url" content="https://committers.top/"/>
-      <link rel="canonical" href="https://committers.top/">
-    {% endif %}
-    <meta name="rating" content="Safe For Kids"/>
-    <meta name="author" content="Lauri Piispanen"/>
-    <meta name="robots" content="index,follow"/>
-    <meta name="robots" content="noodp"/>
-    <meta property="og:type" content="website"/>
-    <meta name="twitter:card" content="summary"/>
-  </head>
-  <body>
-    <header class="site-header">
-      <div class="header-content">
-        <h1><a href="." class="brand">committers.top</a></h1>
-        <p class="tagline">A list of the most active GitHub users</p>
-        <div class="header-links">
-          <a href="https://github.com/ashkulz/committers.top.git" target="_blank" rel="noopener">
-            <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon">
-              <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
-            </svg>
-            Star on GitHub
-          </a>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision }}">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  {% if page.sublocation %}
+  {% assign location = site.data.locations[page.location][page.sublocation] %}
+  {% else %}
+  {% assign location = site.data.locations[page.location] %}
+  {% endif %}
+
+  {% if location %}
+  <title>Most active GitHub users in {{location.title}}</title>
+  <meta name="description" content="A list of most active GitHub users in {{location.title}}." />
+  <meta property="og:description" content="A list of most active GitHub users in {{location.title}}." />
+  <meta name="twitter:description" content="A list of most active GitHub users in {{location.title}}." />
+  <meta property="og:site_name" content="committers.top - Most active GitHub users in {{location.title}}" />
+  <meta property="og:title" content="committers.top - Most active GitHub users in {{location.title}}" />
+  <meta name="twitter:title" content="committers.top - Most active GitHub users in {{location.title}}" />
+  <meta property="og:url" content="https://committers.top/{{location.page}}" />
+  <link rel="canonical" href="https://committers.top/{{location.page}}">
+  {% else %}
+  <title>Most active GitHub users</title>
+  <meta name="description" content="A list of most active GitHub users in different cities/countries." />
+  <meta property="og:description" content="A list of most active GitHub users in different cities/countries." />
+  <meta name="twitter:description" content="A list of most active GitHub users in different cities/countries." />
+  <meta property="og:site_name" content="committers.top - Most active GitHub users" />
+  <meta property="og:title" content="committers.top - Most active GitHub users" />
+  <meta name="twitter:title" content="committers.top - Most active GitHub users" />
+  <meta property="og:url" content="https://committers.top/" />
+  <link rel="canonical" href="https://committers.top/">
+  {% endif %}
+  <meta name="rating" content="Safe For Kids" />
+  <meta name="author" content="Lauri Piispanen" />
+  <meta name="robots" content="index,follow" />
+  <meta name="robots" content="noodp" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="header-content">
+      <h1>
+        <a href="." class="brand">
+          <img src="/images/logo.webp" alt="committers.top logo" class="brand-logo" width="32" height="32">
+          Top Commitors
+        </a>
+      </h1>
+      <p class="tagline">A list of the most active GitHub users</p>
+      <div class="header-links">
+        <a href="javascript:void(0)" onclick="openInfoModal()" class="header-btn" title="Information & Generators">
+          <svg aria-hidden="true" height="20" viewBox="0 0 16 16" version="1.1" width="20" data-view-component="true"
+            class="octicon">
+            <path
+              d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z">
+            </path>
+          </svg>
+          Info
+        </a>
+        <a href="https://github.com/ashkulz/committers.top.git" target="_blank" rel="noopener" class="header-btn">
+          <svg aria-hidden="true" height="20" viewBox="0 0 16 16" version="1.1" width="20" data-view-component="true"
+            class="octicon">
+            <path
+              d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z">
+            </path>
+          </svg>
+          Star
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <section class="content-wrapper">
+      {% if location %}
+      <div class="leaderboard-header">
+        <h2>Most active GitHub users in <span class="text-highlight">{{location.title}}</span></h2>
+        <div class="leaderboard-stats">
+          <span class="stat-badge">Users: <strong>{{location.total_user_count}}</strong></span>
+          <span class="stat-badge">Min. Followers: <strong>{{location.min_followers_required}}</strong></span>
         </div>
       </div>
-    </header>
 
-    <main class="main-content">
-      <section class="content-wrapper">
-        {% if location %}
-          <div class="leaderboard-header">
-            <h2>Most active GitHub users in <span class="text-highlight">{{location.title}}</span></h2>
-            <div class="leaderboard-stats">
-              <span class="stat-badge">Users: <strong>{{location.total_user_count}}</strong></span>
-              <span class="stat-badge">Min. Followers: <strong>{{location.min_followers_required}}</strong></span>
-            </div>
-          </div>
+      <nav class="mode-selector">
+        <a href="{{page.location}}" class="mode-link {% if page.mode == 'commits' %}active{% endif %}">Commits</a>
+        <a href="{{page.location}}_public"
+          class="mode-link {% if page.mode == 'contributions' %}active{% endif %}">Contributions</a>
+        <a href="{{page.location}}_private" class="mode-link {% if page.mode == 'all' %}active{% endif %}">All</a>
+      </nav>
 
-          <nav class="mode-selector">
-            <a href="{{page.location}}" class="mode-link {% if page.mode == 'commits' %}active{% endif %}">Commits</a>
-            <a href="{{page.location}}_public" class="mode-link {% if page.mode == 'contributions' %}active{% endif %}">Contributions</a>
-            <a href="{{page.location}}_private" class="mode-link {% if page.mode == 'all' %}active{% endif %}">All</a>
-          </nav>
+      {% if page.mode == "commits" %}{% assign page_name = page.location %}
+      {% elsif page.mode == "contributions" %}{% assign page_name = page.location | append: "_public" %}
+      {% else %}{% assign page_name = page.location | append: "_private" %}
+      {% endif %}
 
-          <div class="table-container">
-            <table class="users-list">
-              <thead>
-                <tr>
-                  <th class="col-rank">Rank</th>
-                  <th class="col-user">User</th>
-                  <th class="col-contribs">Contributions</th>
-                </tr>
-              </thead>
-              <tbody>
+      <div class="table-container">
+        <table class="users-list">
+          <thead>
+            <tr>
+              <th class="col-rank">Rank</th>
+              <th class="col-user">User</th>
+              <th class="col-contribs">Contributions</th>
+            </tr>
+          </thead>
+          <tbody>
             {% if page.mode == "commits" %}
-              {% assign users = location.users %}
+            {% assign users = location.users %}
             {% elsif page.mode == "all" %}
-              {% assign users = location.private_users %}
+            {% assign users = location.private_users %}
             {% else %}
-              {% assign users = location.users_public_contributions %}
+            {% assign users = location.users_public_contributions %}
             {% endif %}
 
             {% for user in users %}
-              <tr id="{{user.login}}" class="user-row">
-                <td class="col-rank"><span class="rank-badge">{{user.rank}}</span></td>
-                <td class="col-user">
-                  <div class="user-profile">
-                    <img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload avatar" alt="@{{user.login}}" />
-                    <div class="user-info">
-                      <a href="https://github.com/{{user.login}}" class="user-login" target="_blank" rel="noopener">{{user.login}}</a>
-                      {% if user.name %}<span class="user-name">{{user.name}}</span>{% endif %}
-                    </div>
+            <tr id="{{user.login}}" class="user-row clickable" data-login="{{user.login}}" data-name="{{user.name}}"
+              data-avatar="{{user.avatarUrl}}" data-rank="{{user.rank}}" data-contrib="{{user.contributions}}">
+              <td class="col-rank"><span class="rank-badge">{{user.rank}}</span></td>
+              <td class="col-user">
+                <div class="user-profile">
+                  <img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload avatar"
+                    alt="@{{user.login}}" />
+                  <div class="user-info">
+                    <span class="user-login">{{user.login}}</span>
+                    {% if user.name %}<span class="user-name">{{user.name}}</span>{% endif %}
                   </div>
-                </td>
-                <td class="col-contribs">
-                  <span class="contrib-count">{{user.contributions}}</span>
-                </td>
-              </tr>
+                </div>
+              </td>
+              <td class="col-contribs">
+                <span class="contrib-count">{{user.contributions}}</span>
+              </td>
+            </tr>
             {% endfor %}
-              </tbody>
-            </table>
-          </div>
+          </tbody>
+        </table>
+      </div>
 
-          <div class="organizations-section">
-            <h3 id="organizations">Top Organizations</h3>
-            <div class="table-container">
-              <table class="organizations-list">
-                <thead>
-                  <tr>
-                    <th class="col-rank">Rank</th>
-                    <th class="col-org">Organization</th>
-                    <th class="col-members">Members</th>
-                  </tr>
-                </thead>
-                <tbody>
-                {% if page.mode == "commits" %}
-                  {% assign organizations = location.organizations %}
-                {% elsif page.mode == "all" %}
-                  {% assign organizations = location.private_organizations %}
-                {% else %}
-                  {% assign organizations = location.public_contributions_organizations %}
-                {% endif %}
-                {% for org in organizations %}
-                  <tr id="{{org.name}}" class="org-row">
-                    <td class="col-rank"><span class="rank-badge">{{org.rank}}</span></td>
-                    <td class="col-org">
-                      <a href="https://github.com/{{org.name}}" class="org-name" target="_blank" rel="noopener">{{org.name}}</a>
-                    </td>
-                    <td class="col-members">{{org.membercount}}</td>
-                  </tr>
-                {% endfor %}
-                </tbody>
-              </table>
-            </div>
-          </div>
+      <div class="organizations-section">
+        <h3 id="organizations">Top Organizations</h3>
+        <div class="table-container">
+          <table class="organizations-list">
+            <thead>
+              <tr>
+                <th class="col-rank">Rank</th>
+                <th class="col-org">Organization</th>
+                <th class="col-members">Members</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% if page.mode == "commits" %}
+              {% assign organizations = location.organizations %}
+              {% elsif page.mode == "all" %}
+              {% assign organizations = location.private_organizations %}
+              {% else %}
+              {% assign organizations = location.public_contributions_organizations %}
+              {% endif %}
+              {% for org in organizations %}
+              <tr id="{{org.name}}" class="org-row">
+                <td class="col-rank"><span class="rank-badge">{{org.rank}}</span></td>
+                <td class="col-org">
+                  <a href="https://github.com/{{org.name}}" class="org-name" target="_blank"
+                    rel="noopener">{{org.name}}</a>
+                </td>
+                <td class="col-members">{{org.membercount}}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
 
-          <div class="details-section">
-            <h3 class="details-heading">About This Leaderboard</h3>
-            <div class="details-card">
-              <p>
-                This is a list of most active GitHub users in <strong>{{location.title}}</strong> over the past year. Other countries/regions can be found <a href="." class="text-link">here</a>.
-              </p>
-              <p>
-                This list was generated at <code>{{location.generated}}</code> and machine-readable JSON is available for:
-                <a href="rank_only/{{page.location}}.json" class="text-link">rank-only with categories</a>.
-              </p>
-              
-              <div class="logic-box">
-                <h4>Ranking Logic</h4>
-                <p>This list is generated with <a href="https://github.com/ashkulz/committers.top" class="text-link">this</a> open-source code using the following pseudocode:</p>
-                <div class="code-block">
-<pre><code>githubUsers.sort(_.followers){% if page.location != 'worldwide' %}
+      <div class="details-section">
+        <h3 class="details-heading">About This Leaderboard</h3>
+        <div class="details-card">
+          <p>
+            This is a list of most active GitHub users in <strong>{{location.title}}</strong> over the past year. Other
+            countries/regions can be found <a href="." class="text-link">here</a>.
+          </p>
+          <p>
+            This list was generated at <code>{{location.generated}}</code> and machine-readable JSON is available for:
+            <a href="rank_only/{{page.location}}.json" class="text-link">rank-only with categories</a>.
+          </p>
+
+          <div class="logic-box">
+            <h4>Ranking Logic</h4>
+            <p>This list is generated with <a href="https://github.com/ashkulz/committers.top"
+                class="text-link">this</a> open-source code using the following pseudocode:</p>
+            <div class="code-block">
+              <pre><code>githubUsers.sort(_.followers){% if page.location != 'worldwide' %}
  .filter(_.location == '{{location.title}}'){% endif %}
  .take(1000)
  .sort(_.contributions)
  .take(256)</code></pre>
-                </div>
-              </div>
-
-              {% if page.mode == "commits" %}{% assign page_name = page.location %}
-                <p class="mode-info"><span class="info-icon">ℹ️</span> This list contains all <strong>public commits</strong> for each user.</p>
-              {% elsif page.mode == "contributions" %}{% assign page_name = page.location | append: "_public" %}
-                <p class="mode-info"><span class="info-icon">ℹ️</span> This list contains all <strong>public contributions</strong> for each user.</p>
-              {% else %}{% assign page_name = page.location | append: "_private" %}
-                <p class="mode-info"><span class="info-icon">ℹ️</span> This list contains all contributions for each user (<strong>public & private</strong>).</p>
-              {% endif %}
-            </div>
-
-            <h3 class="details-heading">Profile Badges</h3>
-            <div class="details-card">
-              <p>Embed these badges on your GitHub profile or repository to show off your rank.</p>
-              <div class="badge-code">
-                <h5>For Users</h5>
-                <pre><code>[![committers.top badge](https://user-badge.committers.top/{{page_name}}/USERNAME.svg)](https://user-badge.committers.top/{{page_name}}/USERNAME)</code></pre>
-              </div>
-              <div class="badge-code">
-                <h5>For Organizations</h5>
-                <pre><code>[![committers.top badge](https://org-badge.committers.top/{{page_name}}/ORGNAME.svg)](https://org-badge.committers.top/{{page_name}}/ORGNAME)</code></pre>
-              </div>
             </div>
           </div>
-        {% else %}
-          <div class="hero-section">
-            <h2 class="hero-title">Global GitHub Rankings</h2>
-            <p class="hero-subtitle">Discover the most active developers across different countries and regions.</p>
-          </div>
-          <div class="markdown-body">
-            {{ content }}
-          </div>
-        {% endif %}
-      </section>
-    </main>
-
-    <footer class="site-footer">
-      <div class="footer-content">
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> and was originally created by <a href="https://github.com/lauripiispanen/most-active-github-users-counter">lauripiispanen</a>.</p>
-        <p>Hosted on <a href="https://pages.github.com">GitHub Pages</a>.</p>
+        </div>
       </div>
-    </footer>
+      {% else %}
+      <div class="hero-section">
+        <h2 class="hero-title">Global GitHub Rankings</h2>
+        <p class="hero-subtitle">Discover the most active developers across different countries and regions.</p>
+      </div>
+      <div class="markdown-body">
+        {{ content }}
+      </div>
+      {% endif %}
+    </section>
+  </main>
 
-    <script>
-      document.addEventListener("DOMContentLoaded", function() {
-        var hash = window.location.hash;
-        if (hash) {
-          var id = hash.substring(1);
-          var row = document.getElementById(id);
-          if (row) {
-            row.classList.add('highlight-row');
-            row.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          }
+  <footer class="site-footer">
+    <div class="footer-content">
+      <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> and was
+        originally created by <a
+          href="https://github.com/lauripiispanen/most-active-github-users-counter">lauripiispanen</a>.</p>
+      <p>Hosted on <a href="https://pages.github.com">GitHub Pages</a>.</p>
+      <p class="credits-text">UI Redesign by <a href="https://github.com/eymeen" target="_blank" rel="noopener">Ayman
+          Eid</a>.</p>
+    </div>
+  </footer>
+
+  <!-- Info Modal -->
+  <div id="infoModal" class="modal-overlay" onclick="closeModals()">
+    <div class="modal-content" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <h3>Information</h3>
+        <button class="close-btn" aria-label="Close modal" onclick="closeModals()">&times;</button>
+      </div>
+      <div class="modal-body">
+        <details class="modal-details">
+          <summary>Why am I not appearing on the list?</summary>
+          <div class="details-content">
+            <p>Only public commits/contributions count by default. Make sure your location is set properly on your
+              GitHub profile and you meet the minimum followers requirement for the region exactly as stated on the
+              page.</p>
+          </div>
+        </details>
+        <details class="modal-details" open>
+          <summary>How to add the profile badge tag</summary>
+          <div class="details-content">
+            <p>Type your GitHub username below to generate your markdown tag:</p>
+            <input type="text" id="badgeUsernameInput" class="modal-input" placeholder="Your GitHub Username"
+              oninput="updateBadgeGenerator()" />
+            <div class="copy-box">
+              <input type="text" id="userBadgeOutput" class="modal-input readonly" readonly
+                value="[![committers.top badge](https://user-badge.committers.top/{{page_name | default: 'REGION'}}/USERNAME.svg)](https://user-badge.committers.top/{{page_name | default: 'REGION'}}/USERNAME)" />
+              <button class="btn-copy" onclick="copyToClipboard('userBadgeOutput')">Copy</button>
+            </div>
+          </div>
+        </details>
+        <div class="modal-links">
+          <a href="https://github.com/ashkulz/committers.top/issues" target="_blank" rel="noopener"
+            class="btn-primary block-link">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" class="octicon"
+              style="margin-right: 6px;">
+              <path fill="currentColor"
+                d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z">
+              </path>
+            </svg>
+            Report an issue / someone
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- User Profile Modal -->
+  <div id="userModal" class="modal-overlay" onclick="closeModals()">
+    <div class="modal-content user-modal-card" onclick="event.stopPropagation()">
+      <button class="close-btn" aria-label="Close modal" onclick="closeModals()">&times;</button>
+      <div class="um-header">
+        <img id="um-avatar" src="" alt="Avatar" class="um-avatar" />
+        <h3 id="um-login" class="um-login"></h3>
+        <p id="um-name" class="um-name"></p>
+      </div>
+      <div class="um-stats">
+        <div class="stat-box">
+          <span class="stat-label">Rank</span>
+          <strong id="um-rank" class="stat-value"></strong>
+        </div>
+        <div class="stat-box">
+          <span class="stat-label">Contributions</span>
+          <strong id="um-contribs" class="stat-value"></strong>
+        </div>
+      </div>
+      <a id="um-link" href="" target="_blank" rel="noopener" class="btn-primary block-link">View Profile on GitHub</a>
+    </div>
+  </div>
+
+  <script>
+    // Page setup scripts
+    document.addEventListener("DOMContentLoaded", function () {
+      var hash = window.location.hash;
+      if (hash) {
+        var id = hash.substring(1);
+        var row = document.getElementById(id);
+        if (row) {
+          row.classList.add('highlight-row');
+          row.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
+      }
+
+      // Attach user row click events
+      var userRows = document.querySelectorAll('.user-row.clickable');
+      userRows.forEach(function (row) {
+        row.addEventListener('click', function () {
+          var login = row.getAttribute('data-login');
+          var name = row.getAttribute('data-name');
+          var avatar = row.getAttribute('data-avatar');
+          var rank = row.getAttribute('data-rank');
+          var contrib = row.getAttribute('data-contrib');
+          openUserModal(login, name, avatar, rank, contrib);
+        });
       });
-    </script>
-    <script src="{{ '/assets/js/lazysizes.min.js' }}" async></script>
-  </body>
+    });
+
+    // Modals Logic
+    var regionName = "{{page_name | default: 'worldwide'}}";
+
+    function openInfoModal() {
+      document.getElementById('infoModal').classList.add('active');
+      document.body.style.overflow = 'hidden'; // Prevent background scrolling
+      updateBadgeGenerator();
+    }
+
+    function openUserModal(login, name, avatar, rank, contribs) {
+      document.getElementById('um-login').innerText = '@' + login;
+      document.getElementById('um-name').innerText = name || '';
+      document.getElementById('um-avatar').src = avatar ? avatar + "&s=120" : '';
+      document.getElementById('um-rank').innerText = '#' + rank;
+      document.getElementById('um-contribs').innerText = contribs;
+      document.getElementById('um-link').href = "https://github.com/" + login;
+
+      document.getElementById('userModal').classList.add('active');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeModals() {
+      document.getElementById('infoModal').classList.remove('active');
+      document.getElementById('userModal').classList.remove('active');
+      document.body.style.overflow = '';
+    }
+
+    function updateBadgeGenerator() {
+      var input = document.getElementById('badgeUsernameInput').value.trim();
+      var username = input || 'USERNAME';
+      var markdown = "[![committers.top badge](https://user-badge.committers.top/" + regionName + "/" + username + ".svg)](https://user-badge.committers.top/" + regionName + "/" + username + ")";
+      document.getElementById('userBadgeOutput').value = markdown;
+    }
+
+    function copyToClipboard(id) {
+      var copyText = document.getElementById(id);
+      copyText.select();
+      copyText.setSelectionRange(0, 99999);
+      try {
+        document.execCommand("copy");
+        var btn = copyText.nextElementSibling;
+        var originalText = btn.innerText;
+        btn.innerText = "Copied!";
+        setTimeout(function () { btn.innerText = originalText; }, 2000);
+      } catch (err) {
+        alert("Failed to copy text.");
+      }
+    }
+  </script>
+  <script src="{{ '/assets/js/lazysizes.min.js' }}" async></script>
+</body>
+
 </html>
