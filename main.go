@@ -35,6 +35,7 @@ func main() {
 	fileName := flag.String("file", "", "Output file (optional, defaults to stdout)")
 	presetName := flag.String("preset", "", "Preset (optional)")
 	listPresets := flag.Bool("list-presets", false, "List all available presets as CSV and exit immediately")
+	locationThreshold := flag.Int("location-threshold", 2, "Max number of leading location tokens to match against (fairness filter, 0 = disabled)")
 
 	flag.Var(&locations, "location", "Location to query")
 	flag.Parse()
@@ -67,7 +68,7 @@ func main() {
 		log.Fatal("Unrecognized output format: ", *outputOpt)
 	}
 
-	opts := top.Options{Token: *token, Locations: locations, ExcludeLocations: excludeLocations, Amount: *amount, ConsiderNum: *considerNum, PresetTitle: presetTitle, PresetChecksum: presetChecksum}
+	opts := top.Options{Token: *token, Locations: locations, ExcludeLocations: excludeLocations, Amount: *amount, ConsiderNum: *considerNum, PresetTitle: presetTitle, PresetChecksum: presetChecksum, LocationThreshold: *locationThreshold}
 	data, err := top.GithubTop(opts)
 
 	if err != nil {

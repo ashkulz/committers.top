@@ -96,6 +96,7 @@ Pages:
                 login,
                 avatarUrl,
                 name,
+                location,
                 company,
                 organizations(first: 100) {
                   nodes {
@@ -189,6 +190,7 @@ Pages:
 				login := userNode["login"].(string)
 				avatarURL := userNode["avatarUrl"].(string)
 				name := strPropOrEmpty(userNode, "name")
+				location := strPropOrEmpty(userNode, "location")
 				company := strPropOrEmpty(userNode, "company")
 				organizations := []string{}
 
@@ -209,6 +211,7 @@ Pages:
 					Login:                    login,
 					AvatarURL:                avatarURL,
 					Name:                     name,
+					Location:                 location,
 					Company:                  company,
 					Organizations:            organizations,
 					FollowerCount:            followerCount,
@@ -279,6 +282,7 @@ type User struct {
 	Login                    string
 	AvatarURL                string
 	Name                     string
+	Location                 string
 	Company                  string
 	Organizations            []string
 	FollowerCount            int
