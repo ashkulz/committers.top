@@ -24,7 +24,7 @@ var PRESETS = map[string]QueryPreset{
 	},
 	"austria": QueryPreset{
 		title:   "Austria",
-		include: []string{"austria", "österreich", "vienna", "wien", "linz", "salzburg", "graz", "innsbruck", "klagenfurt", "wels", "dornbirn"},
+		include: []string{"austria", "österreich", "vienna", "wien", "linz", "salzburg", "graz", "innsbruck", "klagenfurt", "wels", "dornbirn", "steyr", "villach", "wiener+neustadt", "st.+pölten", "st.+poelten", "bregenz", "krems", "feldkirch", "leoben", "kapfenberg", "mödling", "moedling", "klosterneuburg", "leonding", "traun", "amstetten", "wolfsberg", "schwechat", "enns", "baden+bei+wien"},
 	},
 	"armenia": QueryPreset{
 		title:   "Armenia",
