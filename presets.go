@@ -13,6 +13,17 @@ type QueryPreset struct {
 	exclude []string
 }
 
+// ExcludedRepos lists repositories whose commit contributions are ignored when
+// ranking users, applied across every preset. This keeps the rankings
+// representative by excluding dataset/archive repositories whose automated commit
+// volume would otherwise dominate a user's contribution count.
+//
+// Entries are "owner/name" and matched case-insensitively. This list is published
+// on every region page so the exclusions are transparent.
+var ExcludedRepos = []string{
+	"domovinatv/dataset.domovina.tv",
+}
+
 var PRESETS = map[string]QueryPreset{
 	"panama": QueryPreset{
 		title:   "Panama",
@@ -638,5 +649,8 @@ func PresetTitle(name string) string {
 func PresetChecksum(name string) string {
 	hash := sha256.New()
 	io.WriteString(hash, fmt.Sprintf("%+v", Preset(name)))
+	// Fold in the global repo-exclusion list so that changing it invalidates every
+	// preset's checksum, triggering a regeneration of all region pages.
+	io.WriteString(hash, fmt.Sprintf("excluded_repos:%+v", ExcludedRepos))
 	return fmt.Sprintf("%x", hash.Sum(nil))
 }

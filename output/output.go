@@ -78,6 +78,7 @@ func YamlOutput(results github.GithubSearchResults, writer io.Writer, options to
     login: %+v
     avatarUrl: %+v
     contributions: %+v
+    excluded: %+v
     company: %+v
     organizations: %+v
 `,
@@ -86,6 +87,7 @@ func YamlOutput(results github.GithubSearchResults, writer io.Writer, options to
 				strconv.QuoteToASCII(u.Login),
 				u.AvatarURL,
 				contributionCount,
+				u.ExcludedContributionCount,
 				strconv.QuoteToASCII(u.Company),
 				strconv.QuoteToASCII(strings.Join(u.Organizations, ",")))
 		}
@@ -132,6 +134,13 @@ func YamlOutput(results github.GithubSearchResults, writer io.Writer, options to
 	if options.PresetTitle != "" && options.PresetChecksum != "" {
 		fmt.Fprintf(writer, "title: %+v\n", options.PresetTitle)
 		fmt.Fprintf(writer, "definition_checksum: %+v\n", options.PresetChecksum)
+	}
+
+	if len(options.ExcludeRepos) > 0 {
+		fmt.Fprintln(writer, "excluded_repos:")
+		for _, repo := range options.ExcludeRepos {
+			fmt.Fprintf(writer, "  - %+v\n", strconv.QuoteToASCII(repo))
+		}
 	}
 
 	return nil
