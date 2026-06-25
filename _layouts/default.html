@@ -59,6 +59,21 @@
 
         {% if location %}
           <h1>Most active GitHub users in {{location.title}}</h1>
+          {% if location.excluded_repos %}
+          <div id="excluded-repos" class="excluded-repos" style="margin:1em 0;padding:0.8em 1em;border:1px solid #d0d7de;border-left:4px solid #d29922;border-radius:6px;background:#fff8e6;">
+            <b>⚖️ Excluded repositories ({{location.excluded_repos | size}})</b>
+            <p style="margin:0.4em 0 0;">
+              For fairer rankings, commits made to the repositories below are <b>excluded</b> from the contribution counts on this page
+              (e.g. dataset/archive repositories whose automated commit volume would otherwise dominate a user's total).
+              Where a user's count was reduced, the amount removed is shown as <code>&minus;N excluded</code> next to their contributions.
+            </p>
+            <ul style="margin:0.4em 0 0;">
+            {% for repo in location.excluded_repos %}
+              <li><a href="https://github.com/{{repo}}"><code>{{repo}}</code></a></li>
+            {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
           <p>
             This is a list of most active GitHub users in {{location.title}} over the past year. Other countries/regions can be found <a href=".">here</a>.
             This list was generated at <code>{{location.generated}}</code> and machine-readable JSON is available for:
@@ -123,7 +138,7 @@
             <tr id="{{user.login}}">
               <td>{{user.rank}}.</td>
               <td><a href="https://github.com/{{user.login}}">{{user.login}}</a><br>({{user.name}})</td>
-              <td>{{user.contributions}}</td>
+              <td>{{user.contributions}}{% if user.excluded and user.excluded > 0 %}<br><small style="color:#9a6700;">&minus;{{user.excluded}} <a style="color:#9a6700;" title="commits excluded from {% if location.excluded_repos.size == 1 %}{{ location.excluded_repos[0] }}{% else %}dataset/archive repositories{% endif %}" href="{% if location.excluded_repos.size == 1 %}https://github.com/{{ location.excluded_repos[0] }}{% else %}#excluded-repos{% endif %}">excluded</a></small>{% endif %}</td>
               <td class="photo"><img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload" alt="Avatar for {{user.login}}" /></td>
             </tr>
           {% endfor %}
