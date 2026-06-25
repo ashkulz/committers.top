@@ -65,6 +65,14 @@ func (client HTTPGithubClient) SearchUsers(query UserSearchQuery) (GithubSearchR
 	users := []User{}
 	userLogins := map[string]bool{}
 
+	// Repositories whose commit contributions should be ignored when ranking
+	// users (e.g. dataset/archive repos that would otherwise inflate counts).
+	// Matching is case-insensitive on the "owner/name" form.
+	excludeRepos := map[string]bool{}
+	for _, repo := range query.ExcludeRepos {
+		excludeRepos[strings.ToLower(repo)] = true
+	}
+
 	totalCount := 0
 	minFollowerCount := -1
 	maxPerQuery := 1000
@@ -111,7 +119,16 @@ Pages:
                   },
                   totalCommitContributions,
                   totalPullRequestContributions,
-                  restrictedContributionsCount
+                  restrictedContributionsCount,
+                  commitContributionsByRepository(maxRepositories: 100) {
+                    repository {
+                      nameWithOwner,
+                      isPrivate
+                    },
+                    contributions {
+                      totalCount
+                    }
+                  }
                 }
               }
             },
@@ -205,6 +222,14 @@ Pages:
 				commitsCount := int(contributionsCollection["totalCommitContributions"].(float64))
 				pullRequestsCount := int(contributionsCollection["totalPullRequestContributions"].(float64))
 
+				repoContributions := parseRepoCommitContributions(contributionsCollection)
+				excludedPublic, excludedPrivate := repoExclusions(repoContributions, excludeRepos)
+				excludedTotal := excludedPublic + excludedPrivate
+
+				contributionCount = clampZero(contributionCount - excludedTotal)
+				privateContributionCount = clampZero(privateContributionCount - excludedPrivate)
+				commitsCount = clampZero(commitsCount - excludedTotal)
+
 				user := User{
 					Login:                    login,
 					AvatarURL:                avatarURL,
@@ -213,7 +238,7 @@ Pages:
 					Organizations:            organizations,
 					FollowerCount:            followerCount,
 					ContributionCount:        contributionCount,
-					PublicContributionCount:  (contributionCount - privateContributionCount),
+					PublicContributionCount:  clampZero(contributionCount - privateContributionCount),
 					PrivateContributionCount: privateContributionCount,
 					CommitsCount:             commitsCount,
 					PullRequestsCount:        pullRequestsCount}
@@ -233,6 +258,74 @@ Pages:
 		Users:                users,
 		MinimumFollowerCount: minFollowerCount,
 		TotalUserCount:       totalUsersCount}, nil
+}
+
+// RepoCommitContribution holds the number of commit contributions a user made
+// to a single repository within the queried time window.
+type RepoCommitContribution struct {
+	NameWithOwner string
+	IsPrivate     bool
+	Commits       int
+}
+
+// parseRepoCommitContributions extracts the per-repository commit breakdown from
+// a parsed contributionsCollection node. Missing/malformed entries are skipped.
+func parseRepoCommitContributions(contributionsCollection map[string]interface{}) []RepoCommitContribution {
+	result := []RepoCommitContribution{}
+	rawRepos, ok := contributionsCollection["commitContributionsByRepository"].([]interface{})
+	if !ok {
+		return result
+	}
+	for _, raw := range rawRepos {
+		node, ok := raw.(map[string]interface{})
+		if !ok {
+			continue
+		}
+		repo, ok := node["repository"].(map[string]interface{})
+		if !ok {
+			continue
+		}
+		nameWithOwner, _ := repo["nameWithOwner"].(string)
+		isPrivate, _ := repo["isPrivate"].(bool)
+		commits := 0
+		if contribs, ok := node["contributions"].(map[string]interface{}); ok {
+			if total, ok := contribs["totalCount"].(float64); ok {
+				commits = int(total)
+			}
+		}
+		result = append(result, RepoCommitContribution{
+			NameWithOwner: nameWithOwner,
+			IsPrivate:     isPrivate,
+			Commits:       commits,
+		})
+	}
+	return result
+}
+
+// repoExclusions sums the commit contributions belonging to excluded repositories,
+// split by visibility so they can be subtracted from the right totals. The exclude
+// set keys are expected to be lower-cased "owner/name" strings.
+func repoExclusions(repos []RepoCommitContribution, exclude map[string]bool) (excludedPublic int, excludedPrivate int) {
+	if len(exclude) == 0 {
+		return 0, 0
+	}
+	for _, repo := range repos {
+		if exclude[strings.ToLower(repo.NameWithOwner)] {
+			if repo.IsPrivate {
+				excludedPrivate += repo.Commits
+			} else {
+				excludedPublic += repo.Commits
+			}
+		}
+	}
+	return excludedPublic, excludedPrivate
+}
+
+func clampZero(n int) int {
+	if n < 0 {
+		return 0
+	}
+	return n
 }
 
 func strPropOrEmpty(obj map[string]interface{}, prop string) string {
@@ -290,10 +383,11 @@ type User struct {
 }
 
 type UserSearchQuery struct {
-	Q        string
-	Sort     string
-	Order    string
-	MaxUsers int
+	Q            string
+	Sort         string
+	Order        string
+	MaxUsers     int
+	ExcludeRepos []string
 }
 
 type GithubSearchResults struct {

@@ -134,6 +134,13 @@ func YamlOutput(results github.GithubSearchResults, writer io.Writer, options to
 		fmt.Fprintf(writer, "definition_checksum: %+v\n", options.PresetChecksum)
 	}
 
+	if len(options.ExcludeRepos) > 0 {
+		fmt.Fprintln(writer, "excluded_repos:")
+		for _, repo := range options.ExcludeRepos {
+			fmt.Fprintf(writer, "  - %+v\n", strconv.QuoteToASCII(repo))
+		}
+	}
+
 	return nil
 }
 

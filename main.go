@@ -24,6 +24,7 @@ func (i *arrayFlags) Set(value string) error {
 
 var locations arrayFlags
 var excludeLocations arrayFlags
+var excludeRepos arrayFlags
 var presetTitle string
 var presetChecksum string
 
@@ -37,7 +38,11 @@ func main() {
 	listPresets := flag.Bool("list-presets", false, "List all available presets as CSV and exit immediately")
 
 	flag.Var(&locations, "location", "Location to query")
+	flag.Var(&excludeRepos, "exclude-repo", "Repository (owner/name) whose commits are excluded from counts; repeatable")
 	flag.Parse()
+
+	// The global ExcludedRepos list always applies; --exclude-repo adds to it.
+	excludeRepos = append(excludeRepos, ExcludedRepos...)
 
 	if *listPresets {
 		fmt.Println("preset,title,definition_checksum")
@@ -67,7 +72,7 @@ func main() {
 		log.Fatal("Unrecognized output format: ", *outputOpt)
 	}
 
-	opts := top.Options{Token: *token, Locations: locations, ExcludeLocations: excludeLocations, Amount: *amount, ConsiderNum: *considerNum, PresetTitle: presetTitle, PresetChecksum: presetChecksum}
+	opts := top.Options{Token: *token, Locations: locations, ExcludeLocations: excludeLocations, ExcludeRepos: excludeRepos, Amount: *amount, ConsiderNum: *considerNum, PresetTitle: presetTitle, PresetChecksum: presetChecksum}
 	data, err := top.GithubTop(opts)
 
 	if err != nil {
