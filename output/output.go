@@ -78,6 +78,7 @@ func YamlOutput(results github.GithubSearchResults, writer io.Writer, options to
     login: %+v
     avatarUrl: %+v
     contributions: %+v
+    excluded: %+v
     company: %+v
     organizations: %+v
 `,
@@ -86,6 +87,7 @@ func YamlOutput(results github.GithubSearchResults, writer io.Writer, options to
 				strconv.QuoteToASCII(u.Login),
 				u.AvatarURL,
 				contributionCount,
+				u.ExcludedContributionCount,
 				strconv.QuoteToASCII(u.Company),
 				strconv.QuoteToASCII(strings.Join(u.Organizations, ",")))
 		}

@@ -231,17 +231,18 @@ Pages:
 				commitsCount = clampZero(commitsCount - excludedTotal)
 
 				user := User{
-					Login:                    login,
-					AvatarURL:                avatarURL,
-					Name:                     name,
-					Company:                  company,
-					Organizations:            organizations,
-					FollowerCount:            followerCount,
-					ContributionCount:        contributionCount,
-					PublicContributionCount:  clampZero(contributionCount - privateContributionCount),
-					PrivateContributionCount: privateContributionCount,
-					CommitsCount:             commitsCount,
-					PullRequestsCount:        pullRequestsCount}
+					Login:                     login,
+					AvatarURL:                 avatarURL,
+					Name:                      name,
+					Company:                   company,
+					Organizations:             organizations,
+					FollowerCount:             followerCount,
+					ContributionCount:         contributionCount,
+					PublicContributionCount:   clampZero(contributionCount - privateContributionCount),
+					PrivateContributionCount:  privateContributionCount,
+					CommitsCount:              commitsCount,
+					PullRequestsCount:         pullRequestsCount,
+					ExcludedContributionCount: excludedTotal}
 
 				if !userLogins[login] {
 					userLogins[login] = true
@@ -369,17 +370,18 @@ func NewGithubClient(wrappers ...net.Wrapper) HTTPGithubClient {
 }
 
 type User struct {
-	Login                    string
-	AvatarURL                string
-	Name                     string
-	Company                  string
-	Organizations            []string
-	FollowerCount            int
-	ContributionCount        int
-	PublicContributionCount  int
-	PrivateContributionCount int
-	CommitsCount             int
-	PullRequestsCount        int
+	Login                     string
+	AvatarURL                 string
+	Name                      string
+	Company                   string
+	Organizations             []string
+	FollowerCount             int
+	ContributionCount         int
+	PublicContributionCount   int
+	PrivateContributionCount  int
+	CommitsCount              int
+	PullRequestsCount         int
+	ExcludedContributionCount int
 }
 
 type UserSearchQuery struct {
