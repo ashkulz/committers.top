@@ -54,6 +54,7 @@
         <p>A list of the most active GitHub users</p>
 
         <p class="view"><a href="https://github.com/ashkulz/committers.top.git"><img src="https://img.shields.io/github/stars/ashkulz/committers.top?style=social" /></a></p>
+        <p><button id="theme-toggle" type="button" aria-pressed="false">Switch to dark mode</button></p>
       </header>
       <section>
 
@@ -170,17 +171,45 @@
     <script src="{{ '/assets/js/scale.fix.js' }}"></script>
 
     <script>
-      document.addEventListener("DOMContentLoaded", function() {
-        var hash = window.location.hash;
-        if (hash) {
-          var id = hash.substring(1);
-          var row = document.getElementById(id);
-          if (row) {
-            row.style.fontWeight = 'bold';
-            row.style.backgroundColor = '#f8f8f8';
-          }
+      (function() {
+        var storageKey = "committers-top-theme";
+        var body = document.querySelector("body");
+        var toggleButton = document.getElementById("theme-toggle");
+        var labels = {
+          dark: "Switch to dark mode",
+          light: "Switch to light mode"
+        };
+        var themes = ["light", "dark"];
+
+        function setTheme(theme) {
+          body.setAttribute("data-theme", theme);
+          toggleButton.textContent = labels[theme];
+          toggleButton.setAttribute("aria-pressed", theme === "dark" ? "true" : "false");
+          localStorage.setItem(storageKey, theme);
         }
-      });
+
+        var savedTheme = localStorage.getItem(storageKey);
+        if (themes.indexOf(savedTheme) !== -1) {
+          setTheme(savedTheme);
+        }
+
+        toggleButton.addEventListener("click", function() {
+          var current = body.getAttribute("data-theme") || "light";
+          setTheme(current === "dark" ? "light" : "dark");
+        });
+
+        document.addEventListener("DOMContentLoaded", function() {
+          var hash = window.location.hash;
+          if (hash) {
+            var id = hash.substring(1);
+            var row = document.getElementById(id);
+            if (row) {
+              row.style.fontWeight = 'bold';
+              row.style.backgroundColor = '#f8f8f8';
+            }
+          }
+        });
+      })();
     </script>
 
   <style type="text/css">
