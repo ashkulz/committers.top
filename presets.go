@@ -621,6 +621,10 @@ var PRESETS = map[string]QueryPreset{
 		title:   "Costa Rica",
 		include: []string{"costa+rica", "san+josé", "alajuela", "cartago", "heredia", "guanacaste", "puntarenas", "limón"},
 	},
+	"basque country": QueryPreset{
+		title:   "Basque Country",
+		include: []string{"basque+country", "euskal+herria", "país+vasco", "pais+vasco", "pays+basque", "euskadi", "bizkaia", "vizcaya", "bilbo", "bilbao", "gipuzkoa", "guipuzcoa", "donosti", "donostia", "san+sebastián", "san+sebastian", "araba", "álava", "alava", "vitoria-gasteiz", "gasteiz", "nafarroa", "navarra", "iruñea", "iruña", "pamplona", "lapurdi", "labourd", "baiona", "bayonne", "baxenabarre", "nafarroa+beherea", "basse-navarre", "baja+navarra", "donibane+garazi", "saint-jean-pied-de-port", "zuberoa", "soule", "maule", "maule-lextarre", "mauléon", "mauleon", "mauléon-licharre", "mauleon-licharre"},
+	},
 }
 
 func Preset(name string) QueryPreset {
