@@ -97,3 +97,52 @@ ul.mode-selector {
 footer {
   width: 275px;
 }
+
+body[data-theme='dark'] {
+  --bg: #0d1117;
+  --text: #e6edf3;
+  --muted: #9ca3af;
+  --panel: #161b22;
+  --accent: #8ab4f8;
+  --table-border: #30363d;
+
+  background: var(--bg);
+  color: var(--text);
+
+  a {
+    color: var(--accent);
+  }
+
+  .wrapper {
+    background: var(--bg);
+  }
+
+  code,
+  pre {
+    color: #c9d1d9;
+  }
+
+  th,
+  td {
+    border-color: var(--table-border);
+  }
+
+  ul.mode-selector li.active {
+    background: #21262d;
+  }
+
+  table.organizations-list,
+  table.users-list {
+    color: var(--text);
+  }
+
+  #theme-toggle {
+    background-color: #21262d;
+    border: 1px solid #30363d;
+    color: var(--text);
+  }
+}
+
+body[data-theme='dark'] .wrapper {
+  border: 1px solid #30363d;
+}
