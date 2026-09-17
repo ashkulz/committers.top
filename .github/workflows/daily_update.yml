@@ -27,9 +27,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          import csv, datetime, glob, os, random, re, subprocess, sys
+          import csv, datetime, glob, os, re, subprocess, sys
 
-          MAX_IN_RUN = 3
+          MAX_IN_RUN = 10
           STALE_DAYS = 5
           GENERATED  = {
             "%s.md":                "---\ntype: location\nlocation: %s\nmode: commits\n---\n",
@@ -72,7 +72,8 @@ jobs:
               os.remove(filename)
               regenerated = True
 
-          # find if any location data is stale
+          # find if any location data is stale, oldest first, so the backlog
+          # can never leave a location waiting indefinitely
           get_mtime = lambda n: datetime.date.fromisoformat(subprocess.run(["git", "log", "-1", "--pretty=%as", n], capture_output=True, text=True).stdout.strip())
           locations = sorted([get_mtime(n), os.path.basename(n)] for n in glob.glob("_data/locations/*.yml"))
           today     = datetime.date.today()
@@ -86,7 +87,12 @@ jobs:
           if regenerated:
             subprocess.run('git add *.md _data/locations/*.yml rank_only/*.json && git commit -am "regenerate location pages"', shell=True, check=True)
 
-          random.shuffle(to_process) # in case we're getting failures for a specific preset, this should let others move forward
+          # Process the MAX_IN_RUN most overdue locations. A single failing
+          # preset no longer aborts the whole run (it used to exit on the
+          # first failure, which could zero out an entire run's progress) -
+          # failures are logged and skipped so the rest of the batch still
+          # gets a chance to update.
+          had_failure = False
           for key in to_process[0:MAX_IN_RUN]:
             print("Running: %s" % key)
             preset = flookup[key]
@@ -96,8 +102,9 @@ jobs:
                 f.write("page: %s.html\n%s" % (key, status.stdout))
               subprocess.run('git add _data/locations/%s.yml && git commit -m "%s: updates for %s"' % (key, preset, today.isoformat()), shell=True, check=True)
             else:
-              subprocess.run("git push origin gh-pages", shell=True) # push successful commits, if any
-              print("FAILED with exit code %d\n--- stdout ---\n%s\n--- stderr ---\n%s" % (status.returncode, status.stdout, status.stderr))
-              sys.exit(1)
+              had_failure = True
+              print("FAILED (%s) with exit code %d\n--- stdout ---\n%s\n--- stderr ---\n%s" % (key, status.returncode, status.stdout, status.stderr))
 
           subprocess.run("git push origin gh-pages", shell=True, check=True)
+          if had_failure:
+            sys.exit(1)
