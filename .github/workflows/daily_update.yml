@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: '45 * * * *'
 
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
 name: daily update
 jobs:
   daily_update:
@@ -27,9 +31,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          import csv, datetime, glob, os, re, subprocess, sys
+          import csv, datetime, glob, os, re, subprocess, sys, time
 
-          MAX_IN_RUN = 10
+          # Stay well under the job's runtime limit, but otherwise keep
+          # working through the backlog rather than stopping at a fixed
+          # count. This scales automatically as more locations get added,
+          # instead of needing a number bumped by hand every time.
+          MAX_RUNTIME_MINUTES = 240
           STALE_DAYS = 5
           GENERATED  = {
             "%s.md":                "---\ntype: location\nlocation: %s\nmode: commits\n---\n",
@@ -87,13 +95,18 @@ jobs:
           if regenerated:
             subprocess.run('git add *.md _data/locations/*.yml rank_only/*.json && git commit -am "regenerate location pages"', shell=True, check=True)
 
-          # Process the MAX_IN_RUN most overdue locations. A single failing
-          # preset no longer aborts the whole run (it used to exit on the
-          # first failure, which could zero out an entire run's progress) -
-          # failures are logged and skipped so the rest of the batch still
-          # gets a chance to update.
+          # Work through the backlog (oldest-first) until the time budget
+          # runs out, rather than a fixed count. A single failing preset no
+          # longer aborts the run (it used to exit on the first failure,
+          # which could zero out an entire run's progress) - failures are
+          # logged and skipped so the rest of the backlog still gets a shot.
+          start = time.monotonic()
           had_failure = False
-          for key in to_process[0:MAX_IN_RUN]:
+          processed = 0
+          for key in to_process:
+            if (time.monotonic() - start) / 60 >= MAX_RUNTIME_MINUTES:
+              print("Time budget reached: %d/%d locations processed this run" % (processed, len(to_process)))
+              break
             print("Running: %s" % key)
             preset = flookup[key]
             status = subprocess.run(["most-active-github-users-counter", "--token", os.environ["GITHUB_TOKEN"], "--preset", preset, "--output", "yaml"], capture_output=True, text=True)
@@ -101,6 +114,7 @@ jobs:
               with open("_data/locations/%s.yml" % key, "w") as f:
                 f.write("page: %s.html\n%s" % (key, status.stdout))
               subprocess.run('git add _data/locations/%s.yml && git commit -m "%s: updates for %s"' % (key, preset, today.isoformat()), shell=True, check=True)
+              processed += 1
             else:
               had_failure = True
               print("FAILED (%s) with exit code %d\n--- stdout ---\n%s\n--- stderr ---\n%s" % (key, status.returncode, status.stdout, status.stderr))
