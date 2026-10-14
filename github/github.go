@@ -14,6 +14,9 @@ import (
 
 const root string = "https://api.github.com/"
 
+// retryDelay is the pause before retrying a failed search page (a variable so tests can shorten it)
+var retryDelay = 10 * time.Second
+
 type HTTPGithubClient struct {
 	wrappers []net.Wrapper
 }
@@ -128,7 +131,7 @@ Pages:
 				retryCount++
 				if retryCount < maxRetryCount {
 					log.Println("error making graphql request... retrying")
-					time.Sleep(10 * time.Second)
+					time.Sleep(retryDelay)
 					continue Pages
 				} else {
 					log.Fatalln("Too many errors received. Quitting.")
@@ -140,7 +143,7 @@ Pages:
 				retryCount++
 				if retryCount < maxRetryCount {
 					log.Println("error unmarshalling JSON response... retrying")
-					time.Sleep(10 * time.Second)
+					time.Sleep(retryDelay)
 					continue Pages
 				} else {
 					log.Fatalln("Too many errors received. Quitting.")
@@ -150,8 +153,12 @@ Pages:
 			if val, ok := rootNode["errors"]; ok {
 				retryCount++
 				if retryCount < maxRetryCount {
+					if perPage > 1 && onlyResourceLimitErrors(val) {
+						perPage = perPage / 2
+						log.Printf("Query exceeded resource limits, reducing page size to %d", perPage)
+					}
 					log.Printf("Received error response (retrying): %+v", val)
-					time.Sleep(10 * time.Second)
+					time.Sleep(retryDelay)
 					continue Pages
 				} else {
 					log.Fatalln("Too many errors received. Quitting.")
@@ -162,7 +169,7 @@ Pages:
 				retryCount++
 				if retryCount < maxRetryCount {
 					log.Println("Error accessing data element")
-					time.Sleep(10 * time.Second)
+					time.Sleep(retryDelay)
 					continue Pages
 				} else {
 					log.Fatalln("Too many errors received. Quitting.")
@@ -226,6 +233,7 @@ Pages:
 				previousCursor = edgeNode["cursor"].(string)
 				minFollowerCount = int(followerCount)
 			}
+			retryCount = 0
 		}
 	}
 
@@ -233,6 +241,22 @@ Pages:
 		Users:                users,
 		MinimumFollowerCount: minFollowerCount,
 		TotalUserCount:       totalUsersCount}, nil
+}
+
+// onlyResourceLimitErrors reports whether every GraphQL error is RESOURCE_LIMITS_EXCEEDED,
+// which GitHub returns when a page of results is too expensive to compute.
+func onlyResourceLimitErrors(errs interface{}) bool {
+	list, ok := errs.([]interface{})
+	if !ok || len(list) == 0 {
+		return false
+	}
+	for _, e := range list {
+		errNode, ok := e.(map[string]interface{})
+		if !ok || errNode["type"] != "RESOURCE_LIMITS_EXCEEDED" {
+			return false
+		}
+	}
+	return true
 }
 
 func strPropOrEmpty(obj map[string]interface{}, prop string) string {
