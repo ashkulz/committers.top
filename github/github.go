@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"regexp"
 	"strings"
 	"time"
 
@@ -61,18 +60,106 @@ func (client HTTPGithubClient) User(login string) (User, error) {
 	return user, nil
 }
 
+const (
+	maxPerQuery    = 1000 // GitHub search returns at most 1000 results per query
+	defaultPerPage = 5
+	maxRetryCount  = 10 // consecutive failed requests before giving up
+	skipAfter      = 3  // failures of a one-user page before that user is skipped
+	maxSkipped     = 10 // users skipped before the whole search is treated as broken
+)
+
+// retryDelay is a variable so tests can run without sleeping.
+var retryDelay = 10 * time.Second
+
+const userFields = `
+  login
+  avatarUrl
+  name
+  company
+  organizations(first: 100) {
+    nodes {
+      login
+    }
+  }
+  followers {
+    totalCount
+  }
+  contributionsCollection {
+    contributionCalendar {
+      totalContributions
+    }
+    totalCommitContributions
+    restrictedContributionsCount
+  }`
+
+// skipFields loads only what is needed to step past a user whose full data
+// GitHub cannot return.
+const skipFields = `
+  login
+  followers {
+    totalCount
+  }`
+
+// searchPage runs one page of the user search and returns its edges.
+func (client HTTPGithubClient) searchPage(q string, first int, after string, fields string) ([]interface{}, int, error) {
+	afterArg := ""
+	if after != "" {
+		afterArg = fmt.Sprintf(`, after: "%s"`, after)
+	}
+	graphQl := fmt.Sprintf(`query {
+  search(type: USER, query: "%s", first: %d%s) {
+    userCount
+    edges {
+      cursor
+      node {
+        __typename
+        ... on User {%s
+        }
+      }
+    }
+  }
+}`, q, first, afterArg, fields)
+	request, err := json.Marshal(map[string]string{"query": graphQl})
+	if err != nil {
+		return nil, 0, err
+	}
+
+	body, err := client.Request("https://api.github.com/graphql", string(request))
+	if err != nil {
+		return nil, 0, fmt.Errorf("error making graphql request: %v", err)
+	}
+
+	var response struct {
+		Data *struct {
+			Search *struct {
+				UserCount int
+				Edges     []interface{}
+			}
+		}
+		Errors []interface{}
+	}
+	if err := json.Unmarshal(body, &response); err != nil {
+		return nil, 0, fmt.Errorf("error unmarshalling JSON response: %v", err)
+	}
+	if len(response.Errors) > 0 {
+		return nil, 0, fmt.Errorf("received error response: %+v", response.Errors)
+	}
+	if response.Data == nil || response.Data.Search == nil {
+		return nil, 0, fmt.Errorf("error accessing data element: %s", body)
+	}
+	return response.Data.Search.Edges, response.Data.Search.UserCount, nil
+}
+
 func (client HTTPGithubClient) SearchUsers(query UserSearchQuery) (GithubSearchResults, error) {
 	users := []User{}
 	userLogins := map[string]bool{}
 
 	totalCount := 0
 	minFollowerCount := -1
-	maxPerQuery := 1000
-	perPage := 5
 	totalUsersCount := 0
 
 	retryCount := 0
-	maxRetryCount := 10
+	skipped := []string{}
 
 Pages:
 	for totalCount < query.MaxUsers {
@@ -81,106 +168,73 @@ Pages:
 		if minFollowerCount >= 0 {
 			followerCountQueryStr = fmt.Sprintf(" followers:<%d", minFollowerCount)
 		}
-		for currentPage := 1; currentPage <= (maxPerQuery / perPage); currentPage++ {
-			cursorQueryStr := ""
-			if previousCursor != "" {
-				cursorQueryStr = fmt.Sprintf(", after: \\\"%s\\\"", previousCursor)
-			}
-			graphQlString := fmt.Sprintf(`{ "query": "query {
-        search(type: USER, query:\"%s%s sort:%s-%s\", first: %d%s) {
-          userCount
-          edges {
-            node {
-              __typename
-              ... on User {
-                login,
-                avatarUrl,
-                name,
-                company,
-                organizations(first: 100) {
-                  nodes {
-                    login
-                  }
-                }
-                followers {
-                  totalCount
-                }
-                contributionsCollection {
-                  contributionCalendar {
-                    totalContributions
-                  },
-                  totalCommitContributions,
-                  totalPullRequestContributions,
-                  restrictedContributionsCount
-                }
-              }
-            },
-            cursor
-          }
-        }
-      }" }`, query.Q, followerCountQueryStr, query.Sort, query.Order, perPage, cursorQueryStr)
+		q := fmt.Sprintf("%s%s sort:%s-%s", query.Q, followerCountQueryStr, query.Sort, query.Order)
 
-			re := regexp.MustCompile(`\r?\n`)
-			graphQlString = re.ReplaceAllString(graphQlString, " ")
-
-			body, err := client.Request("https://api.github.com/graphql", graphQlString)
+		perPage := defaultPerPage
+		pageFailures := 0
+		for consumed := 0; consumed < maxPerQuery; {
+			edgeNodes, userCount, err := client.searchPage(q, perPage, previousCursor, userFields)
 			if err != nil {
 				retryCount++
-				if retryCount < maxRetryCount {
-					log.Println("error making graphql request... retrying")
-					time.Sleep(10 * time.Second)
-					continue Pages
-				} else {
+				if retryCount >= maxRetryCount {
+					log.Println(err)
 					log.Fatalln("Too many errors received. Quitting.")
 				}
-			}
+				log.Printf("%v (retrying)", err)
+				time.Sleep(retryDelay)
 
-			var response interface{}
-			if err := json.Unmarshal(body, &response); err != nil {
-				retryCount++
-				if retryCount < maxRetryCount {
-					log.Println("error unmarshalling JSON response... retrying")
-					time.Sleep(10 * time.Second)
-					continue Pages
-				} else {
-					log.Fatalln("Too many errors received. Quitting.")
+				// A page keeps failing when one user's data is too costly for
+				// GitHub to return. Retry one user at a time to find that user,
+				// then step past them so the rest of the location still loads.
+				if perPage > 1 {
+					perPage = 1
+					continue
 				}
-			}
-			rootNode := response.(map[string]interface{})
-			if val, ok := rootNode["errors"]; ok {
-				retryCount++
-				if retryCount < maxRetryCount {
-					log.Printf("Received error response (retrying): %+v", val)
-					time.Sleep(10 * time.Second)
-					continue Pages
-				} else {
-					log.Fatalln("Too many errors received. Quitting.")
+				pageFailures++
+				if pageFailures < skipAfter {
+					continue
 				}
-			}
-			dataNode, ok := rootNode["data"].(map[string]interface{})
-			if !ok {
-				retryCount++
-				if retryCount < maxRetryCount {
-					log.Println("Error accessing data element")
-					time.Sleep(10 * time.Second)
-					continue Pages
-				} else {
-					log.Fatalln("Too many errors received. Quitting.")
+				skipEdges, _, skipErr := client.searchPage(q, 1, previousCursor, skipFields)
+				if skipErr != nil {
+					continue // the search itself is failing, not one user
 				}
+				if len(skipEdges) == 0 {
+					break Pages
+				}
+				edgeNode := skipEdges[0].(map[string]interface{})
+				userNode := edgeNode["node"].(map[string]interface{})
+				login := strPropOrEmpty(userNode, "login")
+				skipped = append(skipped, login)
+				if len(skipped) > maxSkipped {
+					log.Fatalf("Skipped too many users %v. Quitting.", skipped)
+				}
+				log.Printf("Skipping %s: GitHub could not return this user's data", login)
+				if followers, ok := userNode["followers"].(map[string]interface{}); ok {
+					minFollowerCount = int(followers["totalCount"].(float64))
+				}
+				previousCursor = edgeNode["cursor"].(string)
+				consumed++
+				totalCount++
+				retryCount = 0
+				pageFailures = 0
+				perPage = defaultPerPage
+				continue
 			}
-
-			searchNode := dataNode["search"].(map[string]interface{})
-			totalUsersCount = int(searchNode["userCount"].(float64))
-			edgeNodes := searchNode["edges"].([]interface{})
+			retryCount = 0
+			pageFailures = 0
+			perPage = defaultPerPage
+			totalUsersCount = userCount
 
 			if len(edgeNodes) == 0 {
 				break Pages
 			}
+			consumed += len(edgeNodes)
 			totalCount += len(edgeNodes)
 
 		Edges:
 			for _, edge := range edgeNodes {
 				edgeNode := edge.(map[string]interface{})
+				previousCursor = edgeNode["cursor"].(string)
 				userNode := edgeNode["node"].(map[string]interface{})
 				typename := userNode["__typename"].(string)
 				if typename != "User" {
@@ -203,7 +257,6 @@ Pages:
 				contributionCount := int(contributionsCollection["contributionCalendar"].(map[string]interface{})["totalContributions"].(float64))
 				privateContributionCount := int(contributionsCollection["restrictedContributionsCount"].(float64))
 				commitsCount := int(contributionsCollection["totalCommitContributions"].(float64))
-				pullRequestsCount := int(contributionsCollection["totalPullRequestContributions"].(float64))
 
 				user := User{
 					Login:                    login,
@@ -215,15 +268,13 @@ Pages:
 					ContributionCount:        contributionCount,
 					PublicContributionCount:  (contributionCount - privateContributionCount),
 					PrivateContributionCount: privateContributionCount,
-					CommitsCount:             commitsCount,
-					PullRequestsCount:        pullRequestsCount}
+					CommitsCount:             commitsCount}
 
 				if !userLogins[login] {
 					userLogins[login] = true
 					users = append(users, user)
 				}
 
-				previousCursor = edgeNode["cursor"].(string)
 				minFollowerCount = int(followerCount)
 			}
 		}
@@ -286,7 +337,6 @@ type User struct {
 	PublicContributionCount  int
 	PrivateContributionCount int
 	CommitsCount             int
-	PullRequestsCount        int
 }
 
 type UserSearchQuery struct {
