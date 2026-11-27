@@ -1,7 +1,11 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '45 * * * *'
+    - cron: '5,35 * * * *'
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
 
 name: daily update
 jobs:
