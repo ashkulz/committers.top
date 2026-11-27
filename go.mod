@@ -1,4 +1,3 @@
 module most-active-github-users-counter
 
-go 1.17
-
+go 1.27
