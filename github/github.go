@@ -173,7 +173,11 @@ Pages:
 		perPage := defaultPerPage
 		pageFailures := 0
 		for consumed := 0; consumed < maxPerQuery; {
-			edgeNodes, userCount, err := client.searchPage(q, perPage, previousCursor, userFields)
+			first := perPage
+			if remaining := maxPerQuery - consumed; first > remaining {
+				first = remaining
+			}
+			edgeNodes, userCount, err := client.searchPage(q, first, previousCursor, userFields)
 			if err != nil {
 				retryCount++
 				if retryCount >= maxRetryCount {

@@ -66,8 +66,8 @@ func (f *fakeSearch) respond(q string) []byte {
 			matching = append(matching, i)
 		}
 	}
-	if len(matching) > maxPerQuery {
-		matching = matching[:maxPerQuery]
+	if offset+first > maxPerQuery {
+		matching = matching[:0] // GitHub returns nothing for a page that ends past result 1000
 	}
 
 	edges := []interface{}{}
@@ -164,6 +164,15 @@ func TestSearchUsersSkipsAcrossTheResultCap(t *testing.T) {
 	f := newFake(1100)
 	f.poison = "user1003"
 	assertLogins(t, search(t, f, 1100), expected(1100, "user1003"))
+}
+
+// A skip before result 1000 must not lose the last users before the cap.
+func TestSearchUsersSkipsBeforeTheResultCap(t *testing.T) {
+	for _, maxUsers := range []int{1000, 1100} {
+		f := newFake(1100)
+		f.poison = "user10"
+		assertLogins(t, search(t, f, maxUsers), expected(maxUsers, "user10"))
+	}
 }
 
 // Errors spread across a long search no longer add up to "Too many errors";
