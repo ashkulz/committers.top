@@ -97,3 +97,188 @@ ul.mode-selector {
 footer {
   width: 275px;
 }
+
+// Theme-aware color variables. Light values mirror the upstream
+// jekyll-theme-minimal palette exactly so light rendering is unchanged,
+// and dark mode is layered on top without modifying the theme gem, so
+// switching themes later only requires updating the light values.
+
+:root {
+  color-scheme: light;
+  --color-bg: #fff;
+  --color-text: #727272;
+  --color-heading: #222;
+  --color-heading-2: #393939;
+  --color-heading-3: #494949;
+  --color-strong: #222;
+  --color-link: #267CB9;
+  --color-link-hover: #069;
+  --color-link-muted: #777;
+  --color-border: #e5e5e5;
+  --color-code: #333;
+  --color-pre-bg: #f8f8f8;
+  --color-th: #444;
+  --color-surface: #eee;
+  --color-row-highlight: #f8f8f8;
+}
+
+@mixin dark-theme {
+  color-scheme: dark;
+  --color-bg: #0d1117;
+  --color-text: #8b949e;
+  --color-heading: #e6edf3;
+  --color-heading-2: #e6edf3;
+  --color-heading-3: #c9d1d9;
+  --color-strong: #e6edf3;
+  --color-link: #4493f8;
+  --color-link-hover: #58a6ff;
+  --color-link-muted: #8b949e;
+  --color-border: #30363d;
+  --color-code: #e6edf3;
+  --color-pre-bg: #161b22;
+  --color-th: #c9d1d9;
+  --color-surface: #21262d;
+  --color-row-highlight: #161b22;
+
+  // the shields.io social badge has dark text on a transparent
+  // background, which becomes illegible on the dark background
+  header p.view img {
+    filter: invert(1);
+  }
+}
+
+html[data-theme="dark"] {
+  @include dark-theme;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) {
+    @include dark-theme;
+  }
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-heading);
+}
+
+h2 {
+  color: var(--color-heading-2);
+}
+
+h3, h4, h5, h6 {
+  color: var(--color-heading-3);
+}
+
+strong, dt {
+  color: var(--color-strong);
+}
+
+a {
+  color: var(--color-link);
+}
+
+a:hover, a:focus {
+  color: var(--color-link-hover);
+}
+
+a small {
+  color: var(--color-link-muted);
+}
+
+blockquote {
+  border-left: 1px solid var(--color-border);
+}
+
+code, pre {
+  color: var(--color-code);
+}
+
+pre {
+  background: var(--color-pre-bg);
+  border: 1px solid var(--color-border);
+}
+
+th, td {
+  border-bottom: 1px solid var(--color-border);
+}
+
+th {
+  color: var(--color-th);
+}
+
+hr {
+  background: var(--color-border);
+}
+
+ul.country-list {
+  > li {
+    border: 1px solid var(--color-border);
+  }
+}
+
+ul.mode-selector {
+  li.active {
+    background-color: var(--color-surface);
+  }
+}
+
+.users-list tr.user-highlight {
+  font-weight: bold;
+  background-color: var(--color-row-highlight);
+}
+
+// the toggle sits inline with the stars badge so it doesn't occupy
+// its own row in the header
+header p.view {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.theme-toggle {
+  width: 40px;
+  height: 40px;
+  padding: 6px;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: 50%;
+  color: var(--color-text);
+  cursor: pointer;
+
+  &:hover, &:focus {
+    color: var(--color-link);
+    border-color: var(--color-link);
+  }
+
+  svg {
+    display: none;
+  }
+}
+
+// comfortable tap target on touch devices
+@media (pointer: coarse) {
+  .theme-toggle {
+    width: 44px;
+    height: 44px;
+  }
+}
+
+// the moon shows when the site renders light, the sun when it renders dark
+html:not([data-theme="dark"]) .theme-toggle .icon-moon { display: block; }
+html[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .theme-toggle {
+    .icon-sun { display: block; }
+    .icon-moon { display: none; }
+  }
+}
