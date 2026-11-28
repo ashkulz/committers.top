@@ -232,11 +232,19 @@ ul.mode-selector {
   background-color: var(--color-row-highlight);
 }
 
+// the toggle sits inline with the stars badge so it doesn't occupy
+// its own row in the header
+header p.view {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
 .theme-toggle {
-  margin-top: 10px;
-  width: 34px;
-  height: 34px;
+  width: 40px;
+  height: 40px;
   padding: 6px;
+  flex-shrink: 0;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -253,6 +261,14 @@ ul.mode-selector {
 
   svg {
     display: none;
+  }
+}
+
+// comfortable tap target on touch devices
+@media (pointer: coarse) {
+  .theme-toggle {
+    width: 44px;
+    height: 44px;
   }
 }
 
